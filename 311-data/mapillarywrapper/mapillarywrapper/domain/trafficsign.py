@@ -1,14 +1,14 @@
 class TrafficSign():
 
-    def __init__(self, accuracy: float, altitude: float, direction: float, 
-                 first_seen_at: str, last_seen_at: str, key: str, layer: str, 
+    def __init__(self, accuracy: float, altitude: float, direction: float,
+                 first_seen_at: str, last_seen_at: str, key: str, layer: str,
                  value: str, coordinates: list, geometry_type: str) -> None:
         self.accuracy = accuracy
         self.altitude = altitude
         self.direction = direction
         self.first_seen_at = first_seen_at
         self.last_seen_at = last_seen_at
-        self.key = key 
+        self.key = key
         self.layer = layer
         self.value = value
         self.coordinates = coordinates
@@ -16,6 +16,7 @@ class TrafficSign():
 
     @classmethod
     def from_dict(cls, adict: dict) -> None:
+        """ returns an model object from a dictionary."""
         return cls(
                 accuracy=adict['accuracy'],
                 altitude=adict['altitude'],
@@ -28,9 +29,9 @@ class TrafficSign():
                 coordinates=adict['coordinates'],
                 geometry_type=adict['geometry_type']
                 )
-        
 
     def to_dict(self) -> dict:
+        """ returns a dictionary of the model TrafficSign"""
         return {
                 'accuracy': self.accuracy,
                 'altitude': self.altitude,
@@ -42,4 +43,4 @@ class TrafficSign():
                 'value': self.value,
                 'coordinates': self.coordinates,
                 'geometry_type': self.geometry_type
-                } 
+                }
