@@ -1,0 +1,16 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+    -   id: end-of-file-fixer
+        description: Ensures file ends in a newline
+    -   id: trailing-whitespace
+        description: Trims extra whitespaces at end of line, except if file is markdown
+        args: [--markdown-linebreak-ext=md]
+    -   id: check-ast
+        description: Checks if valid Python
+    -   id: detect-private-key
+        description: Checks for private keys
+    -   id: check-added-large-files
+        description: Looks at file size, max set to 250kb
+        args: [--maxkb=250]
