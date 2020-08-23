@@ -21,14 +21,14 @@ class MapClient():
         bbox = (','.join([repr(point) for point in bbox_list]))
         if value:
             params = f'?layers=trafficsigns&bbox={bbox}&value={value}&per_page={perpage}&' \
-                    f'client_id={self.CLIENT_ID}'
+                    f'client_id={self.CLIENT_ID}&sort_by=key'
         else:
             params = f'?layers=trafficsigns&bbox={bbox}&per_page={perpage}&' \
-                    f'client_id={self.CLIENT_ID}'
+                    f'client_id={self.CLIENT_ID}&sort_by=key'
         complete_url = self.BASE_DOMAIN + params
         response = requests.get(complete_url)
+        response.links['next']
         if response.status_code != 200:
-            print(complete_url)
             return error_response(response)
         json_dict = response.json()
         transform_json = usecase.Properties()
