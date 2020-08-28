@@ -33,5 +33,5 @@ Meetup | Location | Description |
 | [NeurIPS](https://nips.cc/) | 2020/12/06 | | Conference on Neural Information Processing Systems 
 | [JupyterCon](https://jupytercon.com/) | 2020/10/05 |  | JupyterCon brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, and practical talks exploring the Project Jupyter platform. 
 | [PyData](https://pydata.org/event-schedule/) | Various | | A community for developers and users of open source data tools 
-| [PyData Global](https://global.pydata.org/) | 2020/11/11 | | 
+| [PyData Global](https://global.pydata.org/) | 2020/11/11 | Online for the first time, the world's premier data science conference: \#PYDATAGLOBAL2020. | 
 | [ISMB](https://www.iscb.org/ismb2020) | 2020/10/31 |  | Leading professional society for computational biology and bioinformatics 
