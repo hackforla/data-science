@@ -28,7 +28,7 @@ Meetup | Location | Description |
 ## Data Science Conferences
 
 | Conference | Date | Details |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [PyMCon](https://pymc-devs.github.io/pymcon/) | 2020/11/01 | An asynchronous-first virtual conference for the Bayesian community 
 | [NeurIPS](https://nips.cc/) | 2020/12/06 | Conference on Neural Information Processing Systems 
 | [JupyterCon](https://jupytercon.com/) | 2020/10/05 | JupyterCon brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, and practical talks exploring the Project Jupyter platform. 
