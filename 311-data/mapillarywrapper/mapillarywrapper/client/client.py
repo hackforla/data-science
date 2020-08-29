@@ -19,7 +19,7 @@ class MapClient():
                     perpage: int = 1, value=None):
         bbox_list = [*lowerbbox[::-1], *upperbbox[::-1]]
         bbox = (','.join([repr(point) for point in bbox_list]))
-        if value:
+        if value is not None:
             params = f'?layers=trafficsigns&bbox={bbox}&value={value}&per_page={perpage}&' \
                     f'client_id={self.CLIENT_ID}&sort_by=key'
         else:
