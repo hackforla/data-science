@@ -2,8 +2,8 @@
 
 ## Tech Talks
 
-Date   | Time | Event  | Link   
---- | --- | --- | --- 
+Date   | Time | Event  | Link  
+--- | --- | --- | ---
 2020/10/09 | 4PM PST | YC ⚡ Tech Talk & Happy Hour: SaaS & Dev Tools | [Link](https://www.workatastartup.com/techtalk)
 
 ## Meetup Groups
@@ -29,9 +29,10 @@ Meetup | Location | Description |
 
 | Conference | Date | Details |
 | --- | --- | --- |
-| [PyMCon](https://pymc-devs.github.io/pymcon/) | 2020/11/01 | An asynchronous-first virtual conference for the Bayesian community 
-| [NeurIPS](https://nips.cc/) | 2020/12/06 | Conference on Neural Information Processing Systems 
-| [JupyterCon](https://jupytercon.com/) | 2020/10/05 | JupyterCon brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, and practical talks exploring the Project Jupyter platform. 
-| [PyData](https://pydata.org/event-schedule/) | Various | A community for developers and users of open source data tools 
-| [PyData Global](https://global.pydata.org/) | 2020/11/11 | Online for the first time, the world's premier data science conference: \#PYDATAGLOBAL2020. | 
-| [ISMB](https://www.iscb.org/ismb2020) | 2020/10/31 | Leading professional society for computational biology and bioinformatics 
+| [DataConLA](https://www.dataconla.com/) | 2020/10/23-25 | Data Con LA is the largest, of its kind, data conference in Southern California. |
+| [PyMCon](https://pymc-devs.github.io/pymcon/) | 2020/11/01 | An asynchronous-first virtual conference for the Bayesian community
+| [NeurIPS](https://nips.cc/) | 2020/12/06 | Conference on Neural Information Processing Systems
+| [JupyterCon](https://jupytercon.com/) | 2020/10/05 | JupyterCon brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, and practical talks exploring the Project Jupyter platform.
+| [PyData](https://pydata.org/event-schedule/) | Various | A community for developers and users of open source data tools
+| [PyData Global](https://global.pydata.org/) | 2020/11/11 | Online for the first time, the world's premier data science conference: \#PYDATAGLOBAL2020. |
+| [ISMB](https://www.iscb.org/ismb2020) | 2020/10/31 | Leading professional society for computational biology and bioinformatics
