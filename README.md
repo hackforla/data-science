@@ -29,9 +29,6 @@ The Hack For LA Data Science team is a group within the LA brigade seeking to ma
 Roles: Data Scientist; Analyst; Data Engineer; Machine Learning Engineer; Data Visualization Specialist
 
 
-### Links
-- github.com/hackforla/data-science
-
 ### Languages
 - Python
 - JavaScript
