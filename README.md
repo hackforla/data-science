@@ -6,7 +6,7 @@ Welcome to the Data Science Community of Practice. We are happy you are here!
 
 If you have not read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), please do so.  
 
-1. Join the [data-science](https://hackforla.slack.com/archives/C050L8Z5K) Slack channel and introduce yourself.
+1. Join the [data-science](https://hackforla.slack.com/archives/CGRATJCCF) Slack channel and introduce yourself.
 1. Slack one of our Data Science Community of Practice leads [Ryan](https://hackforla.slack.com/team/UPB2FHJCX) or [Sophia](https://hackforla.slack.com/team/UN7V7L934) with your Gmail address.
 1. Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/17VuPq--bK2RvBiAG87C0Vo1oM7nluuS7).
 1. Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1QJltNh1gOybfebe-RkT-xS7m4OtxbuFfaJ4OujeA4h0/edit) and inform Ryan or Sophia after you have done so.
