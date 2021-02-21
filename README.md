@@ -35,9 +35,3 @@ Roles: Data Scientist; Analyst; Data Engineer; Machine Learning Engineer; Data V
 - R
 - SQL
 - Shell/BASH
-
-### Technologies
-- Various
-
-### Meetings
-8:00 PM-9:00 PM Thursdays
