@@ -30,11 +30,15 @@ class MapClient:
                 f"client_id={self.CLIENT_ID}&sort_by=key"
             )
         complete_url = self.BASE_DOMAIN + params
+        print("Requesting data from Mapillary API")
+        print(complete_url)
         response = requests.get(complete_url)
         if response.status_code != 200:
             return error_response(response)
         url_links = [response.links["first"]["url"]]
         current_link = response.links
+        print("Pages found (with up to {} results per page):\n-".format(perpage), end="\r")
+        i=0
         while "next" in current_link:
             next_url = current_link["next"]["url"]
             url_links.append(next_url)
@@ -42,10 +46,16 @@ class MapClient:
             if new_response.status_code != 200:
                 return error_response(response)
             current_link = new_response.links
+            i +=1
+            print(i, end="\r")
+        print(i + 1)
         transform_list = []
         temp_transform = usecase.Properties()
+        print("Pages of results loaded:\n-", end="\r")
         for i, v in enumerate(url_links):
             temp_response = requests.get(v)
             temp_json = temp_response.json()
             transform_list += temp_transform.transform_json_(temp_json)
+            print(i, end="\r")
+        print(i + 1)
         return transform_list
