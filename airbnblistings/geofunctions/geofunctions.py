@@ -3,7 +3,7 @@ from typing import Tuple
 
 
 def offset(lat: float, lon: float, offset: int) -> Tuple[float, float]:
-    """ Offsets both lat and long by the same distance """
+    """ Offsets both lat and long by the same distance in feet """
     original_lat = lat
     original_long = lon
     earth_radius_feet = 20925721.784777
