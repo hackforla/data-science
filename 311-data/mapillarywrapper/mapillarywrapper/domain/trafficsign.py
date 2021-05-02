@@ -9,6 +9,7 @@ class TrafficSign:
         key: str,
         layer: str,
         value: str,
+        image_keys: str,
         coordinates: list,
         geometry_type: str,
     ) -> None:
@@ -20,6 +21,7 @@ class TrafficSign:
         self.key = key
         self.layer = layer
         self.value = value
+        self.image_keys = image_keys
         self.coordinates = coordinates
         self.geometry_type = geometry_type
 
@@ -35,6 +37,7 @@ class TrafficSign:
             key=adict["key"],
             layer=adict["layer"],
             value=adict["value"],
+            image_keys=adict["image_keys"],
             coordinates=adict["coordinates"],
             geometry_type=adict["geometry_type"],
         )
@@ -50,6 +53,7 @@ class TrafficSign:
             "key": self.key,
             "layer": self.layer,
             "value": self.value,
+            "image_keys": self.image_keys,
             "coordinates": self.coordinates,
             "geometry_type": self.geometry_type,
         }

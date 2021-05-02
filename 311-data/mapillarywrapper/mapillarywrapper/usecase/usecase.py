@@ -18,6 +18,7 @@ class Properties:
                 key = sub_json_[collection]["properties"]["key"]
                 layer = sub_json_[collection]["properties"]["layer"]
                 value = sub_json_[collection]["properties"]["value"]
+                image_keys = [detection["image_key"] for detection in sub_json_[collection]["properties"]["detections"]]
                 coordinates = sub_json_[collection]["geometry"]["coordinates"]
                 geometry_type = sub_json_[collection]["geometry"]["type"]
                 traffic_sign = ts.TrafficSign(
@@ -29,6 +30,7 @@ class Properties:
                     key,
                     layer,
                     value,
+                    image_keys,
                     coordinates,
                     geometry_type,
                 )
