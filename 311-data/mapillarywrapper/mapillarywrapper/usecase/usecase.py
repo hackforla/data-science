@@ -19,7 +19,8 @@ class Properties:
                 layer = sub_json_[collection]["properties"]["layer"]
                 value = sub_json_[collection]["properties"]["value"]
                 image_keys = [detection["image_key"] for detection in sub_json_[collection]["properties"]["detections"]]
-                coordinates = sub_json_[collection]["geometry"]["coordinates"]
+                latitude = sub_json_[collection]["geometry"]["coordinates"][1]
+                longitude = sub_json_[collection]["geometry"]["coordinates"][0]
                 geometry_type = sub_json_[collection]["geometry"]["type"]
                 traffic_sign = ts.TrafficSign(
                     accuracy,
@@ -31,7 +32,8 @@ class Properties:
                     layer,
                     value,
                     image_keys,
-                    coordinates,
+                    latitude,
+                    longitude,
                     geometry_type,
                 )
                 new_json_list.append(traffic_sign.to_dict())

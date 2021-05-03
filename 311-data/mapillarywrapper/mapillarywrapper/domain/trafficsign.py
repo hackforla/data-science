@@ -10,7 +10,8 @@ class TrafficSign:
         layer: str,
         value: str,
         image_keys: str,
-        coordinates: list,
+        latitude: float,
+        longitude: float,
         geometry_type: str,
     ) -> None:
         self.accuracy = accuracy
@@ -22,7 +23,8 @@ class TrafficSign:
         self.layer = layer
         self.value = value
         self.image_keys = image_keys
-        self.coordinates = coordinates
+        self.latitude = latitude
+        self.longitude = longitude
         self.geometry_type = geometry_type
 
     @classmethod
@@ -38,7 +40,8 @@ class TrafficSign:
             layer=adict["layer"],
             value=adict["value"],
             image_keys=adict["image_keys"],
-            coordinates=adict["coordinates"],
+            latitude=adict["latitude"],
+            longitude=adict["longitude"],
             geometry_type=adict["geometry_type"],
         )
 
@@ -54,6 +57,7 @@ class TrafficSign:
             "layer": self.layer,
             "value": self.value,
             "image_keys": self.image_keys,
-            "coordinates": self.coordinates,
+            "latitude": self.latitude,
+            "longitude": self.longitude,
             "geometry_type": self.geometry_type,
         }
