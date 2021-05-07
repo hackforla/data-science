@@ -15,7 +15,7 @@ ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_15900202
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1593235467607/work
 ipython-genutils==0.2.0
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1592619931925/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1591810480056/work
 jsonschema==3.2.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1593562235049/work
