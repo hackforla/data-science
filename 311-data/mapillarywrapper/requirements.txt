@@ -57,7 +57,7 @@ terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.4
 traitlets==4.3.3
-urllib3==1.24.3
+urllib3==1.26.5
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1592931742287/work
 webencodings==0.5.1
 wells==1.4.1
