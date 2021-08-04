@@ -4,10 +4,15 @@ Purpose: To transform Assessor data to be Build Table Compatible.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
+from typing import Literal
+
 import pandas as pd
 
+# ignore warning for Build Number column - False Negative
+pd.options.mode.chained_assignment = None
 
-def builds(assessor_dataframe: pd.DataFrame, build_number: int) -> pd.DataFrame:
+
+def builds(assessor_dataframe: pd.DataFrame, build_number: Literal[1, 2, 3, 4, 5]) -> pd.DataFrame:
     """
     Transforms the assessor dataframe into a build dataframe.
 
@@ -36,10 +41,10 @@ def builds(assessor_dataframe: pd.DataFrame, build_number: int) -> pd.DataFrame:
 
 def main():
     """
-    TODO: write code that allows you to pass an excel file and 
+    TODO: write code that allows you to pass an excel file and
     returns transformed csv files saved as 10 chunk files.
-    """
 
+    """
     pass
 
 
