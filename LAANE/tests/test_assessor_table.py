@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from pandas.testing import assert_series_equal
 
-from assessor_table import (
+from transformations.assessor_table import (
     address1,
     city,
     owner_names,

@@ -52,3 +52,20 @@ states_abbreviated = [
         'WI',
         'WY',
     ]
+
+street_ending = {
+        "AVE": "AVENUE",
+        "BLVD": "BOULEVARD",
+        "CIR": "CIRCLE",
+        "CT": "COURT",
+        "DR": "DRIVE",
+        "HWY": "HIGHWAY",
+        "LN": "LANE",
+        "PL": "PLACE",
+        "ST": "STREET",
+        "RD": "ROAD",
+        "TERR": "TERRACE",
+        "TER": "TERRACE",
+        "TRL": "TRAIL",
+        "WY": "WAY",
+    }

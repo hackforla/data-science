@@ -4,8 +4,8 @@ import numpy as np
 import pandas as pd
 from pandas.testing import assert_series_equal
 
-from keywords import states_abbreviated
-from mailing_table import state
+from transformations.keywords import states_abbreviated
+from transformations.mailing_table import state
 
 
 def test_state():

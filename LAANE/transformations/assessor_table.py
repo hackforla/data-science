@@ -9,51 +9,53 @@ import numpy as np
 import pandas as pd
 
 # TODO: refactor to match WEMAKE STYLEGUIDE
-def owner_names(data_frame: pd.DataFrame) -> pd.Series:
+
+
+def owner_names(assessor_dataframe: pd.DataFrame) -> pd.Series:
     """
-    Transformations for the Owner Names column from a raw assesor dataframe. 
+    Transformations for the Owner Names column from a raw assesor dataframe.
 
     :param dataframe: a raw assessor dataframe.
     """
-    first_owner_name_overflow = "First Owner Name Overflow"
+    first_owner_name_overflow = 'First Owner Name Overflow'
 
-    data_frame["First Owner Name Clean"] = (
-        data_frame["First Owner Name"]
+    assessor_dataframe['First Owner Name Clean'] = (
+        assessor_dataframe['First Owner Name']
         .str.strip()
-        .str.replace(",", " ")
-        .str.replace(" AND ", " ")
-        .str.replace(" AND", " ")
-        .str.replace(" TRS", "")
-        .str.replace(" TR", "")
+        .str.replace(',', ' ')
+        .str.replace(' AND ', ' ')
+        .str.replace(' AND', ' ')
+        .str.replace(' TRS', '')
+        .str.replace(' TR', '')
     )
-    data_frame["First Owner Name Continued"] = np.where(
-        data_frame[first_owner_name_overflow].str.contains(" TRUST") == False,
-        data_frame[first_owner_name_overflow]
+    assessor_dataframe['First Owner Name Continued'] = np.where(
+        assessor_dataframe[first_owner_name_overflow].str.contains(' TRUST') == False,
+        assessor_dataframe[first_owner_name_overflow]
         .str.strip()
-        .str.replace(",", " ")
-        .str.replace(" AND ", " ")
-        .str.replace(" AND", " ")
-        .str.replace(" TRS", "")
-        .str.replace(" TR", ""),
-        "",
+        .str.replace(',', ' ')
+        .str.replace(' AND ', ' ')
+        .str.replace(' AND', ' ')
+        .str.replace(' TRS', '')
+        .str.replace(' TR', ''),
+        '',
     )
-    data_frame["Second Owner Name Clean"] = (
-        data_frame["Second Owner Name"].str.strip().str.replace(",", " ")
+    assessor_dataframe['Second Owner Name Clean'] = (
+        assessor_dataframe['Second Owner Name'].str.strip().str.replace(',', ' ')
     )
-    data_frame["Owner Names"] = (
-        data_frame["First Owner Name Clean"]
-        .str.cat(data_frame["First Owner Name Continued"], sep=" ", na_rep="")
-        .str.cat(data_frame["Second Owner Name Clean"], sep=" ", na_rep="")
-        .str.replace(r"\s+", " ", regex=True)
+    assessor_dataframe['Owner Names'] = (
+        assessor_dataframe['First Owner Name Clean']
+        .str.cat(assessor_dataframe['First Owner Name Continued'], sep=' ', na_rep='')
+        .str.cat(assessor_dataframe['Second Owner Name Clean'], sep=' ', na_rep='')
+        .str.replace(r'\s+', ' ', regex=True)
         .str.strip()
     )
 
-    return data_frame["Owner Names"]
+    return assessor_dataframe['Owner Names']
 
 
 def trust_name(assessor_dataframe: pd.DataFrame) -> pd.Series:
     """
-    Transformation for the trust column. 
+    Transformation for the trust column.
 
     :param assessor_dataframe: a raw assessor_dataframe.
     """

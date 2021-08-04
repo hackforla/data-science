@@ -3,7 +3,7 @@
 import pandas as pd
 from pandas.testing import assert_frame_equal
 
-from builds_table import builds
+from transformations.builds_table import builds
 
 
 def test_build():
