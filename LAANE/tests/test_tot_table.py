@@ -4,10 +4,10 @@ import numpy as np
 import pandas as pd
 from pandas.testing import assert_frame_equal
 
-from transformations.tot_table import address, normalize_address_custom
+from transformations.tot_table import normalize_address_wrapper
 
 
-def test_normalize_address_custom():
+def test_normalize_address_wrapper():
     """Test normalize address custom"""
     address_with_address2 = '8405 PERSHING DRIVE UNIT 500'
     expected_dict = {
@@ -17,7 +17,7 @@ def test_normalize_address_custom():
         'state': None,
         'postal_code': None,
     }
-    assert normalize_address_custom(address_with_address2) == expected_dict
+    assert normalize_address_wrapper(address_with_address2) == expected_dict
 
     address_without_address2 = '1 LMU DRIVE'
     expected_dict = {
@@ -27,7 +27,7 @@ def test_normalize_address_custom():
         'state': None,
         'postal_code': None,
     }
-    assert normalize_address_custom(address_without_address2) == expected_dict
+    assert normalize_address_wrapper(address_without_address2) == expected_dict
 
     address_with_none = None
     expected_dict = {
@@ -37,7 +37,7 @@ def test_normalize_address_custom():
         'state': None,
         'postal_code': None,
     }
-    assert normalize_address_custom(address_with_none) == expected_dict
+    assert normalize_address_wrapper(address_with_none) == expected_dict
 
     address_with_error = '1 WORLD TRADE CENTER FLOOR 24'
     expected_dict = {
@@ -48,7 +48,7 @@ def test_normalize_address_custom():
         'postal_code': None,
     }
 
-    assert normalize_address_custom(address_with_error) == expected_dict
+    assert normalize_address_wrapper(address_with_error) == expected_dict
 
 
 #def test_address():
