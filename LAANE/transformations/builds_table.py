@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Purpose: To transform Assessor data to be Build Table Compatible.
 
@@ -12,7 +11,10 @@ import pandas as pd
 pd.options.mode.chained_assignment = None
 
 
-def builds(assessor_dataframe: pd.DataFrame, build_number: Literal[1, 2, 3, 4, 5]) -> pd.DataFrame:
+def builds(
+    assessor_dataframe: pd.DataFrame,
+    build_number: Literal[1, 2, 3, 4, 5],
+) -> pd.DataFrame:
     """
     Transforms the assessor dataframe into a build dataframe.
 
@@ -37,16 +39,3 @@ def builds(assessor_dataframe: pd.DataFrame, build_number: Literal[1, 2, 3, 4, 5
 
     build_dataframe['Build Number'] = build_number
     return build_dataframe
-
-
-def main():
-    """
-    TODO: write code that allows you to pass an excel file and
-    returns transformed csv files saved as 10 chunk files.
-
-    """
-    pass
-
-
-if __name__ == '__main__':
-    main()
