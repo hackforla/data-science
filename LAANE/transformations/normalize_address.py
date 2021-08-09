@@ -1,5 +1,5 @@
 """
-Purpose: To transform crosscheck data to be Exempt Table compatible.
+Purpose: This is for address normalization across all dataset.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
@@ -9,9 +9,9 @@ from scourgify import normalize_address_record
 
 def normalize_address_wrapper(address: str) -> dict:
     """
-    A wrapper for normalize_address_record function that handles errors.
+    A wrapper that handles errors for normalize_address_record function.
 
-    :para address: an address to break into address1 and address2
+    :param address: an address to break into multiple address fields. 
     """
     # TODO Would like to have type hint return typeddict
     return safe(normalize_address_record)(address).value_or({
