@@ -1,80 +1,106 @@
+# TODO: make the files executable
 """
-Purpose: Transform assesor data to make Assessor table compatible.
+Purpose: To transform and normalize Assessor data into simpler CSV files.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
+import re
+from typing import List
 
-import numpy as np
 import pandas as pd
 
-# TODO: refactor to match WEMAKE STYLEGUIDE
 
-
-def owner_names(assessor_dataframe: pd.DataFrame) -> pd.Series:
+def owner_names(assessor_dataframe: pd.DataFrame) -> List[str]:
     """
     Transformations for the Owner Names column from a raw assesor dataframe.
 
     :param dataframe: a raw assessor dataframe.
     """
-    first_owner_name_overflow = 'First Owner Name Overflow'
+    first_owner_names = [
+        first_owner_name.
+        strip().replace(',', ' ').
+        replace(' AND ', ' ').
+        replace(' AND', ' ').
+        replace(' TRS', '').
+        replace(' TR', '')
+        for first_owner_name in
+        assessor_dataframe['First Owner Name'].tolist()
+    ]
 
-    assessor_dataframe['First Owner Name Clean'] = (
-        assessor_dataframe['First Owner Name']
-        .str.strip()
-        .str.replace(',', ' ')
-        .str.replace(' AND ', ' ')
-        .str.replace(' AND', ' ')
-        .str.replace(' TRS', '')
-        .str.replace(' TR', '')
-    )
-    assessor_dataframe['First Owner Name Continued'] = np.where(
-        assessor_dataframe[first_owner_name_overflow].str.contains(' TRUST') == False,
-        assessor_dataframe[first_owner_name_overflow]
-        .str.strip()
-        .str.replace(',', ' ')
-        .str.replace(' AND ', ' ')
-        .str.replace(' AND', ' ')
-        .str.replace(' TRS', '')
-        .str.replace(' TR', ''),
-        '',
-    )
-    assessor_dataframe['Second Owner Name Clean'] = (
-        assessor_dataframe['Second Owner Name'].str.strip().str.replace(',', ' ')
-    )
-    assessor_dataframe['Owner Names'] = (
-        assessor_dataframe['First Owner Name Clean']
-        .str.cat(assessor_dataframe['First Owner Name Continued'], sep=' ', na_rep='')
-        .str.cat(assessor_dataframe['Second Owner Name Clean'], sep=' ', na_rep='')
-        .str.replace(r'\s+', ' ', regex=True)
-        .str.strip()
-    )
+    first_owner_name_continued = [
+        first_owner_name_overflow.
+        strip().
+        replace(',', ' ').
+        replace(' AND ', ' ').
+        replace(' AND', ' ').
+        replace(' TRS', '').
+        replace(' TR', '')
+        if ' TRUST' not in first_owner_name_overflow
+        else ''
+        for first_owner_name_overflow in
+        assessor_dataframe['First Owner Name Overflow'].tolist()
+    ]
 
-    return assessor_dataframe['Owner Names']
+    second_owner_names = [
+        second_owner_name.
+        strip().
+        replace(',', ' ')
+        for second_owner_name in
+        assessor_dataframe['Second Owner Name']
+    ]
+
+    return [
+        re.sub(r'\s+', ' ', ' '.join(names).strip())
+        for names in
+        zip(first_owner_names, first_owner_name_continued, second_owner_names)
+    ]
 
 
-def trust_name(assessor_dataframe: pd.DataFrame) -> pd.Series:
+def trust_name(overflow_series: pd.Series) -> List[str]:
     """
     Transformation for the trust column.
 
-    :param assessor_dataframe: a raw assessor_dataframe.
+    :param overflow_series: a raw overflow name series.
     """
+    return [
+        name_overflow
+        if ' TRUST' in name_overflow
+        else ''
+        for name_overflow in overflow_series.tolist()
+    ]
 
-    assessor_dataframe["Trust Name"] = np.where(
-        assessor_dataframe["First Owner Name Overflow"].str.contains(" TRUST") == True,
-        assessor_dataframe["First Owner Name Overflow"],
-        "",
-    )
-    return assessor_dataframe["Trust Name"]
+
+def special_name_assessee(special_name_series: pd.Series) -> List[str]:
+    """
+    Transformations for the special name assessee column.
+
+    :param special_name_series: Raw 'Special Name Assessee' column.
+    """
+    return [
+        re.sub(
+            r'\s+',
+            ' ',
+            special_name.
+            replace('TR #', '').
+            replace('C/O', '').
+            replace('DBA', '').
+            strip(),
+        )
+        for special_name in special_name_series.tolist()
+    ]
 
 
-def special_name_assessee(df: pd.DataFrame) -> pd.Series:
-    """Special name assessee clean"""
-    df["Special Name Assessee Clean"] = (
-        df["Special Name Assessee"]
-        .str.replace("DBA", "")
-        .str.replace("C/O", "")
-        .str.replace("TR #", "")
-        .str.replace(r"\s+", " ", regex=True)
-        .str.strip()
-    )
-    return df["Special Name Assessee Clean"]
+def fractions(fraction_series: pd.Series) -> List[str]:
+    """
+    Transform the fraction column from timeseries to a fraction.
+
+    :param fraction_series: a series of data that should be fractions.
+    """
+    return [
+        '{0}/{1}'.format(str(fraction_value)[6], str(fraction_value)[9])
+        if len(str(fraction_value)) > 3
+        else ''
+        for fraction_value in fraction_series.tolist()
+    ]
+
+# TODO: write main function that returns csv files that are normalized
