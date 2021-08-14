@@ -1,4 +1,4 @@
-"""Tests for exempt_table."""
+"""Tests for addresses."""
 from transformations.normalize_address import normalize_address_wrapper
 
 
