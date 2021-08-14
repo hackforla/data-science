@@ -1,4 +1,4 @@
-"""Tests for addresses."""
+"""Tests for normalize_address."""
 from transformations.normalize_address import normalize_address_wrapper
 
 

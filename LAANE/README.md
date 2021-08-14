@@ -1,8 +1,6 @@
 ### Temp folder for LAANE project
 
 ## TODO:
-refactor assessor, it's pretty messy
-
 Process:
 Each file will contain custom code for that data source 
 if there is no transformation file for that data source it means that little to no 

@@ -1,4 +1,4 @@
-"""Tests for formatting dates."""
+"""Tests for format_date."""
 from transformations.format_date import format_date
 
 
