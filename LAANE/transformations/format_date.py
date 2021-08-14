@@ -1,5 +1,5 @@
 """
-Purpose: To transform and normalize date data for datebase.
+Purpose: To transform and normalize date data.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """

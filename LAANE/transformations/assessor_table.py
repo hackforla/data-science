@@ -1,5 +1,5 @@
 """
-Purpose: To transform and normalize Assessor data into simpler CSV files.
+Purpose: To transform and normalize Assessor data.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
