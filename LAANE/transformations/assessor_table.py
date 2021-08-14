@@ -1,4 +1,3 @@
-# TODO: make the files executable
 """
 Purpose: To transform and normalize Assessor data into simpler CSV files.
 
@@ -102,5 +101,3 @@ def fractions(fraction_series: pd.Series) -> List[str]:
         else ''
         for fraction_value in fraction_series.tolist()
     ]
-
-# TODO: write main function that returns csv files that are normalized

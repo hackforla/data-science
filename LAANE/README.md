@@ -3,6 +3,13 @@
 ## TODO:
 refactor assessor, it's pretty messy
 
+Process:
+Each file will contain custom code for that data source 
+if there is no transformation file for that data source it means that little to no 
+normalization is needed and it can be handled in the main program
+main program will open the files and process them and enter them into the sqlite db
+main will be the only executable file as of right now. 
+
 ## Notes on how to use normalize_address module
 ### Below are some notes for how to use normalize_address for the project since it's replacing a lot of custom code.
 * **tot** TOT_df[['Address1','Address2']]=[itemgetter('address_line_1','address_line_2')(normalize_address_wrapper(x)) for x in TOT_df['STREET_ADDRESS'].tolist()]
@@ -44,6 +51,7 @@ In some cases it can't figure it out but it'll save the entire address to addres
 ### break up large files:
 
 ```
+# read excel files usecol option
 # process files into 10 files
 
     for idx, chunk in enumerate(np.array_split(assesor_df, 10)):
