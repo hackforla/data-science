@@ -7,6 +7,7 @@ if there is no transformation file for that data source it means that little to 
 normalization is needed and it can be handled in the main program
 main program will open the files and process them and enter them into the sqlite db
 main will be the only executable file as of right now. 
+Main will also need to dedup data before processing to minimize any duplication in database
 
 ## Notes on how to use normalize_address module
 ### Below are some notes for how to use normalize_address for the project since it's replacing a lot of custom code.
