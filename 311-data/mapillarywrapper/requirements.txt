@@ -20,7 +20,7 @@ json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1591810480056/wo
 jsonschema==3.2.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1593562235049/work
 jupyter-core==4.6.3
-jupyterlab==2.1.5
+jupyterlab==2.2.10
 jupyterlab-server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1590229434073/work
 m3u8downloader==0.8.0
 MarkupSafe==1.1.1
