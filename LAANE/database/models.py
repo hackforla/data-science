@@ -4,6 +4,7 @@ Purpose: Models for SQL Alchemy.
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
 # TODO: write docstrings for classes
+from database.database import engine
 from sqlalchemy import (
     Boolean,
     Column,
@@ -36,7 +37,7 @@ class Address(Base):
             'address2',
             'city',
             'state',
-            'zip',
+            'zipcode',
         ),
     )
 
@@ -330,7 +331,7 @@ class Reviews(Base):
     __tablename__ = 'reviews'
 
     review_id = Column(Integer, primary_key=True)
-    airbnb_listing_id = Column(ForeignKey('airbnb_listing.airbnb_listing_id'))
+    airbnb_listing_id = Column(ForeignKey('airbnb_listings.airbnb_listing_id'))
     reviewer_id = Column(Integer)
     reviewer_name = Column(String)
     date = Column(String)
@@ -361,8 +362,8 @@ class Hosts(Base):
 class AirbnbListings(Base):
     __tablename__ = 'airbnb_listings'
 
-    airbnb_listing = Column(Integer, primary_key=True)
-    host_id = Column(ForeignKey('airbnb_listing.airbnb_listing_id'))
+    airbnb_listing_id = Column(Integer, primary_key=True)
+    host_id = Column(ForeignKey('hosts.host_id'))
     scrape_id = Column(Integer)
     name = Column(String)
     listing_url = Column(String)
@@ -383,3 +384,5 @@ class AirbnbListings(Base):
     number_of_reiews = Column(Integer)
     number_of_reiews_l30d = Column(Integer)
     number_of_reiews_ltm = Column(Integer)
+
+Base.metadata.create_all(bind=engine)
