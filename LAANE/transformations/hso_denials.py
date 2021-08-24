@@ -86,4 +86,4 @@ def process_hso_denials(filepath):
 
 
 if __name__ == '__main__':
-    process_hso_denials('/home/albertulysses/Downloads/LAANE/City of LA data/HSO Registrants over time.xlsx')
+    pass
