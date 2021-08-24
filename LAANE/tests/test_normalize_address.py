@@ -1,9 +1,11 @@
 """Tests for normalize_address."""
+import re
+
 from transformations.normalize_address import normalize_address_wrapper
 
 
 def test_normalize_address_wrapper():
-    """Test normalize address custom"""
+    """Test normalize address custom."""
     address_with_address2 = '8405 PERSHING DRIVE UNIT 500'
     expected_dict = {
         'address_line_1': '8405 PERSHING DR',
@@ -45,7 +47,7 @@ def test_normalize_address_wrapper():
 
     assert normalize_address_wrapper(address_with_error) == expected_dict
 
-    address_with_exempt = '08405 PERSHING DRIVE UNIT 500'
+    address_with_exempt = re.sub('^0+', '', '08405 PERSHING DRIVE UNIT 500')
     expected_dict = {
         'address_line_1': '8405 PERSHING DR',
         'address_line_2': 'UNIT 500',
@@ -53,4 +55,4 @@ def test_normalize_address_wrapper():
         'state': None,
         'postal_code': None,
     }
-    assert normalize_address_wrapper(address_with_address2) == expected_dict
+    assert normalize_address_wrapper(address_with_exempt) == expected_dict
