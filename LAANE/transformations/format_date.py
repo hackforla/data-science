@@ -9,7 +9,7 @@ def format_date(date: str) -> str:
     """
     Formats the date columns into a common stanard.
 
-    :para: date
+    :param date: a datetime or date.
     """
     # TODO: there is probably a nicer way to do this, with better coverage.
     if '/' in date:

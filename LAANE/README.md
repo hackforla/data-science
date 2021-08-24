@@ -1,13 +1,12 @@
 ### Temp folder for LAANE project
 
 ## TODO:
-Process:
-Each file will contain custom code for that data source 
-if there is no transformation file for that data source it means that little to no 
-normalization is needed and it can be handled in the main program
-main program will open the files and process them and enter them into the sqlite db
-main will be the only executable file as of right now. 
-Main will also need to dedup data before processing to minimize any duplication in database
+* write data dict
+* insert ERD into docs
+* Process:
+    - each file will have it's own custom file so that we can run it sperately, we can also do all of them on the main (?)
+   - Each file will contain custom code for that data source if there is no transformation file for that data source it means that little to no normalization is needed and it can be handled in the main program main program will open the files and process them and enter them into the sqlite db
+main will be the only executable file as of right now.Main will also need to dedup data before processing to minimize any duplication in database
 
 ## Notes on how to use normalize_address module
 ### Below are some notes for how to use normalize_address for the project since it's replacing a lot of custom code.
@@ -42,6 +41,8 @@ df['address full'] = (df['Situs House No'].astype(str)
                       .str.strip()
                      )
 df['address full']
+running the code:
+PYTHONPATH="$PWD/" python transformations/hso_denials.py
 ```
 
 ### Notes about the normalize module
