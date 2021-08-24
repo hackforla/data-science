@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Tests for builds_table."""
 import pandas as pd
 from pandas.testing import assert_frame_equal

@@ -11,7 +11,7 @@ def normalize_address_wrapper(address: str) -> dict:
     """
     A wrapper that handles errors for normalize_address_record function.
 
-    :param address: an address to break into multiple address fields. 
+    :param address: an address to break into multiple address fields.
     """
     # TODO Would like to have type hint return typeddict
     return safe(normalize_address_record)(address).value_or({

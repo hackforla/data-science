@@ -4,7 +4,6 @@ Purpose: Models for SQL Alchemy.
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
 # TODO: write docstrings for classes
-from database.database import engine
 from sqlalchemy import (
     Boolean,
     Column,
@@ -16,6 +15,8 @@ from sqlalchemy import (
 )
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import backref, relationship
+
+from database.database import engine
 
 Base = declarative_base()
 
@@ -281,6 +282,7 @@ class HSOPlatforms(Base):
         backref=backref('hso_platforms', order_by=hso_platforms_id),
     )
 
+
 class HSORegistrant(Base):
     __tablename__ = 'hso_registrant'
 
@@ -384,5 +386,6 @@ class AirbnbListings(Base):
     number_of_reiews = Column(Integer)
     number_of_reiews_l30d = Column(Integer)
     number_of_reiews_ltm = Column(Integer)
+
 
 Base.metadata.create_all(bind=engine)
