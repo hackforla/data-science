@@ -150,7 +150,6 @@ class Complaints(Base):
     registration_number = Column(String)
     complaint_type = Column(String)
     call_time = Column(String)
-    call_date = Column(String)
     caller_name = Column(String)
     reported_issue = Column(String)
 
