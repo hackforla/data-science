@@ -22,7 +22,6 @@ def format_property_unit(property_unit_numner: str) -> str:
     """
     # TODO: refactor this code, it's ugly.
     if property_unit_numner[-8:] == '00:00:00':
-        return '{0}/{1}'.format(
             property_unit_numner[6],
             property_unit_numner[9],
         )
@@ -91,18 +90,14 @@ def process_hso_denials(filepath, session):
     Transforms and Inserts HSO denial data into database.
 
     :param filepath: An excel file of hso denials data.
-    :param seesion: sqlalchemy session
+    :param session: A SQLAlchemy session object. 
     """
     hso_denials_clean = normalize_hso_denials(filepath)
 
-    # begin to iterateover rows
     for _, row in hso_denials_clean.iterrows():
-        # Check for address or enter.
-        # TODO: write a function to hide abstraction in the future.
         print('start')
         address_id = get_address_id(session, row)
 
-        # enter hso_denials
         hso_denials_entry = HSODenials(
             address_id=address_id,
             registrant_name=row['Registrant Name'],
@@ -112,11 +107,11 @@ def process_hso_denials(filepath, session):
         session.add(hso_denials_entry)
         session.commit()
         print('commited hso denial')
-    print('successful')
+    print('Finished')
 
 
 if __name__ == '__main__':
     process_hso_denials(
-        '/home/albertulysses/Downloads/LAANE/City of LA data/HSO Registrants over time.xlsx',
+        '',
         session=SessionLocal(),
     )

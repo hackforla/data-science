@@ -388,4 +388,4 @@ class AirbnbListings(Base):
     number_of_reiews_ltm = Column(Integer)
 
 
-Base.metadata.create_all(bind=engine)
+# Base.metadata.create_all(bind=engine)
