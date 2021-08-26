@@ -386,5 +386,5 @@ class AirbnbListings(Base):
     number_of_reiews_l30d = Column(Integer)
     number_of_reiews_ltm = Column(Integer)
 
-
+# unhash below to create the database.
 # Base.metadata.create_all(bind=engine)
