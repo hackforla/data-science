@@ -19,6 +19,7 @@ def normalize_luxly(filepath: str, filetype: str = 'excel') -> pd.DataFrame:
     Reads in the dataset and returns normalized dataframe.
 
     :param file: A file of luxly data.
+    :param filetype: whether the file is excel or csv-excel is the default.
     """
     usecols = [
         'Unique Permanent Primary Listing ID',
@@ -93,6 +94,7 @@ def process_luxly(filepath: str, session, filetype: str = 'excel'):
 
     :param filepath: An excel file of Categorically Ineligible data.
     :param session: A SQLAlchemy session object.
+    :param filetype: whether the file is excel or csv-excel is the default.
     """
     luxly_clean = normalize_luxly(filepath, filetype)
 
