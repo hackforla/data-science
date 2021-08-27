@@ -4,6 +4,8 @@ Purpose: To transform and insert one fine stay (ofs) datasets.
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
 from operator import itemgetter
+import os
+import glob
 
 import numpy as np
 import pandas as pd
@@ -107,7 +109,17 @@ def process_ofs(filepath: str, session):
 
 
 if __name__ == '__main__':
-    process_ofs(
-        '',
-        session=SessionLocal(),
-    )
+    filepath=''
+    all_files = []
+    for root, dirs, files in os.walk(filepath):
+        files = glob.glob(os.path.join(root,'*.csv'))
+        for f in files:
+            all_files.append(os.path.abspath(f))
+    num_files = len(all_files)
+
+    for i, datafile in enumerate(all_files, 1):
+        process_ofs(
+            datafile,
+            session=SessionLocal(),
+        )
+        print('{}/{} files processed.'.format(i, num_files))
