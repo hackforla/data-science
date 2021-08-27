@@ -1,5 +1,5 @@
 """Tests for HSO denials."""
-from transformations.hso_denials import format_property_unit
+from processingscripts.hso_denials import format_property_unit
 
 
 def test_format_property_unit():

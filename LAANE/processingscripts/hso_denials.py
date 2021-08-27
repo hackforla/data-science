@@ -22,6 +22,7 @@ def format_property_unit(property_unit_numner: str) -> str:
     """
     # TODO: refactor this code, it's ugly.
     if property_unit_numner[-8:] == '00:00:00':
+        return '{0}/{1}'.format(
             property_unit_numner[6],
             property_unit_numner[9],
         )
