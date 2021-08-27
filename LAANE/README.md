@@ -9,6 +9,9 @@
    - Each file will contain custom code for that data source if there is no transformation file for that data source it means that little to no normalization is needed and it can be handled in the main program main program will open the files and process them and enter them into the sqlite db
 main will be the only executable file as of right now.Main will also need to dedup data before processing to minimize any duplication in database
 
+## Misc scripting notes:
+    - one fine stay data doesn't work with pandas as excel files, first needs to convert to csv
+    
 ## Notes on how to use normalize_address module
 ### Below are some notes for how to use normalize_address for the project since it's replacing a lot of custom code.
 * **tot** TOT_df[['Address1','Address2']]=[itemgetter('address_line_1','address_line_2')(normalize_address_wrapper(x)) for x in TOT_df['STREET_ADDRESS'].tolist()]
