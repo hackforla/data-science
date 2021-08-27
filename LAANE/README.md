@@ -3,6 +3,7 @@
 ## TODO:
 * write data dict
 * insert ERD into docs
+* create a requirements file
 * Process:
     - each file will have it's own custom file so that we can run it sperately, we can also do all of them on the main (?)
    - Each file will contain custom code for that data source if there is no transformation file for that data source it means that little to no normalization is needed and it can be handled in the main program main program will open the files and process them and enter them into the sqlite db
