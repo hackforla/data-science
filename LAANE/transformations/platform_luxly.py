@@ -61,9 +61,17 @@ def normalize_luxly(filepath: str, filetype: str = 'excel') -> pd.DataFrame:
         )(normalize_address_wrapper(address))
         for address in luxly_dataframe["Listing's Street Address"].tolist()
     ]
-    luxly_dataframe['Address1'] = np.where(luxly_dataframe['House #'].fillna('') == '-', luxly_dataframe['Address1'].fillna(''), luxly_dataframe['House #'].fillna(''))
-    luxly_dataframe['Address2'] = np.where(luxly_dataframe['Apt / Suite / Unit #'].fillna('') == '-', luxly_dataframe['Address2'].fillna(''), luxly_dataframe['Apt / Suite / Unit #'].fillna(''))
-    luxly_clean = luxly_dataframe[
+    luxly_dataframe['Address1'] = np.where(
+        luxly_dataframe['House #'].fillna('') == '-',
+        luxly_dataframe['Address1'].fillna(''),
+        luxly_dataframe['House #'].fillna(''),
+    )
+    luxly_dataframe['Address2'] = np.where(
+        luxly_dataframe['Apt / Suite / Unit #'].fillna('') == '-',
+        luxly_dataframe['Address2'].fillna(''),
+        luxly_dataframe['Apt / Suite / Unit #'].fillna(''),
+    )
+    return luxly_dataframe[
         [
             'Address1',
             'Address2',
@@ -77,7 +85,6 @@ def normalize_luxly(filepath: str, filetype: str = 'excel') -> pd.DataFrame:
             'Registration # / Pending Registration Status # / Exemption Status Code',
         ]
     ]
-    return luxly_clean
 
 
 def process_luxly(filepath: str, session, filetype: str = 'excel'):
@@ -99,7 +106,7 @@ def process_luxly(filepath: str, session, filetype: str = 'excel'):
             listing_url=row['Listing URL'],
             host_id=row['Unique Host ID'],
             host_email=row['Host Email Address'],
-            registrant_number=row['Registration # / Pending Registration Status # / Exemption Status Code']
+            registrant_number=row['Registration # / Pending Registration Status # / Exemption Status Code'],
         )
         session.add(luxly_entry)
         session.commit()
@@ -108,7 +115,7 @@ def process_luxly(filepath: str, session, filetype: str = 'excel'):
 
 
 if __name__ == '__main__':
-   process_luxly(
+    process_luxly(
         filepath='',
         filetype='csv',
         session=SessionLocal(),
