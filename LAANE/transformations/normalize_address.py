@@ -14,10 +14,12 @@ def normalize_address_wrapper(address: str) -> dict:
     :param address: an address to break into multiple address fields.
     """
     # TODO Would like to have type hint return typeddict
-    return safe(normalize_address_record)(address).value_or({
-        'address_line_1': address,
-        'address_line_2': None,
-        'city': None,
-        'state': None,
-        'postal_code': None,
-    })
+    return safe(normalize_address_record)(address).value_or(
+        {
+            'address_line_1': address,
+            'address_line_2': None,
+            'city': None,
+            'state': None,
+            'postal_code': None,
+        }
+    )
