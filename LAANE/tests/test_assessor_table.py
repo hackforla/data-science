@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from pandas.testing import assert_series_equal
 
-from transformations.assessor_table import (
+from processingscripts.assessor import (
     fractions,
     owner_names,
     special_name_assessee,
