@@ -2,7 +2,7 @@
 import pandas as pd
 from pandas.testing import assert_frame_equal
 
-from transformations.builds_table import builds
+from processingscripts.builds import builds
 
 
 def test_build():
