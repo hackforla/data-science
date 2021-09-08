@@ -60,6 +60,15 @@ def normalize_complaints(filepath) -> pd.DataFrame:
             'Unit Permit/Registration Number',
         ]
     ]
+    complaints_clean.fillna('', inplace=True)
+    complaints_clean['Zipcode'] = [
+        0 if type(zip_) != int else int(zip_)
+        for zip_ in complaints_clean['Zipcode'].tolist()
+    ]
+    complaints_clean['State'] = [
+        '' if len(state) > 2 else state
+        for state in complaints_clean['State'].tolist()
+    ]
     complaints_clean.drop_duplicates(inplace=True)
     return complaints_clean
 

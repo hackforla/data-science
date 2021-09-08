@@ -68,6 +68,10 @@ def normalize_tot(filepath) -> pd.DataFrame:
         inplace=True,
     )
     tot_dataframe_clean.fillna('', inplace=True)
+    tot_dataframe_clean['Zipcode'] = [
+        0 if type(zip_) != int else int(zip_)
+        for zip_ in tot_dataframe_clean['Zipcode'].tolist()
+    ]
     tot_dataframe_clean.drop_duplicates(inplace=True)
     return tot_dataframe_clean
 
