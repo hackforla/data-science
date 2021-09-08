@@ -14,13 +14,13 @@ def normalize_address_wrapper(address: str) -> dict:
     :param address: an address to break into multiple address fields.
     """
     # TODO Would like to have type hint return a dataclass since it's mixed data
-    # default return should be empty strings and postal should be 00000.
+    # default returns None because that's how the library handles it.
     return safe(normalize_address_record)(address).value_or(
         {
             'address_line_1': address,
-            'address_line_2': '',
-            'city': '',
-            'state': '',
-            'postal_code': 00000,
-        }
+            'address_line_2': None,
+            'city': None,
+            'state': None,
+            'postal_code': None,
+        },
     )

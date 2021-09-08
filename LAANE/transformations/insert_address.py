@@ -24,13 +24,15 @@ def get_address_id(session, row) -> int:
             Address.zipcode == row['Zipcode'],
         ).one_or_none()
     )
+    # Need to wrap datatype.
+    # Data was not being insered in some case do to diferent datatypes.
     if address is None:
         address = Address(
-            address1=row['Address1'],
-            address2=row['Address2'],
-            city=row['City'],
-            state=row['State'],
-            zipcode=row['Zipcode'],
+            address1=str(row['Address1']),
+            address2=str(row['Address2']),
+            city=str(row['City']),
+            state=str(row['State']),
+            zipcode=int(row['Zipcode']),
         )
         session.add(address)
         session.commit()
