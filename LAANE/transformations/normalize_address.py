@@ -22,5 +22,5 @@ def normalize_address_wrapper(address: str) -> dict:
             'city': '',
             'state': '',
             'postal_code': 00000,
-        }
+        },
     )
