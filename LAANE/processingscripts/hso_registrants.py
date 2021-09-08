@@ -8,17 +8,22 @@ from operator import itemgetter
 import pandas as pd
 
 from database.database import SessionLocal
-from database.models import HSORegistrant, HSOPlatforms
-from transformations.format_date import format_date
+from database.models import HSOPlatforms, HSORegistrant
 from transformations.insert_address import get_address_id
 from transformations.normalize_address import normalize_address_wrapper
 
 
-def normalize_registrants(filepath: str, sheetname: str, generated_date: str) -> pd.DataFrame:
+def normalize_registrants(
+    filepath: str,
+    sheetname: str,
+    generated_date: str,
+) -> pd.DataFrame:
     """
     Reads in the dataset and resutrns a normalized dataframe.
 
     :param filepath: An excel file with a Complaints sheet.
+    :param sheetname: The excel sheet name.
+    :param generated_date: The date the sheet was generated.
     """
     usecols = [
         'Registration Number',
@@ -32,7 +37,7 @@ def normalize_registrants(filepath: str, sheetname: str, generated_date: str) ->
         sheet_name=sheetname,
         usecols=usecols,
     )
-    registrant_dataframe['Property Address'] = [ 
+    registrant_dataframe['Property Address'] = [
         address[:-5] if address[-3:] == 'USA' else address
         for address in registrant_dataframe['Property Address'].tolist()
     ]
@@ -115,6 +120,7 @@ def process_registrants(filepath, sheetname, generated_date, session):
         session.add(hso_registrant_entry)
         session.commit()
         print('committed hso_registrant entry')
+
 
 if __name__ == '__main__':
     process_registrants(
