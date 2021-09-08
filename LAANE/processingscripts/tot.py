@@ -29,11 +29,13 @@ def normalize_tot(filepath) -> pd.DataFrame:
         (normalize_address_wrapper(address))
         for address in tot_dataframe['STREET_ADDRESS'].tolist()
     ]
+    """
     tot_dataframe['Address2'] = [
         ''
         if address is None else address
         for address in tot_dataframe['Address2'].tolist()
     ]
+    """
     tot_dataframe['LOCATION_START_DATE'] = [
         format_date(date)
         for date in tot_dataframe['LOCATION_START_DATE'].tolist()
@@ -65,6 +67,7 @@ def normalize_tot(filepath) -> pd.DataFrame:
         },
         inplace=True,
     )
+    tot_dataframe_clean.fillna('', inplace=True)
     tot_dataframe_clean.drop_duplicates(inplace=True)
     return tot_dataframe_clean
 
@@ -78,8 +81,8 @@ def process_tot(filepath, session):
     """
     tot_dataframe_clean = normalize_tot(filepath)
 
+    print('start')
     for _, row in tot_dataframe_clean.iterrows():
-        print('start')
         address_id = get_address_id(session, row)
 
         tot_entry = Tot(
