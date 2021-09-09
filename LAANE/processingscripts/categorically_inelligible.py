@@ -31,12 +31,16 @@ def normalize_categorically_inelligible(filepath) -> pd.DataFrame:
     ci_dataframe.rename(
         columns={
             'ADDRESS': 'Address1',
-            'UNIT NUMBER': 'Address2',
+            'UNIT\nNUMBER': 'Address2',
         },
         inplace=True,
     )
-    ci_dataframe[['City', 'State', 'Zipcode']] = None
+    ci_dataframe['City'] = '' 
+    # assumes all entries are in California
+    ci_dataframe['State'] = 'CA'
+    ci_dataframe['Zipcode'] = 0
     ci_dataframe['Prohibited'] = 0
+    ci_dataframe.fillna('', inplace=True)
     ci_dataframe.drop_duplicates(inplace=True)
     return ci_dataframe
 
@@ -80,7 +84,13 @@ def normalize_prohibited(filepath) -> pd.DataFrame:
             'RSO',
         ]
     ] = 0
+    prohibited_dataframe.fillna('', inplace=True)
+    prohibited_dataframe['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in prohibited_dataframe['Zipcode'].tolist()
+    ]
     prohibited_dataframe.drop_duplicates(inplace=True)
+    print(prohibited_dataframe.head())
     return prohibited_dataframe
 
 
@@ -96,8 +106,8 @@ def process_categorically_inelligible(filepath, session):
 
     print('start')
     for _, row in pd.concat(
-        [ci_dataframe, prohibited_dataframe],
-        ignore_index=True,
+       [ci_dataframe, prohibited_dataframe],
+       ignore_index=True,
     ).iterrows():
         address_id = get_address_id(session, row)
 
@@ -113,7 +123,7 @@ def process_categorically_inelligible(filepath, session):
         )
         session.add(ci_entry)
         session.commit()
-        print('commited tot entry')
+        print('commited CategoricallyIneligible entry')
     print('Finished')
 
 

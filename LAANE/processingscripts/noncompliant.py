@@ -80,6 +80,11 @@ def normalize_noncompliant_32020_sheet(filepath: str) -> pd.DataFrame:
             'date_generated',
         ]
     ]
+    noncompliant_32020_clean.fillna('', inplace=True)
+    noncompliant_32020_clean['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in noncompliant_32020_clean['Zipcode'].tolist()
+    ]
     noncompliant_32020_clean.drop_duplicates(inplace=True)
     return noncompliant_32020_clean
 
@@ -162,6 +167,11 @@ def normalize_noncompliant_52121_sheet(filepath: str) -> pd.DataFrame:
             'compliance_explanation',
             'date_generated',
         ]
+    ]
+    noncompliant_52121_clean.fillna('', inplace=True)
+    noncompliant_52121_clean['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in noncompliant_52121_clean['Zipcode'].tolist()
     ]
     noncompliant_52121_clean.drop_duplicates(inplace=True)
     return noncompliant_52121_clean
