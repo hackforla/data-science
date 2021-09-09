@@ -62,7 +62,7 @@ def normalize_complaints(filepath) -> pd.DataFrame:
     ]
     complaints_clean.fillna('', inplace=True)
     complaints_clean['Zipcode'] = [
-        0 if type(zip_) != int else int(zip_)
+        0 if type(zip_) != int else zip_
         for zip_ in complaints_clean['Zipcode'].tolist()
     ]
     complaints_clean['State'] = [
