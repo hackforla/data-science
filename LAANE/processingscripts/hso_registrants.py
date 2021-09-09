@@ -73,7 +73,11 @@ def normalize_registrants(
             'Platforms',
         ]
     ]
-    registrant_clean['Address2'].fillna('', inplace=True)
+    registrant_clean.fillna('', inplace=True)
+    registrant_clean['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in registrant_clean['Zipcode'].tolist()
+    ]
     registrant_clean.drop_duplicates(inplace=True)
     registrant_clean['Date Generated'] = generated_date
     return registrant_clean
@@ -120,6 +124,7 @@ def process_registrants(filepath, sheetname, generated_date, session):
         session.add(hso_registrant_entry)
         session.commit()
         print('committed hso_registrant entry')
+    print('Finished')
 
 
 if __name__ == '__main__':
