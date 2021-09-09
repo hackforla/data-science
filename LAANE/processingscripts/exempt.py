@@ -53,8 +53,14 @@ def normalize_tors_bnb(filepath: str) -> pd.DataFrame:
             'host_apn',
             'subtype',
         ]
-    ] = None
+    ] = ''
+    tors_bnb_dataframe.fillna('', inplace=True)
+    tors_bnb_dataframe['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in tors_bnb_dataframe['Zipcode'].tolist()
+    ]
     tors_bnb_dataframe.drop(['Address', 'Permit ID1'], axis=1, inplace=True)
+    tors_bnb_dataframe.drop_duplicates(inplace=True)
     return tors_bnb_dataframe
 
 
@@ -89,7 +95,13 @@ def normalize_hotels(filepath: str) -> pd.DataFrame:
     )
     hotels_dataframe['exempt_type'] = 'hotels'
     hotels_dataframe['State'] = 'CA'
-    hotels_dataframe['City'] = None
+    hotels_dataframe['City'] = ''
+    hotels_dataframe.fillna('', inplace=True)
+    hotels_dataframe['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in hotels_dataframe['Zipcode'].tolist()
+    ]
+    hotels_dataframe.drop_duplicates(inplace=True)
     return hotels_dataframe
 
 
