@@ -47,7 +47,13 @@ def normalize_hso_revocation(filepath: str) -> pd.DataFrame:
         format_date(date)
         for date in revocation_dataframe['Date Revoked'].tolist()
     ]
+    revocation_dataframe.fillna('', inplace=True)
     revocation_dataframe['Address2'] = ''
+    revocation_dataframe['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in revocation_dataframe['Zipcode'].tolist()
+    ]
+    revocation_dataframe.drop_duplicates(inplace=True)
     return revocation_dataframe
 
 
