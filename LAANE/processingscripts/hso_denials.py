@@ -82,6 +82,12 @@ def normalize_hso_denials(filepath) -> pd.DataFrame:
             'Denial Date',
         ]
     ]
+    hso_denials_clean.fillna('', inplace=True)
+    hso_denials_clean['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in hso_denials_clean['Zipcode'].tolist()
+    ]
+
     hso_denials_clean.drop_duplicates(inplace=True)
     return hso_denials_clean
 
@@ -95,8 +101,8 @@ def process_hso_denials(filepath, session):
     """
     hso_denials_clean = normalize_hso_denials(filepath)
 
+    print('start')
     for _, row in hso_denials_clean.iterrows():
-        print('start')
         address_id = get_address_id(session, row)
 
         hso_denials_entry = HSODenials(
