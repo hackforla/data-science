@@ -3,7 +3,9 @@ Purpose: To transform and insert luxly datasets.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
+import glob
 from operator import itemgetter
+import os
 
 import numpy as np
 import pandas as pd
@@ -11,10 +13,11 @@ import pandas as pd
 from database.database import SessionLocal
 from database.models import Platform
 from transformations.insert_address import get_address_id
+from transformations.process_multiple_files import multiple_files
 from transformations.normalize_address import normalize_address_wrapper
 
 
-def normalize_luxly(filepath: str, filetype: str = 'excel') -> pd.DataFrame:
+def normalize_luxly(filepath: str, filetype: str = 'csv') -> pd.DataFrame:
     """
     Reads in the dataset and returns normalized dataframe.
 
@@ -72,7 +75,7 @@ def normalize_luxly(filepath: str, filetype: str = 'excel') -> pd.DataFrame:
         luxly_dataframe['Address2'].fillna(''),
         luxly_dataframe['Apt / Suite / Unit #'].fillna(''),
     )
-    return luxly_dataframe[
+    luxly_clean = luxly_dataframe[
         [
             'Address1',
             'Address2',
@@ -86,9 +89,17 @@ def normalize_luxly(filepath: str, filetype: str = 'excel') -> pd.DataFrame:
             'Registration # / Pending Registration Status # / Exemption Status Code',
         ]
     ]
+    luxly_clean.fillna('', inplace=True)
+    luxly_clean['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in luxly_clean['Zipcode'].tolist()
+    ]
+    luxly_clean.drop_duplicates(inplace=True)
+    return luxly_clean
 
 
-def process_luxly(filepath: str, session, filetype: str = 'excel'):
+
+def process_luxly(filepath: str, session, filetype: str = 'csv'):
     """
     Transforms and inserts Categorically Ineligible data into the database.
 
@@ -112,13 +123,15 @@ def process_luxly(filepath: str, session, filetype: str = 'excel'):
         )
         session.add(luxly_entry)
         session.commit()
-        print('commited tot entry')
+        print('commited luxly entry')
     print('Finished')
 
 
 if __name__ == '__main__':
-    process_luxly(
-        filepath='',
-        filetype='csv',
+    # make sure to change the filetype default in process_luxly for none csv
+    multiple_files(
+        '',
+        filetype='',
+        process_function=process_luxly,
         session=SessionLocal(),
     )

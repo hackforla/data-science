@@ -84,6 +84,6 @@ def process_hso_revocation(filepath: str, session):
 
 if __name__ == '__main__':
     process_hso_revocation(
-        '',
+        '/home/albertulysses/Downloads/LAANE/City of LA data/LA HSO Enforcement - new master 521.xlsx',
         session=SessionLocal(),
     )
