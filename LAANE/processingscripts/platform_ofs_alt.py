@@ -70,15 +70,15 @@ def normalize_ofs(filepath: str) -> pd.DataFrame:
     ofs_dataframe['State'] = 'CA'
     ofs_dataframe['Address1'] = np.where(
         ofs_dataframe['Address1'].fillna('') == '',
-        str(ofs_dataframe['house_number']),
-        np.nan,
+        ofs_dataframe['house_number'],
+        '',
     )
     ofs_dataframe['Address2'] = np.where(
         ofs_dataframe['Address2'].fillna('') == '',
-        str(ofs_dataframe['unit_number']),
-        np.nan,
+        ofs_dataframe['unit_number'].fillna('', inplace=True),
+        '',
     )
-    return ofs_dataframe[
+    ofs_clean = ofs_dataframe[
         [
             'Address1',
             'Address2',
@@ -92,6 +92,14 @@ def normalize_ofs(filepath: str) -> pd.DataFrame:
             'registration_number',
         ]
     ]
+    ofs_clean.fillna('', inplace=True)
+    ofs_clean['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in ofs_clean['Zipcode'].tolist()
+    ]
+    ofs_clean.drop_duplicates(inplace=True)
+    return ofs_clean
+
 
 
 def process_ofs(filepath: str, session):
