@@ -3,9 +3,7 @@ Purpose: To transform and insert luxly datasets.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
-import glob
 from operator import itemgetter
-import os
 
 import numpy as np
 import pandas as pd
@@ -101,9 +99,9 @@ def normalize_luxly(filepath: str, filetype: str = 'csv') -> pd.DataFrame:
 
 def process_luxly(filepath: str, session, filetype: str = 'csv'):
     """
-    Transforms and inserts Categorically Ineligible data into the database.
+    Transforms and inserts Luxly data into the database.
 
-    :param filepath: An excel file of Categorically Ineligible data.
+    :param filepath: A file of Luxly data.
     :param session: A SQLAlchemy session object.
     :param filetype: whether the file is excel or csv-excel is the default.
     """

@@ -350,9 +350,10 @@ class Hosts(Base):
     host_name = Column(String)
     host_url = Column(String)
     host_since = Column(String)
-    host_is_superhost = Column(Boolean)
+    host_is_superhost = Column(String)
     host_location = Column(String)
     host_listings_count = Column(Integer)
+    last_scraped = Column(String)
 
     airbnb_listing = relationship(
         'AirbnbListings',
@@ -385,6 +386,7 @@ class AirbnbListings(Base):
     number_of_reiews = Column(Integer)
     number_of_reiews_l30d = Column(Integer)
     number_of_reiews_ltm = Column(Integer)
+    last_scraped = Column(String)
 
 # unhash below to create the database.
 Base.metadata.create_all(bind=engine)

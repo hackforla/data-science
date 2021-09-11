@@ -89,9 +89,9 @@ def normalize_ofs(filepath: str) -> pd.DataFrame:
 
 def process_ofs(filepath: str, session):
     """
-    Transforms and inserts Categorically Ineligible data into the database.
+    Transforms and inserts OFS data into the database.
 
-    :param filepath: An excel file of Categorically Ineligible data.
+    :param filepath: A file of OFS data.
     :param session: A SQLAlchemy session object.
     """
     ofs_dataframe = normalize_ofs(filepath)
