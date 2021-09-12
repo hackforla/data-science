@@ -3,7 +3,6 @@ Purpose: To transform and insert AirbnbListings datasets.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
-from operator import itemgetter
 import re
 
 import pandas as pd
