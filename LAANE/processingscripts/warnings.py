@@ -13,7 +13,11 @@ from transformations.format_date import format_date
 from transformations.insert_address import get_address_id
 from transformations.normalize_address import normalize_address_wrapper
 
-def normalize_date_address_sheet(filepath: str, sheetname: str):
+def normalize_date_address_sheet(
+    filepath: str,
+    sheetname: str,
+    warningtype: str,
+) -> pd.DataFrame:
     """
     Reads in the dataset and returns a normalized dataframe.
     This function is for dataset that only have a date and address.
@@ -32,7 +36,6 @@ def normalize_date_address_sheet(filepath: str, sheetname: str):
             'Address1',
             'Address2',
             'City',
-            'State',
             'Zipcode',
         ]
     ] = [
@@ -40,7 +43,6 @@ def normalize_date_address_sheet(filepath: str, sheetname: str):
             'address_line_1',
             'address_line_2',
             'city',
-            'state',
             'postal_code',
         )(normalize_address_wrapper(address))
         for address in date_address_dataframe['Property Address'].tolist()
@@ -61,10 +63,24 @@ def normalize_date_address_sheet(filepath: str, sheetname: str):
             'violation',
         ]
     ] = ''
+    date_address_dataframe['letter_type'] = warningtype 
+    date_address_dataframe.fillna('', inplace=True)
+    date_address_dataframe['Zipcode'] = [
+        0 if type(zip_) != int else zip_
+        for zip_ in date_address_dataframe['Zipcode'].tolist()
+    ]
+    date_address_dataframe['State'] = 'CA'
+    date_address_dataframe.drop_duplicates(inplace=True)
     return date_address_dataframe
 
 
-def process_warnings(filepath: str, sheetname: str, normalize_function, session):
+def process_warnings(
+    filepath: str,
+    sheetname: str,
+    warningtype: str,
+    normalize_function,
+    session,
+):
     """
     Transforms and inserts Warning data into the database.
 
@@ -76,6 +92,7 @@ def process_warnings(filepath: str, sheetname: str, normalize_function, session)
     warning_dataframe = normalize_function(
         filepath,
         sheetname,
+        warningtype,
         )
     print('start')
     for _, row in warning_dataframe.iterrows():
@@ -106,6 +123,7 @@ def process_warnings(filepath: str, sheetname: str, normalize_function, session)
             recipient_mailing_id=maddress.recipient_mailing_id,
             parcel_number=row['parcel_number'],
             letter_number=row['letter_number'],
+            letter_type=row['letter_type'],
             recipient_name=row['recipient_name'],
             date_of_letter=row['Date of Letter'],
         )
@@ -122,13 +140,15 @@ def process_warnings(filepath: str, sheetname: str, normalize_function, session)
         session.add(citation_entry)
         session.commit()
         print('entered citation, warning and maddress')
+    print('finished')
 
 
 
 if __name__ == '__main__':
     process_warnings(
-        filepath='/home/albertulysses/Downloads/LAANE/City of LA data/LA HSO Enforcement - new master 521.xlsx',
-        sheetname='First Warning',
+        filepath='',
+        sheetname='',
+        warningtype='',
         normalize_function=normalize_date_address_sheet,
         session=SessionLocal(),
     )
