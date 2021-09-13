@@ -3,6 +3,7 @@ Purpose: To transform and insert Warning datasets.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
+# this file only inserts warnings that have a date and address
 from operator import itemgetter
 
 import pandas as pd
