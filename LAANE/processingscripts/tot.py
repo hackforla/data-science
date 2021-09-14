@@ -23,19 +23,13 @@ def normalize_tot(filepath) -> pd.DataFrame:
     tot_dataframe = pd.read_excel(
         filepath,
         sheet_name='TOT payer',
+        dtype={'ZIP_CD': "string"},
     )
     tot_dataframe[['Address1', 'Address2']] = [
         itemgetter('address_line_1', 'address_line_2')
         (normalize_address_wrapper(address))
         for address in tot_dataframe['STREET_ADDRESS'].tolist()
     ]
-    """
-    tot_dataframe['Address2'] = [
-        ''
-        if address is None else address
-        for address in tot_dataframe['Address2'].tolist()
-    ]
-    """
     tot_dataframe['LOCATION_START_DATE'] = [
         format_date(date)
         for date in tot_dataframe['LOCATION_START_DATE'].tolist()
@@ -69,7 +63,7 @@ def normalize_tot(filepath) -> pd.DataFrame:
     )
     tot_dataframe_clean.fillna('', inplace=True)
     tot_dataframe_clean['Zipcode'] = [
-        0 if type(zip_) != int else int(zip_)
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in tot_dataframe_clean['Zipcode'].tolist()
     ]
     tot_dataframe_clean.drop_duplicates(inplace=True)
