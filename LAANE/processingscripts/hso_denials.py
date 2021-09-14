@@ -84,7 +84,7 @@ def normalize_hso_denials(filepath) -> pd.DataFrame:
     ]
     hso_denials_clean.fillna('', inplace=True)
     hso_denials_clean['Zipcode'] = [
-        0 if type(zip_) != int else zip_
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in hso_denials_clean['Zipcode'].tolist()
     ]
 

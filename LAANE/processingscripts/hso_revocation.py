@@ -50,7 +50,7 @@ def normalize_hso_revocation(filepath: str) -> pd.DataFrame:
     revocation_dataframe.fillna('', inplace=True)
     revocation_dataframe['Address2'] = ''
     revocation_dataframe['Zipcode'] = [
-        0 if type(zip_) != int else zip_
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in revocation_dataframe['Zipcode'].tolist()
     ]
     revocation_dataframe.drop_duplicates(inplace=True)

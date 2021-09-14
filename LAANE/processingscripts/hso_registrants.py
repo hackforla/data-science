@@ -9,6 +9,7 @@ import pandas as pd
 
 from database.database import SessionLocal
 from database.models import HSOPlatforms, HSORegistrant
+from processingscripts.hso_denials import format_property_unit
 from transformations.insert_address import get_address_id
 from transformations.normalize_address import normalize_address_wrapper
 
@@ -36,31 +37,40 @@ def normalize_registrants(
         filepath,
         sheet_name=sheetname,
         usecols=usecols,
+        dtype={'Property Unit Number': 'string'},
     )
     registrant_dataframe['Property Address'] = [
         address[:-5] if address[-3:] == 'USA' else address
         for address in registrant_dataframe['Property Address'].tolist()
     ]
+    registrant_dataframe['Property Unit Number'] = [
+        format_property_unit(str(property_unit))
+        for property_unit in
+        registrant_dataframe['Property Unit Number'].tolist()
+    ]
     registrant_dataframe[
         [
             'Address1',
             'City',
-            'State',
             'Zipcode',
         ]
     ] = [
         itemgetter(
             'address_line_1',
             'city',
-            'state',
             'postal_code',
         )(normalize_address_wrapper(address))
         for address in registrant_dataframe['Property Address'].tolist()
+    ]
+    registrant_dataframe['Property Unit Number'] = [
+        '' if unit_number == '-' else unit_number
+        for unit_number in registrant_dataframe['Property Unit Number'].tolist()
     ]
     registrant_dataframe.rename(
         columns={'Property Unit Number': 'Address2'},
         inplace=True,
     )
+    registrant_dataframe['State'] = 'CA'
     registrant_clean = registrant_dataframe[
         [
             'Address1',
@@ -75,7 +85,7 @@ def normalize_registrants(
     ]
     registrant_clean.fillna('', inplace=True)
     registrant_clean['Zipcode'] = [
-        0 if type(zip_) != int else zip_
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in registrant_clean['Zipcode'].tolist()
     ]
     registrant_clean.drop_duplicates(inplace=True)
