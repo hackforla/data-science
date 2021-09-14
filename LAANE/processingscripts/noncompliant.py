@@ -27,12 +27,23 @@ def normalize_noncompliant_32020_sheet(filepath: str) -> pd.DataFrame:
     noncompliant_32020_dataframe['date_generated'] = '2020-03-20'
 
     # strip the last 5 if it ends in USA otherwise remove United states ending
+    noncompliant_32020_dataframe.fillna('', inplace=True)
     noncompliant_32020_dataframe['address'] = [
-        address.strip()[:-5] if address.strip()[:-3] == 'USA'
-        else address.strip()[:-15]
+        address.strip()[:-5] if address.strip()[-3:] == 'USA'
+        else address.strip() 
+        for address in noncompliant_32020_dataframe['address'].tolist()
+    ]
+    noncompliant_32020_dataframe['address'] = [
+        address.strip()[:-15] if address.strip()[-13:] == 'United States'
+        else address.strip() 
         for address in noncompliant_32020_dataframe['address'].tolist()
     ]
 
+    noncompliant_32020_dataframe['address'] = [
+        address.strip()[:-9] if address.strip()[-7:] == 'USA, CA'
+        else address.strip()
+        for address in noncompliant_32020_dataframe['address'].tolist()
+    ]
     noncompliant_32020_dataframe[
         [
             'Address1',
@@ -82,7 +93,7 @@ def normalize_noncompliant_32020_sheet(filepath: str) -> pd.DataFrame:
     ]
     noncompliant_32020_clean.fillna('', inplace=True)
     noncompliant_32020_clean['Zipcode'] = [
-        0 if type(zip_) != int else zip_
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in noncompliant_32020_clean['Zipcode'].tolist()
     ]
     noncompliant_32020_clean.drop_duplicates(inplace=True)
@@ -102,12 +113,23 @@ def normalize_noncompliant_52121_sheet(filepath: str) -> pd.DataFrame:
     )
 
     noncompliant_52121_dataframe['date_generated'] = '2021-05-21'
+    noncompliant_52121_dataframe.fillna('', inplace=True)
 
     # strip the last 5 if it ends in USA otherwise remove United states ending
     noncompliant_52121_dataframe['Address'] = [
-        address.strip()[:-5] if address.strip()[:-3] == 'USA'
-        else address.strip()[:-15]
-        for address in noncompliant_52121_dataframe['Address'].fillna('').tolist()
+        address.strip()[:-5] if address.strip()[-3:] == 'USA'
+        else address.strip() 
+        for address in noncompliant_52121_dataframe['Address'].tolist()
+    ]
+    noncompliant_52121_dataframe['Address'] = [
+        address.strip()[:-15] if address.strip()[-13:] == 'United States'
+        else address.strip() 
+        for address in noncompliant_52121_dataframe['Address'].tolist()
+    ]
+    noncompliant_52121_dataframe['Address'] = [
+        address.strip()[:-9] if address.strip()[-7:] == 'USA, CA'
+        else address.strip()
+        for address in noncompliant_52121_dataframe['Address'].tolist()
     ]
 
     noncompliant_52121_dataframe[
@@ -170,7 +192,7 @@ def normalize_noncompliant_52121_sheet(filepath: str) -> pd.DataFrame:
     ]
     noncompliant_52121_clean.fillna('', inplace=True)
     noncompliant_52121_clean['Zipcode'] = [
-        0 if type(zip_) != int else zip_
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in noncompliant_52121_clean['Zipcode'].tolist()
     ]
     noncompliant_52121_clean.drop_duplicates(inplace=True)

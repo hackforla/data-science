@@ -64,10 +64,11 @@ def normalize_date_address_sheet(
             'violation',
         ]
     ] = ''
+
     date_address_dataframe['letter_type'] = warningtype 
     date_address_dataframe.fillna('', inplace=True)
     date_address_dataframe['Zipcode'] = [
-        0 if type(zip_) != int else zip_
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in date_address_dataframe['Zipcode'].tolist()
     ]
     date_address_dataframe['State'] = 'CA'
@@ -146,10 +147,11 @@ def process_warnings(
 
 
 if __name__ == '__main__':
+    # normalize_date_address_sheet('/home/albertulysses/Downloads/LAANE/City of LA data/LA HSO Enforcement - new master 521.xlsx', 'First Warning', 'First Warning')
     process_warnings(
-        filepath='',
-        sheetname='',
-        warningtype='',
+        filepath='/home/albertulysses/Downloads/LAANE/City of LA data/LA HSO Enforcement - new master 521.xlsx',
+        sheetname='First Warning',
+        warningtype='First Warning',
         normalize_function=normalize_date_address_sheet,
         session=SessionLocal(),
     )

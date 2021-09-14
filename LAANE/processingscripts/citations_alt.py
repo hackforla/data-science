@@ -3,6 +3,7 @@ Purpose: To transform and insert Warning datasets.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
+# for citations that are similiar to warningalt
 from operator import itemgetter
 
 import pandas as pd
@@ -16,7 +17,6 @@ from transformations.normalize_address import normalize_address_wrapper
 def normalize_date_address_sheet(
     filepath: str,
     sheetname: str,
-    warningtype: str,
 ) -> pd.DataFrame:
     """
     Reads in the dataset and returns a normalized dataframe.
@@ -86,6 +86,7 @@ def normalize_date_address_sheet(
             'Parcel Number': 'parcel_number',
             'Recipient Name': 'recipient_name',
             'Mailing Date': 'Date of Letter',
+            'Letter': 'letter_type',
         },
         inplace=True,
     )
@@ -97,7 +98,6 @@ def normalize_date_address_sheet(
             'violation',
         ]
     ] = ''
-    date_address_dataframe['letter_type'] = warningtype 
     date_address_dataframe.fillna('', inplace=True)
     date_address_dataframe['Zipcode'] = [
         0 if zip_.isdigit() == False else int(zip_)
@@ -115,7 +115,6 @@ def normalize_date_address_sheet(
 def process_warnings(
     filepath: str,
     sheetname: str,
-    warningtype: str,
     normalize_function,
     session,
 ):
@@ -130,7 +129,6 @@ def process_warnings(
     warning_dataframe = normalize_function(
         filepath,
         sheetname,
-        warningtype,
         )
     print('start')
     for _, row in warning_dataframe.iterrows():
@@ -185,8 +183,7 @@ def process_warnings(
 if __name__ == '__main__':
     process_warnings(
         filepath='/home/albertulysses/Downloads/LAANE/City of LA data/LA HSO Enforcement - new master 521.xlsx',
-        sheetname='First Warning (2)',
-        warningtype='First Warning',
+        sheetname='Citations (2)',
         normalize_function=normalize_date_address_sheet,
         session=SessionLocal(),
     )
