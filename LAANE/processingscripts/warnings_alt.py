@@ -184,7 +184,7 @@ def process_warnings(
 
 if __name__ == '__main__':
     process_warnings(
-        filepath='/home/albertulysses/Downloads/LAANE/City of LA data/LA HSO Enforcement - new master 521.xlsx',
+        filepath='',
         sheetname='First Warning (2)',
         warningtype='First Warning',
         normalize_function=normalize_date_address_sheet,
