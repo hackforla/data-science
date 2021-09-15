@@ -32,6 +32,10 @@ def normalize_date_address_sheet(
         format_date(date) for date in
         date_address_dataframe['Date of Letter'].tolist()
     ]
+    date_address_dataframe['Property Address'] = [
+        address[:-9] if address.strip()[-7:] == 'USA, CA' else address.strip()
+        for address in date_address_dataframe['Property Address'].tolist()
+    ]
     date_address_dataframe[
         [
             'Address1',
@@ -149,9 +153,9 @@ def process_warnings(
 if __name__ == '__main__':
     # normalize_date_address_sheet('/home/albertulysses/Downloads/LAANE/City of LA data/LA HSO Enforcement - new master 521.xlsx', 'First Warning', 'First Warning')
     process_warnings(
-        filepath='/home/albertulysses/Downloads/LAANE/City of LA data/LA HSO Enforcement - new master 521.xlsx',
-        sheetname='First Warning',
-        warningtype='First Warning',
+        filepath='',
+        sheetname='',
+        warningtype='',
         normalize_function=normalize_date_address_sheet,
         session=SessionLocal(),
     )

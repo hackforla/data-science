@@ -3,7 +3,6 @@ Purpose: To transform and insert Warning datasets.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
-# for citations that are similiar to warningalt
 from operator import itemgetter
 
 import pandas as pd
@@ -22,14 +21,14 @@ def normalize_date_address_sheet(
     Reads in the dataset and returns a normalized dataframe.
     This function is for dataset that only have a date and address.
 
-    :param filepath: An excel file with a Complaints sheet.
+    :param filepath: An excel file with a citations sheet.
     :param sheetname: The excel sheet name.
     """
-    dtype={'Mailing Date': 'string'}
+    dtype={'Date of Citation Notice': 'string'}
     date_address_dataframe = pd.read_excel(filepath, sheet_name=sheetname, dtype=dtype)
-    date_address_dataframe['Mailing Date'] = [
+    date_address_dataframe['Date of Citation Notice'] = [
         format_date(date) for date in
-        date_address_dataframe['Mailing Date'].tolist()
+        date_address_dataframe['Date of Citation Notice'].tolist()
     ]
     # removes odd endings in addresses
     date_address_dataframe['Property Address'] = [
@@ -65,35 +64,22 @@ def normalize_date_address_sheet(
             'mCity',
             'mState',
             'mZipcode',
+            'recipient_name',
+            'letter_number',
+            'parcel_number',
         ]
-    ] = [
-        itemgetter(
-            'address_line_1',
-            'address_line_2',
-            'city',
-            'state',
-            'postal_code',
-            )(normalize_address_wrapper(address[:-4]))
-        for address in date_address_dataframe['Recipient Address'].tolist()
-    ]
+    ] = ''
+    date_address_dataframe['letter_type'] = 'Citation'
     date_address_dataframe.rename(
         columns={
-            'Letters': 'letter_number',
-            'Parcel Number': 'parcel_number',
-            'Recipient Name': 'recipient_name',
-            'Mailing Date': 'Date of Letter',
-            'Letter': 'letter_type',
+            'Registration Number': 'registration_number',
+            'Date of Citation Notice': 'Date of Letter',
+            'Status (5/21)': 'status',
+            'Violation Description': 'violation',
+            'Fine': 'fine',
         },
         inplace=True,
     )
-    date_address_dataframe[
-        [
-            'registration_number',
-            'fine',
-            'status',
-            'violation',
-        ]
-    ] = ''
     date_address_dataframe.fillna('', inplace=True)
     date_address_dataframe['Zipcode'] = [
         0 if zip_.isdigit() == False else int(zip_)
@@ -179,7 +165,7 @@ def process_warnings(
 if __name__ == '__main__':
     process_warnings(
         filepath='',
-        sheetname='Citations (2)',
+        sheetname='Citations',
         normalize_function=normalize_date_address_sheet,
         session=SessionLocal(),
     )

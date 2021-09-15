@@ -89,7 +89,7 @@ def normalize_luxly(filepath: str, filetype: str = 'csv') -> pd.DataFrame:
     ]
     luxly_clean.fillna('', inplace=True)
     luxly_clean['Zipcode'] = [
-        0 if type(zip_) != int else zip_
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in luxly_clean['Zipcode'].tolist()
     ]
     luxly_clean.drop_duplicates(inplace=True)
@@ -97,7 +97,7 @@ def normalize_luxly(filepath: str, filetype: str = 'csv') -> pd.DataFrame:
 
 
 
-def process_luxly(filepath: str, session, filetype: str = 'csv'):
+def process_luxly(filepath: str, session, filetype: str = 'xlsx'):
     """
     Transforms and inserts Luxly data into the database.
 
@@ -110,26 +110,37 @@ def process_luxly(filepath: str, session, filetype: str = 'csv'):
     print('start')
     for _, row in luxly_clean.iterrows():
         address_id = get_address_id(session, row)
-
-        luxly_entry = Platform(
-            address_id=address_id,
-            listing_id=row['Unique Permanent Primary Listing ID'],
-            listing_url=row['Listing URL'],
-            host_id=row['Unique Host ID'],
-            host_email=row['Host Email Address'],
-            registrant_number=row['Registration # / Pending Registration Status # / Exemption Status Code'],
+        luxly_entry = (
+            session.query(Platform).filter(
+                Platform.address_id == address_id,
+                Platform.listing_id == row['Unique Permanent Primary Listing ID'],
+                Platform.listing_url == row['Listing URL'],
+                Platform.host_id == row['Unique Host ID'],
+                Platform.host_email == row['Host Email Address'],
+                Platform.registrant_number == row['Registration # / Pending Registration Status # / Exemption Status Code'],
+            ).one_or_none()
         )
-        session.add(luxly_entry)
-        session.commit()
-        print('commited luxly entry')
+
+        if luxly_entry is None:
+            luxly_entry = Platform(
+                address_id=address_id,
+                listing_id=row['Unique Permanent Primary Listing ID'],
+                listing_url=row['Listing URL'],
+                host_id=row['Unique Host ID'],
+                host_email=row['Host Email Address'],
+                registrant_number=row['Registration # / Pending Registration Status # / Exemption Status Code'],
+            )
+            session.add(luxly_entry)
+            session.commit()
+            print('commited luxly entry')
     print('Finished')
 
 
 if __name__ == '__main__':
     # make sure to change the filetype default in process_luxly for none csv
     multiple_files(
-        '',
-        filetype='',
+        filepath='',
+        filetype='xlsx',
         process_function=process_luxly,
         session=SessionLocal(),
     )

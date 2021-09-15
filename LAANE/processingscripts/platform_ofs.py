@@ -55,13 +55,13 @@ def normalize_ofs(filepath: str) -> pd.DataFrame:
     ]
     ofs_dataframe['State'] = 'CA'
     ofs_dataframe['Address1'] = np.where(
-        ofs_dataframe['Address1'].fillna('') == '',
-        ofs_dataframe['house_number'],
+        pd.isna(ofs_dataframe['Address1']),
+        ofs_dataframe['house_number'].fillna(''),
         '',
     )
     ofs_dataframe['Address2'] = np.where(
-        ofs_dataframe['Address2'].fillna('') == '',
-        ofs_dataframe['unit_number'],
+        pd.isna(ofs_dataframe['Address2']),
+        ofs_dataframe['unit_number'].fillna(''),
         '',
     )
     ofs_clean = ofs_dataframe[
@@ -80,7 +80,7 @@ def normalize_ofs(filepath: str) -> pd.DataFrame:
     ]
     ofs_clean.fillna('', inplace=True)
     ofs_clean['Zipcode'] = [
-        0 if type(zip_) != int else zip_
+        0 if zip_.isdigit() == False else int(zip_)
         for zip_ in ofs_clean['Zipcode'].tolist()
     ]
     ofs_clean.drop_duplicates(inplace=True)
@@ -100,24 +100,36 @@ def process_ofs(filepath: str, session):
     for _, row in ofs_dataframe.iterrows():
         address_id = get_address_id(session, row)
 
-        platform_entry = Platform(
-            address_id=address_id,
-            listing_id=row['listing_id'],
-            listing_url=row['listing_urls'],
-            host_id=row['unique_host_id'],
-            host_email=row['host_email_address'],
-            registrant_number=row['registration_number'],
+        platform_entry = (
+            session.query(Platform).filter(
+                Platform.address_id == address_id,
+                Platform.listing_id == row['listing_id'],
+                Platform.listing_url == row['listing_urls'],
+                Platform.host_id == row['unique_host_id'],
+                Platform.host_email == row['host_email_address'],
+                Platform.registrant_number == row['registration_number'],
+            ).one_or_none()
         )
-        session.add(platform_entry)
-        session.commit()
-        print('commited platform entry')
+        if platform_entry is None:
+            platform_entry = Platform(
+                address_id=address_id,
+                listing_id=row['listing_id'],
+                listing_url=row['listing_urls'],
+                host_id=row['unique_host_id'],
+                host_email=row['host_email_address'],
+                registrant_number=row['registration_number'],
+            )
+            session.add(platform_entry)
+            session.commit()
+            print('commited Platform entry')
+
     print('Finished')
 
 
 if __name__ == '__main__':
     multiple_files(
-        filepath=''
-        filetype='',
+        filepath='',
+        filetype='csv',
         process_function=process_ofs,
         session=SessionLocal(),
     )
