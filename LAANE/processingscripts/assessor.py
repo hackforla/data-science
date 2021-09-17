@@ -206,6 +206,7 @@ def normalize_assessor(filepath: str) -> pd.DataFrame:
         usecols=usecols,
         dtype=dtype,
     )
+    assessor_dataframe.fillna('', inplace=True)
     assessor_dataframe['Zip'] = [
         zip_[:5] for zip_ in assessor_dataframe['Zip'].tolist()
     ]
@@ -241,17 +242,29 @@ def normalize_assessor(filepath: str) -> pd.DataFrame:
         street_name.strip() for street_name in assessor_dataframe['M Street Name'].tolist()
     ]
     assessor_dataframe['Address1'] = (
-        assessor_dataframe['Situs House No'] +
-        assessor_dataframe['Fraction'] +
-        assessor_dataframe['Direction'] +
-        assessor_dataframe['Street Name']
+        assessor_dataframe['Situs House No'].str.strip() +
+        ' ' +
+        assessor_dataframe['Fraction'].str.strip() +
+        ' ' +
+        assessor_dataframe['Direction'].str.strip() +
+        ' ' +
+        assessor_dataframe['Street Name'].str.strip()
     )
+    assessor_dataframe['Address1'] = [
+       re.sub(' +', ' ', string_) for string_ in assessor_dataframe['Address1'].tolist()
+    ]
     assessor_dataframe['M Address1'] = (
-        assessor_dataframe['Mail House No'] +
-        assessor_dataframe['M Fraction'] +
-        assessor_dataframe['M Direction'] +
-        assessor_dataframe['M Street Name']
+        assessor_dataframe['Mail House No'].str.strip() +
+        ' ' +
+        assessor_dataframe['M Fraction'].str.strip() +
+        ' ' +
+        assessor_dataframe['M Direction'].str.strip() +
+        ' ' +
+        assessor_dataframe['M Street Name'].str.strip()
     )
+    assessor_dataframe['M Address1'] = [
+       re.sub(' +', ' ', string_) for string_ in assessor_dataframe['M Address1'].tolist()
+    ]
     assessor_dataframe['names'] = owner_names(assessor_dataframe)
     assessor_dataframe['trust names'] = trust_name(assessor_dataframe['First Owner Name Overflow'])
     assessor_dataframe['Special Name Assessee'] = special_name_assessee(assessor_dataframe['Special Name Assessee'])
@@ -282,7 +295,7 @@ def normalize_assessor(filepath: str) -> pd.DataFrame:
         for unit in assessor_dataframe['M Address2'].tolist()
     ]
     assessor_dataframe.drop_duplicates(inplace=True)
-    return assessor_dataframe
+    return assessor_dataframe.head(5000)
 
 def process_assessor(filepath: str, session):
     """
