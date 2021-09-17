@@ -3,6 +3,7 @@
 ## TODO:
 * write data dict
 * insert ERD into docs
+    * ERD Needs to be updated to match builds changes
 * create a requirements file
 * create a mock database to test the inserts
 * write a process for each file type that will need to be added to the database
