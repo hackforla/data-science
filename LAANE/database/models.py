@@ -74,23 +74,6 @@ class Platform(Base):
     )
 
 
-class Builds(Base):
-    __tablename__ = 'builds'
-
-    build_id = Column(Integer, primary_key=True)
-    build_number = Column(Integer)
-    baths = Column(Integer)
-    bedrooms = Column(Integer)
-    square_feet = Column(Integer)
-    units = Column(Integer)
-    year = Column(Integer)
-
-    address = relationship(
-        'Assessor',
-        backref=backref('builds', order_by=build_id),
-    )
-
-
 class AssessorMailing(Base):
     __tablename__ = 'assessor_mailing'
 
@@ -123,7 +106,6 @@ class Assessor(Base):
 
     assessor_id = Column(Integer, primary_key=True)
     address_id = Column(ForeignKey('address.address_id'))
-    build_id = Column(ForeignKey('builds.build_id'))
     assessor_mailing_id = Column(
         ForeignKey('assessor_mailing.assessor_mailing_id'),
     )
@@ -136,6 +118,31 @@ class Assessor(Base):
     homeowner_expemtion_value = Column(Integer)
     landlord_reappraisal_year = Column(Integer)
     landlord_units = Column(Integer)
+    baths_1 = Column(Integer)
+    bedrooms_1 = Column(Integer)
+    square_feet_1 = Column(Integer)
+    units_1 = Column(Integer)
+    year_1 = Column(Integer)
+    baths_2 = Column(Integer)
+    bedrooms_2 = Column(Integer)
+    square_feet_2 = Column(Integer)
+    units_2 = Column(Integer)
+    year_2 = Column(Integer)
+    baths_3 = Column(Integer)
+    bedrooms_3 = Column(Integer)
+    square_feet_3 = Column(Integer)
+    units_3 = Column(Integer)
+    year_3 = Column(Integer)
+    baths_4 = Column(Integer)
+    bedrooms_4 = Column(Integer)
+    square_feet_4 = Column(Integer)
+    units_4 = Column(Integer)
+    year_4 = Column(Integer)
+    baths_5 = Column(Integer)
+    bedrooms_5 = Column(Integer)
+    square_feet_5 = Column(Integer)
+    units_5 = Column(Integer)
+    year_5 = Column(Integer)
 
     address = relationship(
         'Address',
