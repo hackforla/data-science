@@ -296,8 +296,9 @@ def process_assessor(filepath: str, session):
     for _, row in assessor_dataframe.iterrows():
         address_id = get_address_id(session, row)
         m_address = (
-            session.query(AssessorMailing
-).filter(
+            session.query(
+                AssessorMailing
+            ).filter(
                 AssessorMailing.address1 == row['M Address1'],
                 AssessorMailing.address2 == row['M Address2'],
                 AssessorMailing.city == row['M City'],
