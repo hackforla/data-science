@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 # unhash below when testing
-SQLALCHEMY_DATABASE_URL = 'sqlite:///./LAANEtest.db'
+# SQLALCHEMY_DATABASE_URL = 'sqlite:///./LAANEtest.db'
 # SQLALCHEMY_DATABASE_URL = 'sqlite:///./LAANE.db'
 
 engine = create_engine(

@@ -10,6 +10,9 @@ from scourgify import normalize_address_record
 def normalize_address_wrapper(address: str) -> dict:
     """
     A wrapper that handles errors for normalize_address_record function.
+    This wrapper ensures that if the value creates an error, 
+    then the function returns all the data in address_line_1. 
+    The original function returns an error and stops the code.
 
     :param address: an address to break into multiple address fields.
     """

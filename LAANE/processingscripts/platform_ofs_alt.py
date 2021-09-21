@@ -6,6 +6,7 @@ Author : Albert Ulysses <albertulysseschavez@gmail.com>
 # sometimes the data comes in a slightly different way.
 # an identifier is if it has a stius column
 # this file does not process file with situs column
+# file must be converted to csv
 from operator import itemgetter
 
 import numpy as np
