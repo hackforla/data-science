@@ -396,4 +396,4 @@ class AirbnbListings(Base):
     last_scraped = Column(String)
 
 # unhash below to create the database.
-Base.metadata.create_all(bind=engine)
+# Base.metadata.create_all(bind=engine)

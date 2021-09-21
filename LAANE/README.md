@@ -26,10 +26,11 @@ multiple_files(
 ```
 ## Folder Layout:
 ### database
-Has the code for connecting to SQL Alchemy. 
+Has the code for connecting to SQLite db with SQL Alchemy. 
 
 ### outdated
 Outdated methods and analysis before ERD were complete. 
+(should be deleted after analysis begins.)
 
 ### processingscripts
 The scripts for each dataset. 
@@ -38,7 +39,7 @@ The scripts for each dataset.
 Extra material such as ERD and Data Dictionary.
 
 ### test
-tests for functions
+Unit tests.
 
 ### transformations
 This folder holds files that help multiple processing scripts.
@@ -62,7 +63,6 @@ This folder holds files that help multiple processing scripts.
 ## TODO:
 Below are some things that I would have liked to do but don't have time for at this moment. These are a great starting point for someone else to continue with the project.
 * write data dict
-* create a requirements file
 * create a mock database to test the inserts and sql alchemy.
 * plenty of room for refactoring.
 
