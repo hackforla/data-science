@@ -3,6 +3,8 @@ Purpose: To transform and normalize Assessor data.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
+# Notes: this file assumes that the Assessor file is changed into a csv.
+# It is better to have the Assessor file divided into multiple files
 import re
 from typing import List
 from operator import itemgetter
@@ -295,7 +297,7 @@ def normalize_assessor(filepath: str) -> pd.DataFrame:
         for unit in assessor_dataframe['M Address2'].tolist()
     ]
     assessor_dataframe.drop_duplicates(inplace=True)
-    return assessor_dataframe.head(5000)
+    return assessor_dataframe
 
 def process_assessor(filepath: str, session):
     """
@@ -331,47 +333,90 @@ def process_assessor(filepath: str, session):
             )
             session.add(m_address)
             session.commit()
-        assessor_entry = Assessor(
-            address_id=address_id,
-            assessor_mailing_id=m_address.assessor_mailing_id,
-            ain=row['AIN'],
-            agency_number=row['Agency Number'],
-            special_name_assessee=row['Special Name Assessee'],
-            special_name_legend=row['Special Name Legend'],
-            names=row['names'],
-            trust_name=row['trust names'],
-            homeowner_expemtion_value=row['Homeowner Exemption Val'],
-            landlord_reappraisal_year=row['Landlord Reappraisal Year'],
-            landlord_units=row['Landlord Units'],
-            baths_1=row['BD1 Baths'],
-            bedrooms_1=row['BD1 Bedrooms'],
-            square_feet_1=row['BD1 Square Feet'],
-            units_1=row['BD1 Units'],
-            year_1=row['BD1 Year Built'],
-            baths_2=row['BD2 Baths'],
-            bedrooms_2=row['BD2 Bedrooms'],
-            square_feet_2=row['BD2 Square Feet'],
-            units_2=row['BD2 Units'],
-            year_2=row['BD2 Year Built'],
-            baths_3=row['BD3 Baths'],
-            bedrooms_3=row['BD3 Bedrooms'],
-            square_feet_3=row['BD3 Square Feet'],
-            units_3=row['BD3 Units'],
-            year_3=row['BD3 Year Built'],
-            baths_4=row['BD4 Baths'],
-            bedrooms_4=row['BD4 Bedrooms'],
-            square_feet_4=row['BD4 Square Feet'],
-            units_4=row['BD4 Units'],
-            year_4=row['BD4 Year Built'],
-            baths_5=row['BD5 Baths'],
-            bedrooms_5=row['BD5 Bedrooms'],
-            square_feet_5=row['BD5 Square Feet'],
-            units_5=row['BD5 Units'],
-            year_5=row['BD5 Year Built'],
+        assessor_entry = (
+            session.query(
+                Assessor
+            ).filter(
+                Assessor.assessor_mailing_id==m_address.assessor_mailing_id,
+                Assessor.ain==row['AIN'],
+                Assessor.agency_number==row['Agency Number'],
+                Assessor.special_name_assessee==row['Special Name Assessee'],
+                Assessor.special_name_legend==row['Special Name Legend'],
+                Assessor.names==row['names'],
+                Assessor.trust_name==row['trust names'],
+                Assessor.homeowner_expemtion_value==row['Homeowner Exemption Val'],
+                Assessor.landlord_reappraisal_year==row['Landlord Reappraisal Year'],
+                Assessor.landlord_units==row['Landlord Units'],
+                Assessor.baths_1==row['BD1 Baths'],
+                Assessor.bedrooms_1==row['BD1 Bedrooms'],
+                Assessor.square_feet_1==row['BD1 Square Feet'],
+                Assessor.units_1==row['BD1 Units'],
+                Assessor.year_1==row['BD1 Year Built'],
+                Assessor.baths_2==row['BD2 Baths'],
+                Assessor.bedrooms_2==row['BD2 Bedrooms'],
+                Assessor.square_feet_2==row['BD2 Square Feet'],
+                Assessor.units_2==row['BD2 Units'],
+                Assessor.year_2==row['BD2 Year Built'],
+                Assessor.baths_3==row['BD3 Baths'],
+                Assessor.bedrooms_3==row['BD3 Bedrooms'],
+                Assessor.square_feet_3==row['BD3 Square Feet'],
+                Assessor.units_3==row['BD3 Units'],
+                Assessor.year_3==row['BD3 Year Built'],
+                Assessor.baths_4==row['BD4 Baths'],
+                Assessor.bedrooms_4==row['BD4 Bedrooms'],
+                Assessor.square_feet_4==row['BD4 Square Feet'],
+                Assessor.units_4==row['BD4 Units'],
+                Assessor.year_4==row['BD4 Year Built'],
+                Assessor.baths_5==row['BD5 Baths'],
+                Assessor.bedrooms_5==row['BD5 Bedrooms'],
+                Assessor.square_feet_5==row['BD5 Square Feet'],
+                Assessor.units_5==row['BD5 Units'],
+                Assessor.year_5==row['BD5 Year Built'],
+            ).one_or_none()
         )
-        session.add(assessor_entry)
-        session.commit()
-        print('commited Assessor entry')
+
+        if assessor_entry is None:
+            assessor_entry = Assessor(
+                address_id=address_id,
+                assessor_mailing_id=m_address.assessor_mailing_id,
+                ain=row['AIN'],
+                agency_number=row['Agency Number'],
+                special_name_assessee=row['Special Name Assessee'],
+                special_name_legend=row['Special Name Legend'],
+                names=row['names'],
+                trust_name=row['trust names'],
+                homeowner_expemtion_value=row['Homeowner Exemption Val'],
+                landlord_reappraisal_year=row['Landlord Reappraisal Year'],
+                landlord_units=row['Landlord Units'],
+                baths_1=row['BD1 Baths'],
+                bedrooms_1=row['BD1 Bedrooms'],
+                square_feet_1=row['BD1 Square Feet'],
+                units_1=row['BD1 Units'],
+                year_1=row['BD1 Year Built'],
+                baths_2=row['BD2 Baths'],
+                bedrooms_2=row['BD2 Bedrooms'],
+                square_feet_2=row['BD2 Square Feet'],
+                units_2=row['BD2 Units'],
+                year_2=row['BD2 Year Built'],
+                baths_3=row['BD3 Baths'],
+                bedrooms_3=row['BD3 Bedrooms'],
+                square_feet_3=row['BD3 Square Feet'],
+                units_3=row['BD3 Units'],
+                year_3=row['BD3 Year Built'],
+                baths_4=row['BD4 Baths'],
+                bedrooms_4=row['BD4 Bedrooms'],
+                square_feet_4=row['BD4 Square Feet'],
+                units_4=row['BD4 Units'],
+                year_4=row['BD4 Year Built'],
+                baths_5=row['BD5 Baths'],
+                bedrooms_5=row['BD5 Bedrooms'],
+                square_feet_5=row['BD5 Square Feet'],
+                units_5=row['BD5 Units'],
+                year_5=row['BD5 Year Built'],
+            )
+            session.add(assessor_entry)
+            session.commit()
+            print('commited Assessor entry')
     print('Finished')
 
 

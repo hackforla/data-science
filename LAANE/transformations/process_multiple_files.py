@@ -25,6 +25,7 @@ def multiple_files(filepath: str, filetype: str, process_function, session):
     num_files = len(all_files)
 
     for i, datafile in enumerate(all_files, 1):
+        print(datafile)
         process_function(
             datafile,
             session=session,

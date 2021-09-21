@@ -3,6 +3,7 @@ Purpose: To transform and insert one fine stay (ofs) datasets.
 
 Author : Albert Ulysses <albertulysseschavez@gmail.com>
 """
+# All excel files must be converted to csv.
 from operator import itemgetter
 
 import numpy as np
