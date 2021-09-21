@@ -29,7 +29,7 @@ six==1.16.0
 SQLAlchemy==1.4.23
 toml==0.10.2
 typing-extensions==3.10.0.2
-urllib3==1.24.3
+urllib3==1.26.5
 usaddress==0.5.10
 usaddress-scourgify==0.2.4
 wells==1.4.1
