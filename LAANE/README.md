@@ -62,6 +62,8 @@ This folder holds files that help multiple processing scripts.
 
 ## TODO:
 Below are some things that I would have liked to do but don't have time for at this moment. These are a great starting point for someone else to continue with the project.
+* write some SQL queries for LAANE to start with for their analysis
+* help set up the scripts for LAANE
 * write data dict
 * create a mock database to test the inserts and sql alchemy.
 * plenty of room for refactoring.
