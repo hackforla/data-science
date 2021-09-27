@@ -19,21 +19,18 @@ class MapClient:
         upperbbox: list,
         perpage: int = 1,
         layer: str = "trafficsigns",
+        startlastseenat:str = None,
         value=None
     ):
         bbox_list = [*lowerbbox[::-1], *upperbbox[::-1]]
         bbox = ",".join([repr(point) for point in bbox_list])
+        searchparams = f"?layers={layer}&bbox={bbox}"
+        if startlastseenat is not None:
+            searchparams += f"&start_last_seen_at={startlastseenat}"
         if value is not None:
-            params = (
-                f"?layers={layer}&bbox={bbox}&value={value}&per_page={perpage}&"
-                f"client_id={self.CLIENT_ID}&sort_by=key"
-            )
-        else:
-            params = (
-                f"?layers={layer}&bbox={bbox}&per_page={perpage}&"
-                f"client_id={self.CLIENT_ID}&sort_by=key"
-            )
-        complete_url = self.BASE_DOMAIN + params
+            searchparams += f"&value={value}"
+        fullparams = f"{searchparams}&per_page={perpage}&client_id={self.CLIENT_ID}&sort_by=key"
+        complete_url = self.BASE_DOMAIN + fullparams
         print("Requesting data from Mapillary API")
         print(complete_url)
         response = requests.get(complete_url, timeout=300)
