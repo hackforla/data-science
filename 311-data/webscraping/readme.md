@@ -9,6 +9,7 @@ JSON Format:
 
 [ ..., {"url": NC survey website, "tech": tech from the url , "href": builtwith link with stats on tech }, ... ]
 
+Find the CSV on [google sheets](https://docs.google.com/spreadsheets/d/1oOBfaKLSQAeOB4V7gwjQYyeOdz6a5IBmkH_Lr2Kzn40/edit?usp=sharing)
 
 ## Commands:
 ```
