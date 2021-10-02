@@ -19,6 +19,7 @@ RUN pip install requests==2.24.0
 RUN pip install pandas==1.1.4
 RUN pip install validators==0.18.2
 RUN pip install selenium==3.141.0
+RUN pip install numpy==1.21.0
 # set display port to avoid crash
 ENV DISPLAY=:99
 WORKDIR /app

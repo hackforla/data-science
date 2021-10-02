@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup, element
 import json
 import pandas as pd      
-
+import numpy as np
 
 def scrape_builtwith(base_url, url_list):
     options = webdriver.ChromeOptions()
@@ -36,10 +36,16 @@ def scrape_builtwith(base_url, url_list):
             elt = div.findAll("a")[0]
             survey_tech_list.append({'url': url, 'tech': elt.text ,'href': elt.attrs["href"] })
 
-
     return survey_tech_list
 
+def json_list_to_table(json_list):
+    df_records = pd.DataFrame(json_list)
+    df_records["count"] = 1
 
+    table = pd.pivot_table(df_records, values = "count", index = "tech", columns = "url",aggfunc=np.sum)
+    table.fillna(0,inplace = True)
+
+    return table
 
 
 if __name__ == "__main__":
@@ -55,3 +61,7 @@ if __name__ == "__main__":
 
     with open('data.json', 'w') as f:
         json.dump(survey_tech_list, f)
+
+    table = json_list_to_table(survey_tech_list)
+
+    table.to_csv("tech_table.csv")
