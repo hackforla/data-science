@@ -1,5 +1,5 @@
 ---
-name: 311-data-dashboards
+name: Update 311-data-dashboards
 about: Create a new issue for 311-data-dashboards
 title: ''
 labels: ''
