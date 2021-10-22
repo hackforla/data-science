@@ -20,7 +20,7 @@ The Data Science Community of Practice is one of many.  [See all our Communities
 
 The Hack For LA Data Science team is a group within the LA brigade seeking to make analytical and machine learning services available to local communities and organizations. We have three main goals as a team:
 
-1. To provide data science services to communities in the Los Angeles area. Please contact us if you have a proposal for a data science project. We have many talented data scientists with track records in industry and academia, and we are excited to be able to support our communities.
+1. To provide data science services to communities in the Los Angeles area. Please [contact us](mailto:datascience@hackforla.org) if you have a proposal for a data science project. We have many talented data scientists with track records in industry and academia, and we are excited to be able to support our communities.
 
 2. To provide mentorship and development opportunities for junior data scientists in the LA area. We aim to connect new data scientists with projects that match and advance their skill levels, as well as provide opportunities to learn new technologies and make connections with programmers in the Los Angeles area.
 
