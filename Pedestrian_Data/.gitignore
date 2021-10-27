@@ -3,3 +3,4 @@
 *.csv
 *.tsv
 */__pycache__/*
+~$*.pptx
