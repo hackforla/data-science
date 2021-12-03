@@ -24,4 +24,4 @@ Refer to the documentation in the [311-data dashboards directory](https://github
 
 [Dash Python User Guide](https://dash.plotly.com/)
 
-Optional: prototype reports in Jupyter Notebooks -examples found [here](https://drive.google.com/drive/u/3/folders/1P-uID8FpnqwvYlUmzWsmgU4pxRSeb72z). 
+Optional: prototype reports in Jupyter Notebooks -examples found [here](https://drive.google.com/drive/u/3/folders/1P-uID8FpnqwvYlUmzWsmgU4pxRSeb72z).

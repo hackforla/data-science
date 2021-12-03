@@ -17,3 +17,9 @@ REPLACE THIS TEXT -If the issue has already been researched, and the course of a
 
 ### Resources/Instructions
 REPLACE THIS TEXT -If there is a website which has documentation that helps with this issue provide the link(s) here.
+
+- If this issue requires access to 311 data, please answer the following questions:
+   - Do you need a one-time or ongoing dump of the data?
+   - Do you need subset of data (i.e. certain years) or the entire data set (approx. 4 million rows or 11 GB)?
+      - If a subset is needed, please define subset characteristics (i.e. date range, etc.)
+   -  Do you need online access via an API or a download of data?
