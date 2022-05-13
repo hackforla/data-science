@@ -11,7 +11,7 @@ assignees: ''
 We need to create a guide for [name of item] so that [purpose of the item]
 
 ### Action Items
-- [ ] Gather examples of how other Hack for LA projects or volunteers have done this (if applicable), adding each example as a link in the resources section below
+- [ ] Gather examples of how other Hack for LA projects or volunteers have done this (if applicable), adding each example as a link in the resources section below. It is really important to annotate as you go in this issue, so that if you have to stop working on the issue, its already up to date with your findings.
    - [ ] Once done, remove the "Guide: Gather Examples" label and add the "Guide: Research" label
 - [ ] Research existing information about [name of item] in [relevant resources, articles, etc.]
    - [ ] Once done, remove the "Guide: Research" label and add the "Guide: Draft Guide" label
