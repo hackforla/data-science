@@ -2,14 +2,14 @@
 
 The docker container will output 
     1. A json with tech stacks of websites for the NC survey.
-    2. A csv pivot table showing websites in columns and techs in rows 
+    2. A csv pivot table showing websites, tech categories, tech urls, and total_count in columns and techs in rows 
 
  
 JSON Format:
 
 [ ..., {"url": NC survey website, "tech": tech from the url , "href": builtwith link with stats on tech }, ... ]
 
-Find the CSV on [google sheets](https://docs.google.com/spreadsheets/d/1oOBfaKLSQAeOB4V7gwjQYyeOdz6a5IBmkH_Lr2Kzn40/edit?usp=sharing)
+Find the CSV on [google sheets](https://docs.google.com/spreadsheets/d/1IDpVrv6kr06nvbr3nI09933gFdePukhvB5J39XruwAA/edit?usp=sharing)
 
 ## Commands:
 ```
