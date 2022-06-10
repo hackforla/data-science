@@ -13,7 +13,7 @@ def authenticate(username, token):
 
 
 def create_csv(csv_filename):
-    csv_headers = ['Organization', 'Repository', 'IssueNbr', 'LabelName', 'LabelDescription']
+    csv_headers = ['Organization', 'Repository', 'IssueNbr', 'LabelName', 'LabelDescription', 'CreatedAt', 'ClosedAt']
     with open(csv_filename, 'w', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(csv_headers)
@@ -59,20 +59,30 @@ class Repo():
                 page_number = 0
                 break
 
-    def get_issues(self, organization, repo):
+    def get_issues(self, organization, repo, state):
         """This one gets all the issues for a given repo"""
         headers = self.headers
         self.issues = []  # Making sure no issues from a previous repo is in memory
         page_number = 1
         while page_number > 0:
             response2 = requests.get(
-                'https://api.github.com/repos/' + organization + '/' + repo + '/issues?per_page=100'
+                'https://api.github.com/repos/' + organization + '/' + repo + '/issues?state=' + state +'&per_page=100'
                                                                               '&page=' + str(
                     page_number),
                 headers=headers)
             json_response2 = json.loads(response2.content)
             for issue in json_response2:
                 self.issues.append(issue['number'])
+                my_issue = Issue(organization, self.token, self.filename, repo, issue['number'], issue['labels'], headers,
+                                 issue['created_at'], issue['closed_at'])
+                if  my_issue.labels == []:
+                    self.labels.append('null')
+                    csv_row = [organization, repo, issue['number'], 'null', 'null',my_issue.created_at,my_issue.closed_at]
+                    self.update_csv(csv_row)
+                for label in my_issue.labels:
+                    self.labels.append(label['name'])
+                    csv_row = [organization, repo, issue['number'], label['name'], label['description'], my_issue.created_at, my_issue.closed_at]
+                    self.update_csv(csv_row)
             print(str(len(json_response2)) + " issues in " + repo + " page #" + str(page_number))
             if len(json_response2) == 100:
                 page_number = page_number + 1
@@ -80,16 +90,22 @@ class Repo():
                 page_number = 0
                 break
 
-    def get_labels(self, organization, repo, issue):
-        """This one gets all the labels for a given issue"""
-        headers = self.headers
-        self.labels = []  # Making sure no labels from a previous issue is in memory
-        response3 = requests.get(
-            'https://api.github.com/repos/' + organization + '/' + repo + '/issues/' + str(issue) + '/labels',
-            headers=headers)
-        json_response3 = json.loads(response3.content)
-        for label in json_response3:
-            self.labels.append(label['name'])
-            csv_row = [organization, repo, issue, label['name'], label['description']]
-            self.update_csv(csv_row)
+
+class Issue():
+    """A representation of a GitHub Repo"""
+
+    def __init__(self, organization, token, filename, repo=[], issue=[], labels=[], headers=[], created_at=[], closed_at=[]):
+        self.organization = organization
+        self.repo = repo
+        self.created_at = created_at
+        self.closed_at = closed_at
+        self.issueNbr = issue
+        self.labels = labels
+        self.token = token
+        self.filename = filename
+        self.headers = {
+            'Accept': 'application/vnd.github.v3+json',
+            'Authorization': 'token ' + token
+        }
+
 
