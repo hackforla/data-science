@@ -13,7 +13,7 @@ def authenticate(username, token):
 
 
 def create_csv(csv_filename):
-    csv_headers = ['Organization', 'Repository', 'IssueNbr', 'LabelName', 'LabelDescription', 'CreatedAt', 'ClosedAt']
+    csv_headers = ['Organization', 'Repository', 'IssueNbr', 'LabelName', 'LabelDescription', 'LabelDefaultTag', 'CreatedAt', 'ClosedAt', 'Assignees']
     with open(csv_filename, 'w', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(csv_headers)
@@ -74,14 +74,14 @@ class Repo():
             for issue in json_response2:
                 self.issues.append(issue['number'])
                 my_issue = Issue(organization, self.token, self.filename, repo, issue['number'], issue['labels'], headers,
-                                 issue['created_at'], issue['closed_at'])
+                                 issue['created_at'], issue['closed_at'], issue['assignees'])
                 if  my_issue.labels == []:
                     self.labels.append('null')
-                    csv_row = [organization, repo, issue['number'], 'null', 'null',my_issue.created_at,my_issue.closed_at]
+                    csv_row = [organization, repo, issue['number'], 'null', 'null', 'null', my_issue.created_at,my_issue.closed_at,len(my_issue.assignees)]
                     self.update_csv(csv_row)
                 for label in my_issue.labels:
                     self.labels.append(label['name'])
-                    csv_row = [organization, repo, issue['number'], label['name'], label['description'], my_issue.created_at, my_issue.closed_at]
+                    csv_row = [organization, repo, issue['number'], label['name'], label['description'], label['default'], my_issue.created_at, my_issue.closed_at,len(my_issue.assignees)]
                     self.update_csv(csv_row)
             print(str(len(json_response2)) + " issues in " + repo + " page #" + str(page_number))
             if len(json_response2) == 100:
@@ -92,20 +92,20 @@ class Repo():
 
 
 class Issue():
-    """A representation of a GitHub Repo"""
+    """A representation of a GitHub Issue"""
 
-    def __init__(self, organization, token, filename, repo=[], issue=[], labels=[], headers=[], created_at=[], closed_at=[]):
+    def __init__(self, organization, token, filename, repo=[], issue=[], labels=[], headers=[], created_at=[], closed_at=[], assignees=[]):
         self.organization = organization
         self.repo = repo
         self.created_at = created_at
         self.closed_at = closed_at
         self.issueNbr = issue
         self.labels = labels
+        self.assignees = assignees
         self.token = token
         self.filename = filename
         self.headers = {
             'Accept': 'application/vnd.github.v3+json',
             'Authorization': 'token ' + token
         }
-
 

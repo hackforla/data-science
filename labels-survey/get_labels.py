@@ -7,12 +7,15 @@ load_dotenv()
 
 organizations = ['hackforla', '100automations', 'civictechindex', 'civictechstructure', 'hackla-engage'] # suggested orgs: 'hackforla', '100automations', 'civictechindex',
 # 'civictechstructure', 'hackla-engage'
+print(organizations)
 token = os.getenv("TOKEN")
+
 username = os.getenv("USERNAME")
 csv_filename = 'output.csv'
 state = 'all'
 
 authenticate(username, token) # Just to verify token and username are OK
+create_csv(csv_filename)
 
 
 for organization in organizations:
