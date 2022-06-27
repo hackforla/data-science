@@ -1,13 +1,18 @@
+import os
+from dotenv import load_dotenv
 from repos import *
+load_dotenv()
 
-organizations = ['YOUR ORGANIZATIONS HERE'] #suggested orgs: 'hackforla', '100automations', 'civictechindex', 'civictechstructure', 'hackla-engage'
-token = 'YOUR GITHUB TOKEN HERE'
-username = 'YOUR GITHUB USERNAME HERE'
-csv_filename = 'output.csv' #suggested filename is output.csv
-state = 'open' #status of the issues. Values are open, closed or all
+
+
+organizations = ['hackforla', '100automations', 'civictechindex', 'civictechstructure', 'hackla-engage'] # suggested orgs: 'hackforla', '100automations', 'civictechindex',
+# 'civictechstructure', 'hackla-engage'
+token = os.getenv("TOKEN")
+username = os.getenv("USERNAME")
+csv_filename = 'output.csv'
+state = 'all'
 
 authenticate(username, token) # Just to verify token and username are OK
-
 
 
 for organization in organizations:
