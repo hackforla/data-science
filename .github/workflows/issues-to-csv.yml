@@ -1,0 +1,32 @@
+name: List Issues and Output as CSV
+
+on:
+  pull_request:
+
+jobs:
+  list-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List Issues for Repository
+        id: list_issues
+        run: |
+          echo "issue_id,issue_title,issue_state" > issues.csv
+          PAGE=1
+          while :; do
+            RESPONSE=$(gh api repos/$ORGANIZATION/website/issues -f state=all -f per_page=100 -f page=$PAGE)
+            echo "$RESPONSE" | jq -r '.[] | "\(.id),\(.title),\(.state)"' >> issues.csv
+            COUNT=$(echo "$RESPONSE" | jq length)
+            if [ "$COUNT" -lt 100 ]; then
+              break
+            fi
+            ((PAGE++))
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORGANIZATION: 'hackforla' 
+
+      - name: Upload CSV as Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: issues.csv
+          path: issues.csv
