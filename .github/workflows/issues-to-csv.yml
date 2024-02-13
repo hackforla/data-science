@@ -11,7 +11,7 @@ jobs:
   # unless overridden when issue has "LA website bot" in title, then 'Questions / In Review'
   list-issues:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'issues' && github.event.action == 'opened' }}
+    # if: ${{ github.event_name == 'issues' && github.event.action == 'opened' }}
     # env:
     #   COLUMN_NAME: ${{ contains(github.event.issue.title, 'Hack for LA website bot') && 'Questions / In Review' || 'New Issue Approval' }}
     steps:
