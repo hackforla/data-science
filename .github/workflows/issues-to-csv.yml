@@ -1,9 +1,10 @@
 name: List Issues and Output as CSV
 
 on:
+  pull_request:
   issues: 
     types: [opened, transferred, assigned]
-  # pull_request:
+  
 
 jobs:
   list-issues:
