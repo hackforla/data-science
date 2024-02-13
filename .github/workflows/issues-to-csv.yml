@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: List Issues for Repository
         # id: list_issues
-        uses: alex-page/github-project-automation-plus@v0.9.0
+        # uses: alex-page/github-project-automation-plus@v0.9.0
         with: 
           project: Volunteer Dashboard
           column:  ${{ env.COLUMN_NAME }}
