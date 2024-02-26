@@ -1,46 +1,77 @@
 name: List Issues and Output as CSV
 
 on:
+  issues:
+    types: [opened, closed, reopened]
   pull_request:
-  issues: 
-    type: [opened]
-  
+    types: [opened, closed, reopened]
 
 jobs:
-   # Adds newly created issues onto project board in the default column 'New Issue Approval' 
-  # unless overridden when issue has "LA website bot" in title, then 'Questions / In Review'
   list-issues:
     runs-on: ubuntu-latest
-    # if: ${{ github.event_name == 'issues' && github.event.action == 'opened' }}
-    # env:
-    #   COLUMN_NAME: ${{ contains(github.event.issue.title, 'Hack for LA website bot') && 'Questions / In Review' || 'New Issue Approval' }}
     steps:
-      - name: List Issues for Repository
-        # id: list_issues
-        # uses: alex-page/github-project-automation-plus@v0.9.0
-        with: 
-          project: Volunteer Dashboard
-          column:  ${{ env.COLUMN_NAME }}
-          repo-token: ${{ secrets.HACKFORLA_BOT_PA_TOKEN }}
-       
-      # Checkout the repo to access the generate_csv.py script
+      # Checkout the repo to access any scripts or tools you might need
       - name: Checkout repository
         uses: actions/checkout@v3
-
+      
+      # Generate issues CSV
       - name: Generate issues CSV
         run: |
-          echo "Issue Number,Title,Labels,Projects" > issues.csv
+          echo "Issue Number,Title,Labels" > issues.csv
           curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                "https://api.github.com/repos/${{ github.repository }}/issues?state=all&per_page=100" | \
-          jq -r '.[] | select(.pull_request == null) | [.number, .title, (.labels | map(.name) | join(",")), (.projectCards | map(.project_url) | join(","))] | @csv' >> issues.csv
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          jq -r '.[] | select(.pull_request == null) | [.number, .title, (.labels | map(.name) | join(","))] | @csv' >> issues.csv
 
+      # Upload CSV as artifact
       - name: Upload CSV as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: issues-csv
           path: issues.csv
+
+# name: List Issues and Output as CSV
+
+# on:
+#   pull_request:
+#   issues: 
+#     type: [opened]
+  
+
+# jobs:
+#    # Adds newly created issues onto project board in the default column 'New Issue Approval' 
+#   # unless overridden when issue has "LA website bot" in title, then 'Questions / In Review'
+#   list-issues:
+#     runs-on: ubuntu-latest
+#     # if: ${{ github.event_name == 'issues' && github.event.action == 'opened' }}
+#     # env:
+#     #   COLUMN_NAME: ${{ contains(github.event.issue.title, 'Hack for LA website bot') && 'Questions / In Review' || 'New Issue Approval' }}
+#     steps:
+#       - name: List Issues for Repository
+#         # id: list_issues
+#         # uses: alex-page/github-project-automation-plus@v0.9.0
+#         with: 
+#           project: Volunteer Dashboard
+#           column:  ${{ env.COLUMN_NAME }}
+#           repo-token: ${{ secrets.HACKFORLA_BOT_PA_TOKEN }}
+       
+#       # Checkout the repo to access the generate_csv.py script
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
+
+      # - name: Generate issues CSV
+      #   run: |
+      #     echo "Issue Number,Title,Labels,Projects" > issues.csv
+      #     curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+      #          "https://api.github.com/repos/${{ github.repository }}/issues?state=all&per_page=100" | \
+      #     jq -r '.[] | select(.pull_request == null) | [.number, .title, (.labels | map(.name) | join(",")), (.projectCards | map(.project_url) | join(","))] | @csv' >> issues.csv
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # - name: Upload CSV as artifact
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: issues-csv
+      #     path: issues.csv
 
       # # Setup Python environment
       # - name: Set up Python
