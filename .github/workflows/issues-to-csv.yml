@@ -5,7 +5,8 @@ on:
     types: [opened, closed, reopened]
   pull_request:
     types: [opened, closed, reopened]
-
+  workflow_dispatch:
+  
 jobs:
   list-issues:
     runs-on: ubuntu-latest
