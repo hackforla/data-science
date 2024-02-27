@@ -34,7 +34,7 @@ jobs:
           git add -f issues.csv  
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
-          git push origin HEAD:refs/heads/n2020h-issues-to-csv
+          git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
         
       # # Upload CSV as artifact
       # - name: Upload CSV as artifact
