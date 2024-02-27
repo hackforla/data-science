@@ -25,20 +25,23 @@ jobs:
           curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                "https://api.github.com/repos/${{ github.repository }}/issues?state=all&per_page=100" | \
           jq -r '.[] | select(.pull_request == null) | [.number, .title, (.labels | map(.name) | join(","))] | @csv' >> issues.csv
-        
-      # - name: Commit CSV to Repository
-      #   uses: stefanzweifel/git-auto-commit-action@v4
-      #   with:
-      #     commit_message: "Update issues CSV"
-      #     file_pattern: issues.csv
-      #     branch: main
 
-      # Upload CSV as artifact
-      - name: Upload CSV as artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: issues-csv
-          path: issues.csv
+      #force add file to repo, commit and push
+      - name: Commit and push
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f issues.csv  
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push origin HEAD:refs/heads/n2020h-issues-to-csv
+        
+      # # Upload CSV as artifact
+      # - name: Upload CSV as artifact
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: issues-csv
+      #     path: issues.csv
 
 
       #     name: issues-csv
