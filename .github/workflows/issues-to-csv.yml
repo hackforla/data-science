@@ -1,13 +1,18 @@
 name: List Issues and Output as CSV
 
 on:
+  push:
+    branches:
+      - n2020h-issues-to-csv
   workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
   issues:
     types: [opened, closed, reopened]
   pull_request:
     types: [opened, closed, reopened]
+    branches: 
+      - n2020h-issues-to-csv
   
   
 jobs:
