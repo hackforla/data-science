@@ -1,46 +1,1132 @@
-Issue Number,Title,Labels
-194,"Create data dictionary (EDA task)",""
-193,"DRAFT: Access to ""Third Spaces""",""
-191,"DRAFT: MediaWiki NLP Project",""
-190,"Create Base64 and Env File Tutorial",""
-189,"Refining the Requirements for Skills Match Dashboard",""
-183,"MERL Center Data Cleaning","role: missing,project duration: one time,size: 1pt,project: MC Southern Africa NGOs' OS usage"
-182,"Active and Inactive Businesses of LA County","role: data science,epic,size: 3pt,project: EDA"
-181,"Affordable Housing Access to Food Pantries","role: data science,epic,size: 3pt,project: EDA"
-180,"City of Los Angeles Arrests","role: data science,epic,size: 3pt,project: EDA"
-179,"City of Los Angeles Evictions","role: data science,epic,size: 3pt,project: EDA"
-178,"Find data sources through the LA Controller's office","documentation,good first issue,role: data analysis,size: 1pt,project: missing"
-177,"Create 311 data CSV files that can be accessed through a Jupyter notebook","role: data science,project: 311 Data,size: 3pt,feature: project management"
-170,"California Grants Portal Data Set EDA","role: data analysis,project duration: ongoing,size: 1pt,project: EDA"
-169,"Potential Projects: California Grants Portal","role: data science,epic,size: epic,dependency,project: EDA"
-163,"Complete Intro to Command Line and Git Tutorial","feature: guide,role: data science,size: 1pt"
-162,"Complete Intro to Python Tutorial","feature: guide,role: data science,size: 1pt,draft,ready for product"
-161,"Project Name: Lucky Parking","feature: missing,role: data analysis,size: 1pt,project: missing"
-157,"Create Deep Learning Tutorial","documentation,feature: guide,role: org,size: 1pt"
-156,"Create Machine Learning Tutorial","documentation,feature: guide,role: org,size: 1pt"
-155,"Create Stats Tutorial","documentation,feature: guide,role: org,size: 1pt"
-154,"Create Data Ops Tutorial","documentation,feature: guide,role: org,size: 1pt"
-153,"Create Text Analysis Tutorial","documentation,feature: guide,role: org,size: 1pt"
-152,"Open Source Projects Data Set for Climate projects","role: data analysis,size: 1pt,epic: GreenEarthOS,project: climate projects,draft"
-149,"Weekly Label Check","role: product,size: 1pt,feature: project management"
-160,"Survey: Repo Labels","project duration: ongoing,size: 2pt,time sensitive,role: Data Engineer,feature: labels"
-148,"Create Geospatial Data Analysis Tutorial","documentation,feature: guide,role: org,size: 1pt"
-147,"Create Data Engineering Tutorial","documentation,feature: guide,role: org,size: 1pt"
-146,"Create Web Scraping Tutorial","documentation,feature: guide,role: org,size: 1pt"
-145,"Create Data Analysis With R Tutorial","documentation,feature: guide,role: org,size: 1pt"
-144,"Create Data Visualization Tutorial","documentation,feature: guide,role: org,size: 1pt,feature: needs peer review"
-143,"Create ETL/Data Cleaning Tutorial","documentation,feature: guide,role: org,size: 1pt"
-141,"Obtain Shape Files for Different District Types (2023)","good first issue,role: data analysis,project duration: one time,dependency,size: 1pt,project: district types"
-140,"Create a logo for the Data Science CoP","role: product,role: org,project duration: one time,size: 2pt,feature: branding"
-138,"Starter Project for New Data Analysts and Data Scientists","role: product,role: CoP lead,feature: onboarding,size: epic,dependency"
-137,"Data Science CoP Meeting Agendas (Monday 7PM PST)","feature: guide,role: product,size: 1pt,feature: agenda"
-135,"Find and document all the 311 public data sets","role: data analysis,project: 311 Data,size: 2pt,epic: 311 public data sets"
-134,"Overview Dashboard - add titles to graphs","feature: guide,role: data science,project: 311-data-dashboards,size: 1pt,epic: 311 public data sets"
-133,"Create labels, features, milestones","role: product,dependency,size: 3pt,feature: project management"
-131,"Story Size for Data Science Issues","role: product,size: 1pt,feature: project management"
-130,"Create a Guide: Web Scraping","Guide: Research,feature: guide,role: org,size: 5pt"
-124,"Obtain Shape Files for Different District Types as of Nov/Dec 2021","feature: guide,role: data analysis,project duration: one time,size: 1pt,project: district types"
-121,"Template For Creating Epics For Data Science Projects","role: product,size: 1pt,feature: project management"
-120,"Structured Context for HfLA created data sets","feature: guide,role: data science,size: epic,project: structured context,TG: Draft Template"
-118,"Create district types reusable tool (API, single dataset, etc.)","feature: guide,role: data analysis,epic,size: epic,size: 1pt"
-94,"Data Science Competitive/Comparative Analysis","feature: guide,role: product,size: 2pt"
+Issue Number,Title,Labels,State,Assignee,Milestone,Comments,Created At,Updated At,Closed At,Author Association,Body
+204,"Recruit volunteers for team open roles","role: missing,epic,ready for product,size: 0.25pt,feature: recruiting","open","None","None",2,"2024-06-14T19:15:48Z","2024-06-22T03:14:32Z","None","CONTRIBUTOR","### Dependency
+- [ ] need to recruit new team members to Data Science projects team
+
+### Overview
+We need volunteer(s) to work on the open issues we have so that we can move the project forward.
+
+### Action Items
+#### Creating a new role post
+- [ ] Copy the template post from the Community of Practice WIKI, Open Roles Templates (Resource 1.01)
+- [ ] Paste the template in a comment below
+- [ ] Customize the comment to reflect your open role
+- [ ] Open a new issue by using the Open Role template (Resource 1.02)
+- [ ] Copy and Paste your customized comment to the new issue
+- [ ] Add the label for the role that you are recruiting for
+- [ ] Submit the new issue
+- [ ] Assign yourself to the new issue
+- [ ] Add the issue to the HfLA: Open Roles project board (Resource 1.03)
+- [ ] Add the link of the new issue to the related comment on this issue 
+- [ ] Keep yourself assigned to this issue until the role is filled
+
+#### Marketing the new role post
+-  Post a link to the new issue in the Slack channel for the related Practice Area
+   - [ ] Copy the Slack message  (Resource 1.04)
+   - [ ] Copy the message into the Slack Channel for the relevant Community of Practice (The Slack channels can be found on Resource 1.01)
+     - [ ] Replace the text `[Replace with LINK TO NEW ISSUE]` with link to the issue
+   - [ ] Check your team Slack channel for people reaching out after every onboarding and at least every other day
+
+#### Once Filled
+- [ ] Hide the comment on this issue for the role you just filled
+- [ ] Add the following comment to the role posting issue 
+  ```
+  This role has been filled by @[Replace with GITHUB HANDLE OF PERSON WHO IS TAKING ROLE]
+  ```
+- [ ] Close the role posting issue
+- [ ] Unassign yourself from this issue
+- If there are no open roles on this issue (i.e., if there are open roles, there will be unclosed comments)
+   - [ ] Add the label: Dependency and uncheck the dependency on top of this issue
+   - [ ] Move this issue to the icebox, on the project board
+
+### Resources/Instructions
+- 1.01 [Community of Practice WIKI, Open Roles Templates, Secondary Issue](https://github.com/hackforla/communities-of-practice/wiki/Open-Roles-Templates#secondary-issue)
+- 1.02 [Open Role Template: see Secondary Issue Draft](https://github.com/hackforla/communities-of-practice/wiki/Open-Roles-Templates)
+- 1.03 [HfLA: Open Roles board](https://github.com/orgs/hackforla/projects/67)
+- 1.04 Copy to post in CoP Slack Channels when there is an open role
+   ```
+   Hi, the Data Science CoP has a volunteer posting, which includes details of how to get in touch with us if you are interested. [Replace with LINK TO NEW ISSUE]
+   ```"
+203,"Prep project boards for Migration","role: product","open","akhaleghi","None",36,"2024-06-10T17:44:29Z","2024-06-24T20:58:57Z","None","CONTRIBUTOR","### Overview
+We need to prepare the Project Boards for the forced migration that GitHub is doing in August, so that it is already working well for the team by then.
+
+### Action Items
+- [x]  copy this template to a comment below
+   ````
+   ### Text from project board card
+   ```
+   [INSERT MARKDOWN HERE]
+   ```
+   - [ ] Determine where this item goes on the wiki (page and section)
+   - [ ] copy item to wiki
+   - [ ] hide this comment when completed.
+   ````
+- [ ] copy markdown from a card in the ""Start Here"" column of the Project Board into your new comment where it says `[INSERT MARKDOWN HERE]
+
+#### All issues are on the project board
+ - [ ] Check to see if all issues are on the project board (resource 1.02) 
+ - [ ] If not, add them to the board, and put them in the correct columns 
+ - [ ] Categorize (can be done later)
+
+### Resources/Instructions
+Project board URLs:
+[New board](https://github.com/orgs/hackforla/projects/65)
+[Old board](https://github.com/hackforla/data-science/projects/1)
+"
+202,"Information for New and Existing Members","CoP: Data Science","open","None","None",0,"2024-06-10T17:31:57Z","2024-06-24T21:01:49Z","None","CONTRIBUTOR","**Meeting Times**
+Every Monday at 7:00PM Pacific. No meetings on the first Monday of the month. 
+[Zoom Link](https://us06web.zoom.us/j/87038212377?pwd=bnh3bkJGeWJ0eS94YTRzaVFhZ2Nwdz09)
+
+**Important Links**
+[Google Drive](https://drive.google.com/drive/folders/1maraSDu5BXzCYWFubY834Nq-8AT93FUJ?usp=sharing)
+[Data Science Team Roster](https://docs.google.com/spreadsheets/d/1QJltNh1gOybfebe-RkT-xS7m4OtxbuFfaJ4OujeA4h0/edit#gid=0)
+Please contact Abe Khaleghi on Slack if you require access to the above sites. 
+
+**For Letters Confirming Hack for LA Participation**
+Please see: https://github.com/hackforla/governance/issues/61
+
+**Handy Tools and Sites**
+[Full Page Screenshot Chrome ext](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
+[311 Data API Access](https://dev-api.311-data.org/docs)
+"
+200,"EPA Data Set","","open","salice","None",2,"2024-04-30T02:37:50Z","2024-07-01T17:04:25Z","None","CONTRIBUTOR","### Overview
+REPLACE THIS TEXT -Text here that clearly states the purpose of this issue in 2 sentences or less.
+
+### Action Items
+### Action Items
+- [ ] Add all data sources to Resources section below
+   - [ ] EDA Tasks
+       - [ ] Combine data from years into one data set and see differences
+       - [ ] Data Dictionary
+       - [ ] Data Cleaning
+- [ ] Write one-sheet 
+   - [ ] Define stakeholder (Access the data and 311 teams used for educational puposes)
+   - [ ] Summarize project including value add 
+   - [ ] Define project 6 month roadmap
+   - [ ] Detail history (if any)
+- [ ] Define tools to be used to visualize combined data
+
+Additional tasks TBD 
+
+### Resources/Instructions
+- [Data source](https://www.epa.gov/outdoor-air-quality-data/download-daily-data)
+- Is there a link to an API to access the data?
+"
+198,"Update the About us page on wiki","role: product,feature: onboarding,project duration: one time,ready for product,project: Data Science CoP Maintenance,size: 0.25pt","open","max1million101","time sensitive",0,"2024-03-29T19:21:52Z","2024-07-04T20:25:37Z","None","MEMBER","### Overview
+We need to have contact information and overview of who is running the Data Science Community of Practice
+
+### Action Items
+- [x] Change ""Mentors"" to be Current Mentors
+- [ ] Move Ryan Swan to a section of page, with the following header
+  ```
+  ### Former Mentors
+  ```
+- [ ] Update product manager to list Abe's name and bio
+- [ ] Update product manager section to add Tania Khan to the page
+
+### Resources/Instructions
+https://github.com/hackforla/data-science/wiki/About-us"
+194,"Create data dictionary (EDA task)","feature: missing,role: missing,size: missing,project: missing","open","None","None",1,"2024-02-18T06:36:30Z","2024-03-29T19:35:15Z","None","MEMBER",
+193,"DRAFT: Access to ""Third Spaces""","feature: missing,role: missing,size: missing,project: missing","open","None","None",0,"2024-02-12T22:46:40Z","2024-03-29T19:35:14Z","None","CONTRIBUTOR","### Overview
+Project idea from Karina to examine accessibility to green spaces (parks, public beaches, etc.) within the City of LA. Ideas include:
+  - Combining metro/crime (e..g, vehicle crash data) data sets to see how accessible (transportation-wise) third green spaces are for the broad population. 
+  - Examine population density info get a sense of the size of parks x population it’s serving in a mile-radius. Analysis can be helpful in many (deciding where to hold public events, determine underserved areas for new green spaces, etc)
+
+### Data Sources Starting Point
+Some data sources to start exploration can be found here:
+- [LA Metro dataset](https://developer.metro.net/gis-data/)
+- [LA City Parks](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwik1LT4oKeEAxUtMUQIHeT5DJMQFnoECBUQAQ&url=https%3A%2F%2Fdata.lacity.org%2FParks-Recreation%2FDepartment-of-Recreation-and-Parks-GIS-Map-of-Park%2Fnuub-r4zx&usg=AOvVaw0ixMbMAc7m57sctXQOpKht&opi=89978449)
+- [LA census data ](https://data.census.gov/table?g=050XX00US06037)
+
+_Additional Data sources may be used for this project._ 
+
+### Next steps
+- [ ] Decide if this should be one issue or multiple. 
+- [ ] Decide on what additional analyses we can do
+- [ ] Complete Project Proposal outlining: Objective, Expected Deliverable(s), Data Sources & Limitations, Research outline. Ideally, proposal should outline possible stakeholder(s) (e.g, LA resident, city council) of project deliverables.
+
+### Project may involve:
+Python, GIS data, data analytics, dashboard-building, data modeling
+
+
+"
+191,"DRAFT: MediaWiki NLP Project","feature: missing,role: missing,size: missing,project: missing","open","salice","None",1,"2024-01-09T03:29:17Z","2024-04-12T19:24:57Z","None","CONTRIBUTOR","### Overview
+We want to generate ideas to prepare this issue for our CoP
+
+### Action Items
+- [ ] Review MediaWiki API site [here](https://www.mediawiki.org/wiki/API:Main_page)
+
+### Resources/Instructions
+
+"
+190,"Create Base64 and Env File Tutorial","feature: missing,role: missing,size: missing,project: missing","open","None","None",0,"2023-12-01T16:26:17Z","2024-03-29T19:35:13Z","None","MEMBER","### Overview
+ 
+Write a tutorial on base64 and usage of .env files based on experience using them when completing automation dashboard project for Hack for LA website team. This would be useful for a data scientist/ analyst who needs to upload their Python script to a GitHub repository without compromising the security of confidential API keys and other (privacy) information. 
+
+### Action Items
+- [x] Create an introduction that gives context as to the purpose/use of the tutorial and connects the 2 concepts based on commonality
+- [x] Create full walkthroughs of process to use both
+- [x] Search for useful resources to complement tutorial
+- [x] Add screenshots and resize them to appropriate sizes
+- [x] Proofread for misleading language
+- [x] Message Sophia and Karina to get tutorial approved
+
+### Resources/Instructions
+All resources have been included in the body of the tutorial
+
+Wiki Tutorial Created: [Introduction to Keeping Confidential Information Safe on GitHub: GitHub secrets and .env files](https://github.com/hackforla/data-science/wiki/Introduction-to-Keeping-Confidential-Information-Safe-on-GitHub:-GitHub-secrets-and-.env-files)
+
+"
+189,"Refining the Requirements for Skills Match Dashboard","role: missing,size: missing,project: missing,feature: skills / productivity dashboard","open","n2020h","None",6,"2023-11-21T03:52:00Z","2024-04-15T21:06:37Z","None","MEMBER","### Overview
+We need to gather previous relevant documentation of features and functions skills dashboard and refine requirements, so that we can develop it.
+
+### Action Items
+
+- [ ] Bonnie will add links to prior known issues from other projects
+- [ ] 
+
+### Resources/Instructions
+https://docs.google.com/spreadsheets/d/1SV0j3NKcjOpHuT3okyM36xwWA966hNA4N1zmqRtd8B8/edit#gid=11574199
+"
+183,"MERL Center Data Cleaning","role: missing,project duration: one time,size: 1pt,project: MC Southern Africa NGOs' OS usage","closed","None","None",8,"2023-10-11T18:00:56Z","2024-01-16T20:39:32Z","2024-01-16T20:39:25Z","MEMBER","### Overview
+We need data collected through KoboToolbox to be analyzed and then visualized so that the findings can be incorporated in an article for the MERL Center
+### Action Items
+- [ ] Clean data
+- [ ] Provide analysis
+- [ ] Create visualization
+
+### Resources/Instructions
+- [MERL Center Folder on Data Science CoP Drive](https://drive.google.com/drive/folders/1gXWyLtwfl697hCVMS-D1tC0djPf3woV5?usp=drive_link)
+- [Survey Data](https://docs.google.com/spreadsheets/d/15zLn9NBXkadAsA8SjuXwGHjGaaJJQUcy05V9Ksm0oh0/edit?usp=drive_link)
+   - First Tab: Survey data with PII removed
+   - Second Tab: Bonnie's demonstration for data science community (wrapped column headers, highlighted related columns with colors, starting at GN through HG)
+   - Please note: column K has duplicate numbers to indicate multiple people from the same organization (meaningful because in column L, different people from the same organization indicated different category)
+- [Survey Form](https://ee.kobotoolbox.org/x/and3RucH)"
+182,"CoP: Data Science: Active and Inactive Businesses of LA County","role: data science,epic,size: 3pt,project: EDA","open","rahul897","None",22,"2023-08-30T18:11:02Z","2024-06-25T02:13:03Z","None","CONTRIBUTOR","### Prerequisite(s)
+If you would like to work on this issue, please add a comment below and include the following information:
+- Your name
+- How many hours you can commit to working on this in the next week (minimum of 2)
+- Commit to providing an update with a comment before the next community of practice meeting
+
+For example:
+- John Doe
+- I can commit to working on this issue 3 hours in the following week.
+- Yes, I will provide an update on my progress with a comment below. 
+
+Once you have done this, please add yourself to the “Assignees” section on the right and update the issue weekly to document your progress.
+
+### Overview
+We want to create a usable dataset of active and inactive businesses to perform various time series analyses (i.e. visualizing business closures during the covid pandemic). 
+
+### Action Items
+Phase 1
+- [ ] Find available data sources and add to Resources section
+- [ ] Create data dictionary (EDA task)
+- [ ] Create issues required to fulfill project requirements, including exploratory data analysis, required tasks, and deliverables 
+   - [ ] Perform data cleaning (EDA task) 
+   - [ ] Understand and outline data context
+- [ ] Write one-sheet (see Resources below)
+   - [ ]  Define stakeholder
+   - [ ]  Summarize project, including value add
+   - [ ]  Define project 6 month roadmap
+   - [ ]  Detail history (if any)
+
+### Resources/Instructions
+[Data source](https://data.lacity.org/Administration-Finance/Listing-of-All-Businesses/r4uk-afju) for business listings in LA County. 
+"
+181,"CoP: Data Science: Affordable Housing Access to Food Pantries","role: data science,epic,size: 3pt,project: EDA","closed","MDivyaPrakash","None",10,"2023-08-30T18:00:11Z","2024-06-26T07:08:36Z","2024-06-26T07:08:36Z","CONTRIBUTOR","### Prerequisite(s)
+If you would like to work on this issue, please add a comment below and include the following information:
+- Your name
+- How many hours you can commit to working on this in the next week (minimum of 2)
+- Commit to providing an update with a comment before the next community of practice meeting
+
+For example:
+- John Doe
+- I can commit to working on this issue 3 hours in the following week.
+- Yes, I will provide an update on my progress with a comment below. 
+
+Once you have done this, please add yourself to the “Assignees” section on the right and update the issue weekly to document your progress.
+
+### Overview
+We want to analyze to what extent affordable housing residents have access to food pantries and meal programs. To do this, we want to examine the geographic location of these housing projects in relation to their accessibility to pantries and programs.
+
+### Action Items
+Phase 1
+- [x] Find available data sources and add to Resources section, particularly the Food Oasis data.
+- [x] Determine is this is one-time or ongoing project (and assign appropriate label)
+- [x] Write one-sheet (see Resources below)
+   - [x]  Define stakeholder
+   - [x]  Summarize project, including value add
+   - [x]  Define project 6 month roadmap
+   - [x]  Detail history (if any)
+- [x] Define tools to be used for analysis and visualization (if applicable)
+- [x] Create issues required to fulfill project requirements, including exploratory data analysis, required tasks, and deliverables 
+   - [x] Create data dictionary (EDA task)
+   - [x] Perform data cleaning (EDA task) 
+   - [x] Understand and outline data context
+
+### Resources/Instructions (Updated)
+- [Data source](https://data.lacity.org/Housing-and-Real-Estate/LAHD-Affordable-Housing-Projects-List-2003-to-Pres/mymu-zi3s) for affordable housing locations (updated monthly).
+- [Visualization](https://data.lacity.org/Housing-and-Real-Estate/LAHD-Affordable-Housing-Projects-List-2003-to-Pres/psx4-6drg) of affordable housing locations. 
+- [Food Oasis Wiki](https://github.com/hackforla/food-oasis/wiki)
+- [LA Food Bank](https://www.lafoodbank.org/find-food/pantry-locator/)
+- [LA County Food Distribution Sources and Programs](http://publichealth.lacounty.gov/nut/food-distribution-resources.htm)
+- [Chirp LA](https://www.chirpla.org/sites/chirpla.org/files/u532/Food%20Bank%20Guide%202021_4.pdf) PDF containing active food banks in LA
+"
+180,"City of Los Angeles Arrests","role: data science,epic,size: 3pt,project: EDA","open","dolla24","None",11,"2023-08-23T01:36:50Z","2024-03-19T01:54:19Z","None","CONTRIBUTOR","### Overview
+We want to analyze arrest data for the city of Los Angeles, and incorporate data from other sources, to determine its suitability for further analysis by Hack for LA. More information about the data, from the [Controller's office website]():
+- The LAPD arrest types fall into five categories identified by the LAPD: (1) felony, (2) misdemeanor, (3) infractions, (4) dependent, and (5) other.
+- Under California law, a felony is a crime that is punishable with death, by imprisonment in the state prison, 
+or . . . by imprisonment in a county jail under [certain provisions]. Every other crime or public offense is a misdemeanor except those offenses that are classified as infractions.  Misdemeanors and infractions carry varying degrees of financial and incarceration consequences.
+- LAPD makes more arrests for misdemeanor and infraction offenses than for felonies.
+   - 2019: 55,954 misdemeanor & infraction arrests vs. 33,663 felony arrests
+   - 2020: 34,659 misdemeanor & infraction arrests vs. 31,015 felony arrests
+   - 2021: 33,179 misdemeanor & infraction arrests vs. 32,597 felony arrests
+   - 2022: 30,431 misdemeanor & infraction arrests vs. 30,378 felony arrests
+
+### Action Items
+Phase 1
+- [x] Find available data sources and add to Resources section
+- [x] #194
+- [ ] Determine is this is one-time or ongoing project (and assign appropriate label)
+- [ ] Write one-sheet (see Resources below)
+   - [ ]  Define stakeholder
+   - [ ]  Summarize project, including value add
+   - [ ]  Define project 6 month roadmap
+   - [ ]  Detail history (if any)
+- [x] Define tools to be used for analysis and visualization (if applicable)
+- [ ] Create issues required to fulfill project requirements, including exploratory data analysis, required tasks, and deliverables 
+   - [ ] Perform data cleaning (EDA task) 
+   - [ ] Understand and outline data context
+
+### Resources/Instructions
+[Arrest data for 2022 csv file](https://drive.google.com/drive/folders/1QSOWZxUZWQzEsERrtoI3SiFsAUZruZzk)
+[Arrest data from the City of Los Angeles](https://www.kaggle.com/datasets/cityofLA/los-angeles-crime-arrest-data
+)
+Check #178 for updates on whether a real time source for this data have been found
+"
+179,"CoP: Data Science: City of Los Angeles Evictions","role: data science,epic,size: 3pt,project: EDA","closed","rahul897","None",14,"2023-08-23T01:29:03Z","2024-07-09T21:45:53Z","2024-07-09T21:45:53Z","CONTRIBUTOR","### Prerequisite(s)
+If you would like to work on this issue, please add a comment below and include the following information:
+- Your name
+- How many hours you can commit to working on this in the next week (minimum of 2)
+- Commit to providing an update with a comment before the next community of practice meeting
+
+For example:
+- John Doe
+- I can commit to working on this issue 3 hours in the following week.
+- Yes, I will provide an update on my progress with a comment below. 
+
+Once you have done this, please add yourself to the “Assignees” section on the right and update the issue weekly to document your progress.
+
+### Overview
+We want to analyze eviction data for the city of Los Angeles, and incorporate data from other sources, to determine whether there are actions local leaders can take to address the problem. The following background information is from the [LA Controller's website](https://controller.lacity.gov/landings/evictions):
+- August 1, 2023 – rent owed from March 1, 2020 to August 31, 2020 is due. If the Declaration of COVID-19-Related Financial Distress form was returned to the landlord within 15 days of rent being due, they cannot be evicted for nonpayment of rent.
+- February 1, 2024 – rent owed from October 1, 2021 to January 31, 2023 is due. If a tenant returned the Declaration of COVID-19-Related Financial Distress form to the landlord within 15 days of rent being due AND paid 25% of rent owed from this period, they cannot be evicted for nonpayment of rent.
+- However, since March 27, 2023, landlords may not evict a tenant who falls behind in rent unless the tenant owes an amount higher than the Fair Market Rent (FMR). The FMR depends on the bedroom size of the rental unit.
+
+### Action Items
+Phase 1
+- [ ] Find available data sources and add to Resources section
+- [ ] Perform Exploratory Data Analysis (read more [here](https://www.analyticsvidhya.com/blog/2021/08/how-to-perform-exploratory-data-analysis-a-guide-for-beginners/)
+   - [ ] Create data dictionary (EDA task)
+   - [ ] Perform data cleaning (EDA task) 
+   - [ ] Understand and outline data context
+- [ ] Determine is this is one-time or ongoing project (and assign appropriate label)
+- [ ] Write one-sheet (see Resources below)
+   - [ ]  Define stakeholder
+   - [ ]  Summarize project, including value add
+   - [ ]  Define project 6 month roadmap
+   - [ ]  Detail history (if any)
+- [ ] Define tools to be used for analysis and visualization (if applicable)
+- [ ] Create issues required to fulfill project requirements, including exploratory data analysis, required tasks, and deliverables 
+
+
+### Resources/Instructions
+[Feb 2023 - July 2023 eviction data csv file](https://drive.google.com/drive/folders/1uyPtg1MNX5LIDwQkFtErmIQJNe9N7X25)
+Check #178 for updates on whether a real time source for this data have been found
+"
+178,"CoP: Data Science: Find data sources through the LA Controller's office","documentation,good first issue,role: data analysis,size: 1pt,project: missing","open","FragariaChemist","None",4,"2023-08-23T01:14:06Z","2024-07-09T21:50:07Z","None","CONTRIBUTOR","### Prerequisite(s)
+Skills: Online research
+
+If you would like to work on this issue, please add a comment below and include the following information:
+- Your name
+- How many hours you can commit to working on this in the next week (minimum of 2)
+- Commit to providing an update with a comment before the next community of practice meeting 
+
+For example:
+- John Doe
+- I can commit to working on this issue 3 hours in the following week.
+- Yes, I will provide an update on my progress with a comment below. 
+Once you have done this, please add yourself to the “Assignees” section on the right and update the issue weekly to document your progress.
+
+### Overview
+We want to build a library of various local data sources so that we can initiate new data science projects for volunteers that will be useful for the local community. The LA Controller's office seems to have quite a few.
+
+### Action Items
+- [ ] Visit the LA City Controller's website (link below in resources) and create a list of data sets available.
+- [ ] Find contact information from the Controller's website and get in touch with someone at the office to determine if real time data is available for the public to access. Examples are eviction and LAPD arrest data, which we have historical data for (links below).
+- [ ] Document any correspondence with city representatives in a comment below.
+- [ ] If real time data is available, add links to the Resources section.  
+
+### Resources
+[LA City Controller Website](https://controller.lacity.gov/data) - In the ""Data Sites"" section there are various resources that should be looked at to determine which may be of interest to Hack for LA
+[Google Doc of 2022 LAPD Arrests](https://docs.google.com/spreadsheets/d/1rH272RxRxU8ut3xArEnyOz2j_Qlw5ntEoTJlZwcx_Ng/edit#gid=1936642723) - We should see if this arrest data is available in real time.
+[Google Doc of 2023 Eviction Data](https://docs.google.com/spreadsheets/d/1d6xgd95m0v914YTePb8m-9Ir9SVKNKx4-Xw8N_4I0pk/edit#gid=1331260170) -  Another data set to check if real time data is available.
+"
+177,"Create 311 data CSV files that can be accessed through a Jupyter notebook","role: data science,project: 311 Data,size: 3pt,feature: project management","closed","mru-hub","None",3,"2023-03-31T20:57:06Z","2024-06-16T06:27:37Z","2024-04-16T02:32:54Z","CONTRIBUTOR","### Overview
+We want to download 311 data and split by year, then month, so each is under 100MB and we can host tan append-only data warehouse on GitHub.
+
+### Action Items
+- [x] Get cleaning rules from the 311-data repo and add a link to the rules to Resources below.
+- [x] Get city data
+- [x] Split by year, then by month
+- [ ] Outline what you did to clean the data in a comment below
+- [ ] Create Jupyter notebook to access the data and add notes explaining the cleaning rules
+- [ ] Create a website (ideally ghpages) that can display the jupyter notebook so that people don't have to know how to download and install one.
+
+### Resources/Instructions
+
+**Cleaning Rules**: https://github.com/hackforla/data-science/blob/main/311-data/CSV_files/Docs/CleaningRules.txt
+**City Data:**: https://data.lacity.org/browse?q=311%20data%20%2C%202024&sortBy=relevance (Please update the filter for the year 2024 based on the requirements.)
+
+
+
+
+
+
+)
+
+"
+170,"California Grants Portal Data Set EDA","role: data analysis,project duration: ongoing,size: 1pt,project: EDA","closed","jossus657","None",9,"2022-07-15T17:08:16Z","2022-11-08T21:32:03Z","2022-11-08T21:32:03Z","CONTRIBUTOR","### Overview
+We want to analyze the California Grants Portal Dataset to determine the feasibility of building a tool for public use. 
+
+### Action Items
+- [x] Perform exploratory data analysis [EDA] on the Grants Portal dataset.
+   - [x] See EDA section of tutorial [here](https://github.com/hackforla/data-science/wiki/Intro-to-Data-Analysis-With-Python)
+- [x] Attach findings (write-ups, notebooks, etc.) to this issue.
+
+### Resources/Instructions
+[California Grants Portal Website](https://data.ca.gov/dataset/california-grants-portal)
+[Data Analysis tutorial with EDA instructions](https://github.com/hackforla/data-science/wiki/Intro-to-Data-Analysis-With-Python)
+"
+169,"Potential Projects: California Grants Portal","role: data science,epic,size: epic,dependency,project: EDA","closed","mihikasahani","None",7,"2022-07-15T16:58:19Z","2024-02-13T03:48:56Z","2024-02-13T03:48:51Z","CONTRIBUTOR","### Dependency
+- [x] EDA on a data set in progress
+
+### Overview
+We want to explore this data set to determine if it is something we can build a public resource for. 
+
+### Action Items
+- [x] Find available data sources and add to Resources section
+- [ ] Determine is this is one-time or ongoing project (and assign appropriate label)
+- [ ] Write one-sheet (see Resources below)
+   - [ ]  Define stakeholder
+   - [ ]  Summarize project, including value add
+   - [ ]  Define project 6 month roadmap
+   - [ ]  Detail history (if any)
+- [ ] Define tools to be used for analysis and visualization (if applicable)
+- [ ] Create issues required to fulfill project requirements, including exploratory data analysis, required tasks, and deliverables 
+   - [ ] Create data dictionary (EDA task)
+   - [ ] Perform data cleaning (EDA task) 
+   - [ ] Understand and outline data context
+
+### Resources/Instructions
+
+- [California Grants Portal Website](https://data.ca.gov/dataset/california-grants-portal)
+- EDA: #170 
+- [How to write a onesheet for your project](https://docs.google.com/document/d/14-nYNCjrMrC8lucUNBfLOFQZk2sWbkRlJgigWDAlqlI/edit#heading=h.z4tpbshl55b9)"
+163,"CoP: Data Science: Complete Intro to Command Line and Git Tutorial","feature: guide,role: data science,size: 1pt,role: Data Engineer","open","None","None",0,"2022-06-03T18:26:54Z","2024-06-18T21:57:35Z","None","CONTRIBUTOR","### Overview
+We want to move an existing Hack for LA tutorial to our repository
+
+### Action Items
+- [ ] Look through the repository to see what content needs to be moved to the tutorials page
+- [ ] Add content to tutorial
+
+### Resources/Instructions
+[Original repository](https://github.com/hackforla/intro-cli-git-github)
+[Data Science Command Line and Git Tutorial Page](https://github.com/hackforla/data-science/wiki/Introduction-to-Commandline,-Git-and-Github)
+"
+162,"CoP: Data Science: Complete Intro to Python Tutorial","feature: guide,role: data science,size: 1pt,draft,ready for product","open","None","None",2,"2022-06-03T18:23:12Z","2024-06-18T21:57:38Z","None","CONTRIBUTOR","### Overview
+We want to move an existing Hack for LA tutorial to our repository
+
+### Action Items
+- [ ] fork the repository to Hack for LA
+- [ ] Look through the repository and our tutorial page to see what content needs to be added
+- [ ] Fork repo to your github, using hackforla's version as the upstream
+- [ ] Add content to tutorial 
+- [ ] Commit it to our repo
+- [ ]  reach out to Nathan on this issue and find out if he wants us to do a PR against his repo.
+
+### Resources/Instructions
+- [Original repository](https://github.com/ndanielsen/intro-python)
+- [Data Science Python Tutorial Page](https://github.com/hackforla/data-science/wiki/Introduction-to-Programming-with-Python)
+"
+161,"Project Name: Lucky Parking","feature: missing,role: data analysis,size: 1pt,project: missing","closed","None","None",2,"2022-05-16T23:31:23Z","2022-07-08T19:37:14Z","2022-06-03T23:13:17Z","MEMBER","Volunteer Opportunity:"
+157,"CoP: Data Science: Create Deep Learning Tutorial","documentation,feature: guide,role: data science,size: 1pt","open","elliealbertson","None",1,"2022-04-01T19:26:34Z","2024-07-07T19:24:44Z","None","CONTRIBUTOR","### Overview
+Update the [Deep Learning](https://github.com/hackforla/data-science/wiki/Deep-Learning) page with resources and an article header.
+
+### Action Items
+- [ ] Create a Google Doc in the folder provided under resources
+  - [x] Create preliminary outline
+  - [ ] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+  - [ ] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+- [ ] Review the draft with the Data Science CoP
+  - [ ] Make needed updates
+- [ ] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Deep Learning Tutorial](https://github.com/hackforla/data-science/wiki/Deep-Learning) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Deep Learning tutorial](https://drive.google.com/drive/folders/1j_txrPW6uf6MjKTYqw_K1sIUtsZvbsLy)
+   - [DS: Deep Learning Tutorial Google Doc](https://docs.google.com/document/d/1YME-GyyStpl9QO3zKD-gatUgg1womzZjsdeYDaom71A/edit)
+
+#### Tools that are core that should be mentioned:
+- PyTorch
+- Keras/TensorFlow
+- HuggingFace
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+"
+156,"CoP: Data Science: Create Machine Learning Tutorial","documentation,feature: guide,role: data science,size: 1pt","open","BhavanaSai12","None",0,"2022-04-01T19:24:06Z","2024-06-25T03:48:00Z","None","CONTRIBUTOR","### Overview
+Update the [Machine Learning](https://github.com/hackforla/data-science/wiki/Machine-Learning) page with resources and an article header.
+
+### Action Items
+- [x] Create a Google Doc in the folder provided under resources
+  - [x] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+   - [x] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+- [ ] Review the draft with the Data Science CoP
+- [ ] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Machine Learning Tutorial](https://github.com/hackforla/data-science/wiki/Machine-Learning) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Machine Learning tutorial](https://drive.google.com/drive/folders/1Z7ei04hVHBFVCN484_yoqAgQFz8XP3Rz)
+   - [DS: Machine Learning Tutorial Google Doc](https://docs.google.com/document/d/1MVabfo0fhJQ3-9wQlDn9NLnV0ZvNzP3Fu014Guj_deA/edit)
+
+#### Tools that are core that should be mentioned:
+- XGBoost
+- Random Forest
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+
+"
+155,"CoP: Data Science: Create Stats Tutorial","documentation,feature: guide,role: data science,role: data analysis,size: 1pt","open","None","None",0,"2022-04-01T19:21:26Z","2024-06-18T21:57:20Z","None","CONTRIBUTOR","### Overview
+Update the [Stats](https://github.com/hackforla/data-science/wiki/Almighty-Statistics) page with resources and an article header.
+
+### Action Items
+- [ ] Create a Google Doc in the folder provided under resources
+  - [ ] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+   - [ ] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+- [ ] Review the draft with the Data Science CoP
+- [ ] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Stats Tutorial](https://github.com/hackforla/data-science/wiki/Almighty-Statistics) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Stats tutorial](https://drive.google.com/drive/folders/1MLPi4eo6BaurUDh-fIBW85ZKPE3jDERu)
+   - [DS: Stats Tutorial Google Doc](https://docs.google.com/document/d/1FMbaMeVRcVQPiIGW3QvO1ah8ocptNFwLiQjTZ-RUhsU/edit)
+
+#### Skills that are core that should be mentioned:
+- Logistic/Linear Regression
+- Experimental Design
+- Significance Testing
+- Bayesian Analysis
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+
+"
+154,"CoP: Data Science: Create Data Ops Tutorial","documentation,feature: guide,size: 1pt,role: Data Engineer","open","None","None",1,"2022-04-01T19:18:14Z","2024-06-18T21:57:17Z","None","CONTRIBUTOR","### Overview
+Update the [Data Ops](https://github.com/hackforla/data-science/wiki/Data-Ops) page with resources and an article header.
+
+### Action Items
+- [ ] Create a Google Doc in the folder provided under resources
+  - [ ] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+   - [ ] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+- [ ] Review the draft with the Data Science CoP
+- [ ] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Data Ops Tutorial](https://github.com/hackforla/data-science/wiki/Data-Ops) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Data Ops tutorial](https://drive.google.com/drive/folders/1j5r7SDEHAUhUbI6DDD3MxvobPfU9WiH-)
+   - [DS: Data Ops Tutorial Google Doc](https://docs.google.com/document/d/15WdOrTtKGuZL3rPuQm3h4SEWuUL4vML0XtPas8fBIwc/edit)
+
+#### Tools that are core that should be mentioned:
+- EC2
+- Lambda
+- RDS
+- Athena/Hive
+- Flask
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts"
+153,"CoP: Data Science: Create Text Analysis Tutorial","documentation,feature: guide,role: data analysis,size: 1pt","open","bfang22","None",3,"2022-04-01T19:15:05Z","2024-06-18T21:59:08Z","None","CONTRIBUTOR","### Overview
+Update the [Text Analysis](https://github.com/hackforla/data-science/wiki/Text-Analysis) page with resources and an article header.
+
+### Action Items
+- [ ] Create a Google Doc in the folder provided under resources
+  - [ ] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+   - [ ] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+- [ ] Review the draft with the Data Science CoP
+- [ ] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Text Analysis Tutorial](https://github.com/hackforla/data-science/wiki/Text-Analysis) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Text Analysis tutorial](https://drive.google.com/drive/folders/1HApzgkLXfsRgzCrIKWFI08m5NfkWxz9W)
+   - [DS: Text Analysis Tutorial Google Doc](https://docs.google.com/document/d/1-UTjQ_lonjEp1lZ0agjtEgP1sGYUSEvGgKij97qY7A8/edit)
+
+#### Tools that are core that should be mentioned:
+- nltk
+- SpaCy
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+"
+152,"CoP: Data Science: Open Source Projects Data Set for Climate projects","role: data analysis,size: 1pt,epic: GreenEarthOS,project: climate projects,draft","open","noneill256","None",12,"2022-03-18T21:04:03Z","2024-06-18T21:59:30Z","None","CONTRIBUTOR","### Overview
+We want to monitor various open source projects and create a script that will keep our listing up-to-date with information such as last active.
+
+### Action Items
+- [x] Add each project's URL to the Project URL column (You can see that if you hover over the Project name and description cells. You can also try to pull it from the Project URLs link in Resources below)
+- [x] Create a script that will visit each URL and update the following columns (Note that you may have to work around
+API limits):
+   - [x] Project URL
+   - [x] Last Active Date (Date)
+   - [x] Number of contributors
+ - [ ] Connect with volunteer who developed script to copy files over to Hack for LA repository. Code is [here](https://github.com/noneill256/Hack4LA-Project-Spreadsheet-Updater?tab=readme-ov-file).
+ - [ ] Assess current script and make necessary edits so it can be automated to run and produce output periodically.
+ - [ ] Develop a data dashboard to display information in a useful way
+
+### Resources/Instructions
+Spreadsheet of open source projects we want to monitor [here](https://docs.google.com/spreadsheets/d/1LFResU_pcP5IMwz92dmPQRoKJ4lNa3tvr-_COJiE_hc/edit#gid=0)
+Original source for project URLs [here](https://opensustain.tech/)
+[Info about getting URL from a Google Sheet cell](https://www.oksheets.com/extract-hyperlink-url/#:~:text=Extract%20the%20URL%20from%20a%20Hyperlink%20by%20Edit%20and%20Copy&text=You%20can%20right%2Dclick%20on,option%20from%20the%20Insert%20menu.)
+"
+149,"Weekly Label Check","role: product,size: 1pt,feature: project management","open","None","None",17,"2022-02-25T21:38:09Z","2024-03-29T19:41:34Z","None","MEMBER","### Dependency
+2022-02-24
+
+### Overview
+We need to perform a weekly check on issues to make sure they all conform to our label and milestone schema.
+
+### Action Items
+- [ ]  Check to see if there are any issues that have not yet been added to [project board](https://github.com/hackforla/data-science/issues?q=is%3Aissue+is%3Aopen+no%3Aproject)
+     - [ ] if yes, add to project board 
+- [ ] Check the following to make sure that they are all 0/0 (Links for checking to make sure that all issues either have a ___ or a ____ missing label)
+   - [feature and project](https://github.com/hackforla/data-science/issues?q=-label%3A%22project%3A+health+services%22+-label%3A%22project%3A+metro+311+correlation%22+-label%3A%22project%3A+district+types%22+-label%3A%22project%3A+structured+context%22+-label%3A%22project%3A+311-data-dashboards%22+-label%3A%22project%3A+311+Data%22+-label%3A%22project%3A+missing%22+-label%3A%22project%3A+health+services%22+-label%3A%22project%3A+metro+311+correlation%22+-label%3A%22project%3A+structured+context%22+-label%3A%22project%3A+311-data-dashboards%22+-label%3A%22project%3A+311+Data%22+-label%3A%22project%3A+seie%22+-label%3A%22project%3A+OCS%22+-label%3A%22project%3A+missing%22+is%3Aissue+-label%3A%22feature%3A+project+management%22+-label%3A%22feature%3A+guide%22+-label%3A%22feature%3A+onboarding%22+-label%3A%22feature%3A+recruitment%22+-label%3A%22feature%3A+missing%22+-label%3A%22feature%3A+labels%22+-label%3A%22project%3A+Native+Land+Attribution%22+-label%3A%22project%3A+LAANE%22+-label%3A%22project%3A+Climate+Collabathon%22+-label%3A%22project%3A+climate+projects%22+-label%3A%22feature%3A+branding%22+-label%3A%22project%3A+EDA%22+-label%3A%22project%3A+Data+Science+CoP+Maintenance%22+-label%3A%22project%3A+MC+Southern+Africa+NGOs%27+OS+usage%22+is%3Aopen) The feature and project missing tags are mutually exclusive. Please use the correct label.
+   - [role](https://github.com/hackforla/data-science/issues?q=is%3Aopen+is%3Aissue+-label%3A%22role%3A+product%22+-label%3A%22role%3A+CoP+lead%22+-label%3A%22role%3A+data+analysis%22+-label%3A%22role%3A+data+science%22+-label%3A%22role%3A+Data+Engineer%22+-label%3A%22role%3A+missing%22+-label%3A%22role%3A+org%22)
+   - [size](https://github.com/hackforla/data-science/issues?q=is%3Aopen+is%3Aissue+-label%3A%22size%3A+epic%22+-label%3A%22size%3A+missing%22+-label%3A%22size%3A+1pt%22+-label%3A%22size%3A+2pt%22+-label%3A%22size%3A+3pt%22+-label%3A%22size%3A+5pt%22+-label%3A%22size%3A+8pt%22+-label%3A%22size%3A+13pt%22+-label%3A%22size%3A+0.5pt%22+-label%3A%22size%3A+0.25pt%22)
+      - [ ] Add any label missing (e.g., a new feature label go added to the project, but didn't yet get added here) and update link 
+- [ ] if changes were made, recheck to make sure all links ended up 0/0
+- [ ] Audit for issues with Missing labels (to determine if we are making progress)
+   - [ ] Copy this audit report format to a comment below
+```
+Date: 
+- [ ] Did you have to update the 0/0 links above?  if yes, please say what you did (e.g, Added features to the features check above or added an issue to the project board that has not been added yet).
+- [ ] Report what the numbers are on issues that are missing labels (e.g., size, ending at 12/5)
+   - [ ] feature, ending at
+   - [ ] project, ending at 
+   - [ ] role, ending at
+   - [ ] size, ending at
+   - [x] milestone, ending at (don't have yet, go ahead and skip)
+```
+   - [ ] perform audit, adding your numbers to your audit report comment
+      - [feature](https://github.com/hackforla/data-science/issues?q=is%3Aopen+is%3Aissue+label%3A%22feature%3A+missing%22)
+      - [project](https://github.com/hackforla/data-science/issues?q=is%3Aopen+is%3Aissue+label%3A%22project%3A+missing%22)
+     - [role](https://github.com/hackforla/data-science/issues?q=is%3Aopen+is%3Aissue+label%3A%22role%3A+missing%22)
+     - [size](https://github.com/hackforla/data-science/issues?q=is%3Aopen+is%3Aissue+label%3A%22size%3A+missing%22)
+     - [epic](https://github.com/hackforla/data-science/issues?q=is%3Aopen+is%3Aissue+label%3A%22epic%3A+missing%22)
+
+### Epic
+   - [epic](https://github.com/hackforla/data-science/issues?q=is%3Aopen+is%3Aissue+-label%3A%22epic%3A+missing%22+-label%3A%22epic%3A+potential+projects%22+-label%3A%22epic%22+-label%3A%22epic%3A+311+public+data+sets%22+-label%3A%22epic%3A+internal+projects%22+-label%3A%22epic%3A+empowerla.org%22+)
+
+
+#### Icebox issue
+- [ ] [Icebox Issues w no dependency](https://github.com/hackforla/data-science/projects/1?card_filter_query=-label%3Adependency#column-139348530)"
+160,"CoP: Data Science: Survey: Repo Labels","project duration: ongoing,size: 2pt,time sensitive,role: Data Engineer,feature: labels,feature: Issues Dashboard","closed","jossus657","time sensitive",31,"2022-02-13T23:40:23Z","2024-06-18T21:59:39Z","2023-03-31T19:20:56Z","MEMBER","### Overview
+We need to survey labels across the organization so that we can rationalize and do automation and org-wide audits.
+
+#### Additional Details
+We already have an automation running on the github.com/hackforla/website repo that adds labels that start with ""missing:"" and let the user know what other labels are required.  The user can still add optional labels, but they must use the minimum.  We want to roll this automation out to all the teams, but in order to do so, they must all be uses the minimum labeling in the same way.
+
+We have a [kanban guide](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/), but it's confusing to users if all the projects don't use similar labels, so we want to have a base set of labels that will be documented in our instructions.
+
+### Action Items
+- [x] Define data schema
+- [x] Create spreadsheet 
+- [x] Write a script that gets a list of all labels for each repo across all orgs controlled by hack for la 
+- [x] Find main label types
+- [ ] Analysis by appearance
+- [ ] Release dependency on hackforla/ops#15 
+
+### Resources/Instructions
+#### Orgs to poll
+- Hackforla
+- 100automations
+- civictechindex
+- civictechstructure
+- hackla-engage
+
+#### Data Schema
+- name of org
+- name of repo
+- title of label
+- description of label
+- type of label (role, size, priority, difficulty/complexity, status, feature, p-feature, etc)
+- number of issues per label
+
+### Resources
+- [DS Google Drive, label audit folder](https://drive.google.com/drive/u/0/folders/1l8bMfhmUPG1O3nCLgvIE7jd_HlqAIb1s)
+- [combined_csv - google sheet](https://docs.google.com/spreadsheets/d/1KOCPa4KPE9GPwVdwkUCyvXwLLqUF2TP2rDlOodN62xc/edit#gid=614668317)
+- [Last output from 8/2/22: label.csv](https://github.com/hackforla/data-science/files/9245408/label.csv)"
+148,"Create Geospatial Data Analysis Tutorial","documentation,feature: guide,role: org,size: 1pt","closed","mcmorgan27","None",4,"2022-02-04T04:46:32Z","2022-03-25T16:08:03Z","2022-03-25T16:08:03Z","CONTRIBUTOR","### Overview
+Update the [Geospatial Data Analysis](https://github.com/hackforla/data-science/wiki/Geospatial-Data-Analysis) with resources and an article header.
+
+### Action Items
+Update the Tutorial with:
+- An introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+- A resources section listing vetted tutorials covering important skills within the tutorial area
+
+### Resources/Instructions
+Tools that are core that should be mentioned:
+- Geopandas
+- Shape files
+- Coordinate Systems
+- GIS
+- Data sources
+
+Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+"
+147,"Create Data Engineering Tutorial","documentation,feature: guide,role: org,size: 1pt","closed","jonmelvin","None",9,"2022-01-21T05:33:37Z","2022-05-12T20:56:34Z","2022-05-12T20:56:34Z","CONTRIBUTOR","### Overview
+We need to add content to the Data Engineering tutorial wiki with resources and an article header, so that new data scientist joining our organization will have them for working with data at Hack for LA.
+
+### Action Items
+- [ ] Create a Google Doc in the folder provided under resources
+  - [ ] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+   - [ ] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+- [ ] Review the draft with the Data Science CoP
+- [ ] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Data Engineering Tutorial](https://github.com/hackforla/data-science/wiki/Data-Engineering) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Data Engineering tutorial](https://drive.google.com/drive/folders/1tgnZPI7XJzu0xTkliBnMN8dswnQ_5Q97)
+   - [DS: Data Engineering Tutorial Google Doc](https://docs.google.com/document/d/1CqEiUtNMs-l83tiIwvciKx9FCkj3fgBhJ-Hmj7kEGFc/edit)
+
+#### Tools that are core that should be mentioned:
+- SQL
+- NoSQL
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- YouTube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject-matter experts
+"
+146,"Create Web Scraping Tutorial","documentation,feature: guide,role: org,size: 1pt","open","parcheesime","None",14,"2022-01-21T05:31:23Z","2022-10-14T03:13:48Z","None","CONTRIBUTOR","### Overview
+Update the [Web Scraping](https://github.com/hackforla/data-science/wiki/Webscraping) with resources and an article header.
+
+### Action Items
+- [x] Create a Google Doc in the folder provided under resources
+  - [x] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+   - [x] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+- [x] Review the draft with the Data Science CoP
+- [x] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Web Scraping Tutorial](https://github.com/hackforla/data-science/wiki/Webscraping) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Web Scraping tutorial](https://drive.google.com/drive/folders/13GEPhfLPk4MCpEIpzNwtwJBqivmh4etS)
+   - [DS: Web Scraping Tutorial Google Doc](https://docs.google.com/document/d/15774XE_xw7sDIjUmW95ThttgYFQ-1OVFHWpjOETNH2I/edit)
+  
+#### Tools that are core that should be mentioned:
+- Python 
+- Selenium
+- BeautifulSoup
+- Requests
+
+Consider linking to [these videos Sophia made](https://drive.google.com/drive/folders/1fWIRwKI6vUj2RT8YPFHXG9eHMdNSfty_)
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+"
+145,"CoP: Data Science: Create Data Analysis With R Tutorial","documentation,feature: guide,role: data analysis,size: 1pt","open","xuyeluo","None",5,"2022-01-21T05:27:52Z","2024-07-09T00:07:17Z","None","CONTRIBUTOR","### Overview
+Update the [Data Analysis With R](https://github.com/hackforla/data-science/wiki/Data-Analysis-With-R) with resources and an article header.
+
+### Action Items
+- [ ] Create a Google Doc in the folder provided under resources
+  - [ ] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+   - [ ] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+- [ ] Review the draft with the Data Science CoP
+- [ ] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Data Analysis with R Tutorial](https://github.com/hackforla/data-science/wiki/Data-Analysis-With-R) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Data Analysis tutorial](https://drive.google.com/drive/folders/1vwqkqIZsElTmQm36pPmAvsTlRCjHkZWo)
+   - [DS: Data Analysis with R Tutorial Google Doc](https://docs.google.com/document/d/1JfpbJDxPyzFusHrxWh57wV1kqnb5i6KFloXWCSFcG28/edit)
+   
+#### Tools that are core that should be mentioned:
+- Tidyverse
+- CRAN
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+"
+144,"Create Data Visualization Tutorial","documentation,feature: guide,role: org,size: 1pt,feature: needs peer review","closed","None","None",4,"2022-01-21T05:22:40Z","2022-05-05T18:10:49Z","2022-05-05T18:10:34Z","CONTRIBUTOR","### Overview
+Update the [Data Visualization Tutorial](https://github.com/hackforla/data-science/wiki/Data-Visualization) with resources and a header explaining 
+
+### Action Items
+- [x] Create a Google Doc in the folder provided under resources
+  - [x] Draft an introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+   - [x] Identify resources with vetted tutorials covering important skills within the tutorial area, adding to the draft
+- [x] Review the draft with the Data Science CoP
+- [x] Add to the wiki page
+
+### Resources/Instructions
+#### Wiki page
+[Data Visualization Tutorial](https://github.com/hackforla/data-science/wiki/Data-Visualization) 
+
+#### Location for any files you might need to upload (drafts, images, etc.)
+- [Folder for files related to the Data Visualization tutorial](https://drive.google.com/drive/folders/1IiTuyJlJ3o1KRVXh8l9cpjrPu7zSVm1s)
+   - [DS: Data Visualization Tutorial Google Doc](https://docs.google.com/document/d/1umiXKgA0qnK3VpArEfIkENq-Nm4YJHTMzHE7laHKCRE/edit)
+
+#### Tools that are core that should be mentioned:
+- Pandas
+- Seaborn
+- Matplotlib
+- Tableau
+
+#### Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+"
+143,"Create ETL/Data Cleaning Tutorial","documentation,feature: guide,role: org,size: 1pt","closed","ryanmswan","None",2,"2022-01-21T05:19:10Z","2023-03-31T19:14:05Z","2023-03-31T19:14:05Z","CONTRIBUTOR","### Overview
+Update the [ETL/Data Cleaning Tutorial](https://github.com/hackforla/data-science/wiki/ETL-Data-Cleaning-Resources) with resources and a header explaining 
+
+### Action Items
+Create [wiki page in the data-science repo](https://github.com/hackforla/data-science/wiki) for the listed subject
+Update the Tutorial with:
+- An introductory paragraph explaining what the tutorial resources cover and why a new data scientist would use them for working with data at Hack For LA
+- A resources section listing vetted tutorials covering important skills within the tutorial area
+
+### Resources/Instructions
+Examples of resources that would be useful to include:
+- Web how-to/tutorial/walk-throughs
+- Youtube playlists or videos demonstrating tools
+- Links to blogs or platforms with subject matter experts
+"
+141,"Obtain Shape Files for Different District Types (2023)","good first issue,role: data analysis,project duration: one time,dependency,size: 1pt,project: district types","closed","mru-hub","None",2,"2021-12-10T19:43:11Z","2023-07-21T03:58:29Z","2023-07-21T03:58:29Z","CONTRIBUTOR","### Overview
+We need to obtain new shape files for the various district types that represent stakeholders we work with once they reflect redistricting. This is part of the epic issue  #118 and should be done annually until we can automate the process.
+
+### Action Items
+- [x] Save shape files updated in 2022 to the data-science repo. Folder is [here](https://drive.google.com/drive/folders/13oZXXIfYlEzW0LaPL8OhrmGGigBkd8K6)
+
+- [x] Save shape files updated in 2023 to the Google drive folder [here](https://drive.google.com/drive/folders/1ZQWeoe9O6NdC2KXIZ2WQJbcct7vsvDMS):
+   - [x] [Neighborhood Councils (NCs)](https://empowerla.org/councils/) | [_Shape Files Here_](https://geohub.lacity.org/datasets/neighborhood-council-boundaries-2018/explore) 
+   - [x] [Supervisory Districts](https://bos.lacounty.gov/About-Us/Board-of-Supervisors) | [_Shape Files Here_](https://egis-lacounty.hub.arcgis.com/datasets/c7d0324969684262a7f01ce9222c8657/explore)
+   - [x] [Business Improvement Districts (BIDs)](https://clerk.lacity.org/clerk-services/bids) | [_Shape Files Here_](https://data.lacity.org/Housing-and-Real-Estate/Business-Improvement-Districts/733b-ryrk)
+   - [x] [U.S. House of Representatives that serve LA](http://www.laalmanac.com/government/gu02map.php) | [_Shape Files Here_](https://wedrawthelines.ca.gov/maps-final-draft-congressional-districts/)
+   - [x] [California State Senators that serve LA](https://www.senate.ca.gov/) | [_Shape Files Here_](https://wedrawthelines.ca.gov/maps-final-draft-senate-districts/)
+   - [x] [California Assembly members that serve LA](https://www.assembly.ca.gov/assemblymembers) | [_Shape Files Here_](https://wedrawthelines.ca.gov/maps-final-draft-assembly-districts/)
+   - [x] Zip Code | [_Shape Files Here_](https://hub.arcgis.com/datasets/lacounty::la-county-zip-codes/explore)
+   - [x] LA Country City Boundaries | [_Shape Files Here_](https://egis-lacounty.hub.arcgis.com/datasets/lacounty::city-boundaries-lines/about)
+
+    Note that some of these (i.e. zip codes) may not be updated with redistricting.
+
+### Resources/Instructions
+Google Drive folder for storing files [here](https://drive.google.com/drive/folders/1KsIfAFmp0ArLauvHY1k9wRc9ZXaPDahe)"
+140,"Create a logo for the Data Science CoP","project duration: one time,size: 2pt,feature: branding,role: design","closed","None","None",4,"2021-12-01T07:04:58Z","2024-06-18T02:59:55Z","2022-09-15T22:45:43Z","MEMBER","### Overview
+
+Create a logo for the Data Science CoP, for use in powerpoint presentations and deliverables. We currently have a draft version in need of refinement. It will likely need to be rebuilt.
+
+### Action Items
+
+- [x] Refine current draft of logo
+  - [x] Simplify visually - fewer elements, no backdrop, better perspective angle
+  - [x] Find clearer placement for Hack for LA logo within or alongside Data Science logo.
+
+### Resources/Instructions
+
+#### Latest Files
+
+The latest files are saved in this folder in the Data Science shared Google Drive:
+https://drive.google.com/drive/u/0/folders/1d0IrLzTGEWP5PkGS0aocLi1tCK2jSt8b
+
+The latest file is an svg made with google drawing. The [main Base Logo file is here](https://docs.google.com/drawings/d/1ARUH58iSl4_cMo5RyQ8xhPcAmfjnf3uZF9mjcF7iTBU/edit) and the [Favicon file is here](https://docs.google.com/drawings/d/1hb_1iSWR0XYV2bZMOqsKa_7X3hqW-uMDjhryaJ6R-7U/edit).
+
+##### Previous Draft
+The previous draft was made by combining a matplotlib background (for the beloved(?) data science aesthetic) with other elements photoshopped into place. The files can be found in the [logo branch](https://github.com/hackforla/data-science/tree/logo) of the repo here:
+
+- [Backdrop rendered in jupyter notebook](https://github.com/hackforla/data-science/tree/logo/logo/Logo_Elements/3d_backdrop/logo_backdrop_matplotlib.ipynb)
+- [Photoshop file](https://github.com/hackforla/data-science/tree/logo/logo/Logo_Assembly_cropped.psd)
+- [Draft logo](https://github.com/hackforla/data-science/tree/logo/logo/Drafts/Logo_outlined.png)
+- [Alternate draft 1](https://github.com/hackforla/data-science/tree/logo/logo/Drafts/Logo_Assembly_option_1.png)
+- [Alternate draft 2](https://github.com/hackforla/data-science/tree/logo/logo/Drafts/Logo_Assembly_option_2.png)"
+138,"Starter Project for New Data Analysts and Data Scientists","role: product,role: CoP lead,feature: onboarding,size: epic,dependency","closed","None","None",1,"2021-11-19T20:36:07Z","2021-11-30T19:00:45Z","2021-11-30T19:00:45Z","CONTRIBUTOR","### Dependency
+Discuss how this integrates with Hack for LA plans to engage new data scientists and get them working on productive projects. 
+
+### Overview
+CoP lead proposed developing a starter project using a toy data set to help new recruits understand various tasks and allow mentors to provide useful feedback based on deeper understanding of the project and data set.
+
+### Action Items
+- [ ] Determine what skills should be used in the starter project. Possibilities include:
+   -    Data cleaning
+   -    Documentation (i.e. adding structured context)
+   -    Technologies (i.e. Jupyter, Python, numPy, SQL,,etc.)
+   -    Summary of findings
+- [ ] Collect useful resources and documentation for recruits to refer to
+- [ ] Select data set(s) to be used for project
+- [ ] Create notebook with step-by-step instructions
+- [ ] Get feedback from CoP
+
+### Resources/Instructions
+"
+137,"Data Science CoP Meeting Agendas (Monday 7PM PST)","feature: guide,role: product,size: 1pt,feature: agenda","open","akhaleghi","None",40,"2021-11-19T04:37:43Z","2024-03-19T02:10:52Z","None","CONTRIBUTOR","### Overview
+This issue tracks the agenda for the Data Science CoP meetings.
+
+### Weekly Agenda, Recordings, and Transcripts
+- November 2021: [2021-11-18](https://github.com/hackforla/data-science/issues/137#issuecomment-973737827), [2021-11-19](https://github.com/hackforla/data-science/issues/137#issuecomment-974421073) 
+- December 2021: [2021-12-02](https://github.com/hackforla/data-science/issues/137#issuecomment-985213751), [2021-12-16](https://github.com/hackforla/data-science/issues/137#issuecomment-996413245) 
+- January 2022: [2022-01-06](https://github.com/hackforla/data-science/issues/137#issuecomment-1007118306), [2022-01-13](https://github.com/hackforla/data-science/issues/137#issuecomment-1012720668), [2022-01-20](https://github.com/hackforla/data-science/issues/137#issuecomment-1017927346), [2022-01-27](https://github.com/hackforla/data-science/issues/137#issuecomment-1023838528)
+-  February 2022: [2022-02-03](https://github.com/hackforla/data-science/issues/137#issuecomment-1029601494), [2022-02-10](https://github.com/hackforla/data-science/issues/137#issuecomment-1035832929), [2022-02-17](https://github.com/hackforla/data-science/issues/137#issuecomment-1043847040), [2022-02-24](https://github.com/hackforla/data-science/issues/137#issuecomment-1050495019)
+
+### Resources/Instructions
+[Zoom link for Thursday meetings](https://us02web.zoom.us/j/81067015817?pwd=M3l6a0tQTWhLbnlTbEZNOWJ5UXN3QT09)
+"
+135,"CoP: Data Science: Find and document all the 311 public data sets","role: data analysis,project: 311 Data,size: 2pt,epic: 311 public data sets","open","venkata-sai-swathi","None",5,"2021-11-12T21:47:39Z","2024-07-10T16:39:05Z","None","MEMBER","### Overview
+We need to create a definitive list of all the city government data portals for the Greater LA area.
+
+### Action Items
+- [x] Add the datasets from the Harker list into the Spreadsheet of cities and counties in Greater LA
+- [x] Google to see if there are any others
+- [x] find each cities website and record in spreadsheet
+- [x] visiting each city's website to confirm they have one or don't have data portal.  
+- [x] If there are notes about why they don't have it (article, etc).  Please provide a link to that info or paste if short.
+
+### Resources/Instructions
+- [Deliverable: Spreadsheet of cities/counties in Greater LA with URLs](https://docs.google.com/spreadsheets/d/1Vjmof0CfFPGyWDlDbChc_hk1MF6pSdGEwcFcAMeQCIQ/edit#gid=0)
+- [Wikipedia list of Cities in LA with links to their pages, and each one probably has a link to the official website](https://en.wikipedia.org/wiki/List_of_cities_in_Los_Angeles_County,_California)
+- [Harker List - completed](http://www.harker.com/OpenData/socrata-data-portals.html)"
+134,"Overview Dashboard - add titles to graphs","feature: guide,role: data science,project: 311-data-dashboards,size: 1pt,epic: 311 public data sets","closed","chelseybeck","None",1,"2021-11-05T02:01:19Z","2022-03-18T20:07:21Z","2021-11-19T04:01:41Z","MEMBER","### Overview
+None of the figures on the dashboards currently have titles. This issue is to add titles to the figures on the Overview page on the dev site.
+
+### Action Items
+
+- [x] add title to fig1
+- [x] add title to fig2
+- [x] add title to fig3
+- [x] add title to fig4
+- [x] add title to fig5
+- [x] add title to fig6
+
+
+### Resources/Instructions
+
+[311-data project onboarding](https://docs.google.com/document/d/1fNIxKJl91YZ_b6PRvKMdyd7tXJwWbfGIAJ5VTfe8Jow/edit?pli=1#heading=h.c8tc614ce3iu)
+
+Refer to the documentation in the [311-data dashboards directory](https://github.com/hackforla/311-data/tree/dev/server/dash/dashboards) for creating or modifying dashboards
+
+[Dash Python User Guide](https://dash.plotly.com/)
+
+Optional: prototype reports in Jupyter Notebooks -examples found [here](https://drive.google.com/drive/u/3/folders/1P-uID8FpnqwvYlUmzWsmgU4pxRSeb72z). 
+"
+133,"Create labels, features, milestones","role: product,dependency,size: 3pt,feature: project management","open","None","None",2,"2021-11-01T23:40:13Z","2024-02-13T03:28:58Z","None","MEMBER","### Dependency
+Figure out which (if any) milestones and milestone labels are needed for DS CoP
+
+### Overview
+We need the board to be easy all team members to navigate and use to be effective, so that we can build capacity and velocity
+
+### Action Items
+#### Make labels 
+- [x] Labels
+   - [x] features
+   - [x] roles
+   - [x] size
+   - [x] epics
+- [x] label check issue for the following #149 
+   - [x] features
+   - [x] roles
+   - [x] size
+   - [x] epics
+
+#### Milestones
+- [ ] Start spreadsheet
+- [ ] meet with Sophia and Ryan
+- [ ] create milestones
+- [ ] add milestones to all issues
+- [ ] re-prioritize all issues in backlog
+
+### Resources/Instructions
+- https://github.com/hackforla/data-science/issues/149"
+131,"Story Size for Data Science Issues","role: product,size: 1pt,feature: project management","closed","akhaleghi","None",0,"2021-10-24T18:07:51Z","2021-11-05T20:47:03Z","2021-11-01T23:36:54Z","CONTRIBUTOR","### Overview
+This issue explains the meaning of story points that we use for estimating the relative effort required for issues.
+
+### Resources/Instructions
+When creating new issues, add a ""size"" label based on the estimated time effort required to complete the tasks. _Note that each point roughly equates to 6 hours or less of work._
+- size: 1pt - can be done in 6 hours or less
+- size: 2pt - can be done in 7-12 hours
+- size: 3pt - can be done in 13-18 hours
+- size: 5pt - can be done in 19-30 hours
+- size: 8pt - can be done in 31-48 hours
+- size: 13+pt - must be broken down into smaller issues."
+130,"Create a Guide: Web Scraping","Guide: Research,feature: guide,role: org,size: 5pt,CoP: Data Science","open","parcheesime","None",0,"2021-10-22T16:49:52Z","2024-06-05T12:54:03Z","None","CONTRIBUTOR","### Overview
+This issue contains resources to help community members learn more about web scraping in Python, including the use of APIs. 
+
+### Action Items
+- [ ] Gather resources, including relevant Hack for LA content (i.e. our tutorials and projects that have used web scraping), online courses, and tutorial/how-to web content.
+   - [ ] Once done, remove the ""Guide: Research"" label and add the ""Guide: Draft Guide"" label
+- [ ] Create a draft template, either in markdown format in this issue or a google doc in the [Data Science google drive](https://drive.google.com/drive/folders/1ZBzxr7Wv3IlDsvIM5wAeHflI4op_X01M)
+    - [ ] Once done, remove the ""Guide: Draft Guide"" label and add the ""Guide: Create Guide"" label
+- [ ] Create a guide on how to use the resources contained, including steps on how to get started for volunteers new to web scraping 
+   - [ ] Once done, remove the ""Guide: Create Guide"" label and add the ""Guide: Review Guide"" label
+- [ ] Review the guide with Data Science Communities of Practice
+   - [ ] Once done, remove the ""Guide: Review Guide"" label and add the ""Guide: Leadership Review"" label
+- [ ] Present to Hack for LA leadership team for sign off
+   - [ ] Once approved, remove the ""Guide: Leadership Review"" label and add the ""Guide: Place Guide"" label
+- [ ] Include link to guide under Resources if you add it as a template in .github
+
+### Resources/Instructions
+[Hack for LA Web Scraping Tutorial with Selenium/Docker/Python](https://drive.google.com/drive/folders/1t3AO2A8uOcKYrTGKuEzMLnsZPdPUo9Si)
+"
+124,"Obtain Shape Files for Different District Types as of Nov/Dec 2021","feature: guide,role: data analysis,project duration: one time,size: 1pt,project: district types","closed","None","None",6,"2021-10-14T21:42:29Z","2023-03-31T01:10:05Z","2023-03-31T01:10:04Z","CONTRIBUTOR","### Overview
+We need to obtain shape files for the various district types that represent stakeholders we work with. This is part of the epic issue  #118  
+
+### Action Items
+- [x] Identify shape file sources for the following district types:
+   - [x] [Neighborhood Councils (NCs)](https://empowerla.org/councils/) | [_Shape Files Here_](https://geohub.lacity.org/datasets/neighborhood-council-boundaries-2018/explore) 
+   - [x] [Supervisory Districts](https://bos.lacounty.gov/About-Us/Board-of-Supervisors) | [_Shape Files Here_](https://data.lacounty.gov/GIS-Data/Supervisorial-District-2011-/krcx-r26t)
+   - [x] [Business Improvement Districts (BIDs)](https://clerk.lacity.org/clerk-services/bids) | [_Shape Files Here_](https://data.lacity.org/Housing-and-Real-Estate/Business-Improvement-Districts/733b-ryrk)
+   - [x] [U.S. House of Representatives that serve LA](http://www.laalmanac.com/government/gu02map.php) | [_Shape Files Here_](https://wedrawthelines.ca.gov/maps-final-draft-congressional-districts/)
+   - [x] [California State Senators that serve LA](https://www.senate.ca.gov/) | [_Shape Files Here_](https://wedrawthelines.ca.gov/maps-final-draft-senate-districts/)
+   - [x] [California Assembly members that serve LA](https://www.assembly.ca.gov/assemblymembers) | [_Shape Files Here_](https://wedrawthelines.ca.gov/maps-final-draft-assembly-districts/)
+   - [x] Zip Code | [_Shape Files Here_](https://data.lacounty.gov/Geospatial/ZIP-Codes/65v5-jw9f)
+- [x] Save shape files to the data-science repo
+   - [x] Neighborhood Councils (NCs)
+   - [x] Supervisory Districts
+   - [x] Business Improvement Districts (BIDs)
+   - [x] U.S. House of Representatives that serve LA
+   - [x] California State Senators that serve LA
+   - [x] California Assembly members that serve LA 
+   - [x] Zip Code
+- [ ] Develop policy for updating files 
+   - [ ] How often do the boundaries change for the different district types? 
+      - [ ] Neighborhood Councils (NCs)
+      - [x] Supervisory Districts
+      - [ ] Business Improvement Districts (BIDs)
+      - [x] U.S. House of Representatives that serve LA
+      - [x] California State Senators that serve LA
+      - [x] California Assembly members that serve LA 
+      - [x] Zip Code
+   - [ ] Can these be self-updating via APIs?
+
+### Resources/Instructions
+Google Drive [files here](https://drive.google.com/drive/folders/1KsIfAFmp0ArLauvHY1k9wRc9ZXaPDahe) "
+121,"Template For Creating Epics For Data Science Projects","role: product,size: 1pt,feature: project management","closed","akhaleghi","None",2,"2021-10-01T17:43:55Z","2024-04-15T21:15:51Z","2021-11-02T19:57:39Z","CONTRIBUTOR","### Overview
+We need to develop a uniform way to approach large data science projects and make it easier to identify smaller subtasks to facilitate completion.
+
+### Action Items
+- [x] Write draft template
+- [x] Consult CoP and org leads
+- [x] Add template to repository
+
+### Resources/Instructions
+Example Epics:
+Issues #106 , #107 
+[DS repo add template section](https://github.com/hackforla/data-science/issues/templates/edit)
+"
+120,"Structured Context for HfLA created data sets","feature: guide,role: data science,size: epic,project: structured context,TG: Draft Template,CoP: Data Science","open","None","None",4,"2021-09-30T16:31:22Z","2024-06-05T12:54:03Z","None","MEMBER","### Overview
+We need to have minimum standards for structured context in data sets we create and or deploy in our projects so that we can help consumers understand the context from which they come.
+
+### Action Items
+- [ ] Identify existing resources for structured context, adding each example as a link in the resources section
+   - [ ] Once done, remove the ""TG: Gather Examples"" label and add the ""TG: Draft Template"" label
+- [ ] Create a draft template, in all the formats the data will come in (json, csv, etc.) and upload to repo as a pr in the folder structured-context
+    - [ ] Once done, remove the ""TG: Draft Template"" label and add the ""TG: Create Guide"" label
+- [ ] Discuss plan with data science team
+- [ ] Create a guide on how to use the template 
+   - [ ] Once done, remove the ""TG: Create Guide"" label and add the ""TG: Review Guide"" label
+- [ ] Review the guide with product management communities of practice
+   - [ ] Once done, remove the ""TG: Review Guide"" label and add the ""TG: Leadership Review"" label
+- [ ] Present to Hack for LA leadership team for sign off
+   - [ ] Once approved, remove the ""TG: Leadership Review"" label and add the ""TG: Place Guide"" label
+- [ ] Possibly create an issue template on .github 
+   - [ ] Include link to template under resources if you add it as a template in .github
+
+### Resources
+- Refer to https://github.com/hackforla/product-management/issues/123 for how to write a guide and the guide template
+
+
+### Resources/Instructions
+[Datasheets for Data Sets](https://arxiv.org/pdf/1803.09010.pdf)
+Definition of [data context](https://simplicable.com/new/data-context)
+Article on [data in context](https://www.idashboards.com/blog/2018/05/02/data-in-context/)
+Adding context to [data visualizations](https://www.yellowfinbi.com/blog/2017/03/spoonful-of-context-helps-data-visualization-go-down)
+[Civic Data Library](https://www.civicdatalibrary.org)
+[Civic Software Foundation](https://www.civicdatalibrary.org)"
+118,"CoP: Data Science: Create district types reusable tool (API, single dataset, etc.)","feature: guide,role: data analysis,epic,size: epic,size: 1pt","open","parcheesime","None",13,"2021-09-28T18:48:35Z","2024-06-27T16:20:53Z","None","MEMBER","### Overview
+We need to create a tool so that each project at H4LA that renders points on a map can use District Files to help people analyze or view the data. 
+
+## Action Items
+- [x] Identify large groups/districts 
+- [x] Identify links for groups/districts
+- [x] Locate and obtain shape files for these districts #124 
+- [x] Determine what files types we will make these available (shp, npm, and/or GeoJSON)
+- [ ] Put files in GitHub repository so they are available to use in the organization.
+- [x] research how we will create a data set out of this info that will be self updating (meaning are there apis for these groups)
+- [ ] ...
+
+## Resources
+[Example Neighborhood Council Shape File](https://geohub.lacity.org/datasets/neighborhood-council-boundaries-2018/explore)
+
+#### Initial Identification of Large Groups/Districts
+   - City [Neighborhood Councils (NCs)](https://empowerla.org/councils/)
+   - County [Supervisory Districts](https://bos.lacounty.gov/About-Us/Board-of-Supervisors)
+   - City [Business Improvement Districts (BIDs)](https://clerk.lacity.org/clerk-services/bids)
+   - National [U.S. House of Representatives that serve LA](http://www.laalmanac.com/government/gu02map.php)
+   - State [California State Senators that serve LA](https://www.senate.ca.gov/)
+   - State [California Assembly members that serve LA](https://www.assembly.ca.gov/assemblymembers)"
+94,"Data Science Competitive/Comparative Analysis","feature: guide,role: product,size: 2pt","closed","None","None",0,"2021-09-10T19:27:09Z","2023-03-31T01:16:37Z","2023-03-31T01:16:37Z","CONTRIBUTOR","### Overview
+We need to know what competitors have on their sites so that we can use it as a factor when we decide what to put on our site.
+
+### Action Items
+
+- [x] Examine competitor websites to determine list of features that should be used for DS site.
+- [x] Create list of site features, rank by MoSCoW (move to new issue)
+
+### Resources/Instructions
+[Comparative Analysis Document](https://docs.google.com/spreadsheets/d/138Oul1HQLNuuGvIf0P894cmyo4A2Nf2ZSJtZoZTd26U/edit#gid=1259306930)
+[Example from Access the Data Team](https://github.com/hackforla/access-the-data/issues/8)"
