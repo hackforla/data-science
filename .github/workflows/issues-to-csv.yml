@@ -30,15 +30,23 @@ jobs:
       #     curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
       #          "https://api.github.com/repos/${{ github.repository }}/issues?state=all&per_page=100" | \
       #     jq -r '.[] | select(.pull_request == null) | [.number, .title, (.labels | map(.name) | join(","))] | @csv' >> issues.csv
-      
-      # Generate issues CSV
       - name: Generate issues CSV
         run: |
-          echo "Issue Number,Title,Labels,State,Assignee,Milestone,Comments,Created At,Updated At,Closed At,Author Association,Body" > issues.csv
+          echo "Issue Number,Title,Labels,State,User Login,User ID,Assignee Login,Assignee ID" > issues.csv
           curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                "https://api.github.com/repos/${{ github.repository }}/issues?state=all&per_page=100" | \
-          jq -r '.[] | select(.pull_request == null) | [.number, .title, (.labels | map(.name) | join(",")), .state, (.assignee | if . != null then .login else "None" end), (.milestone | if . != null then .title else "None" end), .comments, .created_at, .updated_at, (.closed_at // "None"), .author_association, .body] | @csv' >> issues.csv
-      #force add file to repo, commit and push
+          jq -r '.[] | select(.pull_request == null) | [
+            .number,
+            .title,
+            (.labels | map(.name) | join(",")),
+            .state,
+            .user.login,
+            .user.id,
+            (.assignee | if . != null then .login else "None" end),
+            (.assignee | if . != null then .id else "None" end)
+          ] | @csv' >> issues.csv
+      # Generate issues CSV
+      
       - name: Commit and push
         run: |
           git config user.name "Automated"
