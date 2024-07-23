@@ -30,7 +30,7 @@ jobs:
     # Generate pull requests CSV
     - name: Generate pull requests CSV
       run: |
-        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Linked Issues,Reviewers" > my_org_PRs.csv
+        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Linked Issues,Reviewers" > hackforla_pull_requests.csv
         curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
              "https://api.github.com/repos/${{ github.repository }}/pulls?state=all&per_page=100" | \
         jq -r '[.[] | {
