@@ -45,7 +45,7 @@ jobs:
     # Generate pull requests CSV
     - name: Generate pull requests CSV
       run: |
-        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers" > my_org_PRs.csv
+        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers" > pull_requests.csv
         jq -r '.[] | select(.user.login != "dependabot[bot]") | [
           .number,
           .title,
@@ -57,18 +57,18 @@ jobs:
           (.labels | map(.name) | join(",")),
           (.assignees | map(.login) | join(",")),
           (.requested_reviewers | map(.login) | join(","))
-        ] | @csv' pulls.json >> my_org_PRs.csv
+        ] | @csv' pulls.json >> pull_requests.csv
 
-    # Check the content of my_org_PRs.csv for debugging
-    - name: Display my_org_PRs.csv content
-      run: cat my_org_PRs.csv
+    # Check the content of pull_requests.csv for debugging
+    - name: Display pull_requests.csv content
+      run: cat pull_requests.csv
 
     # Commit and push the generated CSV to the repository
     - name: Commit and push CSV
       run: |
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add -f my_org_PRs.csv
+        git add -f pull_requests.csv
         timestamp=$(date -u)
         git commit -m "Latest pull requests data: ${timestamp}" || exit 0
         git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
