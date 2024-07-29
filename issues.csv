@@ -14,7 +14,7 @@ Issue Number,Title,Labels,State,User Login,User ID,Assignee Login,Assignee ID
 181,"CoP: Data Science: Affordable Housing Access to Food Pantries","role: data science,epic,size: 3pt,project: EDA","closed","akhaleghi",7635911,"MDivyaPrakash",22434989
 180,"City of Los Angeles Arrests","role: data science,epic,size: 3pt,project: EDA","open","akhaleghi",7635911,"dolla24",13824693
 179,"CoP: Data Science: City of Los Angeles Evictions","role: data science,epic,size: 3pt,project: EDA","closed","akhaleghi",7635911,"rahul897",5197842
-178,"CoP: Data Science: Find data sources through the LA Controller's office","documentation,good first issue,role: data analysis,size: 1pt,project: missing","open","akhaleghi",7635911,"FragariaChemist",103977933
+178,"CoP: Data Science: Find data sources through the LA Controller's office","documentation,good first issue,role: data analysis,size: 1pt,project: missing","open","akhaleghi",7635911,"RomyPatel",54936257
 177,"Create 311 data CSV files that can be accessed through a Jupyter notebook","role: data science,project: 311 Data,size: 3pt,feature: project management","closed","akhaleghi",7635911,"mru-hub",105573589
 170,"California Grants Portal Data Set EDA","role: data analysis,project duration: ongoing,size: 1pt,project: EDA","closed","akhaleghi",7635911,"jossus657",97187879
 169,"Potential Projects: California Grants Portal","role: data science,epic,size: epic,dependency,project: EDA","closed","akhaleghi",7635911,"mihikasahani",102847564
