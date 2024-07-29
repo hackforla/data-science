@@ -71,7 +71,7 @@ jobs:
         git add -f my_org_PRs.csv
         timestamp=$(date -u)
         git commit -m "Latest pull requests data: ${timestamp}" || exit 0
-        git push --force origin HEAD:refs/heads/n2020h-prs-to-csv
+        git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
