@@ -11,7 +11,6 @@ on:
   #   types: [opened, closed, reopened]
   #   branches: 
   #     - n2020h-issues-to-csv
-
 jobs:
   list-pull-requests:
     runs-on: ubuntu-latest
@@ -21,17 +20,32 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+###------------------------------------------------------#######
     # Set up Node.js to use jq command
-    # - name: Set up Node.js
-    #   uses: actions/setup-node@v3
-    #   with:
-    #     node-version: '20'
+    # trying thiss
+    # trying this!!!
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
+    # Fetch pull requests data and save it to pulls.json
+    - name: Fetch pull requests data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        curl -H "Authorization: token $GITHUB_TOKEN" \
+             -H "Accept: application/vnd.github.v3+json" \
+             "https://api.github.com/repos/${{ github.repository }}/pulls?state=all&per_page=100" \
+             -o pulls.json
+
+    # Check the content of pulls.json for debugging
+    - name: Display pulls.json content
+      run: cat pulls.json
 
     # Generate pull requests CSV
     - name: Generate pull requests CSV
       run: |
-        run: |
-        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers" > hackforla_PRs.csv
+        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers" > my_org_PRs.csv
         jq -r '.[] | [
           .number,
           .title,
@@ -43,16 +57,52 @@ jobs:
           (.labels | map(.name) | join(",")),
           (.assignees | map(.login) | join(",")),
           (.requested_reviewers | map(.login) | join(","))
-        ] | @csv' pulls.json >> hackforla_PRs.csv
+        ] | @csv' pulls.json >> my_org_PRs.csv
+
+    # Check the content of my_org_PRs.csv for debugging
+    - name: Display my_org_PRs.csv content
+      run: cat my_org_PRs.csv
 
     # Commit and push the generated CSV to the repository
     - name: Commit and push CSV
       run: |
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add -f hackforla_PRs.csv
+        git add -f my_org_PRs.csv
         timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
+        git commit -m "Latest pull requests data: ${timestamp}" || exit 0
+        git push --force origin HEAD:refs/heads/n2020h-prs-to-csv
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+####-------------------------------------------------#######
+        
+    # # Generate pull requests CSV
+    # - name: Generate pull requests CSV
+    #   run: |
+    #     run: |
+    #     echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers" > hackforla_PRs.csv
+    #     jq -r '.[] | [
+    #       .number,
+    #       .title,
+    #       .body,
+    #       .user.login,
+    #       .state,
+    #       .commits,
+    #       .changed_files,
+    #       (.labels | map(.name) | join(",")),
+    #       (.assignees | map(.login) | join(",")),
+    #       (.requested_reviewers | map(.login) | join(","))
+    #     ] | @csv' pulls.json >> hackforla_PRs.csv
+
+    # # Commit and push the generated CSV to the repository
+    # - name: Commit and push CSV
+    #   run: |
+    #     git config user.name "Automated"
+    #     git config user.email "actions@users.noreply.github.com"
+    #     git add -f hackforla_PRs.csv
+    #     timestamp=$(date -u)
+    #     git commit -m "Latest data: ${timestamp}" || exit 0
+    #     git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
