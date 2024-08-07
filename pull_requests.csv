@@ -1,14 +1,14 @@
-PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers
+PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers, Linked Issues
 205,"Added data loading and cleaning Jupyter notebook","- Initial implementation of data loading/ saving and cleaning.
-- Improvements planned for future versions.","mru-hub","closed",,,"","",""
+- Improvements planned for future versions.","mru-hub","closed",,,"","","",""
 201,"feat:  City of Los Angeles Evictions #179","This commit introduces basic EDA on the LA evictions data, It introduces explode/splitting of Just Cause column for effective analysis
 
-starting #179 ","rahul897","open",,,"","",""
-199,"177 create 311 data csv files that can be accessed through a jupyter notebook","Cleaning rules document  from the 311-data","mru-hub","closed",,,"","","salice"
-197,"N2020h issues to csv",,"n2020h","open",,,"","n2020h",""
-196,"186 Adding Crime Data",,"dolla24","closed",,,"","dolla24",""
-195,"fix name of image to work with Windows",,"salice","closed",,,"","",""
-192,"Create issues-to-csv.yml","testing feature branch with draft pull request","n2020h","closed",,,"","",""
+starting #179 ","rahul897","open",,,"","","",""
+199,"177 create 311 data csv files that can be accessed through a jupyter notebook","Cleaning rules document  from the 311-data","mru-hub","closed",,,"","","salice",""
+197,"N2020h issues to csv",,"n2020h","open",,,"","n2020h","",""
+196,"186 Adding Crime Data",,"dolla24","closed",,,"","dolla24","",""
+195,"fix name of image to work with Windows",,"salice","closed",,,"","","",""
+192,"Create issues-to-csv.yml","testing feature branch with draft pull request","n2020h","closed",,,"","","",""
 188,"Moving Workshop-Feedback_Bigram_Analysis.ipynb from access-the-data repo","Partially fixes https://github.com/hackforla/website/issues/6139
 
 ### What changes did you make?
@@ -23,7 +23,7 @@ starting #179 ","rahul897","open",,,"","",""
 - To see examples of the commit history of the various methods of merging, see these branches in my forked repo:
   - [Using rebase & merge](https://github.com/JessicaLucindaCheng/data-science/commits/rebase-merge): Recommended
   - [Using merge commit](https://github.com/JessicaLucindaCheng/data-science/commits/merge-commit): Okay but results in 2 commits
-  - [Using squash & merge](https://github.com/JessicaLucindaCheng/data-science/commits/squash-merge): Not recommended because it doesn't preserve author's credit","JessicaLucindaCheng","closed",,,"","",""
+  - [Using squash & merge](https://github.com/JessicaLucindaCheng/data-science/commits/squash-merge): Not recommended because it doesn't preserve author's credit","JessicaLucindaCheng","closed",,,"","","",""
 187,"Moving Workshop-Feedback_Bigram_Analysis.ipynb from access-the-data repo","Fixes N/A - 
 
 ### What changes did you make?
@@ -38,105 +38,105 @@ starting #179 ","rahul897","open",,,"","",""
 - To see examples of the commit history of the various methods of merging, see these branches in my forked repo:
   - [Using rebase & merge](https://github.com/JessicaLucindaCheng/data-science/commits/rebase-merge): Recommended
   - [Using merge commit](https://github.com/JessicaLucindaCheng/data-science/commits/merge-commit): Okay but results in 2 commits
-  - [Using squash & merge](https://github.com/JessicaLucindaCheng/data-science/commits/squash-merge): Not recommended because it doesn't preserve author's credit","JessicaLucindaCheng","closed",,,"","",""
-186,"Lalla la crime analysis 2",,"Lalla22","open",,,"","","salice"
-185,"Create README.md",,"Lalla22","closed",,,"","",""
-184,"git c",,"Lalla22","closed",,,"","",""
-168,"Updating label analysis jupyter notebook with co-occurrence analysis",,"rbianchetti","open",,,"","",""
-167,"Merge pull request #164 from hackforla/160-survey-repo-labels","A python script that gets all the labels used in open issues across a…","codemamma","open",,,"","",""
-164,"A python script that gets all the labels used in open issues across a…","…n organization(s) via GitHub API","rbianchetti","closed",,,"","",""
-159,"Linking latest pedestrian safety report presentation","This replaces a previous powerpoint presentation stored in the repo with links to the current report and presentation saved in Hack for LA's shared google drive.","henrykaplan","open",,,"","","akhaleghi"
-158,"Data Science logo links and image files","The latest version of the Hack for LA data science logo is being worked on in Google Drive. I've updated the directory in the git repo with links to the latest and with png and svg versions of the latest logo files.","henrykaplan","closed",,,"","","akhaleghi"
-139,"Removed spaces from all filenames in pedestrian data directory","Changed filenames of all output files and graphics. No changes to file contents — these are final graphics and reports, and aren't aren't referenced by file path anywhere.","henrykaplan","closed",,,"","",""
-132,"Pedestrian safety","Added readme documentation for downloading and organizing data, running Jupyter notebooks, and reorganized analysis files.","henrykaplan","closed",,,"","",""
-123,"Create a new issue template for epics",,"akhaleghi","closed",,,"","",""
-122,"Pedestrian safety draft visualizations and presentation","Further simplified and clarified maps and traffic accident charts, added these new charts and related discussion to the presentation file.","henrykaplan","closed",,,"","","AlbertUlysses"
+  - [Using squash & merge](https://github.com/JessicaLucindaCheng/data-science/commits/squash-merge): Not recommended because it doesn't preserve author's credit","JessicaLucindaCheng","closed",,,"","","",""
+186,"Lalla la crime analysis 2",,"Lalla22","open",,,"","","salice",""
+185,"Create README.md",,"Lalla22","closed",,,"","","",""
+184,"git c",,"Lalla22","closed",,,"","","",""
+168,"Updating label analysis jupyter notebook with co-occurrence analysis",,"rbianchetti","open",,,"","","",""
+167,"Merge pull request #164 from hackforla/160-survey-repo-labels","A python script that gets all the labels used in open issues across a…","codemamma","open",,,"","","",""
+164,"A python script that gets all the labels used in open issues across a…","…n organization(s) via GitHub API","rbianchetti","closed",,,"","","",""
+159,"Linking latest pedestrian safety report presentation","This replaces a previous powerpoint presentation stored in the repo with links to the current report and presentation saved in Hack for LA's shared google drive.","henrykaplan","open",,,"","","akhaleghi",""
+158,"Data Science logo links and image files","The latest version of the Hack for LA data science logo is being worked on in Google Drive. I've updated the directory in the git repo with links to the latest and with png and svg versions of the latest logo files.","henrykaplan","closed",,,"","","akhaleghi",""
+139,"Removed spaces from all filenames in pedestrian data directory","Changed filenames of all output files and graphics. No changes to file contents — these are final graphics and reports, and aren't aren't referenced by file path anywhere.","henrykaplan","closed",,,"","","",""
+132,"Pedestrian safety","Added readme documentation for downloading and organizing data, running Jupyter notebooks, and reorganized analysis files.","henrykaplan","closed",,,"","","",""
+123,"Create a new issue template for epics",,"akhaleghi","closed",,,"","","",""
+122,"Pedestrian safety draft visualizations and presentation","Further simplified and clarified maps and traffic accident charts, added these new charts and related discussion to the presentation file.","henrykaplan","closed",,,"","","AlbertUlysses",""
 117,"Pedestrian safety","- Add optional parameter to mapillary wrapper client to allow data requests of recent data only, to quickly update existing datasets.
 - Better maps and visualizations.
 - Use DBScan clustering algorithm to find clusters of traffic accidents (simplest way to roughly group accidents at specific intersections, as the accident data is mostly based around intersections).
-- Updated report ppt for August 5 presentation to data science group","henrykaplan","closed",,,"","",""
+- Updated report ppt for August 5 presentation to data science group","henrykaplan","closed",,,"","","",""
 116,"webscraping folder initial commit","[Edited]
 
-This PR is a stand alone folder added to the 311-data folder. It contains a webscraping script for the tech stacks of each NC survey. See issue [44](https://github.com/hackforla/data-science/issues/44). The readme contains a link to the google sheets table of the tech used for each website.","rajindermavi","closed",,,"","",""
-115,"docs","updated readme to include sample queries that LAANE is interested in doing against the database","AlbertUlysses","closed",,,"","",""
-114,"docs","Update README/todos","AlbertUlysses","closed",,,"","",""
-113,"docs","Updated misc docs","AlbertUlysses","closed",,,"","",""
-111,"Docs!","Updated docs like readme and add extra notes to some other files","AlbertUlysses","closed",,,"","",""
-105,"debug","debugged some code that was entering incorrect addresses","AlbertUlysses","closed",,,"","",""
-104,"docs/clean up","updated README and removed some old files.","AlbertUlysses","closed",,,"","",""
-103,"feat: assessor script","Last script, passes tests refactored a bit","AlbertUlysses","closed",,,"","",""
+This PR is a stand alone folder added to the 311-data folder. It contains a webscraping script for the tech stacks of each NC survey. See issue [44](https://github.com/hackforla/data-science/issues/44). The readme contains a link to the google sheets table of the tech used for each website.","rajindermavi","closed",,,"","","",""
+115,"docs","updated readme to include sample queries that LAANE is interested in doing against the database","AlbertUlysses","closed",,,"","","",""
+114,"docs","Update README/todos","AlbertUlysses","closed",,,"","","",""
+113,"docs","Updated misc docs","AlbertUlysses","closed",,,"","","",""
+111,"Docs!","Updated docs like readme and add extra notes to some other files","AlbertUlysses","closed",,,"","","",""
+105,"debug","debugged some code that was entering incorrect addresses","AlbertUlysses","closed",,,"","","",""
+104,"docs/clean up","updated README and removed some old files.","AlbertUlysses","closed",,,"","","",""
+103,"feat: assessor script","Last script, passes tests refactored a bit","AlbertUlysses","closed",,,"","","",""
 102,"docs","Update Readme
-removed a lot of personal notes aimed for me during script writing","AlbertUlysses","closed",,,"","",""
-101,"debug categorically inelligible","debug categorically inelligibl data","AlbertUlysses","closed",,,"","",""
+removed a lot of personal notes aimed for me during script writing","AlbertUlysses","closed",,,"","","",""
+101,"debug categorically inelligible","debug categorically inelligibl data","AlbertUlysses","closed",,,"","","",""
 100,"New scripts + debug","added some code that debugs the ofs and luxly datasets.
-Added a new script that handles warnings and citations.","AlbertUlysses","closed",,,"","",""
-99,"bugfix","fixed bugs across 4 files that dealth with addresses that returned 0 for zipcode instead of a 5 number digit","AlbertUlysses","closed",,,"","",""
-98,"feat: new script for warning","This script is for warning files that don't have only addresses and dates.","AlbertUlysses","closed",,,"","",""
+Added a new script that handles warnings and citations.","AlbertUlysses","closed",,,"","","",""
+99,"bugfix","fixed bugs across 4 files that dealth with addresses that returned 0 for zipcode instead of a 5 number digit","AlbertUlysses","closed",,,"","","",""
+98,"feat: new script for warning","This script is for warning files that don't have only addresses and dates.","AlbertUlysses","closed",,,"","","",""
 97,"Two commits","First commit fixes the warning script file.
 The second commit adds an extra line describe what the script is for.
-","AlbertUlysses","closed",,,"","",""
-96,"feat: new processesing script","script for airbnb reviews is complete.","AlbertUlysses","closed",,,"","",""
-95,"feat: airbnb dataset script","airbnb script that uploads listings and host information ","AlbertUlysses","closed",,,"","",""
-93,"debug one fine stay scripts","debug one fine stay scripts for address2 errors","AlbertUlysses","closed",,,"","",""
-92,"debug","debugged the data from one fine stay.","AlbertUlysses","closed",,,"","",""
-91,"debug","Did some debugging for luxly platform script","AlbertUlysses","closed",,,"","",""
-90,"fixbug in hsodenials","hsodenials bugs are remved, hsodenials script is good to go.","AlbertUlysses","closed",,,"","",""
-89,"debug","Debugged the hso_registrant enteries.","AlbertUlysses","closed",,,"","",""
-88,"bugfix: fixed exempt script","fixed exempt table to match the rest of the database","AlbertUlysses","closed",,,"","",""
-87,"fixbug: fixed bug in categorically inelligible","fixed categoically ineligible bug","AlbertUlysses","closed",,,"","",""
-86,"bug fix: fixed bug for complaints data","fixed complaints data to not have nulls and to not allow any state that don't use two letter abbreviation. ","AlbertUlysses","closed",,,"","",""
-85,"refactor/debug: debugging each script","Refactored tot script to make sure it is uploading to sqlite correctly.","AlbertUlysses","closed",,,"","",""
-84,"re-refactor normalize address","normalize address wrapper returns none as default again because that's how the library handle it, shouldn't return two different options.","AlbertUlysses","closed",,,"","",""
-83,"refactored","refactoring some transformation files to fix bug","AlbertUlysses","closed",,,"","",""
+","AlbertUlysses","closed",,,"","","",""
+96,"feat: new processesing script","script for airbnb reviews is complete.","AlbertUlysses","closed",,,"","","",""
+95,"feat: airbnb dataset script","airbnb script that uploads listings and host information ","AlbertUlysses","closed",,,"","","",""
+93,"debug one fine stay scripts","debug one fine stay scripts for address2 errors","AlbertUlysses","closed",,,"","","",""
+92,"debug","debugged the data from one fine stay.","AlbertUlysses","closed",,,"","","",""
+91,"debug","Did some debugging for luxly platform script","AlbertUlysses","closed",,,"","","",""
+90,"fixbug in hsodenials","hsodenials bugs are remved, hsodenials script is good to go.","AlbertUlysses","closed",,,"","","",""
+89,"debug","Debugged the hso_registrant enteries.","AlbertUlysses","closed",,,"","","",""
+88,"bugfix: fixed exempt script","fixed exempt table to match the rest of the database","AlbertUlysses","closed",,,"","","",""
+87,"fixbug: fixed bug in categorically inelligible","fixed categoically ineligible bug","AlbertUlysses","closed",,,"","","",""
+86,"bug fix: fixed bug for complaints data","fixed complaints data to not have nulls and to not allow any state that don't use two letter abbreviation. ","AlbertUlysses","closed",,,"","","",""
+85,"refactor/debug: debugging each script","Refactored tot script to make sure it is uploading to sqlite correctly.","AlbertUlysses","closed",,,"","","",""
+84,"re-refactor normalize address","normalize address wrapper returns none as default again because that's how the library handle it, shouldn't return two different options.","AlbertUlysses","closed",,,"","","",""
+83,"refactored","refactoring some transformation files to fix bug","AlbertUlysses","closed",,,"","","",""
 82,"feat: hso_registrant script","HSO_Registrant script is complete. 
-","AlbertUlysses","closed",,,"","",""
+","AlbertUlysses","closed",,,"","","",""
 81,"refactor: no code change files moved","I moved some files around to better reflect where they belong. 
 For exapmle, assessor table file will be move to processingscripts folder because the code is unique to the assessor dataset.
 However, normalize_address_wrapper will stay in the transformations folder because multiple scripts use this.
-Asssesor file (and builds) will now have the custom code and later include the processing code as well.","AlbertUlysses","closed",,,"","",""
-79,"refactor: add a new file to handle multiple files","Remove old code that does multiple files for a job and include a new module that handles that.","AlbertUlysses","closed",,,"","",""
-78,"feat: new script","Script that enters one fine stay data into platform table but has a different column layout then the other one fine stay sheets.","AlbertUlysses","closed",,,"","",""
-77,"refactor: include steps for entire folder","Added some new code that helps with multiple fies in a folder. This should be moved into it's own module in the future.","AlbertUlysses","closed",,,"","",""
-76,"refactor: move scripts to new folder","move all scripting files to processingscript folder and leave helper functions in the transformations folder.","AlbertUlysses","closed",,,"","",""
-75,"feat: platform one fine stay","Adding the custom script for uploading one fine stay data into platform database.","AlbertUlysses","closed",,,"","",""
-74,"refactor: refactor platform luxly","refactor the platform luxly file to make it more readable and closer allign with wemake style guide.","AlbertUlysses","closed",,,"","",""
-73,"docs: update license","updated the license to reflect Hack For LA's best practices. ","AlbertUlysses","closed",,,"","",""
-72,"feat: platform table luxly files","Completed script for loading luxly files into the platform database.","AlbertUlysses","closed",,,"","",""
-71,"feat: add hso revoked table","The script for inserting HSO Revoked data is complete.","AlbertUlysses","closed",,,"","",""
-70,"feat: exempt processing script","The processing script for the ""exempt"" dataset is done.","AlbertUlysses","closed",,,"","",""
-69,"feat: noncompliant script","Add script that inserts noncompliant data into database.","AlbertUlysses","closed",,,"","",""
-68,"feat: categorically inelligible","added a new script for the categorically ineligible dataset.","AlbertUlysses","closed",,,"","",""
+Asssesor file (and builds) will now have the custom code and later include the processing code as well.","AlbertUlysses","closed",,,"","","",""
+79,"refactor: add a new file to handle multiple files","Remove old code that does multiple files for a job and include a new module that handles that.","AlbertUlysses","closed",,,"","","",""
+78,"feat: new script","Script that enters one fine stay data into platform table but has a different column layout then the other one fine stay sheets.","AlbertUlysses","closed",,,"","","",""
+77,"refactor: include steps for entire folder","Added some new code that helps with multiple fies in a folder. This should be moved into it's own module in the future.","AlbertUlysses","closed",,,"","","",""
+76,"refactor: move scripts to new folder","move all scripting files to processingscript folder and leave helper functions in the transformations folder.","AlbertUlysses","closed",,,"","","",""
+75,"feat: platform one fine stay","Adding the custom script for uploading one fine stay data into platform database.","AlbertUlysses","closed",,,"","","",""
+74,"refactor: refactor platform luxly","refactor the platform luxly file to make it more readable and closer allign with wemake style guide.","AlbertUlysses","closed",,,"","","",""
+73,"docs: update license","updated the license to reflect Hack For LA's best practices. ","AlbertUlysses","closed",,,"","","",""
+72,"feat: platform table luxly files","Completed script for loading luxly files into the platform database.","AlbertUlysses","closed",,,"","","",""
+71,"feat: add hso revoked table","The script for inserting HSO Revoked data is complete.","AlbertUlysses","closed",,,"","","",""
+70,"feat: exempt processing script","The processing script for the ""exempt"" dataset is done.","AlbertUlysses","closed",,,"","","",""
+69,"feat: noncompliant script","Add script that inserts noncompliant data into database.","AlbertUlysses","closed",,,"","","",""
+68,"feat: categorically inelligible","added a new script for the categorically ineligible dataset.","AlbertUlysses","closed",,,"","","",""
 67,"feat: add complaints script","Added a new script that inputs Complaints data into the database.
-","AlbertUlysses","closed",,,"","",""
+","AlbertUlysses","closed",,,"","","",""
 64,"feat: tot insert file","New insert script complete. 
-","AlbertUlysses","closed",,,"","",""
-63,"feat: add new abstraction function","refactored some code and created a new abstraction function for inserting data. ","AlbertUlysses","closed",,,"","",""
-62,"quick fix","removed absolute path : quick fix","AlbertUlysses","closed",,,"","",""
+","AlbertUlysses","closed",,,"","","",""
+63,"feat: add new abstraction function","refactored some code and created a new abstraction function for inserting data. ","AlbertUlysses","closed",,,"","","",""
+62,"quick fix","removed absolute path : quick fix","AlbertUlysses","closed",,,"","","",""
 61,"feat: hso_denials insert function","Created a new file for hso_denial table, Added test for the custom functions. Added the code to insert the hso_denials data into the db.
 1st dataset that's completely done
-Need to go back to refactor the code because it's ugly","AlbertUlysses","closed",,,"","",""
-58,"docs: adding COPYING file","removed some old jupyter files and added a license file which is called COPYING per GNU's suggestion.","AlbertUlysses","closed",,,"","",""
-57,"Feat: add Airbnb tables","added airbnb tables and updated SQL Alchemy relationships.","AlbertUlysses","closed",,,"","",""
-56,"feat: add SQL Alchemy models/Database","added SQL Alchemy Models and the Database code. ","AlbertUlysses","closed",,,"","",""
-55,"docs: rewrote some docstrings etc","updated some doc strings in files to better reflect the intent.","AlbertUlysses","closed",,,"","",""
-54,"feat: new code for date entries","I added new code  and tests for formatting date columns. ","AlbertUlysses","closed",,,"","",""
+Need to go back to refactor the code because it's ugly","AlbertUlysses","closed",,,"","","",""
+58,"docs: adding COPYING file","removed some old jupyter files and added a license file which is called COPYING per GNU's suggestion.","AlbertUlysses","closed",,,"","","",""
+57,"Feat: add Airbnb tables","added airbnb tables and updated SQL Alchemy relationships.","AlbertUlysses","closed",,,"","","",""
+56,"feat: add SQL Alchemy models/Database","added SQL Alchemy Models and the Database code. ","AlbertUlysses","closed",,,"","","",""
+55,"docs: rewrote some docstrings etc","updated some doc strings in files to better reflect the intent.","AlbertUlysses","closed",,,"","","",""
+54,"feat: new code for date entries","I added new code  and tests for formatting date columns. ","AlbertUlysses","closed",,,"","","",""
 53,"refactor: update assessor table","Did some refactoring that addressed these issues:
 
 - Rewrote the code to match the WeMake style guide.
 - The functions are faster, and the memory is more efficient by ten times on average.
 - The functions are pure now, with no added consequence to the DataFrames or Series passed into them.
-All tests are still passing.","AlbertUlysses","closed",,,"","",""
-52,"docs: re-wrote some of the normalize_address information","Docs improvement for normailze_address","AlbertUlysses","closed",,,"","",""
-51,"refactored transformation scripts","refactored a lot and added extra notes in read me ","AlbertUlysses","closed",,,"","",""
+All tests are still passing.","AlbertUlysses","closed",,,"","","",""
+52,"docs: re-wrote some of the normalize_address information","Docs improvement for normailze_address","AlbertUlysses","closed",,,"","","",""
+51,"refactored transformation scripts","refactored a lot and added extra notes in read me ","AlbertUlysses","closed",,,"","","",""
 50,"tot update/completion","ToT table is done. Refactored it a bit - still passing test
-","AlbertUlysses","closed",,,"","",""
-49,"work on tot table","WIP - started work on TOT table and tests I will finish in tomorrow and start on a new table.","AlbertUlysses","closed",,,"","",""
-48,"Add expemtion table transformations","I added the transformation functions for exempt table with their tests, renamed the main folder.","AlbertUlysses","closed",,,"","",""
+","AlbertUlysses","closed",,,"","","",""
+49,"work on tot table","WIP - started work on TOT table and tests I will finish in tomorrow and start on a new table.","AlbertUlysses","closed",,,"","","",""
+48,"Add expemtion table transformations","I added the transformation functions for exempt table with their tests, renamed the main folder.","AlbertUlysses","closed",,,"","","",""
 47,"updating folder layout and adding transformation scripts with tests","introduces the first of a few scripts to the project along with some tests. Needs refactoring but all tests are passing.
 
-","AlbertUlysses","closed",,,"","",""
-42,"Update Pedestrian Data folder","Pedestrian Data folder including the relevant notebooks and visualizations.","dplem","closed",,,"","",""
-41,"Push request redo preprocessing files","","KarinaLopez19","closed",,,"","","AlbertUlysses"
+","AlbertUlysses","closed",,,"","","",""
+42,"Update Pedestrian Data folder","Pedestrian Data folder including the relevant notebooks and visualizations.","dplem","closed",,,"","","",""
+41,"Push request redo preprocessing files","","KarinaLopez19","closed",,,"","","AlbertUlysses",""
 40,"Extend Mapillary API wrapper","These are new features for the python wrapper for Mapillary's API to allow it to:
 
 - Make requests of other layers of Mapillary data beyond traffic signs
@@ -145,10 +145,10 @@ All tests are still passing.","AlbertUlysses","closed",,,"","",""
 
 - Parse Mapillary's latitude/longitude string format
 
-- Give feedback while downloading data and timeout after 5 minutes, to prevent downloads from failing silently","henrykaplan","closed",,,"","henrykaplan","dplem,AlbertUlysses"
-39,"add bbox function","Created bbox function to help create a boundary box for cleaning data. Added one test to  ensure any refactoring in the future still returns the correct  expected results. ","AlbertUlysses","closed",,,"","",""
-38,"this is a test","","KarinaLopez19","closed",,,"","",""
+- Give feedback while downloading data and timeout after 5 minutes, to prevent downloads from failing silently","henrykaplan","closed",,,"","henrykaplan","dplem,AlbertUlysses",""
+39,"add bbox function","Created bbox function to help create a boundary box for cleaning data. Added one test to  ensure any refactoring in the future still returns the correct  expected results. ","AlbertUlysses","closed",,,"","","",""
+38,"this is a test","","KarinaLopez19","closed",,,"","","",""
 37,"add new folder with new functions to help with clean up","Adding the folder for airbnb listing and first function for helper functions that will be used for cleaning the data
-","AlbertUlysses","closed",,,"","",""
-35,"clean up jupyter notebook","cleaned up the jupyter notebook to make it more user friendly","AlbertUlysses","closed",,,"","",""
-34,"chore: clean up modules","used black to clean up modules and removed commented code that wasn't being used.","AlbertUlysses","closed",,,"","",""
+","AlbertUlysses","closed",,,"","","",""
+35,"clean up jupyter notebook","cleaned up the jupyter notebook to make it more user friendly","AlbertUlysses","closed",,,"","","",""
+34,"chore: clean up modules","used black to clean up modules and removed commented code that wasn't being used.","AlbertUlysses","closed",,,"","","",""
