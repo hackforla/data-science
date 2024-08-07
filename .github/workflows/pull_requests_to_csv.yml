@@ -43,7 +43,7 @@ jobs:
     # Generate pull requests CSV
     - name: Generate pull requests CSV
       run: |
-        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers" > pull_requests.csv
+        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers, Linked Issues" > pull_requests.csv
         jq -r '.[] | select(.user.login != "dependabot[bot]") | [
           .number,
           .title,
@@ -54,7 +54,8 @@ jobs:
           .changed_files,
           (.labels | map(.name) | join(",")),
           (.assignees | map(.login) | join(",")),
-          (.requested_reviewers | map(.login) | join(","))
+          (.requested_reviewers | map(.login) | join(",")),
+          (.body | capture_all("#(?<number>\\d+)"; "g") | join(","))
         ] | @csv' pulls.json >> pull_requests.csv
 
     # Check the content of pull_requests.csv for debugging
