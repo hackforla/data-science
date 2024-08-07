@@ -22,8 +22,6 @@ jobs:
 
 ###------------------------------------------------------#######
     # Set up Node.js to use jq command
-    # trying thiss
-    # trying this!!!
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
