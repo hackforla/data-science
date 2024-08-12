@@ -33,41 +33,48 @@ jobs:
              "https://api.github.com/repos/${{ github.repository }}/pulls?state=all&per_page=100" \
              -o pulls.json
 
-    # Fetch linked issues for each pull request and save to timeline.json
+    # Fetch linked issues for each PR
     - name: Fetch linked issues for each PR
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        jq -r '.[].number' pulls.json | while read pr; do \
+        for pr_number in $(jq -r '.[].number' pulls.json); do \
           curl -H "Authorization: token $GITHUB_TOKEN" \
                -H "Accept: application/vnd.github.v3+json" \
-               "https://api.github.com/repos/${{ github.repository }}/issues/$pr/timeline?per_page=100" \
-               -o "timeline_$pr.json"; \
+               "https://api.github.com/repos/${{ github.repository }}/issues/$pr_number/timeline?per_page=100" \
+               -o "timeline_$pr_number.json"; \
         done
 
     # Generate pull requests CSV including linked issues
-    - name: Generate pull requests CSV
+    - name: Generate pull requests CSV including linked issues
       run: |
         echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers,Linked Issues" > pull_requests.csv
-        jq -r '.[] | select(.user.login != "dependabot[bot]") | [
-          .number,
-          .title,
-          .body,
-          .user.login,
-          .state,
-          .commits,
-          .changed_files,
-          (.labels | map(.name) | join(",")),
-          (.assignees | map(.login) | join(",")),
-          (.requested_reviewers | map(.login) | join(",")),
-          (if .number as $pr | .body != null then 
-            (input_filename | sub("timeline_";"") | sub(".json";"")) as $pr_number |
-            (try input | .[] | select(.event == "cross-referenced" and .source.issue) | 
-              .source.issue.number | tostring + ": " + .source.issue.title | join(", ")) 
-          else 
-            "" 
-          end)
-        ] | @csv' pulls.json timeline_*.json >> pull_requests.csv
+        
+        for pr_number in $(jq -r '.[].number' pulls.json); do
+          timeline_file="timeline_$pr_number.json"
+          
+          # Ensure the timeline file is not empty before processing
+          if [ -s "$timeline_file" ]; then
+            linked_issues=$(jq -r '[.[] | select(.event == "cross-referenced" and .source.issue) | .source.issue.number | tostring] | join(", ")' "$timeline_file")
+          else
+            linked_issues=""
+          fi
+          
+          jq -r --arg linked_issues "$linked_issues" \
+            '.[] | select(.number == '$pr_number') | [
+              .number,
+              .title,
+              .body,
+              .user.login,
+              .state,
+              .commits,
+              .changed_files,
+              (.labels | map(.name) | join(",")),
+              (.assignees | map(.login) | join(",")),
+              (.requested_reviewers | map(.login) | join(",")),
+              $linked_issues
+            ] | @csv' pulls.json >> pull_requests.csv
+        done
 
     # Check the content of pull_requests.csv for debugging
     - name: Display pull_requests.csv content
@@ -84,6 +91,7 @@ jobs:
         git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ##------------------------------------------##
 # name: List Pull Requests and Output as CSV
