@@ -45,6 +45,10 @@ jobs:
                -o "timeline_$pr_number.json"; \
         done
 
+    # Debugging: Display timeline JSON for a PR
+    - name: Display timeline JSON content for a PR
+      run: cat timeline_*.json
+
     # Generate pull requests CSV including linked issues
     - name: Generate pull requests CSV including linked issues
       run: |
