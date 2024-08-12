@@ -7,10 +7,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
-  # pull_request:
-  #   types: [opened, closed, reopened]
-  #   branches: 
-  #     - n2020h-issues-to-csv
+
 jobs:
   list-pull-requests:
     runs-on: ubuntu-latest
@@ -20,12 +17,12 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-###------------------------------------------------------#######
     # Set up Node.js to use jq command
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '20'
+
     # Fetch pull requests data and save it to pulls.json
     - name: Fetch pull requests data
       env:
@@ -36,15 +33,22 @@ jobs:
              "https://api.github.com/repos/${{ github.repository }}/pulls?state=all&per_page=100" \
              -o pulls.json
 
-    # Check the content of pulls.json for debugging
-    - name: Display pulls.json content
-      run: cat pulls.json
+    # Fetch linked issues for each pull request and save to timeline.json
+    - name: Fetch linked issues for each PR
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        jq -r '.[].number' pulls.json | while read pr; do \
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+               -H "Accept: application/vnd.github.v3+json" \
+               "https://api.github.com/repos/${{ github.repository }}/issues/$pr/timeline?per_page=100" \
+               -o "timeline_$pr.json"; \
+        done
 
-    # Generate pull requests CSV
-    # (.body | capture_all("#(?<number>\\d+)"; "g") | join(","))
+    # Generate pull requests CSV including linked issues
     - name: Generate pull requests CSV
       run: |
-        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers, Linked Issues" > pull_requests.csv
+        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers,Linked Issues" > pull_requests.csv
         jq -r '.[] | select(.user.login != "dependabot[bot]") | [
           .number,
           .title,
@@ -56,8 +60,14 @@ jobs:
           (.labels | map(.name) | join(",")),
           (.assignees | map(.login) | join(",")),
           (.requested_reviewers | map(.login) | join(",")),
-          (if .body != null then .body | gsub("#";" ") | split(" ") | map(select(startswith("issue_number"))) | join(",") else "" end)
-        ] | @csv' pulls.json >> pull_requests.csv
+          (if .number as $pr | .body != null then 
+            (input_filename | sub("timeline_";"") | sub(".json";"")) as $pr_number |
+            (try input | .[] | select(.event == "cross-referenced" and .source.issue) | 
+              .source.issue.number | tostring + ": " + .source.issue.title | join(", ")) 
+          else 
+            "" 
+          end)
+        ] | @csv' pulls.json timeline_*.json >> pull_requests.csv
 
     # Check the content of pull_requests.csv for debugging
     - name: Display pull_requests.csv content
@@ -74,6 +84,83 @@ jobs:
         git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+##------------------------------------------##
+# name: List Pull Requests and Output as CSV
+
+# on:
+#   push:
+#     branches:
+#       - n2020h-issues-to-csv
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 0 * * *' # Runs daily at midnight
+#   # pull_request:
+#   #   types: [opened, closed, reopened]
+#   #   branches: 
+#   #     - n2020h-issues-to-csv
+# jobs:
+#   list-pull-requests:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#     # Checkout the repository to access any scripts or tools you might need
+#     - name: Checkout repository
+#       uses: actions/checkout@v3
+      
+#     # Set up Node.js to use jq command
+#     - name: Set up Node.js
+#       uses: actions/setup-node@v3
+#       with:
+#         node-version: '20'
+#     # Fetch pull requests data and save it to pulls.json
+#     - name: Fetch pull requests data
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       run: |
+#         curl -H "Authorization: token $GITHUB_TOKEN" \
+#              -H "Accept: application/vnd.github.v3+json" \
+#              "https://api.github.com/repos/${{ github.repository }}/pulls?state=all&per_page=100" \
+#              -o pulls.json
+
+#     # Check the content of pulls.json for debugging
+#     - name: Display pulls.json content
+#       run: cat pulls.json
+
+#     # Generate pull requests CSV
+#     # (.body | capture_all("#(?<number>\\d+)"; "g") | join(","))
+#     - name: Generate pull requests CSV
+#       run: |
+#         echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers, Linked Issues" > pull_requests.csv
+#         jq -r '.[] | select(.user.login != "dependabot[bot]") | [
+#           .number,
+#           .title,
+#           .body,
+#           .user.login,
+#           .state,
+#           .commits,
+#           .changed_files,
+#           (.labels | map(.name) | join(",")),
+#           (.assignees | map(.login) | join(",")),
+#           (.requested_reviewers | map(.login) | join(",")),
+#           (if .body != null then .body | gsub("#";" ") | split(" ") | map(select(startswith("issue_number"))) | join(",") else "" end)
+#         ] | @csv' pulls.json >> pull_requests.csv
+
+#     # Check the content of pull_requests.csv for debugging
+#     - name: Display pull_requests.csv content
+#       run: cat pull_requests.csv
+
+#     # Commit and push the generated CSV to the repository
+#     - name: Commit and push CSV
+#       run: |
+#         git config user.name "Automated"
+#         git config user.email "actions@users.noreply.github.com"
+#         git add -f pull_requests.csv
+#         timestamp=$(date -u)
+#         git commit -m "Latest pull requests data: ${timestamp}" || exit 0
+#         git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ####-------------------------------------------------#######
         
