@@ -48,7 +48,7 @@ jobs:
     # Generate pull requests CSV including linked issues
     - name: Generate pull requests CSV including linked issues
       run: |
-        echo "PR Number,Title,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers,Linked Issues" > pull_requests.csv
+        echo "PR Number,Title,Author,State,Labels,Assignees,Reviewers,Linked Issues" > pull_requests.csv
         
         for pr_number in $(jq -r '.[].number' pulls.json); do
           timeline_file="timeline_$pr_number.json"
@@ -66,8 +66,6 @@ jobs:
               .title,
               .user.login,
               .state,
-              .commits,
-              .changed_files,
               (.labels | map(.name) | join(",")),
               (.assignees | map(.login) | join(",")),
               (.requested_reviewers | map(.login) | join(",")),
