@@ -1,0 +1,53 @@
+Issue Number,Title,Labels,State,User Login,User ID,Assignee Login,Assignee ID
+209,"[Job Match] Explore data, perform EDA and relevant data science work","","open","sudhara",7834544,"sudhara",7834544
+207,"LA Controller Data Projects","CoP: Data Science","open","salice",4333657,"FragariaChemist",103977933
+206,"LA Metro Real Time Transit Data","CoP: Data Science","open","salice",4333657,"tpham16",110870494
+204,"Recruit volunteers for team open roles","role: missing,epic,ready for product,size: 0.25pt,feature: recruiting","open","akhaleghi",7635911,"None","None"
+203,"Prep project boards for Migration","role: product","open","akhaleghi",7635911,"akhaleghi",7635911
+202,"Information for New and Existing Members","CoP: Data Science","open","akhaleghi",7635911,"None","None"
+200,"EPA Data Set","","open","akhaleghi",7635911,"KarinaLopez19",22568552
+198,"Update the About us page on wiki","role: product,feature: onboarding,project duration: one time,ready for product,project: Data Science CoP Maintenance,size: 0.25pt","open","ExperimentsInHonesty",37763229,"max1million101",122141183
+194,"Create data dictionary (EDA task)","feature: missing,role: missing,size: missing,project: missing","open","Lalla22",47159210,"None","None"
+193,"DRAFT: Access to ""Third Spaces""","feature: missing,role: missing,size: missing,project: missing","open","akhaleghi",7635911,"None","None"
+191,"DRAFT: MediaWiki NLP Project","feature: missing,role: missing,size: missing,project: missing","open","akhaleghi",7635911,"salice",4333657
+190,"Create Base64 and Env File Tutorial","feature: missing,role: missing,size: missing,project: missing","open","kimberlytanyh",76601090,"None","None"
+189,"Refining the Requirements for Skills Match Dashboard","role: missing,size: missing,project: missing,feature: skills / productivity dashboard","open","n2020h",72112832,"n2020h",72112832
+183,"MERL Center Data Cleaning","role: missing,project duration: one time,size: 1pt,project: MC Southern Africa NGOs' OS usage","closed","Rabia2219",75643389,"None","None"
+182,"CoP: Data Science: Active and Inactive Businesses of LA County","role: data science,epic,size: 3pt,project: EDA","open","akhaleghi",7635911,"rahul897",5197842
+181,"CoP: Data Science: Affordable Housing Access to Food Pantries","role: data science,epic,size: 3pt,project: EDA","closed","akhaleghi",7635911,"MDivyaPrakash",22434989
+180,"City of Los Angeles Arrests","role: data science,epic,size: 3pt,project: EDA","open","akhaleghi",7635911,"dolla24",13824693
+179,"CoP: Data Science: City of Los Angeles Evictions","role: data science,epic,size: 3pt,project: EDA","closed","akhaleghi",7635911,"rahul897",5197842
+178,"CoP: Data Science: Find data sources through the LA Controller's office","documentation,good first issue,role: data analysis,size: 1pt,project: missing","open","akhaleghi",7635911,"RomyPatel",54936257
+177,"Create 311 data CSV files that can be accessed through a Jupyter notebook","role: data science,project: 311 Data,size: 3pt,feature: project management","open","akhaleghi",7635911,"mru-hub",105573589
+170,"California Grants Portal Data Set EDA","role: data analysis,project duration: ongoing,size: 1pt,project: EDA","closed","akhaleghi",7635911,"jossus657",97187879
+169,"Potential Projects: California Grants Portal","role: data science,epic,size: epic,dependency,project: EDA","closed","akhaleghi",7635911,"mihikasahani",102847564
+163,"CoP: Data Science: Complete Intro to Command Line and Git Tutorial","feature: guide,role: data science,size: 1pt,role: Data Engineer","open","akhaleghi",7635911,"ZeelDesai00",119442574
+162,"CoP: Data Science: Complete Intro to Python Tutorial","feature: guide,role: data science,size: 1pt,draft,ready for product","open","akhaleghi",7635911,"SaiPranaswi23",130614655
+161,"Project Name: Lucky Parking","feature: missing,role: data analysis,size: 1pt,project: missing","closed","gregpawin",36276149,"None","None"
+157,"CoP: Data Science: Create Deep Learning Tutorial","documentation,feature: guide,role: data science,size: 1pt","open","akhaleghi",7635911,"elliealbertson",120353163
+156,"CoP: Data Science: Create Machine Learning Tutorial","documentation,feature: guide,role: data science,size: 1pt","open","akhaleghi",7635911,"BhavanaSai12",173202606
+155,"CoP: Data Science: Create Stats Tutorial","documentation,feature: guide,role: data science,role: data analysis,size: 1pt","open","akhaleghi",7635911,"nehathombare21",163942514
+154,"CoP: Data Science: Create Data Ops Tutorial","documentation,feature: guide,size: 1pt,role: Data Engineer","open","akhaleghi",7635911,"endlesslupita",6325722
+153,"CoP: Data Science: Create Text Analysis Tutorial","documentation,feature: guide,role: data analysis,size: 1pt","open","akhaleghi",7635911,"bfang22",111911687
+152,"CoP: Data Science: Open Source Projects Data Set for Climate projects","role: data analysis,size: 1pt,epic: GreenEarthOS,project: climate projects,draft","open","akhaleghi",7635911,"noneill256",100643509
+149,"Weekly Label Check","role: product,size: 1pt,feature: project management","open","ExperimentsInHonesty",37763229,"None","None"
+160,"CoP: Data Science: Survey: Repo Labels","project duration: ongoing,size: 2pt,time sensitive,role: Data Engineer,feature: labels,feature: Issues Dashboard","closed","Neecolaa",7437035,"jossus657",97187879
+148,"Create Geospatial Data Analysis Tutorial","documentation,feature: guide,role: org,size: 1pt","closed","ryanmswan",2508797,"mcmorgan27",3988983
+147,"Create Data Engineering Tutorial","documentation,feature: guide,role: org,size: 1pt","closed","ryanmswan",2508797,"jonmelvin",25702027
+146,"Create Web Scraping Tutorial","documentation,feature: guide,role: org,size: 1pt","open","ryanmswan",2508797,"parcheesime",38143160
+145,"CoP: Data Science: Create Data Analysis With R Tutorial","documentation,feature: guide,role: data analysis,size: 1pt","open","ryanmswan",2508797,"xuyeluo",169718490
+144,"Create Data Visualization Tutorial","documentation,feature: guide,role: org,size: 1pt,feature: needs peer review","closed","ryanmswan",2508797,"None","None"
+143,"Create ETL/Data Cleaning Tutorial","documentation,feature: guide,role: org,size: 1pt","closed","ryanmswan",2508797,"ryanmswan",2508797
+141,"Obtain Shape Files for Different District Types (2023)","good first issue,role: data analysis,project duration: one time,dependency,size: 1pt,project: district types","closed","akhaleghi",7635911,"mru-hub",105573589
+140,"Create a logo for the Data Science CoP","project duration: one time,size: 2pt,feature: branding,role: design","closed","henrykaplan",50933869,"None","None"
+138,"Starter Project for New Data Analysts and Data Scientists","role: product,role: CoP lead,feature: onboarding,size: epic,dependency","closed","akhaleghi",7635911,"None","None"
+137,"Data Science CoP Meeting Agendas (Monday 7PM PST)","feature: guide,role: product,size: 1pt,feature: agenda","open","akhaleghi",7635911,"akhaleghi",7635911
+135,"CoP: Data Science: Find and document all the 311 public data sets","role: data analysis,project: 311 Data,size: 2pt,epic: 311 public data sets","open","ExperimentsInHonesty",37763229,"venkata-sai-swathi",61697502
+134,"Overview Dashboard - add titles to graphs","feature: guide,role: data science,project: 311-data-dashboards,size: 1pt,epic: 311 public data sets","closed","chelseybeck",64881557,"chelseybeck",64881557
+133,"Create labels, features, milestones","role: product,dependency,size: 3pt,feature: project management","open","ExperimentsInHonesty",37763229,"None","None"
+131,"Story Size for Data Science Issues","role: product,size: 1pt,feature: project management","closed","akhaleghi",7635911,"akhaleghi",7635911
+130,"Create a Guide: Web Scraping","Guide: Research,feature: guide,role: org,size: 5pt,CoP: Data Science","open","akhaleghi",7635911,"parcheesime",38143160
+124,"Obtain Shape Files for Different District Types as of Nov/Dec 2021","feature: guide,role: data analysis,project duration: one time,size: 1pt,project: district types","closed","akhaleghi",7635911,"None","None"
+121,"Template For Creating Epics For Data Science Projects","role: product,size: 1pt,feature: project management","closed","akhaleghi",7635911,"akhaleghi",7635911
+120,"Structured Context for HfLA created data sets","feature: guide,role: data science,size: epic,project: structured context,TG: Draft Template,CoP: Data Science","open","ExperimentsInHonesty",37763229,"None","None"
+118,"CoP: Data Science: Create district types reusable tool (API, single dataset, etc.)","feature: guide,role: data analysis,epic,size: epic,size: 1pt","open","ExperimentsInHonesty",37763229,"parcheesime",38143160
