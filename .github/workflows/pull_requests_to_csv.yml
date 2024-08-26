@@ -49,34 +49,75 @@ jobs:
     - name: Display timeline JSON content for a PR
       run: cat timeline_*.json
 
-    # Generate pull requests CSV including linked issues
-    - name: Generate pull requests CSV including linked issues
+    
+    # # Generate pull requests CSV including linked issues
+    # - name: Generate pull requests CSV including linked issues
+    #   run: |
+    #     echo "PR Number,Title,Author,State,Labels,Assignees,Reviewers,Linked Issues" > pull_requests.csv
+        
+    #     for pr_number in $(jq -r '.[].number' pulls.json); do
+    #       timeline_file="timeline_$pr_number.json"
+          
+    #       # Ensure the timeline file is not empty before processing
+    #       if [ -s "$timeline_file" ]; then
+    #         linked_issues=$(jq -r '[.[] | select(.event == "cross-referenced" and .source.issue) | .source.issue.number | tostring] | join(", ")' "$timeline_file")
+    #       else
+    #         linked_issues=""
+    #       fi
+          
+    #       jq -r --arg linked_issues "$linked_issues" \
+    #         '.[] | select(.number == '$pr_number') | [
+    #           .number,
+    #           .title,
+    #           .user.login,
+    #           .state,
+    #           (.labels | map(.name) | join(",")),
+    #           (.assignees | map(.login) | join(",")),
+    #           (.requested_reviewers | map(.login) | join(",")),
+    #           $linked_issues
+    #         ] | @csv' pulls.json >> pull_requests.csv
+    #     done
+
+    # Generate pull requests CSV including linked issues and has_issues field
+    - name: Generate pull requests CSV including linked issues and has_issues
       run: |
-        echo "PR Number,Title,Author,State,Labels,Assignees,Reviewers,Linked Issues" > pull_requests.csv
+        echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers,Linked Issues,Has Issues" > pull_requests.csv
         
         for pr_number in $(jq -r '.[].number' pulls.json); do
           timeline_file="timeline_$pr_number.json"
           
-          # Ensure the timeline file is not empty before processing
-          if [ -s "$timeline_file" ]; then
-            linked_issues=$(jq -r '[.[] | select(.event == "cross-referenced" and .source.issue) | .source.issue.number | tostring] | join(", ")' "$timeline_file")
-          else
-            linked_issues=""
-          fi
+          # Extract linked issues from timeline, body, reactions, and issue_url
+          linked_issues_timeline=$(jq -r '[.[] | select(.event == "cross-referenced" and .source.issue) | .source.issue.url | capture("/(?<issue_number>\\d+)$").issue_number] | join(", ")' "$timeline_file")
           
-          jq -r --arg linked_issues "$linked_issues" \
+          linked_issues_body=$(jq -r '.body | capture_all("#(?<number>\\d+)"; "g") | join(",")' pulls.json)
+          
+          linked_issues_reactions=$(jq -r '.reactions.url | capture("/issues/(?<issue_number>\\d+)/reactions").issue_number' pulls.json)
+          
+          linked_issues_direct=$(jq -r '.issue_url | capture("/issues/(?<issue_number>\\d+)$").issue_number' pulls.json)
+          
+          # Combine all extracted issue numbers
+          linked_issues=$(echo "$linked_issues_timeline, $linked_issues_body, $linked_issues_reactions, $linked_issues_direct" | sed 's/^, //; s/, $//; s/,,/,/g')
+          
+          # Extract has_issues field
+          has_issues=$(jq -r '.repository.has_issues' pulls.json)
+          
+          jq -r --arg linked_issues "$linked_issues" --arg has_issues "$has_issues" \
             '.[] | select(.number == '$pr_number') | [
               .number,
               .title,
+              .body,
               .user.login,
               .state,
+              .commits,
+              .changed_files,
               (.labels | map(.name) | join(",")),
               (.assignees | map(.login) | join(",")),
               (.requested_reviewers | map(.login) | join(",")),
-              $linked_issues
+              $linked_issues,
+              $has_issues
             ] | @csv' pulls.json >> pull_requests.csv
         done
-
+        
     # Check the content of pull_requests.csv for debugging
     - name: Display pull_requests.csv content
       run: cat pull_requests.csv
