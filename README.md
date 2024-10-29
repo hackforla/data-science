@@ -10,7 +10,7 @@ If you have not read the [Guide for New Volunteers](https://www.hackforla.org/ge
 1. Slack one of our Data Science Community of Practice leads [Ryan](https://hackforla.slack.com/team/UPB2FHJCX) or [Sophia](https://hackforla.slack.com/team/UN7V7L934) with your Gmail address.
 1. Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/17VuPq--bK2RvBiAG87C0Vo1oM7nluuS7).
 1. Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1QJltNh1gOybfebe-RkT-xS7m4OtxbuFfaJ4OujeA4h0/edit) and inform Ryan or Sophia after you have done so.
-1. Join our meetings Thursday at 8 pm PST via [Zoom](https://us02web.zoom.us/j/81067015817?pwd=M3l6a0tQTWhLbnlTbEZNOWJ5UXN3QT09).
+1. Join our meetings Monday at 7- 8 pm PST via [Zoom](https://us02web.zoom.us/j/81067015817?pwd=M3l6a0tQTWhLbnlTbEZNOWJ5UXN3QT09). We do not meet during holidays or on the first Monday of the month.
 1. Check out the [open Data Science roles](https://github.com/hackforla/data-science/projects/2) we have available.
 
 The Data Science Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
