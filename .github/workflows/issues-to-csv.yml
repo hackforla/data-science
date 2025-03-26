@@ -1,0 +1,68 @@
+name: List Issues and Output as CSV
+
+on:
+  push:
+    branches:
+      - n2020h-issues-to-csv
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+  issues:
+    types: [opened, closed, reopened]
+  pull_request:
+    types: [opened, closed, reopened]
+    branches: 
+      - n2020h-issues-to-csv
+  
+  
+jobs:
+  list-issues:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repo to access any scripts or tools you might need
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      # Generate issues CSV
+      # - name: Generate issues CSV
+      #   run: |
+      #     echo "Issue Number,Title,Labels" > issues.csv
+      #     curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+      #          "https://api.github.com/repos/${{ github.repository }}/issues?state=all&per_page=100" | \
+      #     jq -r '.[] | select(.pull_request == null) | [.number, .title, (.labels | map(.name) | join(","))] | @csv' >> issues.csv
+      - name: Generate issues CSV
+        run: |
+          echo "Issue Number,Title,Labels,State,User Login,User ID,Assignee Login,Assignee ID" > issues.csv
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               "https://api.github.com/repos/${{ github.repository }}/issues?state=all&per_page=100" | \
+          jq -r '.[] | select(.pull_request == null) | [
+            .number,
+            .title,
+            (.labels | map(.name) | join(",")),
+            .state,
+            .user.login,
+            .user.id,
+            (.assignee | if . != null then .login else "None" end),
+            (.assignee | if . != null then .id else "None" end)
+          ] | @csv' >> issues.csv
+      # Generate issues CSV
+      
+      - name: Commit and push
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f issues.csv  
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
+        
+      # # Upload CSV as artifact
+      # - name: Upload CSV as artifact
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: issues-csv
+      #     path: issues.csv
+
+
+      #     name: issues-csv
+      #     path: issues.csv
