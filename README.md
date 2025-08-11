@@ -7,18 +7,16 @@ Welcome to the Data Science Community of Practice. We are happy you are here!
 If you have not read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), please do so.  
 
 1. Join the [#data-science](https://hackforla.slack.com/archives/CGRATJCCF) Slack channel and introduce yourself.
-1. Slack one of our Data Science Community of Practice leads [Ryan](https://hackforla.slack.com/team/UPB2FHJCX) or [Sophia](https://hackforla.slack.com/team/UN7V7L934) with your Gmail address.
-1. Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/17VuPq--bK2RvBiAG87C0Vo1oM7nluuS7).
-1. Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1QJltNh1gOybfebe-RkT-xS7m4OtxbuFfaJ4OujeA4h0/edit) and inform Ryan or Sophia after you have done so.
-1. Join our meetings Monday at 7- 8 pm PST via [Zoom](https://us02web.zoom.us/j/81067015817?pwd=M3l6a0tQTWhLbnlTbEZNOWJ5UXN3QT09). We do not meet during holidays or on the first Monday of the month.
-1. Check out the [open Data Science roles](https://github.com/hackforla/data-science/projects/2) we have available.
+1. Come to one of the Data Science Community of Practice meetings and provide your gmail address to on of the leads so that they can add you to the drive. 
+1. After you have been added to the drive, Add yourself to the [Team Roster] and the leads know you have added yourself
+1. Join our meetings Monday at 7- 8 pm PST via [Zoom] link in the Slack channel. We do not meet during holidays or on the first Monday of the month.
 
 The Data Science Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
 
 ## Focus
 
-The Hack For LA Data Science team is a group within the LA brigade seeking to make analytical and machine learning services available to local communities and organizations. We have three main goals as a team:
+The Hack For LA Data Science team is a group within Hack for LA seeking to make analytical and machine learning services available to local communities and organizations. We have three main goals as a team:
 
 1. To provide data science services to communities in the Los Angeles area. Please [contact us](mailto:datascience@hackforla.org) if you have a proposal for a data science project. We have many talented data scientists with track records in industry and academia, and we are excited to be able to support our communities.
 
