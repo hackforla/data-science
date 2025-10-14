@@ -8,9 +8,9 @@ For background, methodology, and details on how to use Google Colab instead of t
 
 ### Repository Contents
 
-- 311\_data\_cleaning.ipynb – Jupyter Notebook for acquisition, cleaning, and splitting
+- DataLoading_Script.ipynb – Jupyter Notebook for acquisition, cleaning, and splitting
 
-- CSV\_files/Docs/CleaningRules.txt – Documentation of cleaning rules
+- Docs/CleaningRules.txt – Documentation of cleaning rules
 
 - README.md – This file.
 
@@ -38,9 +38,10 @@ cd data-science/311-data        # move into 311-data folder
 
 -   Open the Jupyter Notebook
 
-    -  311-data/CSV\_files
+    -  311-data/CSV_files
 
-    -  jupyter notebook 311\_data\_cleaning.ipynb
+    -  jupyter notebook DataLoading_Script.ipynb
+
 
 -  Run the notebook
 
@@ -69,6 +70,7 @@ Use the hosted notebook (no fork or download required):
 - GitHub Tutorials
 
    -  https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+
 
 
 
