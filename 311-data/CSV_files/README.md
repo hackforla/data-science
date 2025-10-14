@@ -1,12 +1,10 @@
-README:
-
 ## 311 Data Cleaning \& Hosting Project
 
 ### Overview
 
 This project provides a reproducible pipeline for processing the large 311 Service Request dataset. The pipeline downloads, cleans, and splits the data into smaller, manageable files, making it easier to work with in local or in-browser environments.
 
-For background, methodology, and details on how to use Google Colab instead of this repo, please see the \[Project Wiki](https://github.com/hackforla/data-science/wiki/311-Data-Cleaning-\&-Hosting-Overview)
+For background, methodology, and details on how to use Google Colab instead of this repo, please see the [Project Wiki](https://github.com/hackforla/data-science/wiki/311-Data-Cleaning-\&-Hosting-Overview)
 
 ### Repository Contents
 
@@ -22,12 +20,7 @@ For background, methodology, and details on how to use Google Colab instead of t
 
 <!-- Forking ensures you can make changes and contribute back via Pull Requests -->
 
-
-
 -  Fork this repository on GitHub.  
-
-
-
 -  Clone your forked copy:
 
 ```
@@ -65,16 +58,17 @@ OR
 
 Use the hosted notebook (no fork or download required):
 
--   \[Open in Colab](https://colab.research.google.com/drive/1\_HFqnSOIDqDCtF3jmslmzkZ82eho10lY?usp=sharing)
+- [Open in Colab](https://colab.research.google.com/drive/1\_HFqnSOIDqDCtF3jmslmzkZ82eho10lY?usp=sharing)
 
 ### References
 
-- \[Project Wiki](https://github.com/hackforla/data-science/wiki/311-Data-Cleaning-\&-Hosting-Overview)
+- [Project Wiki](https://github.com/hackforla/data-science/wiki/311-Data-Cleaning-\&-Hosting-Overview)
 
-- \[Documentation of cleaning rules](https://github.com/hackforla/data-science/blob/main/311-data/CSV\_files/Docs/CleaningRules.txt)
+- [Documentation of cleaning rules](https://github.com/hackforla/data-science/blob/main/311-data/CSV\_files/Docs/CleaningRules.txt)
 
 - GitHub Tutorials
 
-&nbsp;  -  https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+   -  https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+
 
 
