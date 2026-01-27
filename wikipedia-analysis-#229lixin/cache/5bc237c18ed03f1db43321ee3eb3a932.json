@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:26.939968",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260112105714|263271366",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10800790,
+          "ns": 0,
+          "title": "Impfgegnerschaft",
+          "revisions": [
+            {
+              "timestamp": "2026-01-12T10:58:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

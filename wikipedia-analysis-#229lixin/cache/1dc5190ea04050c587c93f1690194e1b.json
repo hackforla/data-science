@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:38.979220",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251205121638|90505284",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1249385,
+          "ns": 0,
+          "title": "人口遷徙",
+          "revisions": [
+            {
+              "timestamp": "2025-12-25T08:52:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

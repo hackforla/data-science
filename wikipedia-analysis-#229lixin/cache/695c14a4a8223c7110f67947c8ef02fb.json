@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:34.033856",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081205180057|270241",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 52589,
+          "ns": 0,
+          "title": "मतदान",
+          "revisions": [
+            {
+              "timestamp": "2008-12-05T17:56:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

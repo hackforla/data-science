@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:53.793369",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110423085744|1137943",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 381423,
+          "ns": 0,
+          "title": "युद्ध अपराध",
+          "revisions": [
+            {
+              "timestamp": "2011-04-23T08:51:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

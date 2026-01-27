@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:25.067589",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230608081751|5872434",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1010272,
+          "ns": 0,
+          "title": "स्त्री पुरुष समानता",
+          "revisions": [
+            {
+              "timestamp": "2023-11-25T00:35:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

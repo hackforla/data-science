@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:19.234417",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100816121600|3510447",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 593959,
+          "ns": 0,
+          "title": "Kekeringan",
+          "revisions": [
+            {
+              "timestamp": "2010-08-16T12:15:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

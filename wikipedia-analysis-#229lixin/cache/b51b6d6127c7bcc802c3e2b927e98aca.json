@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:25.570487",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260124205052|232717510",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2381,
+          "ns": 0,
+          "title": "Peine de mort",
+          "revisions": [
+            {
+              "timestamp": "2026-01-25T08:37:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

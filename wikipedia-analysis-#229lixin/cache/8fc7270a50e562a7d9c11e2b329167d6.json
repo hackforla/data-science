@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:57.465043",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251227224637|262785092",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3427885,
+          "ns": 0,
+          "title": "Klimawandel",
+          "revisions": [
+            {
+              "timestamp": "2025-12-29T11:57:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

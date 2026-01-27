@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:56.141180",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251204194005|23710649",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 168504,
+          "ns": 0,
+          "title": "Turvapaikanhakija",
+          "revisions": [
+            {
+              "timestamp": "2025-12-04T19:54:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

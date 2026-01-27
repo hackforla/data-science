@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:09.359517",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070302215304|1337994",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 144523,
+          "ns": 0,
+          "title": "Emberi jogok",
+          "revisions": [
+            {
+              "timestamp": "2007-03-02T21:50:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:46.098634",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061227163545|412508",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 70046,
+          "ns": 0,
+          "title": "Biến đổi khí hậu",
+          "revisions": [
+            {
+              "timestamp": "2006-12-27T07:35:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

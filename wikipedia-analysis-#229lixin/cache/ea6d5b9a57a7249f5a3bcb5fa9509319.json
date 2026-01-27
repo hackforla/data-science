@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:27.910093",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220622070608|24615059",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4323619,
+          "ns": 0,
+          "title": "Избегличка криза",
+          "revisions": [
+            {
+              "timestamp": "2022-06-22T06:57:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

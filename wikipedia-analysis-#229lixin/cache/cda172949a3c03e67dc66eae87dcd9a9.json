@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:32.465677",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260114100223|42539334",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1790961,
+          "ns": 0,
+          "title": "מגפת הקורונה",
+          "revisions": [
+            {
+              "timestamp": "2026-01-26T06:45:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

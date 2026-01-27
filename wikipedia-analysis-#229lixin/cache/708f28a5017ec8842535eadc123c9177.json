@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:51.188427",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250806180326|17112648",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 664490,
+          "ns": 0,
+          "title": "Discriminare",
+          "revisions": [
+            {
+              "timestamp": "2026-01-15T23:09:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

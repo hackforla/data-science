@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:16.495833",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200122104008|42875265",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7229643,
+          "ns": 0,
+          "title": "جائحة فيروس كورونا",
+          "revisions": [
+            {
+              "timestamp": "2020-01-22T10:39:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

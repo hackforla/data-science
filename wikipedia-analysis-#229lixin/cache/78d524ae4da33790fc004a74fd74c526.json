@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:12.403133",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260123195751|1334478036",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 64959,
+          "ns": 0,
+          "title": "Poverty",
+          "revisions": [
+            {
+              "timestamp": "2026-01-24T02:27:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

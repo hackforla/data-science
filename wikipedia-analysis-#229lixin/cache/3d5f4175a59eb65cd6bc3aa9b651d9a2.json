@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:43.677145",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251115110821|149814037",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 25979,
+          "ns": 0,
+          "title": "Апатрид",
+          "revisions": [
+            {
+              "timestamp": "2026-01-13T09:44:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

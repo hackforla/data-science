@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:41.750801",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041209194252|16634",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5465,
+          "ns": 0,
+          "title": "إرهاب",
+          "revisions": [
+            {
+              "timestamp": "2004-12-09T19:32:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

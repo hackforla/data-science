@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:17.390102",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050511211226|77614",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19036,
+          "ns": 0,
+          "title": "Hlasování",
+          "revisions": [
+            {
+              "timestamp": "2005-05-11T21:05:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:15.876460",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210904093815|679818",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 212168,
+          "ns": 0,
+          "title": "အကြမ်းဖက်ဝါဒ",
+          "revisions": [
+            {
+              "timestamp": "2021-09-04T08:15:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

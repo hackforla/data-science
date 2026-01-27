@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:22.817792",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260116223902|1333299580",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10106,
+          "ns": 0,
+          "title": "Earthquake",
+          "revisions": [
+            {
+              "timestamp": "2026-01-20T05:06:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

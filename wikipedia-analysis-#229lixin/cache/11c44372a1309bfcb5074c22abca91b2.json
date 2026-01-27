@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:38.185150",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190424133853|1061596",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 42443,
+          "ns": 0,
+          "title": "Mafuriko",
+          "revisions": [
+            {
+              "timestamp": "2021-01-17T02:43:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

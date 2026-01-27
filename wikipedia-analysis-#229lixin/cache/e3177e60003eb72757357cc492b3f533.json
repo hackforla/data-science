@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:46.494716",
+  "response": {
+    "continue": {
+      "rvcontinue": "20151030113033|688212898",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 59568546,
+          "ns": 0,
+          "title": "2024 United States presidential election",
+          "revisions": [
+            {
+              "timestamp": "2015-10-30T11:30:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

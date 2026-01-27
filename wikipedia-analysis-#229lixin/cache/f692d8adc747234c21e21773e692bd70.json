@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:05.405552",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210603111041|364294",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48987,
+          "ns": 0,
+          "title": "የሳንባ ነቀርሳ",
+          "revisions": [
+            {
+              "timestamp": "2021-06-03T11:16:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

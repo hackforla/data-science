@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:57.141610",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251126155312|30558085",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 37937,
+          "ns": 0,
+          "title": "Дискриминација",
+          "revisions": [
+            {
+              "timestamp": "2025-12-17T04:35:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

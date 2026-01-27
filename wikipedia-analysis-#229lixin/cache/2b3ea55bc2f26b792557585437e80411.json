@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:43.749618",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030214104438|32659",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5728,
+          "ns": 0,
+          "title": "Séisme",
+          "revisions": [
+            {
+              "timestamp": "2002-11-28T12:51:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

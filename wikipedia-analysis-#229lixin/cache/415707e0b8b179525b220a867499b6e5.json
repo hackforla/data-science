@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:22.819797",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040912163649|110176",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23748,
+          "ns": 0,
+          "title": "שחפת",
+          "revisions": [
+            {
+              "timestamp": "2004-08-31T13:25:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

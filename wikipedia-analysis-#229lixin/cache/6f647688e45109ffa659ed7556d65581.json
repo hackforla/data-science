@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:24.638504",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050923111813|1367969",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 197623,
+          "ns": 0,
+          "title": "Voto (elecciones)",
+          "revisions": [
+            {
+              "timestamp": "2005-09-23T11:12:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

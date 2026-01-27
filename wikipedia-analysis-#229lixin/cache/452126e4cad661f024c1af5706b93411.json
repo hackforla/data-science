@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:15.948260",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080623040320|1993686",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 216152,
+          "ns": 0,
+          "title": "홍수",
+          "revisions": [
+            {
+              "timestamp": "2008-06-23T04:00:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

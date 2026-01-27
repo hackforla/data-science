@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:18.028956",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081128090356|1495281",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 203629,
+          "ns": 0,
+          "title": "การฆ่าล้างเผ่าพันธุ์",
+          "revisions": [
+            {
+              "timestamp": "2008-11-28T08:39:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

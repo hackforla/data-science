@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:12.754491",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251117144052|43044815",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 250157,
+          "ns": 0,
+          "title": "آزادی مطبوعات",
+          "revisions": [
+            {
+              "timestamp": "2025-11-21T01:15:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

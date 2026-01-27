@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:26.152522",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050805181107|8221216",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 844412,
+          "ns": 0,
+          "title": "Interne Vertreibung",
+          "revisions": [
+            {
+              "timestamp": "2005-08-05T10:28:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

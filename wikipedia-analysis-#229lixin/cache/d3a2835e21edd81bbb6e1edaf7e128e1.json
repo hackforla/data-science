@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:38.865424",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150404191258|71794173",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5350083,
+          "ns": 0,
+          "title": "Voto (elezione)",
+          "revisions": [
+            {
+              "timestamp": "2015-03-10T21:00:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

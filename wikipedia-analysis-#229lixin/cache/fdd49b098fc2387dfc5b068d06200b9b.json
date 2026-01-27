@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:03.065349",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251124191032|261841985",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 49023,
+          "ns": 0,
+          "title": "Dürre",
+          "revisions": [
+            {
+              "timestamp": "2026-01-01T07:12:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

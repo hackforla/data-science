@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:27.980223",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241007101843|74912609",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 428017,
+          "ns": 0,
+          "title": "Zmiana klimatu",
+          "revisions": [
+            {
+              "timestamp": "2024-10-07T10:20:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

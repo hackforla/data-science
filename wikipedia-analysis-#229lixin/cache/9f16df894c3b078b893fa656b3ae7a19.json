@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:48.665915",
+  "response": {
+    "continue": {
+      "rvcontinue": "20021201171427|67830",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 24734,
+          "ns": 0,
+          "title": "Tuberkulos",
+          "revisions": [
+            {
+              "timestamp": "2002-12-01T17:09:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

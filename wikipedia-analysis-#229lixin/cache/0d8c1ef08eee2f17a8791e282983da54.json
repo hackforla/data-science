@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:31.052031",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101020113212|48070",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4642,
+          "ns": 0,
+          "title": "ဒီမိုကရေစီ",
+          "revisions": [
+            {
+              "timestamp": "2009-03-17T07:50:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

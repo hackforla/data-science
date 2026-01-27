@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:56.231613",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041119221708|40762",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12875,
+          "ns": 0,
+          "title": "Туберкульоз",
+          "revisions": [
+            {
+              "timestamp": "2004-11-06T13:24:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

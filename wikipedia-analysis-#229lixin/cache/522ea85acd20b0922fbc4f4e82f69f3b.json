@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:48.538191",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240229121157|25380411",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4248020,
+          "ns": 0,
+          "title": "Intimidasi terhadap pemilih",
+          "revisions": [
+            {
+              "timestamp": "2024-02-29T12:11:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

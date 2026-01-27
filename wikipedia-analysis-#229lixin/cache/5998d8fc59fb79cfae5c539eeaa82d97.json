@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:30.200286",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251107130554|40835800",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35803,
+          "ns": 0,
+          "title": "민주주의",
+          "revisions": [
+            {
+              "timestamp": "2025-11-09T00:25:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

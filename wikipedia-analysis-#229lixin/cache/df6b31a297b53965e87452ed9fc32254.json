@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:53.490934",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130802081844|5814301",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 453672,
+          "ns": 0,
+          "title": "Изборна измама",
+          "revisions": [
+            {
+              "timestamp": "2013-08-02T08:16:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

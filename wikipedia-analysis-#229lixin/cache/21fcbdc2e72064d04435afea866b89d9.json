@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:10.503353",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260122224510|42588237",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10706,
+          "ns": 0,
+          "title": "התחממות עולמית",
+          "revisions": [
+            {
+              "timestamp": "2026-01-22T22:46:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

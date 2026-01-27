@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:17.085777",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251211213252|42350388",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17527,
+          "ns": 0,
+          "title": "חופש הביטוי",
+          "revisions": [
+            {
+              "timestamp": "2026-01-09T11:34:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

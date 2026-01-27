@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:19.246769",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230228073919|222829",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 42223,
+          "ns": 0,
+          "title": "Safarar Mutane",
+          "revisions": [
+            {
+              "timestamp": "2023-02-28T07:34:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

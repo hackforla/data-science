@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:18.989480",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070324214703|478673",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 93276,
+          "ns": 0,
+          "title": "انتخابات",
+          "revisions": [
+            {
+              "timestamp": "2007-03-24T21:44:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

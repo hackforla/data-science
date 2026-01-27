@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:42.324760",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060116063141|690330",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 133978,
+          "ns": 0,
+          "title": "Цензура",
+          "revisions": [
+            {
+              "timestamp": "2006-01-16T06:28:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:48.493846",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241122034550|11966408",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 288257,
+          "ns": 0,
+          "title": "การเซ็นเซอร์",
+          "revisions": [
+            {
+              "timestamp": "2024-12-15T21:22:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

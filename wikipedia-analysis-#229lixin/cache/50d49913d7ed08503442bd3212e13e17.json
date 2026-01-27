@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:48.140254",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061122125810|858445",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 168858,
+          "ns": 0,
+          "title": "İfade özgürlüğü",
+          "revisions": [
+            {
+              "timestamp": "2006-11-22T12:47:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

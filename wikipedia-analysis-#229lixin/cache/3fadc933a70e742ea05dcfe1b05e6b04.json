@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:27.513367",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250316010344|1280711450",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 71394623,
+          "ns": 0,
+          "title": "Mpox outbreak",
+          "revisions": [
+            {
+              "timestamp": "2025-05-22T02:40:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

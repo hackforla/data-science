@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:06.441352",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060911042657|559350",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 95766,
+          "ns": 0,
+          "title": "Рат",
+          "revisions": [
+            {
+              "timestamp": "2006-08-05T01:06:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

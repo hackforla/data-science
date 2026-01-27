@@ -1,0 +1,712 @@
+{
+  "cached_at": "2026-01-26T00:25:43.323808",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 13831,
+          "ns": 0,
+          "title": "Human rights",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Menseregte"
+            },
+            {
+              "lang": "gsw",
+              "title": "Menschenrechte"
+            },
+            {
+              "lang": "an",
+              "title": "Dreitos humans"
+            },
+            {
+              "lang": "anp",
+              "title": "मानवाधिकार"
+            },
+            {
+              "lang": "ar",
+              "title": "حقوق الإنسان"
+            },
+            {
+              "lang": "arc",
+              "title": "ܙܕܩܐ ܕܒܪܢܫܐ"
+            },
+            {
+              "lang": "ary",
+              "title": "حقوق بنادم"
+            },
+            {
+              "lang": "arz",
+              "title": "حقوق انسان"
+            },
+            {
+              "lang": "as",
+              "title": "মানৱ অধিকাৰ"
+            },
+            {
+              "lang": "ast",
+              "title": "Derechos humanos"
+            },
+            {
+              "lang": "az",
+              "title": "İnsan hüquqları"
+            },
+            {
+              "lang": "azb",
+              "title": "اینسان حاقلاری"
+            },
+            {
+              "lang": "ba",
+              "title": "Кеше хоҡуҡтары"
+            },
+            {
+              "lang": "ban",
+              "title": "Hak asasi manusia"
+            },
+            {
+              "lang": "sgs",
+              "title": "Žmuogaus teisės"
+            },
+            {
+              "lang": "bcl",
+              "title": "Karapatan pantawo"
+            },
+            {
+              "lang": "be",
+              "title": "Правы чалавека"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Правы чалавека"
+            },
+            {
+              "lang": "bg",
+              "title": "Права на човека"
+            },
+            {
+              "lang": "bjn",
+              "title": "Hak asasi manusia"
+            },
+            {
+              "lang": "blk",
+              "title": "လိုꩻအခွင်ꩻရေꩻ"
+            },
+            {
+              "lang": "bn",
+              "title": "মানবাধিকার"
+            },
+            {
+              "lang": "br",
+              "title": "Gwirioù mab-den"
+            },
+            {
+              "lang": "bs",
+              "title": "Ljudska prava"
+            },
+            {
+              "lang": "btm",
+              "title": "Hak Asasi Jolma"
+            },
+            {
+              "lang": "bxr",
+              "title": "Хүнэй эрхэ"
+            },
+            {
+              "lang": "ca",
+              "title": "Drets humans"
+            },
+            {
+              "lang": "cdo",
+              "title": "Ìng-guòng"
+            },
+            {
+              "lang": "ce",
+              "title": "Адаман бакъонаш"
+            },
+            {
+              "lang": "ceb",
+              "title": "Tawhanong katungod"
+            },
+            {
+              "lang": "ckb",
+              "title": "مافەکانی مرۆڤ"
+            },
+            {
+              "lang": "cs",
+              "title": "Lidská práva"
+            },
+            {
+              "lang": "cy",
+              "title": "Hawliau dynol"
+            },
+            {
+              "lang": "da",
+              "title": "Menneskerettighederne"
+            },
+            {
+              "lang": "dag",
+              "title": "Human rights"
+            },
+            {
+              "lang": "de",
+              "title": "Menschenrechte"
+            },
+            {
+              "lang": "diq",
+              "title": "Heqê merduman"
+            },
+            {
+              "lang": "dtp",
+              "title": "Hak asasi koulunan"
+            },
+            {
+              "lang": "dty",
+              "title": "मानव अधिकार"
+            },
+            {
+              "lang": "el",
+              "title": "Ανθρώπινα δικαιώματα"
+            },
+            {
+              "lang": "eo",
+              "title": "Homaj rajtoj"
+            },
+            {
+              "lang": "es",
+              "title": "Derechos humanos"
+            },
+            {
+              "lang": "et",
+              "title": "Inimõigused"
+            },
+            {
+              "lang": "eu",
+              "title": "Giza eskubideak"
+            },
+            {
+              "lang": "ext",
+              "title": "Derechus Umanus"
+            },
+            {
+              "lang": "fa",
+              "title": "حقوق بشر"
+            },
+            {
+              "lang": "fi",
+              "title": "Ihmisoikeudet"
+            },
+            {
+              "lang": "vro",
+              "title": "Inemiseõigusõq"
+            },
+            {
+              "lang": "fo",
+              "title": "Mannarættindi"
+            },
+            {
+              "lang": "fr",
+              "title": "Droits de l'homme"
+            },
+            {
+              "lang": "fy",
+              "title": "Minskerjochten"
+            },
+            {
+              "lang": "ga",
+              "title": "Cearta daonna"
+            },
+            {
+              "lang": "gd",
+              "title": "Còraichean daonna"
+            },
+            {
+              "lang": "gl",
+              "title": "Dereitos humanos"
+            },
+            {
+              "lang": "gn",
+              "title": "Yvypóra tekoiterape"
+            },
+            {
+              "lang": "ha",
+              "title": "Haƙƙoƙin ɗan'adam"
+            },
+            {
+              "lang": "haw",
+              "title": "Kanaka pono"
+            },
+            {
+              "lang": "he",
+              "title": "זכויות האדם"
+            },
+            {
+              "lang": "hi",
+              "title": "मानवाधिकार"
+            },
+            {
+              "lang": "hif",
+              "title": "Insaan ke adhikaar"
+            },
+            {
+              "lang": "hr",
+              "title": "Ljudska prava"
+            },
+            {
+              "lang": "ht",
+              "title": "Dwa moun"
+            },
+            {
+              "lang": "hu",
+              "title": "Emberi jogok"
+            },
+            {
+              "lang": "hy",
+              "title": "Մարդու իրավունքներ"
+            },
+            {
+              "lang": "ia",
+              "title": "Derectos human"
+            },
+            {
+              "lang": "id",
+              "title": "Hak asasi manusia"
+            },
+            {
+              "lang": "ig",
+              "title": "Ikike mmadụ"
+            },
+            {
+              "lang": "ik",
+              "title": "Iñuum piḷḷaniŋat"
+            },
+            {
+              "lang": "ilo",
+              "title": "Dagiti karbengan ti tao"
+            },
+            {
+              "lang": "io",
+              "title": "Homala yuri"
+            },
+            {
+              "lang": "is",
+              "title": "Mannréttindi"
+            },
+            {
+              "lang": "it",
+              "title": "Diritti umani"
+            },
+            {
+              "lang": "ja",
+              "title": "人権"
+            },
+            {
+              "lang": "jbo",
+              "title": "remna selcru"
+            },
+            {
+              "lang": "jv",
+              "title": "Hak manungsa"
+            },
+            {
+              "lang": "ka",
+              "title": "ადამიანის უფლებები"
+            },
+            {
+              "lang": "kab",
+              "title": "Izerfan n wemdan"
+            },
+            {
+              "lang": "kbp",
+              "title": "Ɛyʊ waɖɛ"
+            },
+            {
+              "lang": "kk",
+              "title": "Адам құқықтары"
+            },
+            {
+              "lang": "km",
+              "title": "សិទ្ធិមនុស្ស"
+            },
+            {
+              "lang": "kn",
+              "title": "ಮಾನವ ಹಕ್ಕುಗಳು"
+            },
+            {
+              "lang": "knc",
+              "title": "Human rights"
+            },
+            {
+              "lang": "ko",
+              "title": "인권"
+            },
+            {
+              "lang": "krc",
+              "title": "Адамны эркинликлери"
+            },
+            {
+              "lang": "ks",
+              "title": "اِنسٲنی حقوٗق"
+            },
+            {
+              "lang": "ku",
+              "title": "Mafên mirovan"
+            },
+            {
+              "lang": "ky",
+              "title": "Адам укуктары"
+            },
+            {
+              "lang": "la",
+              "title": "Iura humana"
+            },
+            {
+              "lang": "lb",
+              "title": "Mënscherechter"
+            },
+            {
+              "lang": "lfn",
+              "title": "Diretos umana"
+            },
+            {
+              "lang": "lmo",
+              "title": "Dirit uman"
+            },
+            {
+              "lang": "lt",
+              "title": "Žmogaus teisės"
+            },
+            {
+              "lang": "lv",
+              "title": "Cilvēktiesības"
+            },
+            {
+              "lang": "mad",
+              "title": "Hak asasi manossa"
+            },
+            {
+              "lang": "mai",
+              "title": "मानवाधिकार"
+            },
+            {
+              "lang": "mg",
+              "title": "Zon' olombelona"
+            },
+            {
+              "lang": "mk",
+              "title": "Човекови права"
+            },
+            {
+              "lang": "ml",
+              "title": "മനുഷ്യാവകാശം"
+            },
+            {
+              "lang": "mn",
+              "title": "Хүний эрх"
+            },
+            {
+              "lang": "mr",
+              "title": "मानवी हक्क"
+            },
+            {
+              "lang": "mrj",
+              "title": "Эдемӹн прававлӓжӹ"
+            },
+            {
+              "lang": "ms",
+              "title": "Hak asasi manusia"
+            },
+            {
+              "lang": "my",
+              "title": "လူ့အခွင့်အရေး"
+            },
+            {
+              "lang": "myv",
+              "title": "Ломанень прават"
+            },
+            {
+              "lang": "nds",
+              "title": "Minschenrechten"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Menskenrechten"
+            },
+            {
+              "lang": "ne",
+              "title": "मानव अधिकार"
+            },
+            {
+              "lang": "new",
+              "title": "मनु अधिकार"
+            },
+            {
+              "lang": "nl",
+              "title": "Rechten van de mens"
+            },
+            {
+              "lang": "nn",
+              "title": "Menneskerettar"
+            },
+            {
+              "lang": "nb",
+              "title": "Menneskerettigheter"
+            },
+            {
+              "lang": "nqo",
+              "title": "ߡߐ߰ߦߊ ߖߏ ߟߎ߬"
+            },
+            {
+              "lang": "nr",
+              "title": "Amalungelo Wobuntu"
+            },
+            {
+              "lang": "oc",
+              "title": "Dreches de l'Òme"
+            },
+            {
+              "lang": "om",
+              "title": "Mirgoota Dhala Namaa"
+            },
+            {
+              "lang": "or",
+              "title": "ମାନବାଧିକାରସମୂହ"
+            },
+            {
+              "lang": "pa",
+              "title": "ਮਨੁੱਖੀ ਹੱਕ"
+            },
+            {
+              "lang": "pam",
+              "title": "Katulírang pantáu"
+            },
+            {
+              "lang": "pap",
+              "title": "Derechonan humano"
+            },
+            {
+              "lang": "pcd",
+              "title": "Droéts d'echl'Onme"
+            },
+            {
+              "lang": "pl",
+              "title": "Prawa człowieka"
+            },
+            {
+              "lang": "pms",
+              "title": "Drit ëd l'Òm"
+            },
+            {
+              "lang": "pnb",
+              "title": "انسانی حق"
+            },
+            {
+              "lang": "ps",
+              "title": "وگړنيز حقوق"
+            },
+            {
+              "lang": "pt",
+              "title": "Direitos humanos"
+            },
+            {
+              "lang": "qu",
+              "title": "Runa hayñi"
+            },
+            {
+              "lang": "rm",
+              "title": "Dretgs umans"
+            },
+            {
+              "lang": "ro",
+              "title": "Drepturile omului"
+            },
+            {
+              "lang": "ru",
+              "title": "Права человека"
+            },
+            {
+              "lang": "rue",
+              "title": "Людьскы права"
+            },
+            {
+              "lang": "rw",
+              "title": "Uburenganzira bwa muntu"
+            },
+            {
+              "lang": "sah",
+              "title": "Киһи бырааба"
+            },
+            {
+              "lang": "sat",
+              "title": "ᱢᱟᱹᱱᱢᱤᱭᱟᱜ ᱟᱹᱭᱫᱟᱹᱨ"
+            },
+            {
+              "lang": "sc",
+              "title": "Deretos umanos"
+            },
+            {
+              "lang": "scn",
+              "title": "Dritti umani"
+            },
+            {
+              "lang": "sco",
+              "title": "Human richts"
+            },
+            {
+              "lang": "sd",
+              "title": "انساني حق"
+            },
+            {
+              "lang": "se",
+              "title": "Olmmošvuoigatvuođat"
+            },
+            {
+              "lang": "sh",
+              "title": "Ljudska prava"
+            },
+            {
+              "lang": "si",
+              "title": "මානව අයිතිවාසිකම්"
+            },
+            {
+              "lang": "simple",
+              "title": "Human rights"
+            },
+            {
+              "lang": "sk",
+              "title": "Ľudské práva"
+            },
+            {
+              "lang": "sl",
+              "title": "Človekove pravice"
+            },
+            {
+              "lang": "so",
+              "title": "Xuquuqda dadka"
+            },
+            {
+              "lang": "sq",
+              "title": "Të drejtat e njeriut"
+            },
+            {
+              "lang": "sr",
+              "title": "Људска права"
+            },
+            {
+              "lang": "su",
+              "title": "Hak asasi manusa"
+            },
+            {
+              "lang": "sv",
+              "title": "Mänskliga rättigheter"
+            },
+            {
+              "lang": "sw",
+              "title": "Haki za binadamu"
+            },
+            {
+              "lang": "ta",
+              "title": "மனித உரிமை"
+            },
+            {
+              "lang": "te",
+              "title": "మానవ హక్కులు"
+            },
+            {
+              "lang": "tg",
+              "title": "Ҳуқуқҳои инсон"
+            },
+            {
+              "lang": "th",
+              "title": "สิทธิมนุษยชน"
+            },
+            {
+              "lang": "tl",
+              "title": "Karapatang pantao"
+            },
+            {
+              "lang": "tok",
+              "title": "sitelen pi ken jan"
+            },
+            {
+              "lang": "tr",
+              "title": "İnsan hakları"
+            },
+            {
+              "lang": "tt",
+              "title": "Кеше хокуклары"
+            },
+            {
+              "lang": "uk",
+              "title": "Права людини"
+            },
+            {
+              "lang": "ur",
+              "title": "انسانی حقوق"
+            },
+            {
+              "lang": "uz",
+              "title": "Inson huquqlari"
+            },
+            {
+              "lang": "vi",
+              "title": "Nhân quyền"
+            },
+            {
+              "lang": "wa",
+              "title": "Abondroets des djins"
+            },
+            {
+              "lang": "war",
+              "title": "Katungod pantawo"
+            },
+            {
+              "lang": "wo",
+              "title": "Aha akk yaeffii domu adama yii"
+            },
+            {
+              "lang": "wuu",
+              "title": "人權"
+            },
+            {
+              "lang": "xmf",
+              "title": "ადამიერიშ ნებეფი"
+            },
+            {
+              "lang": "yi",
+              "title": "מענטשן רעכט"
+            },
+            {
+              "lang": "yo",
+              "title": "Àwọn ẹ̀tọ́ ọmọnìyàn"
+            },
+            {
+              "lang": "zgh",
+              "title": "ⵉⵣⵔⴼⴰⵏ ⵏ ⵓⴼⴳⴰⵏ"
+            },
+            {
+              "lang": "zh",
+              "title": "人权"
+            },
+            {
+              "lang": "lzh",
+              "title": "人權"
+            },
+            {
+              "lang": "nan",
+              "title": "Jîn-koân"
+            },
+            {
+              "lang": "yue",
+              "title": "人權"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

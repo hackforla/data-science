@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:03.548468",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050303235028|17625",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14378,
+          "ns": 0,
+          "title": "Organisasi Kesehatan Dunia",
+          "revisions": [
+            {
+              "timestamp": "2005-03-03T15:55:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

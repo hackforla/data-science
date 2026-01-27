@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:06.501621",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240803180908|10678822",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 115366,
+          "ns": 0,
+          "title": "Ελευθερία του λόγου",
+          "revisions": [
+            {
+              "timestamp": "2025-10-15T10:11:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

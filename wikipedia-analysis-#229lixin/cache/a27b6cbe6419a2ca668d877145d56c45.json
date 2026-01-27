@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:34.324257",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061108063040|434083",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 114141,
+          "ns": 0,
+          "title": "Diskriminasi",
+          "revisions": [
+            {
+              "timestamp": "2006-11-08T06:27:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

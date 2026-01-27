@@ -1,0 +1,312 @@
+{
+  "cached_at": "2026-01-26T00:45:12.266447",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 99860,
+          "ns": 0,
+          "title": "Voting",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "تصويت (سياسة)"
+            },
+            {
+              "lang": "az",
+              "title": "Səsvermə"
+            },
+            {
+              "lang": "bcl",
+              "title": "Pagboto"
+            },
+            {
+              "lang": "be",
+              "title": "Галасаванне"
+            },
+            {
+              "lang": "bg",
+              "title": "Гласуване"
+            },
+            {
+              "lang": "bn",
+              "title": "ভোট"
+            },
+            {
+              "lang": "ca",
+              "title": "Vot"
+            },
+            {
+              "lang": "ckb",
+              "title": "دەنگدان"
+            },
+            {
+              "lang": "cs",
+              "title": "Hlasování"
+            },
+            {
+              "lang": "csb",
+              "title": "Głosowanié"
+            },
+            {
+              "lang": "cy",
+              "title": "Pleidleisio"
+            },
+            {
+              "lang": "da",
+              "title": "Afstemning"
+            },
+            {
+              "lang": "de",
+              "title": "Abstimmung"
+            },
+            {
+              "lang": "el",
+              "title": "Ψηφοφορία"
+            },
+            {
+              "lang": "eo",
+              "title": "Voĉdonado"
+            },
+            {
+              "lang": "es",
+              "title": "Voto (elecciones)"
+            },
+            {
+              "lang": "et",
+              "title": "Hääletus"
+            },
+            {
+              "lang": "eu",
+              "title": "Boto"
+            },
+            {
+              "lang": "fa",
+              "title": "رأی‌گیری"
+            },
+            {
+              "lang": "fi",
+              "title": "Äänestys"
+            },
+            {
+              "lang": "fr",
+              "title": "Vote"
+            },
+            {
+              "lang": "gl",
+              "title": "Voto"
+            },
+            {
+              "lang": "gu",
+              "title": "મતદાન"
+            },
+            {
+              "lang": "he",
+              "title": "הצבעה"
+            },
+            {
+              "lang": "hi",
+              "title": "मतदान"
+            },
+            {
+              "lang": "hr",
+              "title": "Glasanje"
+            },
+            {
+              "lang": "hu",
+              "title": "Szavazás"
+            },
+            {
+              "lang": "id",
+              "title": "Pemungutan suara"
+            },
+            {
+              "lang": "it",
+              "title": "Voto (elezione)"
+            },
+            {
+              "lang": "ja",
+              "title": "投票"
+            },
+            {
+              "lang": "kk",
+              "title": "Униноминалды дауыс беру"
+            },
+            {
+              "lang": "kn",
+              "title": "ಮತದಾನ"
+            },
+            {
+              "lang": "ko",
+              "title": "투표"
+            },
+            {
+              "lang": "la",
+              "title": "Suffragatio"
+            },
+            {
+              "lang": "lt",
+              "title": "Balsavimas"
+            },
+            {
+              "lang": "lv",
+              "title": "Balsošana"
+            },
+            {
+              "lang": "mk",
+              "title": "Гласање"
+            },
+            {
+              "lang": "ml",
+              "title": "വോട്ട്"
+            },
+            {
+              "lang": "mr",
+              "title": "मतदान"
+            },
+            {
+              "lang": "ms",
+              "title": "Pengundian"
+            },
+            {
+              "lang": "my",
+              "title": "မဲဆန္ဒပေးခြင်း"
+            },
+            {
+              "lang": "ne",
+              "title": "मतदान"
+            },
+            {
+              "lang": "nl",
+              "title": "Stemming (meningsuiting)"
+            },
+            {
+              "lang": "nb",
+              "title": "Votering"
+            },
+            {
+              "lang": "pa",
+              "title": "ਮਤਦਾਨ"
+            },
+            {
+              "lang": "pl",
+              "title": "Głosowanie"
+            },
+            {
+              "lang": "pt",
+              "title": "Votação"
+            },
+            {
+              "lang": "ro",
+              "title": "Vot"
+            },
+            {
+              "lang": "ru",
+              "title": "Голосование"
+            },
+            {
+              "lang": "sa",
+              "title": "मतम्"
+            },
+            {
+              "lang": "scn",
+              "title": "Vutazzioni"
+            },
+            {
+              "lang": "sd",
+              "title": "ووٽ"
+            },
+            {
+              "lang": "si",
+              "title": "ඡන්දය ප්‍රකාශකිරීම"
+            },
+            {
+              "lang": "simple",
+              "title": "Voting"
+            },
+            {
+              "lang": "sk",
+              "title": "Hlasovanie"
+            },
+            {
+              "lang": "so",
+              "title": "Codbixin"
+            },
+            {
+              "lang": "sq",
+              "title": "Votimi"
+            },
+            {
+              "lang": "sr",
+              "title": "Гласање"
+            },
+            {
+              "lang": "sv",
+              "title": "Omröstning"
+            },
+            {
+              "lang": "ta",
+              "title": "வாக்களிப்பு"
+            },
+            {
+              "lang": "te",
+              "title": "ఓటు"
+            },
+            {
+              "lang": "tg",
+              "title": "Овоздиҳӣ"
+            },
+            {
+              "lang": "tok",
+              "title": "jan li pana e wile pi jan lawa"
+            },
+            {
+              "lang": "tr",
+              "title": "Oylama"
+            },
+            {
+              "lang": "uk",
+              "title": "Голосування"
+            },
+            {
+              "lang": "ur",
+              "title": "رائے دہندگی"
+            },
+            {
+              "lang": "vi",
+              "title": "Đầu phiếu"
+            },
+            {
+              "lang": "wuu",
+              "title": "投票"
+            },
+            {
+              "lang": "yo",
+              "title": "Ìbò"
+            },
+            {
+              "lang": "zh",
+              "title": "投票"
+            },
+            {
+              "lang": "nan",
+              "title": "Tâu-phiò"
+            },
+            {
+              "lang": "yue",
+              "title": "投票"
+            },
+            {
+              "lang": "zu",
+              "title": "Ukuvota"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

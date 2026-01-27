@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:24.442254",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250713001111|8305000",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 946153,
+          "ns": 0,
+          "title": "গৃহহীনতা",
+          "revisions": [
+            {
+              "timestamp": "2025-11-09T16:04:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

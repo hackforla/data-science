@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:02.037259",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260114172630|91112519",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1056,
+          "ns": 0,
+          "title": "艾滋病",
+          "revisions": [
+            {
+              "timestamp": "2026-01-15T03:11:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

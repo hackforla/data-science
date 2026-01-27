@@ -1,0 +1,248 @@
+{
+  "cached_at": "2026-01-26T00:47:20.418640",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 19394651,
+          "ns": 0,
+          "title": "Homelessness",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Haweloosheid"
+            },
+            {
+              "lang": "ar",
+              "title": "تشرد (علم اجتماع)"
+            },
+            {
+              "lang": "arz",
+              "title": "بدون سكن"
+            },
+            {
+              "lang": "az",
+              "title": "Evsizlik"
+            },
+            {
+              "lang": "bar",
+              "title": "Sandler"
+            },
+            {
+              "lang": "bn",
+              "title": "গৃহহীনতা"
+            },
+            {
+              "lang": "ca",
+              "title": "Sensesostre"
+            },
+            {
+              "lang": "cs",
+              "title": "Bezdomovectví"
+            },
+            {
+              "lang": "cv",
+              "title": "Килсĕррисем"
+            },
+            {
+              "lang": "cy",
+              "title": "Digartrefedd"
+            },
+            {
+              "lang": "de",
+              "title": "Obdachlosigkeit"
+            },
+            {
+              "lang": "eml",
+              "title": "Barbòṅ"
+            },
+            {
+              "lang": "eo",
+              "title": "Senhejmeco"
+            },
+            {
+              "lang": "es",
+              "title": "Sinhogarismo"
+            },
+            {
+              "lang": "et",
+              "title": "Kodutus"
+            },
+            {
+              "lang": "eu",
+              "title": "Etxegabe"
+            },
+            {
+              "lang": "fa",
+              "title": "بی‌خانمانی"
+            },
+            {
+              "lang": "fi",
+              "title": "Asunnottomuus"
+            },
+            {
+              "lang": "fr",
+              "title": "Sans-abrisme"
+            },
+            {
+              "lang": "ga",
+              "title": "Easpa dídine"
+            },
+            {
+              "lang": "gl",
+              "title": "Sen teito"
+            },
+            {
+              "lang": "he",
+              "title": "חסר בית"
+            },
+            {
+              "lang": "hi",
+              "title": "बेघर"
+            },
+            {
+              "lang": "hr",
+              "title": "Beskućništvo"
+            },
+            {
+              "lang": "hu",
+              "title": "Hajléktalanság"
+            },
+            {
+              "lang": "id",
+              "title": "Tunawisma"
+            },
+            {
+              "lang": "it",
+              "title": "Senzatetto"
+            },
+            {
+              "lang": "ja",
+              "title": "ホームレス"
+            },
+            {
+              "lang": "kk",
+              "title": "Баспанасыздық"
+            },
+            {
+              "lang": "ko",
+              "title": "노숙 (사회)"
+            },
+            {
+              "lang": "lb",
+              "title": "Wunnengslosegkeet"
+            },
+            {
+              "lang": "lv",
+              "title": "Bezpajumtnieks"
+            },
+            {
+              "lang": "mk",
+              "title": "Бездомништво"
+            },
+            {
+              "lang": "ms",
+              "title": "Tuna wisma"
+            },
+            {
+              "lang": "nl",
+              "title": "Dakloosheid"
+            },
+            {
+              "lang": "nn",
+              "title": "Uteliggjar"
+            },
+            {
+              "lang": "nb",
+              "title": "Bostedsløs"
+            },
+            {
+              "lang": "pl",
+              "title": "Bezdomność"
+            },
+            {
+              "lang": "sco",
+              "title": "Hamelessness"
+            },
+            {
+              "lang": "sh",
+              "title": "Beskućništvo"
+            },
+            {
+              "lang": "simple",
+              "title": "Homelessness"
+            },
+            {
+              "lang": "sl",
+              "title": "Brezdomstvo"
+            },
+            {
+              "lang": "sq",
+              "title": "Pastrehësia"
+            },
+            {
+              "lang": "sr",
+              "title": "Бескућништво"
+            },
+            {
+              "lang": "su",
+              "title": "Baramén"
+            },
+            {
+              "lang": "sv",
+              "title": "Hemlöshet"
+            },
+            {
+              "lang": "ta",
+              "title": "வீடு இல்லாமை"
+            },
+            {
+              "lang": "th",
+              "title": "คนไร้บ้าน"
+            },
+            {
+              "lang": "tr",
+              "title": "Evsizlik"
+            },
+            {
+              "lang": "uk",
+              "title": "Бездомність"
+            },
+            {
+              "lang": "ur",
+              "title": "بے گھری"
+            },
+            {
+              "lang": "vi",
+              "title": "Vô gia cư"
+            },
+            {
+              "lang": "wa",
+              "title": "Sins-toet"
+            },
+            {
+              "lang": "wuu",
+              "title": "流浪汉"
+            },
+            {
+              "lang": "zh",
+              "title": "露宿者"
+            },
+            {
+              "lang": "lzh",
+              "title": "氓"
+            },
+            {
+              "lang": "yue",
+              "title": "街友"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

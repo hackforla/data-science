@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:35.874622",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050304122154|442246",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2223409,
+          "ns": 0,
+          "title": "Pena di morte",
+          "revisions": [
+            {
+              "timestamp": "2005-03-04T11:43:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

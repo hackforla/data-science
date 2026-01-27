@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:42.081632",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110320083717|24461208",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3204838,
+          "ns": 0,
+          "title": "Igualdade de género",
+          "revisions": [
+            {
+              "timestamp": "2011-03-20T08:06:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

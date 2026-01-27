@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:54.603910",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250225142010|10992757",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 195240,
+          "ns": 0,
+          "title": "Πλημμύρα",
+          "revisions": [
+            {
+              "timestamp": "2025-02-25T15:30:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

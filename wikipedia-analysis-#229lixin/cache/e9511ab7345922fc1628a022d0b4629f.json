@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:00.009814",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250930191858|58190092",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 34651,
+          "ns": 0,
+          "title": "Dödsstraff",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T11:32:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

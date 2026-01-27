@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:03.529530",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250830053219|12505184",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 85789,
+          "ns": 0,
+          "title": "โทษประหารชีวิต",
+          "revisions": [
+            {
+              "timestamp": "2025-09-16T00:31:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

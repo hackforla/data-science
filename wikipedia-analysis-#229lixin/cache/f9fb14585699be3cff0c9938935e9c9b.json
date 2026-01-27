@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:02.267008",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260115064419|28713856",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 51327,
+          "ns": 0,
+          "title": "Vándorlás",
+          "revisions": [
+            {
+              "timestamp": "2026-01-15T07:14:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

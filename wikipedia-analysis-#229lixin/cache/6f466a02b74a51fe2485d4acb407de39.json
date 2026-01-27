@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:59.193638",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250405015322|73402873",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19731900,
+          "ns": 0,
+          "title": "Người nội di tản",
+          "revisions": [
+            {
+              "timestamp": "2025-06-05T10:03:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

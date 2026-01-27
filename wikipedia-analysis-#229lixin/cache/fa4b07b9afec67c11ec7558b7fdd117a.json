@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:10.336628",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250830191053|57966878",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 144431,
+          "ns": 0,
+          "title": "Asylsökande",
+          "revisions": [
+            {
+              "timestamp": "2025-09-03T07:00:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

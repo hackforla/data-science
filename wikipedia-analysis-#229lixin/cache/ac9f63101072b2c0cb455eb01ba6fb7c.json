@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:28.150475",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070314164849|3684648",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 507280,
+          "ns": 0,
+          "title": "战争罪",
+          "revisions": [
+            {
+              "timestamp": "2007-03-14T16:47:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

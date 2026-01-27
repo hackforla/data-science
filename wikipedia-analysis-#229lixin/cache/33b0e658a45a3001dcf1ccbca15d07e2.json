@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:49.931016",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250826070129|88890670",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 38534,
+          "ns": 0,
+          "title": "全球变暖",
+          "revisions": [
+            {
+              "timestamp": "2026-01-01T17:15:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

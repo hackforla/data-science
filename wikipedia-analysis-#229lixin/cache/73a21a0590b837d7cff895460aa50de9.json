@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:16.871093",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050602120722|51622",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12183,
+          "ns": 0,
+          "title": "حرب",
+          "revisions": [
+            {
+              "timestamp": "2005-06-01T17:36:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

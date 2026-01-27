@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:08.239814",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250201033005|6572227",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 57406,
+          "ns": 0,
+          "title": "سزائے موت",
+          "revisions": [
+            {
+              "timestamp": "2026-01-18T04:10:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

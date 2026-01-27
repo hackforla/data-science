@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:33.528483",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250512102815|225603295",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16687811,
+          "ns": 0,
+          "title": "Sans-abrisme",
+          "revisions": [
+            {
+              "timestamp": "2025-01-27T08:53:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

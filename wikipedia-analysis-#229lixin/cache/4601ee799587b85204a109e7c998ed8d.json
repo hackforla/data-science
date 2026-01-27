@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:21.271321",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210106014043|5063117",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1244371,
+          "ns": 0,
+          "title": "अभिवेचन",
+          "revisions": [
+            {
+              "timestamp": "2021-01-05T17:11:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

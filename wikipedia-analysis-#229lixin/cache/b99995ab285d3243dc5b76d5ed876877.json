@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:18.810221",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140124235553|100574376",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7711014,
+          "ns": 0,
+          "title": "Égalité des sexes",
+          "revisions": [
+            {
+              "timestamp": "2014-01-24T14:45:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:01.271499",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040420210845|32802",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7982,
+          "ns": 0,
+          "title": "Ihmisoikeudet",
+          "revisions": [
+            {
+              "timestamp": "2004-04-03T00:04:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

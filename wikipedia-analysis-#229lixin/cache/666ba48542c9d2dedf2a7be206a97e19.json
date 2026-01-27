@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:13.539153",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251028135348|147437883",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8400,
+          "ns": 0,
+          "title": "Diritti umani",
+          "revisions": [
+            {
+              "timestamp": "2025-11-17T17:54:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

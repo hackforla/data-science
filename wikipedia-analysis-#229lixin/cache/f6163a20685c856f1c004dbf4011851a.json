@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:01.742387",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230321033245|52202056",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 315726,
+          "ns": 0,
+          "title": "Omröstning",
+          "revisions": [
+            {
+              "timestamp": "2023-12-17T03:28:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:18.515931",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101213114632|5506001",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 77451,
+          "ns": 0,
+          "title": "Вакцини",
+          "revisions": [
+            {
+              "timestamp": "2006-12-13T21:07:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

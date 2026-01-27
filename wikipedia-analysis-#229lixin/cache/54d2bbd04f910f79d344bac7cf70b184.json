@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:41.555680",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040228060724|3534",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1494,
+          "ns": 0,
+          "title": "Háború",
+          "revisions": [
+            {
+              "timestamp": "2004-02-28T06:04:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

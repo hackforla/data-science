@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:20.056381",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230514132336|256216",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48698,
+          "ns": 0,
+          "title": "Daidaiton jinsi",
+          "revisions": [
+            {
+              "timestamp": "2023-05-14T13:21:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

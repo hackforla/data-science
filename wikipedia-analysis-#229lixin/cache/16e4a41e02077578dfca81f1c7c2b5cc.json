@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:37.581738",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251022064847|89623686",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 114696,
+          "ns": 0,
+          "title": "野火",
+          "revisions": [
+            {
+              "timestamp": "2025-11-26T12:36:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

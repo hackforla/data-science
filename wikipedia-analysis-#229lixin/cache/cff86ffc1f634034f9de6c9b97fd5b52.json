@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:32.793496",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180823005943|12337264",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2337507,
+          "ns": 0,
+          "title": "Schimbare climatică",
+          "revisions": [
+            {
+              "timestamp": "2018-08-23T00:57:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

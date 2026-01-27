@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:39.609449",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200113104915|25555494",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2624467,
+          "ns": 0,
+          "title": "코로나19 범유행",
+          "revisions": [
+            {
+              "timestamp": "2020-01-13T10:47:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

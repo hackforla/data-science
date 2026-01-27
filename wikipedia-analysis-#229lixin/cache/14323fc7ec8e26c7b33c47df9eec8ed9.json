@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:29.576770",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080505052457|190933",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 39417,
+          "ns": 0,
+          "title": "मलेरिया",
+          "revisions": [
+            {
+              "timestamp": "2008-05-05T05:24:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

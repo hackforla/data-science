@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:58.485185",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060323162051|1681183",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 253591,
+          "ns": 0,
+          "title": "無國籍",
+          "revisions": [
+            {
+              "timestamp": "2006-03-23T16:19:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

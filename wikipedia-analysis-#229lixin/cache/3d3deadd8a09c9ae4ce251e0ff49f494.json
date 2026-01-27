@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:14.529533",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251229152015|9287948",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23607,
+          "ns": 0,
+          "title": "غربت",
+          "revisions": [
+            {
+              "timestamp": "2025-12-29T15:31:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

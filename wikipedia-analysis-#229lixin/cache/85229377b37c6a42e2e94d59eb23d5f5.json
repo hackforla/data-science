@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:43.454068",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250902134703|46087511",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 394884,
+          "ns": 0,
+          "title": "Повідь",
+          "revisions": [
+            {
+              "timestamp": "2026-01-20T23:57:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

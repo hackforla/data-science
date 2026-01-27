@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:12.064718",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240814002543|7532253",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 771777,
+          "ns": 0,
+          "title": "বৈষম্য",
+          "revisions": [
+            {
+              "timestamp": "2024-12-28T07:34:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

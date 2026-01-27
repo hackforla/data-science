@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:52.106177",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250826070337|148173247",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 248531,
+          "ns": 0,
+          "title": "Выборы",
+          "revisions": [
+            {
+              "timestamp": "2025-11-15T11:19:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

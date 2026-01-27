@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:14.819351",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250913134701|106452599",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 568154,
+          "ns": 0,
+          "title": "山火事",
+          "revisions": [
+            {
+              "timestamp": "2025-09-13T18:46:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

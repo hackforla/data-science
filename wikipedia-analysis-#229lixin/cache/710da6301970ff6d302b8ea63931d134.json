@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:56.418713",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050309140230|35698",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 97809,
+          "ns": 0,
+          "title": "지진",
+          "revisions": [
+            {
+              "timestamp": "2004-12-27T08:57:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

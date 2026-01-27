@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:27.187333",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240516155711|1220832",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 139814,
+          "ns": 0,
+          "title": "खडेरी",
+          "revisions": [
+            {
+              "timestamp": "2024-05-18T14:29:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

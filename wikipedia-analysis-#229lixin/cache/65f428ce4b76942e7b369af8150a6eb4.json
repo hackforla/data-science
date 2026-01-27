@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:13.873599",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060514142844|584545",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 72815,
+          "ns": 0,
+          "title": "Globális felmelegedés",
+          "revisions": [
+            {
+              "timestamp": "2006-05-14T00:20:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

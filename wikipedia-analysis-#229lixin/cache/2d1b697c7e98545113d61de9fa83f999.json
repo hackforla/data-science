@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:36.148326",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251103211744|261226405",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1316,
+          "ns": 0,
+          "title": "Erdbeben",
+          "revisions": [
+            {
+              "timestamp": "2025-11-03T21:39:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

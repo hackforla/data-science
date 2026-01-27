@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:45.527696",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080722122948|1343465",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 236510,
+          "ns": 0,
+          "title": "جنایت جنگی",
+          "revisions": [
+            {
+              "timestamp": "2008-07-22T12:10:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

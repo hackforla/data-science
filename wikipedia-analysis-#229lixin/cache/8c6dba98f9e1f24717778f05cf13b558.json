@@ -1,0 +1,428 @@
+{
+  "cached_at": "2026-01-26T00:44:04.414207",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 9457,
+          "ns": 0,
+          "title": "Election",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Verkiesing"
+            },
+            {
+              "lang": "ang",
+              "title": "Ġecēosung"
+            },
+            {
+              "lang": "ar",
+              "title": "انتخابات"
+            },
+            {
+              "lang": "ast",
+              "title": "Eleiciones"
+            },
+            {
+              "lang": "az",
+              "title": "Seçki"
+            },
+            {
+              "lang": "ban",
+              "title": "Pemilu"
+            },
+            {
+              "lang": "bcl",
+              "title": "Pirilian"
+            },
+            {
+              "lang": "be",
+              "title": "Выбары"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Выбары"
+            },
+            {
+              "lang": "bg",
+              "title": "Избори"
+            },
+            {
+              "lang": "bh",
+              "title": "चुनाव"
+            },
+            {
+              "lang": "bn",
+              "title": "নির্বাচন"
+            },
+            {
+              "lang": "br",
+              "title": "Votadeg"
+            },
+            {
+              "lang": "bs",
+              "title": "Izbori"
+            },
+            {
+              "lang": "ca",
+              "title": "Elecció"
+            },
+            {
+              "lang": "ckb",
+              "title": "ھەڵبژاردن"
+            },
+            {
+              "lang": "cs",
+              "title": "Volby"
+            },
+            {
+              "lang": "cv",
+              "title": "Суйлав"
+            },
+            {
+              "lang": "cy",
+              "title": "Etholiad"
+            },
+            {
+              "lang": "da",
+              "title": "Valg"
+            },
+            {
+              "lang": "de",
+              "title": "Wahl"
+            },
+            {
+              "lang": "diq",
+              "title": "Weçinıtış"
+            },
+            {
+              "lang": "el",
+              "title": "Εκλογές"
+            },
+            {
+              "lang": "eo",
+              "title": "Voĉdono"
+            },
+            {
+              "lang": "es",
+              "title": "Elecciones"
+            },
+            {
+              "lang": "et",
+              "title": "Valimised"
+            },
+            {
+              "lang": "eu",
+              "title": "Hauteskunde"
+            },
+            {
+              "lang": "fa",
+              "title": "انتخابات"
+            },
+            {
+              "lang": "fi",
+              "title": "Vaali"
+            },
+            {
+              "lang": "fon",
+              "title": "Sɔmisɔmí"
+            },
+            {
+              "lang": "fr",
+              "title": "Élection"
+            },
+            {
+              "lang": "fy",
+              "title": "Ferkiezing"
+            },
+            {
+              "lang": "gcr",
+              "title": "Lélèksyon"
+            },
+            {
+              "lang": "gl",
+              "title": "Eleccións"
+            },
+            {
+              "lang": "ha",
+              "title": "Zaɓe"
+            },
+            {
+              "lang": "he",
+              "title": "בחירות"
+            },
+            {
+              "lang": "hi",
+              "title": "चुनाव"
+            },
+            {
+              "lang": "hr",
+              "title": "Izbori"
+            },
+            {
+              "lang": "hu",
+              "title": "Választás"
+            },
+            {
+              "lang": "hy",
+              "title": "Ընտրություններ"
+            },
+            {
+              "lang": "id",
+              "title": "Pemilihan"
+            },
+            {
+              "lang": "is",
+              "title": "Kosningar"
+            },
+            {
+              "lang": "it",
+              "title": "Elezione"
+            },
+            {
+              "lang": "ja",
+              "title": "選挙"
+            },
+            {
+              "lang": "ka",
+              "title": "არჩევნები"
+            },
+            {
+              "lang": "kk",
+              "title": "Сайлау"
+            },
+            {
+              "lang": "kn",
+              "title": "ಚುನಾವಣೆ"
+            },
+            {
+              "lang": "ko",
+              "title": "선거"
+            },
+            {
+              "lang": "ky",
+              "title": "Шайлоо"
+            },
+            {
+              "lang": "la",
+              "title": "Comitia"
+            },
+            {
+              "lang": "li",
+              "title": "Verkezinge"
+            },
+            {
+              "lang": "ln",
+              "title": "Lipɔnɔmi"
+            },
+            {
+              "lang": "lt",
+              "title": "Rinkimai"
+            },
+            {
+              "lang": "lv",
+              "title": "Vēlēšanas"
+            },
+            {
+              "lang": "mk",
+              "title": "Избори"
+            },
+            {
+              "lang": "mn",
+              "title": "Сонгууль"
+            },
+            {
+              "lang": "mr",
+              "title": "निवडणूक"
+            },
+            {
+              "lang": "ms",
+              "title": "Pilihan raya"
+            },
+            {
+              "lang": "my",
+              "title": "ရွေးကောက်ပွဲ"
+            },
+            {
+              "lang": "ne",
+              "title": "निर्वाचन"
+            },
+            {
+              "lang": "new",
+              "title": "निर्वाचन"
+            },
+            {
+              "lang": "nl",
+              "title": "Verkiezing"
+            },
+            {
+              "lang": "nn",
+              "title": "Val"
+            },
+            {
+              "lang": "nb",
+              "title": "Valg"
+            },
+            {
+              "lang": "pa",
+              "title": "ਚੋਣ"
+            },
+            {
+              "lang": "pl",
+              "title": "Wybory"
+            },
+            {
+              "lang": "ps",
+              "title": "ټولټاکنې"
+            },
+            {
+              "lang": "pt",
+              "title": "Eleição"
+            },
+            {
+              "lang": "qu",
+              "title": "Akllanakuy"
+            },
+            {
+              "lang": "ro",
+              "title": "Alegere"
+            },
+            {
+              "lang": "ru",
+              "title": "Выборы"
+            },
+            {
+              "lang": "sa",
+              "title": "निर्वाचनम्"
+            },
+            {
+              "lang": "scn",
+              "title": "Elizzioni"
+            },
+            {
+              "lang": "sd",
+              "title": "چونڊون"
+            },
+            {
+              "lang": "sh",
+              "title": "Izbori"
+            },
+            {
+              "lang": "si",
+              "title": "ඡන්ද විමසීම්"
+            },
+            {
+              "lang": "simple",
+              "title": "Election"
+            },
+            {
+              "lang": "sk",
+              "title": "Voľby"
+            },
+            {
+              "lang": "sl",
+              "title": "Volitve"
+            },
+            {
+              "lang": "sq",
+              "title": "Zgjedhjet"
+            },
+            {
+              "lang": "sr",
+              "title": "Избори"
+            },
+            {
+              "lang": "sv",
+              "title": "Val"
+            },
+            {
+              "lang": "sw",
+              "title": "Uchaguzi"
+            },
+            {
+              "lang": "ta",
+              "title": "தேர்தல்"
+            },
+            {
+              "lang": "te",
+              "title": "ఎన్నికలు"
+            },
+            {
+              "lang": "th",
+              "title": "การเลือกตั้ง"
+            },
+            {
+              "lang": "tl",
+              "title": "Halalan"
+            },
+            {
+              "lang": "tr",
+              "title": "Seçim"
+            },
+            {
+              "lang": "uk",
+              "title": "Вибори"
+            },
+            {
+              "lang": "ur",
+              "title": "انتخابات"
+            },
+            {
+              "lang": "uz",
+              "title": "Saylov"
+            },
+            {
+              "lang": "vec",
+              "title": "Ełesion"
+            },
+            {
+              "lang": "vi",
+              "title": "Bầu cử"
+            },
+            {
+              "lang": "wa",
+              "title": "Vôtaedje"
+            },
+            {
+              "lang": "war",
+              "title": "Piniliay"
+            },
+            {
+              "lang": "wuu",
+              "title": "选举"
+            },
+            {
+              "lang": "xmf",
+              "title": "გიშაგორუეფი"
+            },
+            {
+              "lang": "yi",
+              "title": "וואלן"
+            },
+            {
+              "lang": "yo",
+              "title": "Ìdìbòyàn"
+            },
+            {
+              "lang": "zh",
+              "title": "選舉"
+            },
+            {
+              "lang": "nan",
+              "title": "Soán-kí"
+            },
+            {
+              "lang": "yue",
+              "title": "選舉"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

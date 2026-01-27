@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:37.321092",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061007175447|5409448",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 637024,
+          "ns": 0,
+          "title": "Gendergelijkheid",
+          "revisions": [
+            {
+              "timestamp": "2006-10-07T17:53:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

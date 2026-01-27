@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:17.456133",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251220222807|148570827",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9653749,
+          "ns": 0,
+          "title": "Elezioni presidenziali negli Stati Uniti d'America del 2024",
+          "revisions": [
+            {
+              "timestamp": "2026-01-17T10:10:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

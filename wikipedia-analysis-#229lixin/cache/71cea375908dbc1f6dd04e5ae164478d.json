@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:41.301179",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230206014810|29206322",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3503884,
+          "ns": 0,
+          "title": "2023 Kahramanmaraş depremleri",
+          "revisions": [
+            {
+              "timestamp": "2023-02-06T01:46:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

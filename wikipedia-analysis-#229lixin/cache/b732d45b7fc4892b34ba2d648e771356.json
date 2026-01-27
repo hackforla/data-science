@@ -1,0 +1,20 @@
+{
+  "cached_at": "2026-01-26T00:08:59.444076",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 65057,
+          "ns": 0,
+          "title": "واکسين",
+          "revisions": [
+            {
+              "timestamp": "2022-10-15T08:59:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

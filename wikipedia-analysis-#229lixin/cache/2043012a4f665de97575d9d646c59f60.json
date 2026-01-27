@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:55.216550",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251220160407|12731419",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20779,
+          "ns": 0,
+          "title": "เอดส์",
+          "revisions": [
+            {
+              "timestamp": "2026-01-11T02:07:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

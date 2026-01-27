@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:03.049526",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200408200439|4137159",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 881521,
+          "ns": 0,
+          "title": "সংবাদপত্রের স্বাধীনতা",
+          "revisions": [
+            {
+              "timestamp": "2020-04-08T20:03:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

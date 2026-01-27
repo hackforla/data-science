@@ -1,0 +1,780 @@
+{
+  "cached_at": "2026-01-26T00:35:14.222852",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 33158,
+          "ns": 0,
+          "title": "War",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Oorlog"
+            },
+            {
+              "lang": "gsw",
+              "title": "Krieg"
+            },
+            {
+              "lang": "am",
+              "title": "ጦርነት"
+            },
+            {
+              "lang": "an",
+              "title": "Guerra"
+            },
+            {
+              "lang": "anp",
+              "title": "युद्ध"
+            },
+            {
+              "lang": "ar",
+              "title": "حرب"
+            },
+            {
+              "lang": "arc",
+              "title": "ܩܪܒܐ"
+            },
+            {
+              "lang": "ary",
+              "title": "حرب"
+            },
+            {
+              "lang": "arz",
+              "title": "حرب"
+            },
+            {
+              "lang": "as",
+              "title": "যুদ্ধ"
+            },
+            {
+              "lang": "ast",
+              "title": "Guerra"
+            },
+            {
+              "lang": "av",
+              "title": "Рагъ"
+            },
+            {
+              "lang": "ay",
+              "title": "Ch'axwa"
+            },
+            {
+              "lang": "az",
+              "title": "Müharibə"
+            },
+            {
+              "lang": "azb",
+              "title": "ساواش"
+            },
+            {
+              "lang": "ba",
+              "title": "Һуғыш"
+            },
+            {
+              "lang": "sgs",
+              "title": "Vaina"
+            },
+            {
+              "lang": "be",
+              "title": "Вайна"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Вайна"
+            },
+            {
+              "lang": "bg",
+              "title": "Война"
+            },
+            {
+              "lang": "bh",
+              "title": "जुद्ध"
+            },
+            {
+              "lang": "bn",
+              "title": "যুদ্ধ"
+            },
+            {
+              "lang": "bo",
+              "title": "དམག་འཁྲུག"
+            },
+            {
+              "lang": "br",
+              "title": "Brezel"
+            },
+            {
+              "lang": "bs",
+              "title": "Rat"
+            },
+            {
+              "lang": "btm",
+              "title": "Porang"
+            },
+            {
+              "lang": "bxr",
+              "title": "Дайн"
+            },
+            {
+              "lang": "ca",
+              "title": "Guerra"
+            },
+            {
+              "lang": "cdo",
+              "title": "Ciéng-cĕng"
+            },
+            {
+              "lang": "ce",
+              "title": "ТӀом"
+            },
+            {
+              "lang": "ceb",
+              "title": "Gubat"
+            },
+            {
+              "lang": "ch",
+              "title": "Gera"
+            },
+            {
+              "lang": "ckb",
+              "title": "شەڕ"
+            },
+            {
+              "lang": "cs",
+              "title": "Válka"
+            },
+            {
+              "lang": "cv",
+              "title": "Вăрçă"
+            },
+            {
+              "lang": "cy",
+              "title": "Rhyfel"
+            },
+            {
+              "lang": "da",
+              "title": "Krig"
+            },
+            {
+              "lang": "dag",
+              "title": "Tɔbu"
+            },
+            {
+              "lang": "de",
+              "title": "Krieg"
+            },
+            {
+              "lang": "el",
+              "title": "Πόλεμος"
+            },
+            {
+              "lang": "eo",
+              "title": "Milito"
+            },
+            {
+              "lang": "es",
+              "title": "Guerra"
+            },
+            {
+              "lang": "et",
+              "title": "Sõda"
+            },
+            {
+              "lang": "eu",
+              "title": "Gerra"
+            },
+            {
+              "lang": "ext",
+              "title": "Guerra"
+            },
+            {
+              "lang": "fa",
+              "title": "جنگ"
+            },
+            {
+              "lang": "fi",
+              "title": "Sota"
+            },
+            {
+              "lang": "vro",
+              "title": "Sõda"
+            },
+            {
+              "lang": "fr",
+              "title": "Guerre"
+            },
+            {
+              "lang": "frp",
+              "title": "Guèrra"
+            },
+            {
+              "lang": "frr",
+              "title": "Kriich"
+            },
+            {
+              "lang": "fur",
+              "title": "Vuere"
+            },
+            {
+              "lang": "fy",
+              "title": "Oarloch"
+            },
+            {
+              "lang": "ga",
+              "title": "Cogadh"
+            },
+            {
+              "lang": "gan",
+              "title": "打仗"
+            },
+            {
+              "lang": "gcr",
+              "title": "Lagèr"
+            },
+            {
+              "lang": "gd",
+              "title": "Cogadh"
+            },
+            {
+              "lang": "gl",
+              "title": "Guerra"
+            },
+            {
+              "lang": "glk",
+              "title": "جنگ"
+            },
+            {
+              "lang": "gn",
+              "title": "Ñorairõ"
+            },
+            {
+              "lang": "gu",
+              "title": "યુદ્ધ"
+            },
+            {
+              "lang": "ha",
+              "title": "Yaƙi"
+            },
+            {
+              "lang": "he",
+              "title": "מלחמה"
+            },
+            {
+              "lang": "hi",
+              "title": "युद्ध"
+            },
+            {
+              "lang": "hif",
+              "title": "Yudh"
+            },
+            {
+              "lang": "hr",
+              "title": "Rat"
+            },
+            {
+              "lang": "ht",
+              "title": "Lagè"
+            },
+            {
+              "lang": "hu",
+              "title": "Háború"
+            },
+            {
+              "lang": "hy",
+              "title": "Պատերազմ"
+            },
+            {
+              "lang": "hyw",
+              "title": "Պատերազմ"
+            },
+            {
+              "lang": "ia",
+              "title": "Guerra"
+            },
+            {
+              "lang": "id",
+              "title": "Perang"
+            },
+            {
+              "lang": "ie",
+              "title": "Guerre"
+            },
+            {
+              "lang": "ilo",
+              "title": "Gubat"
+            },
+            {
+              "lang": "inh",
+              "title": "ТӀом"
+            },
+            {
+              "lang": "io",
+              "title": "Milito"
+            },
+            {
+              "lang": "is",
+              "title": "Stríð"
+            },
+            {
+              "lang": "it",
+              "title": "Guerra"
+            },
+            {
+              "lang": "iu",
+              "title": "ᐊᑭᕋᖅᑑᑎᔪᑦ"
+            },
+            {
+              "lang": "ja",
+              "title": "戦争"
+            },
+            {
+              "lang": "jam",
+              "title": "Waar"
+            },
+            {
+              "lang": "jv",
+              "title": "Perang"
+            },
+            {
+              "lang": "ka",
+              "title": "ომი"
+            },
+            {
+              "lang": "kab",
+              "title": "Ṭṭrad"
+            },
+            {
+              "lang": "kbp",
+              "title": "You"
+            },
+            {
+              "lang": "kcg",
+              "title": "Zwang"
+            },
+            {
+              "lang": "kg",
+              "title": "Vita"
+            },
+            {
+              "lang": "kk",
+              "title": "Соғыс"
+            },
+            {
+              "lang": "kn",
+              "title": "ಯುದ್ಧ"
+            },
+            {
+              "lang": "knc",
+              "title": "Kәriwu"
+            },
+            {
+              "lang": "ko",
+              "title": "전쟁"
+            },
+            {
+              "lang": "krc",
+              "title": "Къазауат"
+            },
+            {
+              "lang": "ks",
+              "title": "جَنٛگ"
+            },
+            {
+              "lang": "ksh",
+              "title": "Kreech"
+            },
+            {
+              "lang": "ku",
+              "title": "Şer"
+            },
+            {
+              "lang": "kv",
+              "title": "Тыш"
+            },
+            {
+              "lang": "kw",
+              "title": "Bresel"
+            },
+            {
+              "lang": "ky",
+              "title": "Согуш"
+            },
+            {
+              "lang": "la",
+              "title": "Bellum"
+            },
+            {
+              "lang": "lb",
+              "title": "Krich"
+            },
+            {
+              "lang": "lg",
+              "title": "Ssematalo"
+            },
+            {
+              "lang": "li",
+              "title": "Krieg"
+            },
+            {
+              "lang": "lld",
+              "title": "Viera"
+            },
+            {
+              "lang": "lmo",
+              "title": "Guerra"
+            },
+            {
+              "lang": "ln",
+              "title": "Etumba"
+            },
+            {
+              "lang": "lo",
+              "title": "ສົງຄາມ"
+            },
+            {
+              "lang": "lt",
+              "title": "Karas"
+            },
+            {
+              "lang": "lv",
+              "title": "Karš"
+            },
+            {
+              "lang": "mad",
+              "title": "Perrang"
+            },
+            {
+              "lang": "map-bms",
+              "title": "Perang"
+            },
+            {
+              "lang": "mdf",
+              "title": "Торпингесь"
+            },
+            {
+              "lang": "mhr",
+              "title": "Сар"
+            },
+            {
+              "lang": "min",
+              "title": "Parang"
+            },
+            {
+              "lang": "mk",
+              "title": "Војна"
+            },
+            {
+              "lang": "ml",
+              "title": "യുദ്ധം"
+            },
+            {
+              "lang": "mn",
+              "title": "Дайн"
+            },
+            {
+              "lang": "mr",
+              "title": "युद्ध"
+            },
+            {
+              "lang": "ms",
+              "title": "Peperangan"
+            },
+            {
+              "lang": "mwl",
+              "title": "Guerra"
+            },
+            {
+              "lang": "my",
+              "title": "စစ်ပွဲ"
+            },
+            {
+              "lang": "myv",
+              "title": "Торпинге"
+            },
+            {
+              "lang": "mzn",
+              "title": "الجه"
+            },
+            {
+              "lang": "nds",
+              "title": "Krieg"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Kraig"
+            },
+            {
+              "lang": "ne",
+              "title": "युद्ध"
+            },
+            {
+              "lang": "new",
+              "title": "हताः"
+            },
+            {
+              "lang": "nl",
+              "title": "Oorlog"
+            },
+            {
+              "lang": "nn",
+              "title": "Krig"
+            },
+            {
+              "lang": "nb",
+              "title": "Krig"
+            },
+            {
+              "lang": "nrm",
+              "title": "Dgèrre"
+            },
+            {
+              "lang": "ny",
+              "title": "Nkhondo"
+            },
+            {
+              "lang": "oc",
+              "title": "Guèrra"
+            },
+            {
+              "lang": "pa",
+              "title": "ਜੰਗ"
+            },
+            {
+              "lang": "pcd",
+              "title": "Dgère"
+            },
+            {
+              "lang": "pdc",
+              "title": "Grieg"
+            },
+            {
+              "lang": "pl",
+              "title": "Wojna"
+            },
+            {
+              "lang": "pms",
+              "title": "Guèra"
+            },
+            {
+              "lang": "pnb",
+              "title": "جنگ"
+            },
+            {
+              "lang": "ps",
+              "title": "جگړه"
+            },
+            {
+              "lang": "pt",
+              "title": "Guerra"
+            },
+            {
+              "lang": "qu",
+              "title": "Awqanakuy"
+            },
+            {
+              "lang": "ro",
+              "title": "Război"
+            },
+            {
+              "lang": "rup",
+              "title": "Polimu"
+            },
+            {
+              "lang": "ru",
+              "title": "Война"
+            },
+            {
+              "lang": "rue",
+              "title": "Война"
+            },
+            {
+              "lang": "sa",
+              "title": "युद्धम्"
+            },
+            {
+              "lang": "sah",
+              "title": "Сэрии"
+            },
+            {
+              "lang": "scn",
+              "title": "Guerra"
+            },
+            {
+              "lang": "sco",
+              "title": "War"
+            },
+            {
+              "lang": "sd",
+              "title": "جنگ"
+            },
+            {
+              "lang": "sh",
+              "title": "Rat"
+            },
+            {
+              "lang": "shi",
+              "title": "Imnɣi"
+            },
+            {
+              "lang": "si",
+              "title": "යුද්ධ"
+            },
+            {
+              "lang": "simple",
+              "title": "War"
+            },
+            {
+              "lang": "sk",
+              "title": "Vojna"
+            },
+            {
+              "lang": "skr",
+              "title": "جنگ"
+            },
+            {
+              "lang": "sl",
+              "title": "Vojna"
+            },
+            {
+              "lang": "sn",
+              "title": "Hondo"
+            },
+            {
+              "lang": "sq",
+              "title": "Lufta"
+            },
+            {
+              "lang": "sr",
+              "title": "Рат"
+            },
+            {
+              "lang": "su",
+              "title": "Bitotama"
+            },
+            {
+              "lang": "sv",
+              "title": "Krig"
+            },
+            {
+              "lang": "sw",
+              "title": "Vita"
+            },
+            {
+              "lang": "szy",
+              "title": "ngangayaw"
+            },
+            {
+              "lang": "ta",
+              "title": "போர்"
+            },
+            {
+              "lang": "te",
+              "title": "యుద్ధం"
+            },
+            {
+              "lang": "tg",
+              "title": "Ҷанг"
+            },
+            {
+              "lang": "th",
+              "title": "สงคราม"
+            },
+            {
+              "lang": "tl",
+              "title": "Digmaan"
+            },
+            {
+              "lang": "tok",
+              "title": "tenpo utala"
+            },
+            {
+              "lang": "tr",
+              "title": "Savaş"
+            },
+            {
+              "lang": "ts",
+              "title": "Nyimpi"
+            },
+            {
+              "lang": "tt",
+              "title": "Сугыш"
+            },
+            {
+              "lang": "uk",
+              "title": "Війна"
+            },
+            {
+              "lang": "ur",
+              "title": "جنگ"
+            },
+            {
+              "lang": "uz",
+              "title": "Urush"
+            },
+            {
+              "lang": "vec",
+              "title": "Guera"
+            },
+            {
+              "lang": "vep",
+              "title": "Soda"
+            },
+            {
+              "lang": "vi",
+              "title": "Chiến tranh"
+            },
+            {
+              "lang": "wa",
+              "title": "Guere"
+            },
+            {
+              "lang": "war",
+              "title": "Gerá"
+            },
+            {
+              "lang": "wuu",
+              "title": "打仗"
+            },
+            {
+              "lang": "xh",
+              "title": "Imfazwe"
+            },
+            {
+              "lang": "xmf",
+              "title": "ლჷმა"
+            },
+            {
+              "lang": "yi",
+              "title": "מלחמה"
+            },
+            {
+              "lang": "za",
+              "title": "Cancwngh"
+            },
+            {
+              "lang": "zh",
+              "title": "战争"
+            },
+            {
+              "lang": "nan",
+              "title": "Chiàn-cheng"
+            },
+            {
+              "lang": "yue",
+              "title": "打仗"
+            },
+            {
+              "lang": "zu",
+              "title": "Impi"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

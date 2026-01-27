@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:46.548647",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060304104733|278111",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 68598,
+          "ns": 0,
+          "title": "SIDA",
+          "revisions": [
+            {
+              "timestamp": "2006-03-04T10:38:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

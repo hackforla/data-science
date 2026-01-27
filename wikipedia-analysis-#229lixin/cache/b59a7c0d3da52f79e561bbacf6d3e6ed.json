@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:09.046102",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251113113108|11364600",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5713,
+          "ns": 0,
+          "title": "Δημοκρατία",
+          "revisions": [
+            {
+              "timestamp": "2025-11-13T13:15:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:22.995057",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060107171149|4122538",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 413498,
+          "ns": 0,
+          "title": "旱魃",
+          "revisions": [
+            {
+              "timestamp": "2006-01-06T07:31:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

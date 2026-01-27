@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:01.231717",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020405001307|405260",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47702,
+          "ns": 0,
+          "title": "Torture",
+          "revisions": [
+            {
+              "timestamp": "2002-04-05T00:09:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

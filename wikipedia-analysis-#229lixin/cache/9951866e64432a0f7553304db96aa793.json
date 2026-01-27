@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:57.978532",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070123071551|3373167",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 479731,
+          "ns": 0,
+          "title": "人口贩卖",
+          "revisions": [
+            {
+              "timestamp": "2007-01-23T07:14:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:06.363116",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050616025608|49696",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9991,
+          "ns": 0,
+          "title": "سل",
+          "revisions": [
+            {
+              "timestamp": "2005-04-28T09:32:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:47.632882",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240724184858|12308529",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 138487,
+          "ns": 0,
+          "title": "Права на човека",
+          "revisions": [
+            {
+              "timestamp": "2025-01-19T02:03:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

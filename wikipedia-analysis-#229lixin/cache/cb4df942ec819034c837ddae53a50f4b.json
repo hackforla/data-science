@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:51.359978",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170320163559|97702893",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7822301,
+          "ns": 0,
+          "title": "Refugiado",
+          "revisions": [
+            {
+              "timestamp": "2017-03-09T09:45:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

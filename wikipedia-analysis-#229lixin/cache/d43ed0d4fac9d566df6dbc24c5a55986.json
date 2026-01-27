@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:57.201980",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251015055042|27968988",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4521609,
+          "ns": 0,
+          "title": "Cuaca ekstrem",
+          "revisions": [
+            {
+              "timestamp": "2025-10-15T08:02:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:05.904535",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090529073228|3280981",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 600475,
+          "ns": 0,
+          "title": "انتخابات",
+          "revisions": [
+            {
+              "timestamp": "2009-05-29T07:29:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

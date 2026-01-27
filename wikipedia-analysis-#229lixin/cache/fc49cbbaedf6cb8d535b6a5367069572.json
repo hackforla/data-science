@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:40.108438",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250306201315|1407570",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16559,
+          "ns": 0,
+          "title": "Haki za binadamu",
+          "revisions": [
+            {
+              "timestamp": "2025-03-06T20:18:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:33.245780",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040614230124|533061",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 86161,
+          "ns": 0,
+          "title": "Pandémie",
+          "revisions": [
+            {
+              "timestamp": "2004-06-14T22:59:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

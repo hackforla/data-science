@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:57.758390",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250304115646|6842754",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 949781,
+          "ns": 0,
+          "title": "صنفی مساوات",
+          "revisions": [
+            {
+              "timestamp": "2025-03-04T12:07:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

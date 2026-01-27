@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:07.493090",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250906123506|1451860",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 32995,
+          "ns": 0,
+          "title": "Umaskini",
+          "revisions": [
+            {
+              "timestamp": "2025-09-06T12:36:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

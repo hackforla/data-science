@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:39.219851",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060524140116|157547",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 37511,
+          "ns": 0,
+          "title": "น้ำท่วม",
+          "revisions": [
+            {
+              "timestamp": "2006-05-24T06:47:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

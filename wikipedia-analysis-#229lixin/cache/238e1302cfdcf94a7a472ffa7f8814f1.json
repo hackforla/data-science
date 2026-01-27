@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:57.506297",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041014123834|15022",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10851,
+          "ns": 0,
+          "title": "ВІЛ/СНІД",
+          "revisions": [
+            {
+              "timestamp": "2004-09-30T20:01:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

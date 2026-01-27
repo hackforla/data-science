@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:11.481755",
+  "response": {
+    "continue": {
+      "rvcontinue": "20211003055330|696493",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4839,
+          "ns": 0,
+          "title": "ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့",
+          "revisions": [
+            {
+              "timestamp": "2022-12-13T04:17:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:25.193691",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251017093549|28060460",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 555063,
+          "ns": 0,
+          "title": "Penyensoran",
+          "revisions": [
+            {
+              "timestamp": "2025-11-21T19:07:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

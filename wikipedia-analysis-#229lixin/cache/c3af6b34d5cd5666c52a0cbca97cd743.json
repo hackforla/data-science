@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:32.473328",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251001111934|42798493",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 38381,
+          "ns": 0,
+          "title": "جنگ",
+          "revisions": [
+            {
+              "timestamp": "2025-11-15T15:54:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

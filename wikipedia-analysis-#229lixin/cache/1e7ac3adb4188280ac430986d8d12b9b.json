@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:23.192403",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240731024603|37601755",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3862123,
+          "ns": 0,
+          "title": "난민 위기",
+          "revisions": [
+            {
+              "timestamp": "2024-07-31T01:00:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:04.666986",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250925101605|17190335",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 146850,
+          "ns": 0,
+          "title": "Vaccin",
+          "revisions": [
+            {
+              "timestamp": "2025-09-25T10:20:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
