@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:54.943637",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040102123308|5190",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5027,
+          "ns": 0,
+          "title": "Pakolainen",
+          "revisions": [
+            {
+              "timestamp": "2004-01-02T12:31:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

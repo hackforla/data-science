@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:56.078849",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230720102752|10893495",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 755475,
+          "ns": 0,
+          "title": "คนไร้บ้าน",
+          "revisions": [
+            {
+              "timestamp": "2024-11-16T22:10:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

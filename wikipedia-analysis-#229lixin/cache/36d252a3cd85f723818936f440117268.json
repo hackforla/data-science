@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:03.945867",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251203042030|30573073",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 114981,
+          "ns": 0,
+          "title": "Сиромаштво",
+          "revisions": [
+            {
+              "timestamp": "2026-01-13T01:11:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

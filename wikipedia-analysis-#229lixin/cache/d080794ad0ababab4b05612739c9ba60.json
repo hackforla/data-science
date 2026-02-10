@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:43.225448",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030810140324|47800",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11319,
+          "ns": 0,
+          "title": "WHO",
+          "revisions": [
+            {
+              "timestamp": "2003-02-28T14:42:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

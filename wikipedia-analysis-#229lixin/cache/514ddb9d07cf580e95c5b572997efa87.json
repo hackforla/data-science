@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:58.987851",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250501054437|73468439",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1751756,
+          "ns": 0,
+          "title": "Bình đẳng giới",
+          "revisions": [
+            {
+              "timestamp": "2025-11-11T19:21:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

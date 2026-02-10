@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:49.538937",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050325131117|134479",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 49670,
+          "ns": 0,
+          "title": "Изменение на климата",
+          "revisions": [
+            {
+              "timestamp": "2005-03-24T16:50:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

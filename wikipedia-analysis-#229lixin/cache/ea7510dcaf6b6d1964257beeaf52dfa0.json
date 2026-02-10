@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:06.482461",
+  "response": {
+    "continue": {
+      "rvcontinue": "20121021201039|138314",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17010,
+          "ns": 0,
+          "title": "رېږدله",
+          "revisions": [
+            {
+              "timestamp": "2012-10-21T20:10:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

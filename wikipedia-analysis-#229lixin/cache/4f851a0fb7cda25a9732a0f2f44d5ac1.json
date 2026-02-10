@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:12.196653",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230206072028|201133740",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15444613,
+          "ns": 0,
+          "title": "Séismes de 2023 en Turquie et Syrie",
+          "revisions": [
+            {
+              "timestamp": "2023-02-06T07:18:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

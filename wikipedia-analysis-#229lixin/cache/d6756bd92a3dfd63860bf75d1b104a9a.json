@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:44.041685",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231022110034|66181676",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3874026,
+          "ns": 0,
+          "title": "Interne vluchteling",
+          "revisions": [
+            {
+              "timestamp": "2025-11-20T20:20:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:52.177938",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250129051138|6532664",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 37224,
+          "ns": 0,
+          "title": "آزادی گفتار",
+          "revisions": [
+            {
+              "timestamp": "2025-02-18T15:40:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

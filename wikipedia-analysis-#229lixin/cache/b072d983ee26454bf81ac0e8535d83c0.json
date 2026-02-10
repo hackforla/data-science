@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:31.457266",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241115092333|40612595",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 858499,
+          "ns": 0,
+          "title": "بی‌خانمانی",
+          "revisions": [
+            {
+              "timestamp": "2024-11-15T09:28:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:32.275950",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060111121937|377501",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 45767,
+          "ns": 0,
+          "title": "Halálbüntetés",
+          "revisions": [
+            {
+              "timestamp": "2005-11-28T02:36:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

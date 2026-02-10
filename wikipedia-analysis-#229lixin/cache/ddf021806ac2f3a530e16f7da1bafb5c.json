@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:42.697779",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231012202635|30366981",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2987968,
+          "ns": 0,
+          "title": "Küresel ısınma",
+          "revisions": [
+            {
+              "timestamp": "2023-10-12T20:29:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

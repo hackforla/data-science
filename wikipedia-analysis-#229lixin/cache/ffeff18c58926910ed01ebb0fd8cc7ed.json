@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:22.794711",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050924012156|256049",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 36568,
+          "ns": 0,
+          "title": "Demokrácia (politikai rendszer)",
+          "revisions": [
+            {
+              "timestamp": "2005-09-23T18:49:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

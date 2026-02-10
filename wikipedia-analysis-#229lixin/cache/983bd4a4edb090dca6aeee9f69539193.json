@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:50.665258",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050924205852|117297",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 31747,
+          "ns": 0,
+          "title": "Сида",
+          "revisions": [
+            {
+              "timestamp": "2005-09-24T20:33:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

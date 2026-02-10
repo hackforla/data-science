@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:38.561163",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110131002219|25175695",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2218780,
+          "ns": 0,
+          "title": "Równość płci",
+          "revisions": [
+            {
+              "timestamp": "2011-01-30T18:25:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

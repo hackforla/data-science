@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:17.643295",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230213055105|1139070245",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4137916,
+          "ns": 0,
+          "title": "Income inequality",
+          "revisions": [
+            {
+              "timestamp": "2023-09-27T17:14:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

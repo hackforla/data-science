@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:15.033856",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190606175452|7567801",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 627526,
+          "ns": 0,
+          "title": "Παιδική εργασία",
+          "revisions": [
+            {
+              "timestamp": "2019-06-06T17:52:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

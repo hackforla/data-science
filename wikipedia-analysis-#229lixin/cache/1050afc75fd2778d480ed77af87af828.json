@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:30.658624",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230810005214|66393243",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2732126,
+          "ns": 0,
+          "title": "Manutenção da paz",
+          "revisions": [
+            {
+              "timestamp": "2023-11-29T15:18:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:45.607299",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190310085557|71943595",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3916338,
+          "ns": 0,
+          "title": "ワクチン忌避",
+          "revisions": [
+            {
+              "timestamp": "2019-03-10T08:29:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

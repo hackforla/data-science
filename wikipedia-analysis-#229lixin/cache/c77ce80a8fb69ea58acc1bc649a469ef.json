@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:53.490519",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230816202633|65220274",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5508111,
+          "ns": 0,
+          "title": "Kiezersonderdrukking",
+          "revisions": [
+            {
+              "timestamp": "2025-01-07T22:07:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

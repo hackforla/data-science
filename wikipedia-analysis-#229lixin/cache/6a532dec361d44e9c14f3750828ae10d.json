@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:24.728341",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051210124247|118352",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 31379,
+          "ns": 0,
+          "title": "إبادة جماعية",
+          "revisions": [
+            {
+              "timestamp": "2005-12-10T12:39:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:56.153992",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250712163423|12628887",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 119820,
+          "ns": 0,
+          "title": "Глобално затопляне",
+          "revisions": [
+            {
+              "timestamp": "2025-07-23T16:34:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

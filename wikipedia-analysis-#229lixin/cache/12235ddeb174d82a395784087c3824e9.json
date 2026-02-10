@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:20.484932",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050117013149|764420",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 124563,
+          "ns": 0,
+          "title": "Verkiezingsfraude",
+          "revisions": [
+            {
+              "timestamp": "2005-01-17T01:30:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

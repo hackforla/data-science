@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:47.038503",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230706154750|11511913",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 76923,
+          "ns": 0,
+          "title": "Flygtning",
+          "revisions": [
+            {
+              "timestamp": "2023-07-23T19:17:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

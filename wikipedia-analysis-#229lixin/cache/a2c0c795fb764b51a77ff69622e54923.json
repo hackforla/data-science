@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:43.172014",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260101155511|148729571",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 464558,
+          "ns": 0,
+          "title": "Senzatetto",
+          "revisions": [
+            {
+              "timestamp": "2026-01-01T15:56:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

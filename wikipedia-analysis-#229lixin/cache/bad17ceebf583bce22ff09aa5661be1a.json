@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:27.495194",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250703155355|41367499",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1285,
+          "ns": 0,
+          "title": "בחירות",
+          "revisions": [
+            {
+              "timestamp": "2025-10-05T05:10:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

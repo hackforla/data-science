@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:15.375716",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060111123311|128001",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 25963,
+          "ns": 0,
+          "title": "Nghèo",
+          "revisions": [
+            {
+              "timestamp": "2006-01-11T06:37:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

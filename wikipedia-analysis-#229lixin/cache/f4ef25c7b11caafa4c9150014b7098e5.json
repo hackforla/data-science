@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:27.081074",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251024223052|77887453",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 143558,
+          "ns": 0,
+          "title": "Globalne ocieplenie",
+          "revisions": [
+            {
+              "timestamp": "2026-01-08T21:14:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

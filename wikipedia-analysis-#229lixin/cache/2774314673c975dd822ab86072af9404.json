@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:50.445456",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050904184236|370923",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 73877,
+          "ns": 0,
+          "title": "Oversvømmelse",
+          "revisions": [
+            {
+              "timestamp": "2005-09-04T18:30:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

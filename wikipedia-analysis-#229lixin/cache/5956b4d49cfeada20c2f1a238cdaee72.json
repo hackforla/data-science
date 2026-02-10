@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:02.816083",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250324174735|35145236",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 45699,
+          "ns": 0,
+          "title": "Seçim",
+          "revisions": [
+            {
+              "timestamp": "2025-07-08T22:42:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:29.890044",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060316112107|272624",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 64176,
+          "ns": 0,
+          "title": "Mülteci",
+          "revisions": [
+            {
+              "timestamp": "2006-03-15T20:30:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

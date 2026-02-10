@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:06.483955",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040501083922|53754",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 13647,
+          "ns": 0,
+          "title": "זכויות האדם",
+          "revisions": [
+            {
+              "timestamp": "2004-04-29T22:28:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

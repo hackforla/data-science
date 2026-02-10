@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:02.390219",
+  "response": {
+    "continue": {
+      "rvcontinue": "20011003083134|4871",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1841,
+          "ns": 0,
+          "title": "Globale Erwärmung",
+          "revisions": [
+            {
+              "timestamp": "2001-09-25T02:30:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:22.465580",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060913123222|16350",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2007,
+          "ns": 0,
+          "title": "Tsunami",
+          "revisions": [
+            {
+              "timestamp": "2005-12-28T00:36:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

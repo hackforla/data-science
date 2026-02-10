@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:21.064740",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240803183242|6229073",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 213357,
+          "ns": 0,
+          "title": "प्रेस की स्वतंत्रता",
+          "revisions": [
+            {
+              "timestamp": "2024-10-05T12:39:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

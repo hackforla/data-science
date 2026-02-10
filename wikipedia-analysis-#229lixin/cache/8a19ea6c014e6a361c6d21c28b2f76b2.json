@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:28.660476",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050102045027|17448",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11386,
+          "ns": 0,
+          "title": "Цунамі",
+          "revisions": [
+            {
+              "timestamp": "2004-10-07T08:52:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

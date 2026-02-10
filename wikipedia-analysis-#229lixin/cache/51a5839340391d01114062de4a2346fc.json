@@ -1,0 +1,288 @@
+{
+  "cached_at": "2026-01-26T00:33:05.317935",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 101942,
+          "ns": 0,
+          "title": "Child labour",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Kinderarbeid"
+            },
+            {
+              "lang": "ar",
+              "title": "عمالة الأطفال"
+            },
+            {
+              "lang": "ary",
+              "title": "خدمة د الدراري الصغار"
+            },
+            {
+              "lang": "ast",
+              "title": "Esplotación infantil"
+            },
+            {
+              "lang": "az",
+              "title": "Uşaq əməyindən istifadə"
+            },
+            {
+              "lang": "bcl",
+              "title": "Pagtrabaho kan mga aki"
+            },
+            {
+              "lang": "bn",
+              "title": "শিশুশ্রম"
+            },
+            {
+              "lang": "ca",
+              "title": "Treball infantil"
+            },
+            {
+              "lang": "ckb",
+              "title": "مناڵانی کار"
+            },
+            {
+              "lang": "cs",
+              "title": "Dětská práce"
+            },
+            {
+              "lang": "da",
+              "title": "Børnearbejde"
+            },
+            {
+              "lang": "de",
+              "title": "Kinderarbeit"
+            },
+            {
+              "lang": "el",
+              "title": "Παιδική εργασία"
+            },
+            {
+              "lang": "eo",
+              "title": "Infanlaboro"
+            },
+            {
+              "lang": "es",
+              "title": "Explotación infantil"
+            },
+            {
+              "lang": "et",
+              "title": "Lapstööjõud"
+            },
+            {
+              "lang": "eu",
+              "title": "Haurren esplotazio"
+            },
+            {
+              "lang": "fa",
+              "title": "کودکان کار"
+            },
+            {
+              "lang": "fi",
+              "title": "Lapsityö"
+            },
+            {
+              "lang": "fr",
+              "title": "Travail des enfants"
+            },
+            {
+              "lang": "gl",
+              "title": "Traballo infantil"
+            },
+            {
+              "lang": "gu",
+              "title": "બાળ કામદાર"
+            },
+            {
+              "lang": "ha",
+              "title": "Aikin yara"
+            },
+            {
+              "lang": "he",
+              "title": "העסקת ילדים"
+            },
+            {
+              "lang": "hi",
+              "title": "बाल-श्रम"
+            },
+            {
+              "lang": "hy",
+              "title": "Մանկական աշխատանք"
+            },
+            {
+              "lang": "ia",
+              "title": "Labor infantil"
+            },
+            {
+              "lang": "id",
+              "title": "Pekerja anak"
+            },
+            {
+              "lang": "is",
+              "title": "Barnaþrælkun"
+            },
+            {
+              "lang": "it",
+              "title": "Lavoro minorile"
+            },
+            {
+              "lang": "ja",
+              "title": "児童労働"
+            },
+            {
+              "lang": "kn",
+              "title": "ಬಾಲಕಾರ್ಮಿಕ"
+            },
+            {
+              "lang": "ko",
+              "title": "아동 노동"
+            },
+            {
+              "lang": "ku",
+              "title": "Karkirina zarokan"
+            },
+            {
+              "lang": "la",
+              "title": "Labor impuberum"
+            },
+            {
+              "lang": "lv",
+              "title": "Bērnu darbs"
+            },
+            {
+              "lang": "mk",
+              "title": "Детски труд"
+            },
+            {
+              "lang": "ml",
+              "title": "ബാലവേല"
+            },
+            {
+              "lang": "ne",
+              "title": "बालश्रम"
+            },
+            {
+              "lang": "nl",
+              "title": "Kinderarbeid"
+            },
+            {
+              "lang": "nn",
+              "title": "Barnearbeid"
+            },
+            {
+              "lang": "nb",
+              "title": "Barnearbeid"
+            },
+            {
+              "lang": "oc",
+              "title": "Trabalh dels enfants"
+            },
+            {
+              "lang": "pa",
+              "title": "ਬਾਲ ਮਜ਼ਦੂਰੀ"
+            },
+            {
+              "lang": "pl",
+              "title": "Praca dzieci"
+            },
+            {
+              "lang": "ps",
+              "title": "د ماشوم مزدوري کول"
+            },
+            {
+              "lang": "pt",
+              "title": "Trabalho infantil"
+            },
+            {
+              "lang": "ro",
+              "title": "Exploatarea copilului prin muncă"
+            },
+            {
+              "lang": "ru",
+              "title": "Детский труд"
+            },
+            {
+              "lang": "si",
+              "title": "ළමා මෙහෙකරුවන්"
+            },
+            {
+              "lang": "simple",
+              "title": "Child labour"
+            },
+            {
+              "lang": "sk",
+              "title": "Detská práca"
+            },
+            {
+              "lang": "sq",
+              "title": "Puna e fëmijëve"
+            },
+            {
+              "lang": "sr",
+              "title": "Дечја радна снага"
+            },
+            {
+              "lang": "st",
+              "title": "Mosebetsi oa bana"
+            },
+            {
+              "lang": "sv",
+              "title": "Barnarbete"
+            },
+            {
+              "lang": "sw",
+              "title": "Ajira kwa watoto"
+            },
+            {
+              "lang": "ta",
+              "title": "குழந்தைத் தொழிலாளர்"
+            },
+            {
+              "lang": "te",
+              "title": "బాల కార్మికులు"
+            },
+            {
+              "lang": "tr",
+              "title": "Çocuk işçiler"
+            },
+            {
+              "lang": "uk",
+              "title": "Дитяча праця"
+            },
+            {
+              "lang": "ur",
+              "title": "بچہ مزدوری"
+            },
+            {
+              "lang": "vi",
+              "title": "Lao động trẻ em"
+            },
+            {
+              "lang": "wa",
+              "title": "Boutaedje des efants"
+            },
+            {
+              "lang": "wuu",
+              "title": "童工"
+            },
+            {
+              "lang": "zgh",
+              "title": "ⵜⴰⵡⵓⵔⵉ ⵏ ⵜⴰⵣⵣⴰⵏⵉⵏ"
+            },
+            {
+              "lang": "zh",
+              "title": "童工"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

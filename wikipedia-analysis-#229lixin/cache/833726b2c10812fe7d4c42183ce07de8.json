@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:28.288565",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080330141948|18890490",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1397634,
+          "ns": 0,
+          "title": "検閲",
+          "revisions": [
+            {
+              "timestamp": "2008-03-30T13:25:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

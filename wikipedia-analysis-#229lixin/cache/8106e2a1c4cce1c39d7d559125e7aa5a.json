@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:22.037144",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040515063340|4304",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 896,
+          "ns": 0,
+          "title": "Deprem",
+          "revisions": [
+            {
+              "timestamp": "2004-02-03T13:57:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

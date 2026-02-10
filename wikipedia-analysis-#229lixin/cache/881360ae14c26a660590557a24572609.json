@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:47.895792",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250728173745|6459273",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4207,
+          "ns": 0,
+          "title": "भूकम्प",
+          "revisions": [
+            {
+              "timestamp": "2025-12-05T02:49:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:11.859742",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250318182507|6915413",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 57090,
+          "ns": 0,
+          "title": "نسل پرستی",
+          "revisions": [
+            {
+              "timestamp": "2025-09-17T22:56:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

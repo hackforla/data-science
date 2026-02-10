@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:23.331271",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230928012740|302463",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 65108,
+          "ns": 0,
+          "title": "ځنګل سوځېدنه",
+          "revisions": [
+            {
+              "timestamp": "2022-10-16T10:16:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:21.540350",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090224091141|2042040",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 359403,
+          "ns": 0,
+          "title": "Kebebasan berbicara",
+          "revisions": [
+            {
+              "timestamp": "2009-02-24T09:09:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

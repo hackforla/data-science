@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:37.198952",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020809144037|147336",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 69902,
+          "ns": 0,
+          "title": "Extreme weather",
+          "revisions": [
+            {
+              "timestamp": "2002-08-09T14:36:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

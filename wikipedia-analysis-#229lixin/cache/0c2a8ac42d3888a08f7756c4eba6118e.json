@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:36.975006",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041015192644|180380",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 24542,
+          "ns": 0,
+          "title": "难民",
+          "revisions": [
+            {
+              "timestamp": "2004-05-05T00:27:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:02.745559",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220122105840|60917368",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5607777,
+          "ns": 0,
+          "title": "Extreem weer",
+          "revisions": [
+            {
+              "timestamp": "2022-01-22T10:54:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

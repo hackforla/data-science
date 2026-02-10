@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:53.239676",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150602214430|16046873",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2717511,
+          "ns": 0,
+          "title": "حرائق الغابات",
+          "revisions": [
+            {
+              "timestamp": "2015-06-02T11:56:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

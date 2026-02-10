@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:50.073405",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040427060936|89020",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23739,
+          "ns": 0,
+          "title": "人权",
+          "revisions": [
+            {
+              "timestamp": "2004-04-27T05:59:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

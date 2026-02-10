@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:15.794704",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060414151436|175873",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40597,
+          "ns": 0,
+          "title": "Війна",
+          "revisions": [
+            {
+              "timestamp": "2006-04-14T13:02:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

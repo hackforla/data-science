@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:53.736291",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070508170002|562681",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 59014,
+          "ns": 0,
+          "title": "Tự do báo chí",
+          "revisions": [
+            {
+              "timestamp": "2006-10-08T21:29:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:19.910525",
+  "response": {
+    "continue": {
+      "rvcontinue": "20010315225748|1277073548",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19394651,
+          "ns": 0,
+          "title": "Homelessness",
+          "revisions": [
+            {
+              "timestamp": "2001-02-04T02:54:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

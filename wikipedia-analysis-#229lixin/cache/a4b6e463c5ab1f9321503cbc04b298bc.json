@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:24.853021",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041229074633|7354",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3554,
+          "ns": 0,
+          "title": "สึนามิ",
+          "revisions": [
+            {
+              "timestamp": "2004-12-29T07:14:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

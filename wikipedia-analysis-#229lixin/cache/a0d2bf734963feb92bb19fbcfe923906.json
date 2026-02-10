@@ -1,0 +1,696 @@
+{
+  "cached_at": "2026-01-26T00:06:04.198039",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 20423,
+          "ns": 0,
+          "title": "Malaria",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Malaria"
+            },
+            {
+              "lang": "gsw",
+              "title": "Malaria"
+            },
+            {
+              "lang": "an",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ann",
+              "title": "Akum"
+            },
+            {
+              "lang": "anp",
+              "title": "शीतज्वर"
+            },
+            {
+              "lang": "ar",
+              "title": "ملاريا"
+            },
+            {
+              "lang": "arz",
+              "title": "مالاريا"
+            },
+            {
+              "lang": "as",
+              "title": "মেলেৰিয়া"
+            },
+            {
+              "lang": "ast",
+              "title": "Malaria"
+            },
+            {
+              "lang": "awa",
+              "title": "मलेरिया"
+            },
+            {
+              "lang": "az",
+              "title": "Malyariya"
+            },
+            {
+              "lang": "azb",
+              "title": "مالاریا"
+            },
+            {
+              "lang": "ba",
+              "title": "Тапма"
+            },
+            {
+              "lang": "sgs",
+              "title": "Maliarėjė"
+            },
+            {
+              "lang": "be",
+              "title": "Малярыя"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Малярыя"
+            },
+            {
+              "lang": "bg",
+              "title": "Малария"
+            },
+            {
+              "lang": "bh",
+              "title": "मलेरिया"
+            },
+            {
+              "lang": "bn",
+              "title": "ম্যালেরিয়া"
+            },
+            {
+              "lang": "br",
+              "title": "Kleñved ar paludoù"
+            },
+            {
+              "lang": "bs",
+              "title": "Malarija"
+            },
+            {
+              "lang": "bxr",
+              "title": "Хумхаа"
+            },
+            {
+              "lang": "ca",
+              "title": "Malària"
+            },
+            {
+              "lang": "cdo",
+              "title": "Páh-bók-gàng"
+            },
+            {
+              "lang": "chr",
+              "title": "ᏓᎶᏂᎨ ᎠᏓᏗᏞᎲᏍᎬ"
+            },
+            {
+              "lang": "ckb",
+              "title": "مالاریا"
+            },
+            {
+              "lang": "cs",
+              "title": "Malárie"
+            },
+            {
+              "lang": "cy",
+              "title": "Malaria"
+            },
+            {
+              "lang": "da",
+              "title": "Malaria"
+            },
+            {
+              "lang": "dag",
+              "title": "Kpaɣiʒiɛɣu"
+            },
+            {
+              "lang": "de",
+              "title": "Malaria"
+            },
+            {
+              "lang": "din",
+              "title": "Mayoŋ"
+            },
+            {
+              "lang": "dv",
+              "title": "މެލޭރިޔާ"
+            },
+            {
+              "lang": "ee",
+              "title": "Malaria"
+            },
+            {
+              "lang": "el",
+              "title": "Ελονοσία"
+            },
+            {
+              "lang": "eo",
+              "title": "Malario"
+            },
+            {
+              "lang": "es",
+              "title": "Malaria"
+            },
+            {
+              "lang": "et",
+              "title": "Malaaria"
+            },
+            {
+              "lang": "eu",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ext",
+              "title": "Malaria"
+            },
+            {
+              "lang": "fa",
+              "title": "مالاریا"
+            },
+            {
+              "lang": "fi",
+              "title": "Malaria"
+            },
+            {
+              "lang": "vro",
+              "title": "Malaaria"
+            },
+            {
+              "lang": "fo",
+              "title": "Malaria"
+            },
+            {
+              "lang": "fon",
+              "title": "Hwesivɔzɔn"
+            },
+            {
+              "lang": "fr",
+              "title": "Paludisme"
+            },
+            {
+              "lang": "fy",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ga",
+              "title": "Maláire"
+            },
+            {
+              "lang": "gcr",
+              "title": "Palidism"
+            },
+            {
+              "lang": "gd",
+              "title": "Mailèiria"
+            },
+            {
+              "lang": "gl",
+              "title": "Malaria"
+            },
+            {
+              "lang": "gn",
+              "title": "Akanundu ro'y"
+            },
+            {
+              "lang": "gpe",
+              "title": "Malaria"
+            },
+            {
+              "lang": "gu",
+              "title": "મલેરિયા"
+            },
+            {
+              "lang": "ha",
+              "title": "Cutar zazzaɓin cizon sauro"
+            },
+            {
+              "lang": "hak",
+              "title": "Mâ-là-li-â"
+            },
+            {
+              "lang": "he",
+              "title": "מלריה"
+            },
+            {
+              "lang": "hi",
+              "title": "मलेरिया"
+            },
+            {
+              "lang": "hif",
+              "title": "Jurri"
+            },
+            {
+              "lang": "hr",
+              "title": "Malarija"
+            },
+            {
+              "lang": "ht",
+              "title": "Malarya"
+            },
+            {
+              "lang": "hu",
+              "title": "Malária"
+            },
+            {
+              "lang": "hy",
+              "title": "Մալարիա"
+            },
+            {
+              "lang": "hyw",
+              "title": "Դողտենդ"
+            },
+            {
+              "lang": "ia",
+              "title": "Malaria"
+            },
+            {
+              "lang": "id",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ig",
+              "title": "Iba"
+            },
+            {
+              "lang": "ilo",
+              "title": "Malaria"
+            },
+            {
+              "lang": "io",
+              "title": "Malario"
+            },
+            {
+              "lang": "is",
+              "title": "Malaría"
+            },
+            {
+              "lang": "it",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ja",
+              "title": "マラリア"
+            },
+            {
+              "lang": "jam",
+              "title": "Malieria"
+            },
+            {
+              "lang": "jv",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ka",
+              "title": "მალარია"
+            },
+            {
+              "lang": "kbp",
+              "title": "Wɩsɩ kʋdɔŋ"
+            },
+            {
+              "lang": "kk",
+              "title": "Безгек"
+            },
+            {
+              "lang": "kn",
+              "title": "ಮಲೇರಿಯಾ"
+            },
+            {
+              "lang": "knc",
+              "title": "Maleriya"
+            },
+            {
+              "lang": "ko",
+              "title": "말라리아"
+            },
+            {
+              "lang": "ku",
+              "title": "Lerzeta"
+            },
+            {
+              "lang": "ky",
+              "title": "Безгек"
+            },
+            {
+              "lang": "la",
+              "title": "Malaria"
+            },
+            {
+              "lang": "lez",
+              "title": "ЦӀай (азар)"
+            },
+            {
+              "lang": "lfn",
+              "title": "Malaria"
+            },
+            {
+              "lang": "lmo",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ln",
+              "title": "Malariyá"
+            },
+            {
+              "lang": "lo",
+              "title": "ໄຂ້ຍຸງ"
+            },
+            {
+              "lang": "lt",
+              "title": "Maliarija"
+            },
+            {
+              "lang": "lv",
+              "title": "Malārija"
+            },
+            {
+              "lang": "mad",
+              "title": "Malaria"
+            },
+            {
+              "lang": "mg",
+              "title": "Tazomoka"
+            },
+            {
+              "lang": "min",
+              "title": "Malaria"
+            },
+            {
+              "lang": "mk",
+              "title": "Маларија"
+            },
+            {
+              "lang": "ml",
+              "title": "മലമ്പനി"
+            },
+            {
+              "lang": "mn",
+              "title": "Хумхаа"
+            },
+            {
+              "lang": "mr",
+              "title": "मलेरिया"
+            },
+            {
+              "lang": "ms",
+              "title": "Malaria"
+            },
+            {
+              "lang": "mt",
+              "title": "Malarja"
+            },
+            {
+              "lang": "my",
+              "title": "ငှက်ဖျားရောဂါ"
+            },
+            {
+              "lang": "nds",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ne",
+              "title": "औलो"
+            },
+            {
+              "lang": "new",
+              "title": "अउल"
+            },
+            {
+              "lang": "nia",
+              "title": "Malaria"
+            },
+            {
+              "lang": "nl",
+              "title": "Malaria"
+            },
+            {
+              "lang": "nn",
+              "title": "Malaria"
+            },
+            {
+              "lang": "nb",
+              "title": "Malaria"
+            },
+            {
+              "lang": "nso",
+              "title": "Malaria"
+            },
+            {
+              "lang": "oc",
+              "title": "Malària"
+            },
+            {
+              "lang": "om",
+              "title": "Busaa"
+            },
+            {
+              "lang": "or",
+              "title": "ମ୍ୟାଲେରିଆ"
+            },
+            {
+              "lang": "pa",
+              "title": "ਮਲੇਰੀਆ"
+            },
+            {
+              "lang": "pcm",
+              "title": "Malaria"
+            },
+            {
+              "lang": "pl",
+              "title": "Malaria"
+            },
+            {
+              "lang": "pms",
+              "title": "Malaria"
+            },
+            {
+              "lang": "pnb",
+              "title": "ملیریا"
+            },
+            {
+              "lang": "ps",
+              "title": "ملاريا"
+            },
+            {
+              "lang": "pt",
+              "title": "Malária"
+            },
+            {
+              "lang": "qu",
+              "title": "Chukchu"
+            },
+            {
+              "lang": "ro",
+              "title": "Malarie"
+            },
+            {
+              "lang": "ru",
+              "title": "Малярия"
+            },
+            {
+              "lang": "rue",
+              "title": "Маларія"
+            },
+            {
+              "lang": "rw",
+              "title": "Marariya"
+            },
+            {
+              "lang": "sa",
+              "title": "मलेरियारोगः"
+            },
+            {
+              "lang": "sah",
+              "title": "Кумахы (ыарыы)"
+            },
+            {
+              "lang": "sat",
+              "title": "ᱯᱟ.ᱨᱤ ᱨᱩᱣᱟ."
+            },
+            {
+              "lang": "sc",
+              "title": "Malària"
+            },
+            {
+              "lang": "scn",
+              "title": "Malaria"
+            },
+            {
+              "lang": "sd",
+              "title": "مليريا"
+            },
+            {
+              "lang": "sh",
+              "title": "Malarija"
+            },
+            {
+              "lang": "shi",
+              "title": "Malaṛya"
+            },
+            {
+              "lang": "si",
+              "title": "මැලේරියාව"
+            },
+            {
+              "lang": "simple",
+              "title": "Malaria"
+            },
+            {
+              "lang": "sk",
+              "title": "Malária"
+            },
+            {
+              "lang": "sl",
+              "title": "Malarija"
+            },
+            {
+              "lang": "so",
+              "title": "Duumo"
+            },
+            {
+              "lang": "sq",
+              "title": "Malaria"
+            },
+            {
+              "lang": "sr",
+              "title": "Маларија"
+            },
+            {
+              "lang": "su",
+              "title": "Malaria"
+            },
+            {
+              "lang": "sv",
+              "title": "Malaria"
+            },
+            {
+              "lang": "sw",
+              "title": "Malaria"
+            },
+            {
+              "lang": "ta",
+              "title": "மலேரியா"
+            },
+            {
+              "lang": "tcy",
+              "title": "ಮಲೇರಿಯಾ"
+            },
+            {
+              "lang": "te",
+              "title": "మలేరియా"
+            },
+            {
+              "lang": "tg",
+              "title": "Вараҷа"
+            },
+            {
+              "lang": "th",
+              "title": "มาลาเรีย"
+            },
+            {
+              "lang": "tl",
+              "title": "Malarya"
+            },
+            {
+              "lang": "tly",
+              "title": "Maljarijə"
+            },
+            {
+              "lang": "tr",
+              "title": "Sıtma"
+            },
+            {
+              "lang": "ts",
+              "title": "Dzedzedze"
+            },
+            {
+              "lang": "tt",
+              "title": "Бизгәк авыруы"
+            },
+            {
+              "lang": "tw",
+              "title": "Atiridii"
+            },
+            {
+              "lang": "uk",
+              "title": "Малярія"
+            },
+            {
+              "lang": "ur",
+              "title": "ملیریا"
+            },
+            {
+              "lang": "uz",
+              "title": "Bezgak"
+            },
+            {
+              "lang": "vep",
+              "title": "Malärii"
+            },
+            {
+              "lang": "vi",
+              "title": "Sốt rét"
+            },
+            {
+              "lang": "war",
+              "title": "Malarya"
+            },
+            {
+              "lang": "wo",
+              "title": "Sibiru"
+            },
+            {
+              "lang": "wuu",
+              "title": "疟疾"
+            },
+            {
+              "lang": "xh",
+              "title": "Imalariya"
+            },
+            {
+              "lang": "xmf",
+              "title": "მალარია"
+            },
+            {
+              "lang": "yi",
+              "title": "מאלאריע"
+            },
+            {
+              "lang": "yo",
+              "title": "Akọ ibà"
+            },
+            {
+              "lang": "za",
+              "title": "Binghfatnit"
+            },
+            {
+              "lang": "zh",
+              "title": "疟疾"
+            },
+            {
+              "lang": "nan",
+              "title": "Ma-lá-lí-á"
+            },
+            {
+              "lang": "yue",
+              "title": "發冷"
+            },
+            {
+              "lang": "zu",
+              "title": "Umalaleveva"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

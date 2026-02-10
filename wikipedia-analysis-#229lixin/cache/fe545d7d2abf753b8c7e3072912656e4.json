@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:20.343162",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050611230541|6106",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1269,
+          "ns": 0,
+          "title": "যুদ্ধ",
+          "revisions": [
+            {
+              "timestamp": "2005-02-24T01:10:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

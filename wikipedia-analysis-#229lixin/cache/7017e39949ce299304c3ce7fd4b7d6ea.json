@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:14.732862",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040817035613|5563",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1923,
+          "ns": 0,
+          "title": "วัคซีน",
+          "revisions": [
+            {
+              "timestamp": "2004-07-14T22:16:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

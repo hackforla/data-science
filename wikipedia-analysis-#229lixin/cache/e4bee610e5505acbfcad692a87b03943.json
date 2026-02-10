@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:29.091008",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220310044448|1214078",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 103310,
+          "ns": 0,
+          "title": "Uhamiaji wa binadamu",
+          "revisions": [
+            {
+              "timestamp": "2024-02-16T23:10:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

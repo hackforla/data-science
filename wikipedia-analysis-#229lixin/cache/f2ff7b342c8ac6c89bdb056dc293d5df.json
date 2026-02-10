@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:05.664315",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250710013728|6450627",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9201,
+          "ns": 0,
+          "title": "आतंकवाद",
+          "revisions": [
+            {
+              "timestamp": "2025-09-20T13:44:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "cached_at": "2026-01-26T00:38:30.971798",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1251700,
+          "ns": 0,
+          "title": "Humanitarian crisis",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "أزمة إنسانية"
+            },
+            {
+              "lang": "ast",
+              "title": "Crisis humanitaria"
+            },
+            {
+              "lang": "be",
+              "title": "Гуманітарная катастрофа"
+            },
+            {
+              "lang": "bg",
+              "title": "Хуманитарна криза"
+            },
+            {
+              "lang": "ca",
+              "title": "Crisi humanitària"
+            },
+            {
+              "lang": "es",
+              "title": "Crisis humanitaria"
+            },
+            {
+              "lang": "eu",
+              "title": "Gizaldeko krisialdi"
+            },
+            {
+              "lang": "fr",
+              "title": "Crise humanitaire"
+            },
+            {
+              "lang": "he",
+              "title": "משבר הומניטרי"
+            },
+            {
+              "lang": "id",
+              "title": "Krisis kemanusiaan"
+            },
+            {
+              "lang": "it",
+              "title": "Crisi umanitaria"
+            },
+            {
+              "lang": "ja",
+              "title": "人道的危機"
+            },
+            {
+              "lang": "ko",
+              "title": "인도주의적 위기"
+            },
+            {
+              "lang": "lt",
+              "title": "Humanitarinė krizė"
+            },
+            {
+              "lang": "nl",
+              "title": "Humanitaire ramp"
+            },
+            {
+              "lang": "ps",
+              "title": "بشري ناورین"
+            },
+            {
+              "lang": "pt",
+              "title": "Crise humanitária"
+            },
+            {
+              "lang": "ru",
+              "title": "Гуманитарная катастрофа"
+            },
+            {
+              "lang": "simple",
+              "title": "Humanitarian crisis"
+            },
+            {
+              "lang": "sq",
+              "title": "Kriza humanitare"
+            },
+            {
+              "lang": "tr",
+              "title": "İnsani krizler"
+            },
+            {
+              "lang": "uk",
+              "title": "Гуманітарна катастрофа"
+            },
+            {
+              "lang": "vi",
+              "title": "Khủng hoảng nhân đạo"
+            },
+            {
+              "lang": "zh",
+              "title": "人道主義危機"
+            },
+            {
+              "lang": "yue",
+              "title": "人道災難"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:24.592528",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251109083209|28389716",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 460811,
+          "ns": 0,
+          "title": "Kebebasan pers",
+          "revisions": [
+            {
+              "timestamp": "2025-11-13T03:59:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

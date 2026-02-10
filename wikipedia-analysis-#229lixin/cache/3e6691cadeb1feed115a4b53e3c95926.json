@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:14.395787",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210706121144|96148",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 22063,
+          "ns": 0,
+          "title": "Ƴancin Faɗar Albarkacin Baki",
+          "revisions": [
+            {
+              "timestamp": "2021-07-06T12:09:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

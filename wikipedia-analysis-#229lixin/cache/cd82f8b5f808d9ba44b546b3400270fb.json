@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:31.259589",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251129094836|107413865",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 683573,
+          "ns": 0,
+          "title": "人身売買",
+          "revisions": [
+            {
+              "timestamp": "2026-01-20T09:46:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

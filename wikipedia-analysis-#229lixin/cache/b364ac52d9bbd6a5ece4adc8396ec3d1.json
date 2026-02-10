@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:35.286609",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050624132501|490302",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 77508,
+          "ns": 0,
+          "title": "עוני",
+          "revisions": [
+            {
+              "timestamp": "2005-06-06T15:20:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

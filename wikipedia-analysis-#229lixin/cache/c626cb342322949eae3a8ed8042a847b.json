@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:57.273221",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251103172540|46476720",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1806,
+          "ns": 0,
+          "title": "Демократія",
+          "revisions": [
+            {
+              "timestamp": "2025-11-23T13:48:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

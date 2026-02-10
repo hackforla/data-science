@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:00.586507",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041113140540|3251285",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 434365,
+          "ns": 0,
+          "title": "Wahlfälschung",
+          "revisions": [
+            {
+              "timestamp": "2004-11-13T08:08:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

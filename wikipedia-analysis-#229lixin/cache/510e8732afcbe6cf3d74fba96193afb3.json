@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:33.365330",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230928000656|302304",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11756,
+          "ns": 0,
+          "title": "وچکالي",
+          "revisions": [
+            {
+              "timestamp": "2025-08-14T02:11:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

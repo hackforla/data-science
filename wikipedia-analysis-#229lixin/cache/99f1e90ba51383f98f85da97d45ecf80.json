@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:15.077150",
+  "response": {
+    "continue": {
+      "rvcontinue": "20131210014315|11504752",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2216147,
+          "ns": 0,
+          "title": "صلح‌بانی",
+          "revisions": [
+            {
+              "timestamp": "2013-12-10T01:36:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

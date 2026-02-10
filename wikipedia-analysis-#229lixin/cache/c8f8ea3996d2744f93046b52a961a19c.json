@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:05.157709",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250622054709|17044088",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3236514,
+          "ns": 0,
+          "title": "Solicitant de azil",
+          "revisions": [
+            {
+              "timestamp": "2025-06-22T22:00:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

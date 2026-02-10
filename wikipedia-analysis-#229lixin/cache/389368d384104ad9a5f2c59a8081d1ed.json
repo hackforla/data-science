@@ -1,0 +1,200 @@
+{
+  "cached_at": "2026-01-26T00:41:50.891356",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 382165,
+          "ns": 0,
+          "title": "Electoral fraud",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "تزوير الانتخابات"
+            },
+            {
+              "lang": "ast",
+              "title": "Fraude eleutoral"
+            },
+            {
+              "lang": "bg",
+              "title": "Изборна измама"
+            },
+            {
+              "lang": "bn",
+              "title": "নির্বাচনি জালিয়াতি"
+            },
+            {
+              "lang": "ca",
+              "title": "Frau electoral"
+            },
+            {
+              "lang": "cs",
+              "title": "Volební podvod"
+            },
+            {
+              "lang": "da",
+              "title": "Valgfusk"
+            },
+            {
+              "lang": "de",
+              "title": "Wahlfälschung"
+            },
+            {
+              "lang": "eo",
+              "title": "Balota fraŭdo"
+            },
+            {
+              "lang": "es",
+              "title": "Fraude electoral"
+            },
+            {
+              "lang": "eu",
+              "title": "Hauteskunde-iruzur"
+            },
+            {
+              "lang": "fa",
+              "title": "تقلب انتخاباتی"
+            },
+            {
+              "lang": "fi",
+              "title": "Vaalivilppi"
+            },
+            {
+              "lang": "fr",
+              "title": "Fraude électorale"
+            },
+            {
+              "lang": "fy",
+              "title": "Stimbusfraude"
+            },
+            {
+              "lang": "he",
+              "title": "הונאת בחירות"
+            },
+            {
+              "lang": "hi",
+              "title": "चुनाव में धांधली"
+            },
+            {
+              "lang": "hr",
+              "title": "Izborna prijevara"
+            },
+            {
+              "lang": "id",
+              "title": "Kecurangan pemilihan umum"
+            },
+            {
+              "lang": "it",
+              "title": "Broglio elettorale"
+            },
+            {
+              "lang": "ja",
+              "title": "不正選挙"
+            },
+            {
+              "lang": "ko",
+              "title": "부정 선거"
+            },
+            {
+              "lang": "lmo",
+              "title": "Broeuj elettoral"
+            },
+            {
+              "lang": "ln",
+              "title": "Bobalusi mapɔnɔmi"
+            },
+            {
+              "lang": "mg",
+              "title": "Hosoka amin' ny fifidianana"
+            },
+            {
+              "lang": "mk",
+              "title": "Изборна измама"
+            },
+            {
+              "lang": "mn",
+              "title": "Сонгуулийн луйвар"
+            },
+            {
+              "lang": "ms",
+              "title": "Penipuan pilihan raya"
+            },
+            {
+              "lang": "nl",
+              "title": "Verkiezingsfraude"
+            },
+            {
+              "lang": "nn",
+              "title": "Valfusk"
+            },
+            {
+              "lang": "nb",
+              "title": "Valgfusk"
+            },
+            {
+              "lang": "pt",
+              "title": "Fraude eleitoral"
+            },
+            {
+              "lang": "ro",
+              "title": "Fraudă electorală"
+            },
+            {
+              "lang": "ru",
+              "title": "Нарушения на выборах"
+            },
+            {
+              "lang": "sh",
+              "title": "Izborna prevara"
+            },
+            {
+              "lang": "simple",
+              "title": "Electoral fraud"
+            },
+            {
+              "lang": "sr",
+              "title": "Izborna krađa"
+            },
+            {
+              "lang": "sv",
+              "title": "Valfusk"
+            },
+            {
+              "lang": "th",
+              "title": "การโกงเลือกตั้ง"
+            },
+            {
+              "lang": "tr",
+              "title": "Seçim hilesi"
+            },
+            {
+              "lang": "uk",
+              "title": "Фальсифікація виборів"
+            },
+            {
+              "lang": "ur",
+              "title": "انتخابی دھاندلی"
+            },
+            {
+              "lang": "vi",
+              "title": "Gian lận bầu cử"
+            },
+            {
+              "lang": "zh",
+              "title": "选举操控"
+            },
+            {
+              "lang": "yue",
+              "title": "選舉舞弊"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "cached_at": "2026-01-26T00:09:30.952907",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3879297,
+          "ns": 0,
+          "title": "엠폭스 유행",
+          "revisions": [
+            {
+              "timestamp": "2024-09-04T06:35:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

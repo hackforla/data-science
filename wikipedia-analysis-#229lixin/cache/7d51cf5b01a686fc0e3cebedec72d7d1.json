@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:16.291166",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130903161818|1457204",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 321520,
+          "ns": 0,
+          "title": "বর্ণবাদ",
+          "revisions": [
+            {
+              "timestamp": "2013-09-03T15:53:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

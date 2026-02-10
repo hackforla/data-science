@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:33.808450",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050403201457|11529",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5203,
+          "ns": 0,
+          "title": "องค์การอนามัยโลก",
+          "revisions": [
+            {
+              "timestamp": "2005-04-03T20:12:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

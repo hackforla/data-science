@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:54.108317",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140227074420|15779160",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2443818,
+          "ns": 0,
+          "title": "Kiểm duyệt",
+          "revisions": [
+            {
+              "timestamp": "2014-02-27T07:38:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

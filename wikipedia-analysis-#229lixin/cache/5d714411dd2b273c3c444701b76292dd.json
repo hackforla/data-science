@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:11.138693",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130214115623|2040193",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 434119,
+          "ns": 0,
+          "title": "चुनाव में धांधली",
+          "revisions": [
+            {
+              "timestamp": "2011-08-23T05:30:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

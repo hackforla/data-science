@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:01.932398",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250528014115|39892482",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 356465,
+          "ns": 0,
+          "title": "기상이변",
+          "revisions": [
+            {
+              "timestamp": "2025-08-03T13:22:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

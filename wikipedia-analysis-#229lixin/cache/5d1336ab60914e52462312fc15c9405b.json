@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:48.588594",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130802072452|1443723",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 267603,
+          "ns": 0,
+          "title": "মানবাধিকার",
+          "revisions": [
+            {
+              "timestamp": "2012-03-26T12:41:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

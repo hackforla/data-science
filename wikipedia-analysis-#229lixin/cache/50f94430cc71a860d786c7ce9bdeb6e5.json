@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:19.732373",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200813120941|1125316",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 101491,
+          "ns": 0,
+          "title": "Tetemeko la ardhi",
+          "revisions": [
+            {
+              "timestamp": "2021-12-25T18:57:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

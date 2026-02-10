@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:26.162536",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250108140022|69322158",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 215572,
+          "ns": 0,
+          "title": "Incêndio de vegetação",
+          "revisions": [
+            {
+              "timestamp": "2025-11-16T23:15:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

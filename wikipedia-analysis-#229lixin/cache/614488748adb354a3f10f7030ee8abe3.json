@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:12.032996",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081011222048|19422940",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1889161,
+          "ns": 0,
+          "title": "Incendio boschivo",
+          "revisions": [
+            {
+              "timestamp": "2008-07-27T14:08:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

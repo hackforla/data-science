@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:31.001893",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061028050328|270731",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 54777,
+          "ns": 0,
+          "title": "ไฟป่า",
+          "revisions": [
+            {
+              "timestamp": "2006-10-28T04:56:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

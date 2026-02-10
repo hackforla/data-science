@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:12.243713",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070518085028|1664445",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 175291,
+          "ns": 0,
+          "title": "Éghajlatváltozás",
+          "revisions": [
+            {
+              "timestamp": "2007-05-18T08:30:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:34.205977",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260109095803|42508007",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 315,
+          "ns": 0,
+          "title": "גזענות",
+          "revisions": [
+            {
+              "timestamp": "2026-01-09T10:01:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

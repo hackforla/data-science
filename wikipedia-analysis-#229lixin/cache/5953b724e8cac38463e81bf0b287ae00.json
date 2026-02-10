@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:24.247049",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150707083159|9636185",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1646562,
+          "ns": 0,
+          "title": "Fraudă electorală",
+          "revisions": [
+            {
+              "timestamp": "2015-07-07T02:09:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:41.415866",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110524052643|83848",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15872,
+          "ns": 0,
+          "title": "ခွဲခြားဆက်ဆံခြင်း",
+          "revisions": [
+            {
+              "timestamp": "2011-05-24T05:25:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

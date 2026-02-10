@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:24.828297",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230206035619|34340047",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3580998,
+          "ns": 0,
+          "title": "2023년 튀르키예-시리아 지진",
+          "revisions": [
+            {
+              "timestamp": "2023-02-06T03:49:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

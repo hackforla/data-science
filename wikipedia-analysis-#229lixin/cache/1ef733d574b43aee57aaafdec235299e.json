@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:58.573725",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050220101517|46978",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12750,
+          "ns": 0,
+          "title": "Globální oteplování",
+          "revisions": [
+            {
+              "timestamp": "2005-02-20T10:14:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:34.885376",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231220150750|36110912",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3731849,
+          "ns": 0,
+          "title": "이민자 위기",
+          "revisions": [
+            {
+              "timestamp": "2023-12-20T07:31:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

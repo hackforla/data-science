@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:40.841243",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230509113248|296608",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 57899,
+          "ns": 0,
+          "title": "د جنسيت مساوات",
+          "revisions": [
+            {
+              "timestamp": "2021-11-09T08:21:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

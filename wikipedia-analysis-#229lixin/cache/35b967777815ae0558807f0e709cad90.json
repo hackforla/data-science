@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:57.027625",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251114004650|170478170",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47283,
+          "ns": 0,
+          "title": "Inundación",
+          "revisions": [
+            {
+              "timestamp": "2025-11-14T00:46:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

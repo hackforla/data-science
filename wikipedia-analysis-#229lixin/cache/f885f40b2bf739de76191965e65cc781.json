@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:04.049079",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250701181518|8278925",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 760563,
+          "ns": 0,
+          "title": "বিবাচন",
+          "revisions": [
+            {
+              "timestamp": "2025-08-02T08:07:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

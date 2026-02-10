@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:02.687670",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020912210344|8263",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3379,
+          "ns": 0,
+          "title": "Ludobójstwo",
+          "revisions": [
+            {
+              "timestamp": "2002-06-26T10:37:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

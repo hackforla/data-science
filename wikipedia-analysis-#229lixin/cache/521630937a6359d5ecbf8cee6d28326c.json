@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:37.970327",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241028194125|6286517",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 610022,
+          "ns": 0,
+          "title": "गरीबी",
+          "revisions": [
+            {
+              "timestamp": "2025-09-02T11:54:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

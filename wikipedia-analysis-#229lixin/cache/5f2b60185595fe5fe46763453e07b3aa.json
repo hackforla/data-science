@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:16.529679",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250820004743|8423851",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 259756,
+          "ns": 0,
+          "title": "ভোট",
+          "revisions": [
+            {
+              "timestamp": "2025-08-20T02:09:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

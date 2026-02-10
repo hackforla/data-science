@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:42.448516",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251231035822|28760352",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2499157,
+          "ns": 0,
+          "title": "Antivaksin",
+          "revisions": [
+            {
+              "timestamp": "2026-01-09T01:20:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

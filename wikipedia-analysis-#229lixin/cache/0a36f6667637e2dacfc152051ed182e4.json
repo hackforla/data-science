@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:11.588309",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250404173519|39047679",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 102693,
+          "ns": 0,
+          "title": "난민",
+          "revisions": [
+            {
+              "timestamp": "2025-06-11T13:26:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

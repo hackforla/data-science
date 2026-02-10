@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:46.707009",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061104184341|82141",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18581,
+          "ns": 0,
+          "title": "বন্যা",
+          "revisions": [
+            {
+              "timestamp": "2006-09-18T04:36:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

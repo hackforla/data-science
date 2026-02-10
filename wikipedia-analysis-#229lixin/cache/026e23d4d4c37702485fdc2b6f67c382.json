@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:29.453276",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180817002450|52921682",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1991910,
+          "ns": 0,
+          "title": "Controle aduaneiro",
+          "revisions": [
+            {
+              "timestamp": "2018-09-23T21:44:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

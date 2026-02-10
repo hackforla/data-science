@@ -1,0 +1,168 @@
+{
+  "cached_at": "2026-01-26T00:23:19.029486",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 427408,
+          "ns": 0,
+          "title": "Internally displaced person",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "نزوح داخلي"
+            },
+            {
+              "lang": "az",
+              "title": "Məcburi köçkünlər"
+            },
+            {
+              "lang": "azb",
+              "title": "مجبوری کؤچکون‌‌لر"
+            },
+            {
+              "lang": "bew",
+              "title": "Orang tetiran dalem"
+            },
+            {
+              "lang": "bn",
+              "title": "অভ্যন্তরীণভাবে উচ্ছেদকৃত জনগোষ্ঠী"
+            },
+            {
+              "lang": "ca",
+              "title": "Desplaçat intern"
+            },
+            {
+              "lang": "cs",
+              "title": "Vnitřně vysídlená osoba"
+            },
+            {
+              "lang": "cy",
+              "title": "Pobl sydd wedi'u dadleoli'n fewnol"
+            },
+            {
+              "lang": "da",
+              "title": "Internt fordreven person"
+            },
+            {
+              "lang": "de",
+              "title": "Interne Vertreibung"
+            },
+            {
+              "lang": "eo",
+              "title": "Interne dislokita persono"
+            },
+            {
+              "lang": "es",
+              "title": "Desplazados internos"
+            },
+            {
+              "lang": "fa",
+              "title": "مهاجرت اجباری داخلی"
+            },
+            {
+              "lang": "fi",
+              "title": "Maansisäinen pakolainen"
+            },
+            {
+              "lang": "fr",
+              "title": "Déplacés internes"
+            },
+            {
+              "lang": "he",
+              "title": "עקורים"
+            },
+            {
+              "lang": "hr",
+              "title": "Interno raseljene osobe"
+            },
+            {
+              "lang": "id",
+              "title": "Pengungsi internal"
+            },
+            {
+              "lang": "ja",
+              "title": "国内避難民"
+            },
+            {
+              "lang": "ka",
+              "title": "იძულებით გადაადგილებული პირი"
+            },
+            {
+              "lang": "ko",
+              "title": "국내실향민"
+            },
+            {
+              "lang": "ku",
+              "title": "Kesên jicihûwarkirî yên navxweyî"
+            },
+            {
+              "lang": "ms",
+              "title": "Orang pelarian dalaman"
+            },
+            {
+              "lang": "nl",
+              "title": "Interne vluchteling"
+            },
+            {
+              "lang": "nb",
+              "title": "Internt fordreven person"
+            },
+            {
+              "lang": "pl",
+              "title": "Uchodźstwo wewnętrzne"
+            },
+            {
+              "lang": "pt",
+              "title": "Deslocados internos"
+            },
+            {
+              "lang": "ru",
+              "title": "Внутренне перемещённые лица"
+            },
+            {
+              "lang": "sh",
+              "title": "Interno raseljena lica"
+            },
+            {
+              "lang": "sr",
+              "title": "Интерно расељена лица"
+            },
+            {
+              "lang": "sv",
+              "title": "Internflykting"
+            },
+            {
+              "lang": "tg",
+              "title": "Гурезаи дохилӣ"
+            },
+            {
+              "lang": "tr",
+              "title": "Ülke içinde yerinden edilmiş kişi"
+            },
+            {
+              "lang": "uk",
+              "title": "Внутрішньо переміщена особа"
+            },
+            {
+              "lang": "vi",
+              "title": "Người nội di tản"
+            },
+            {
+              "lang": "zh",
+              "title": "国内流离失所者"
+            },
+            {
+              "lang": "yue",
+              "title": "國內流離失所者"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

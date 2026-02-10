@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:53.114684",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250811184359|71696331",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 137737,
+          "ns": 0,
+          "title": "قحط",
+          "revisions": [
+            {
+              "timestamp": "2025-09-21T10:34:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

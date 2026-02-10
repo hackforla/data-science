@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:29.312794",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251207165518|148375588",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5044420,
+          "ns": 0,
+          "title": "Uguaglianza di genere",
+          "revisions": [
+            {
+              "timestamp": "2025-12-07T17:00:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

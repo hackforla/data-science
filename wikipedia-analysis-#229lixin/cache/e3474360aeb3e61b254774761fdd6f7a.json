@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:03.839248",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030126120703|69675",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18885,
+          "ns": 0,
+          "title": "Meinungsfreiheit",
+          "revisions": [
+            {
+              "timestamp": "2003-01-26T08:25:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

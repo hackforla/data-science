@@ -1,0 +1,18 @@
+{
+  "cached_at": "2026-01-26T00:04:07.289286",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 73165192,
+          "ns": 0,
+          "title": "Monkeypox"
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

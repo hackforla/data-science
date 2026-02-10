@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:57.348025",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060313065237|179220",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48257,
+          "ns": 0,
+          "title": "Kejahatan perang",
+          "revisions": [
+            {
+              "timestamp": "2006-03-13T06:52:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

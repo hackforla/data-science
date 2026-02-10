@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:58.119157",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061211205758|36052",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8655,
+          "ns": 0,
+          "title": "جمہوریت",
+          "revisions": [
+            {
+              "timestamp": "2006-09-01T21:12:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

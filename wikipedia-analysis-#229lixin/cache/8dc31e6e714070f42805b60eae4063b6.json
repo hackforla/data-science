@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:35.250670",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250627032021|40145394",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 208246,
+          "ns": 0,
+          "title": "아동 노동",
+          "revisions": [
+            {
+              "timestamp": "2025-06-27T03:20:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

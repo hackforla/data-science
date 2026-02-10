@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:21.340912",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240104144231|5665320",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4559,
+          "ns": 0,
+          "title": "ویکسین",
+          "revisions": [
+            {
+              "timestamp": "2024-01-14T08:27:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

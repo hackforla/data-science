@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:34.283087",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051219160844|1749261",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1906290,
+          "ns": 0,
+          "title": "AIDS",
+          "revisions": [
+            {
+              "timestamp": "2004-04-24T17:39:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

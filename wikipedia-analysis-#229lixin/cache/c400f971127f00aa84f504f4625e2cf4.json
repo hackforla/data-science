@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:29.236255",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251117075054|42190243",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 102867,
+          "ns": 0,
+          "title": "איידס",
+          "revisions": [
+            {
+              "timestamp": "2025-12-11T21:45:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

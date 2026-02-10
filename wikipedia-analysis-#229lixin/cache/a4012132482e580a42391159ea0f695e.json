@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:32.961926",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250830102636|40542547",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 93537,
+          "ns": 0,
+          "title": "고문",
+          "revisions": [
+            {
+              "timestamp": "2025-08-30T10:38:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

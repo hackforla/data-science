@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:34.908777",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070517080633|521433",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 68609,
+          "ns": 0,
+          "title": "Εμβόλιο",
+          "revisions": [
+            {
+              "timestamp": "2007-05-17T08:00:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

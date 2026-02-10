@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:54.491465",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180210091136|2880781",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 732628,
+          "ns": 0,
+          "title": "انسانی بازارکاری",
+          "revisions": [
+            {
+              "timestamp": "2018-02-10T07:29:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

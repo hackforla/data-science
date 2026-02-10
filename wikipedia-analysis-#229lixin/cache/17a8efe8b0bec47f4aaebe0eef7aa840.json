@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:59.642480",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230216010820|1139616609",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14230,
+          "ns": 0,
+          "title": "Hurricane",
+          "revisions": [
+            {
+              "timestamp": "2023-07-07T21:06:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

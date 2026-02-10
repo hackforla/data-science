@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:42.875552",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251019120715|77846792",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7177,
+          "ns": 0,
+          "title": "Zespół nabytego niedoboru odporności",
+          "revisions": [
+            {
+              "timestamp": "2026-01-09T13:32:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

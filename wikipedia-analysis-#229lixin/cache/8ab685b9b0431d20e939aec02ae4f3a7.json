@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:50.444729",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250513131621|27268963",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11332,
+          "ns": 0,
+          "title": "Vaksin",
+          "revisions": [
+            {
+              "timestamp": "2025-11-13T11:47:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:37.527443",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251121142254|58587336",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 145648,
+          "ns": 0,
+          "title": "Global uppvärmning",
+          "revisions": [
+            {
+              "timestamp": "2026-01-26T04:25:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

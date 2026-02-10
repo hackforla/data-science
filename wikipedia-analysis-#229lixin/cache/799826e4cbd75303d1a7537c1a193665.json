@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:57.410636",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250803070335|687775",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20561,
+          "ns": 0,
+          "title": "Hukumar Lafiya ta Duniya",
+          "revisions": [
+            {
+              "timestamp": "2025-08-03T07:03:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

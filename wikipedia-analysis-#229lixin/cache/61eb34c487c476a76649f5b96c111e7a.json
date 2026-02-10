@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:57.874757",
+  "response": {
+    "continue": {
+      "rvcontinue": "20141202085934|936689",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 73785,
+          "ns": 0,
+          "title": "Uchaguzi",
+          "revisions": [
+            {
+              "timestamp": "2014-12-02T08:56:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

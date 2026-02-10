@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:31.347473",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061012205021|5005917",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 632384,
+          "ns": 0,
+          "title": "Lavoro minorile",
+          "revisions": [
+            {
+              "timestamp": "2006-10-12T20:48:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:41.535311",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260122222318|36694472",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2854673,
+          "ns": 0,
+          "title": "2024 Amerika Birleşik Devletleri başkanlık seçimleri",
+          "revisions": [
+            {
+              "timestamp": "2026-01-26T04:49:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

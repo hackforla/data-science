@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:06.911244",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260119192950|42572870",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 13647,
+          "ns": 0,
+          "title": "זכויות האדם",
+          "revisions": [
+            {
+              "timestamp": "2026-01-19T19:30:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

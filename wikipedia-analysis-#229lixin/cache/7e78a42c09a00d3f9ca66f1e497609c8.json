@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:41.154448",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110114141237|6265660",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 992684,
+          "ns": 0,
+          "title": "هجرة بشرية",
+          "revisions": [
+            {
+              "timestamp": "2011-01-14T14:11:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

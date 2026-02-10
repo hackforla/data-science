@@ -1,0 +1,468 @@
+{
+  "cached_at": "2026-01-26T00:10:46.664106",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 5042951,
+          "ns": 0,
+          "title": "Climate change",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Klimaatsverandering"
+            },
+            {
+              "lang": "gsw",
+              "title": "Klimawandel"
+            },
+            {
+              "lang": "ar",
+              "title": "تغير المناخ"
+            },
+            {
+              "lang": "ary",
+              "title": "تبدال د لمناخ"
+            },
+            {
+              "lang": "arz",
+              "title": "تغير المناخ"
+            },
+            {
+              "lang": "as",
+              "title": "জলবায়ু পৰিৱৰ্তন"
+            },
+            {
+              "lang": "ast",
+              "title": "Cambéu climáticu"
+            },
+            {
+              "lang": "az",
+              "title": "İqlim dəyişikliyi"
+            },
+            {
+              "lang": "azb",
+              "title": "ایقلیم دییشیکلیگی"
+            },
+            {
+              "lang": "bcl",
+              "title": "Pagbago kan klima"
+            },
+            {
+              "lang": "be",
+              "title": "Змена клімату"
+            },
+            {
+              "lang": "bg",
+              "title": "Изменение на климата"
+            },
+            {
+              "lang": "bh",
+              "title": "जलवायु बदलाव"
+            },
+            {
+              "lang": "bn",
+              "title": "জলবায়ু পরিবর্তন"
+            },
+            {
+              "lang": "bo",
+              "title": "གནམ་གཤིས་འགྱུར་ལྡོག་"
+            },
+            {
+              "lang": "bs",
+              "title": "Klimatske promjene"
+            },
+            {
+              "lang": "ca",
+              "title": "Escalfament global"
+            },
+            {
+              "lang": "ckb",
+              "title": "گۆڕانی ئاووھەوا"
+            },
+            {
+              "lang": "cs",
+              "title": "Klimatická variabilita a změny klimatu"
+            },
+            {
+              "lang": "cy",
+              "title": "Newid hinsawdd"
+            },
+            {
+              "lang": "da",
+              "title": "Klimaændring"
+            },
+            {
+              "lang": "dag",
+              "title": "Climate Change"
+            },
+            {
+              "lang": "de",
+              "title": "Klimawandel"
+            },
+            {
+              "lang": "dty",
+              "title": "जलवायु बदलि"
+            },
+            {
+              "lang": "el",
+              "title": "Κλιματική αλλαγή"
+            },
+            {
+              "lang": "eo",
+              "title": "Klimata ŝanĝo"
+            },
+            {
+              "lang": "et",
+              "title": "Kliimamuutus"
+            },
+            {
+              "lang": "eu",
+              "title": "Klima aldaketa"
+            },
+            {
+              "lang": "fa",
+              "title": "تغییر اقلیم"
+            },
+            {
+              "lang": "fi",
+              "title": "Ilmastonmuutos"
+            },
+            {
+              "lang": "fo",
+              "title": "Veðurlagsbroytingar"
+            },
+            {
+              "lang": "fr",
+              "title": "Changement climatique"
+            },
+            {
+              "lang": "ga",
+              "title": "Athrú aeráide"
+            },
+            {
+              "lang": "gd",
+              "title": "Atharrachadh na Gnàth-shìde"
+            },
+            {
+              "lang": "gl",
+              "title": "Cambio climático"
+            },
+            {
+              "lang": "gpe",
+              "title": "Climate change"
+            },
+            {
+              "lang": "gu",
+              "title": "વૈશ્વિક આબોહવા પરિવર્તન"
+            },
+            {
+              "lang": "guc",
+              "title": "Cambio climático"
+            },
+            {
+              "lang": "gv",
+              "title": "Caghlaa emshyraght"
+            },
+            {
+              "lang": "ha",
+              "title": "Canjin yanayi"
+            },
+            {
+              "lang": "he",
+              "title": "שינוי אקלים"
+            },
+            {
+              "lang": "hi",
+              "title": "जलवायु परिवर्तन"
+            },
+            {
+              "lang": "hr",
+              "title": "Klimatske promjene"
+            },
+            {
+              "lang": "ht",
+              "title": "Chanjman klimatik"
+            },
+            {
+              "lang": "hu",
+              "title": "Éghajlatváltozás"
+            },
+            {
+              "lang": "hy",
+              "title": "Կլիմայի փոփոխություն"
+            },
+            {
+              "lang": "hyw",
+              "title": "Կլիմայական Փոփոխութիւններ"
+            },
+            {
+              "lang": "id",
+              "title": "Perubahan iklim"
+            },
+            {
+              "lang": "io",
+              "title": "Klimato-chanjo"
+            },
+            {
+              "lang": "is",
+              "title": "Loftslagsbreytingar"
+            },
+            {
+              "lang": "it",
+              "title": "Cambiamento climatico"
+            },
+            {
+              "lang": "ja",
+              "title": "気候変動"
+            },
+            {
+              "lang": "jv",
+              "title": "Owahan iklim"
+            },
+            {
+              "lang": "ka",
+              "title": "კლიმატის ცვლილება"
+            },
+            {
+              "lang": "kab",
+              "title": "Asmeskel anezway"
+            },
+            {
+              "lang": "kk",
+              "title": "Климаттың өзгеруі"
+            },
+            {
+              "lang": "kn",
+              "title": "ವಾಯುಗುಣ ಬದಲಾವಣೆ"
+            },
+            {
+              "lang": "knc",
+              "title": "Yanawu Dunya yǝ faltǝ"
+            },
+            {
+              "lang": "ko",
+              "title": "기후변화"
+            },
+            {
+              "lang": "ku",
+              "title": "Guherîna avhewayê"
+            },
+            {
+              "lang": "kw",
+              "title": "Chanj an Hin"
+            },
+            {
+              "lang": "ky",
+              "title": "Дүйнө жүзүндөгү климаттын өзгөрүүсү"
+            },
+            {
+              "lang": "lb",
+              "title": "Klimawandel"
+            },
+            {
+              "lang": "lij",
+              "title": "Cangiamento climatico"
+            },
+            {
+              "lang": "lo",
+              "title": "ການປ່ຽນແປງດິນຟ້າອາກາດ"
+            },
+            {
+              "lang": "lt",
+              "title": "Klimato kaita"
+            },
+            {
+              "lang": "lv",
+              "title": "Klimata pārmaiņas"
+            },
+            {
+              "lang": "mg",
+              "title": "Fiovan' ny toetany"
+            },
+            {
+              "lang": "mk",
+              "title": "Климатски промени"
+            },
+            {
+              "lang": "ml",
+              "title": "കാലാവസ്ഥാവ്യതിയാനം"
+            },
+            {
+              "lang": "mn",
+              "title": "Уур амьсгалын өөрчлөлт"
+            },
+            {
+              "lang": "mr",
+              "title": "हवामान बदल"
+            },
+            {
+              "lang": "ms",
+              "title": "Perubahan iklim"
+            },
+            {
+              "lang": "mt",
+              "title": "Tibdil fil-klima"
+            },
+            {
+              "lang": "my",
+              "title": "ရာသီဥတုပြောင်းလဲမှု"
+            },
+            {
+              "lang": "ne",
+              "title": "जलवायु परिवर्तन"
+            },
+            {
+              "lang": "nl",
+              "title": "Klimaatverandering"
+            },
+            {
+              "lang": "nn",
+              "title": "Klimaendring"
+            },
+            {
+              "lang": "nb",
+              "title": "Klimaendring"
+            },
+            {
+              "lang": "oc",
+              "title": "Cambiament climatic"
+            },
+            {
+              "lang": "pa",
+              "title": "ਜਲਵਾਯੂ ਤਬਦੀਲੀ"
+            },
+            {
+              "lang": "pl",
+              "title": "Zmiana klimatu"
+            },
+            {
+              "lang": "pnb",
+              "title": "آب و ہوا تبدیلی"
+            },
+            {
+              "lang": "ps",
+              "title": "اقلیمي بدلون"
+            },
+            {
+              "lang": "pt",
+              "title": "Mudança do clima"
+            },
+            {
+              "lang": "rn",
+              "title": "Ihindagurika ry'ibihe"
+            },
+            {
+              "lang": "ro",
+              "title": "Schimbare climatică"
+            },
+            {
+              "lang": "rw",
+              "title": "Imihindagurikire y’ibihe"
+            },
+            {
+              "lang": "scn",
+              "title": "Scaudamentu climàticu"
+            },
+            {
+              "lang": "sco",
+              "title": "Climate chynge"
+            },
+            {
+              "lang": "sh",
+              "title": "Klimatska promjena"
+            },
+            {
+              "lang": "si",
+              "title": "‍දේශගුණික විපර්යාස"
+            },
+            {
+              "lang": "sk",
+              "title": "Klimatické zmeny"
+            },
+            {
+              "lang": "sl",
+              "title": "Podnebne spremembe"
+            },
+            {
+              "lang": "sq",
+              "title": "Ndryshimet klimatike"
+            },
+            {
+              "lang": "sr",
+              "title": "Климатска промена"
+            },
+            {
+              "lang": "sv",
+              "title": "Klimatförändring"
+            },
+            {
+              "lang": "sw",
+              "title": "Mabadiliko ya tabianchi"
+            },
+            {
+              "lang": "ta",
+              "title": "காலநிலை மாற்றம்"
+            },
+            {
+              "lang": "th",
+              "title": "การเปลี่ยนแปลงสภาพภูมิอากาศ"
+            },
+            {
+              "lang": "tl",
+              "title": "Pagbabago ng klima"
+            },
+            {
+              "lang": "tr",
+              "title": "İklim değişikliği"
+            },
+            {
+              "lang": "tw",
+              "title": "Wiem Nsakrseɛ"
+            },
+            {
+              "lang": "uk",
+              "title": "Зміна клімату"
+            },
+            {
+              "lang": "uz",
+              "title": "Iqlim oʻzgarishi"
+            },
+            {
+              "lang": "vec",
+              "title": "Canbiamento climàtego"
+            },
+            {
+              "lang": "vep",
+              "title": "Klimatan toižetamine"
+            },
+            {
+              "lang": "vi",
+              "title": "Biến đổi khí hậu"
+            },
+            {
+              "lang": "war",
+              "title": "Pagbabag-o han klima"
+            },
+            {
+              "lang": "wuu",
+              "title": "气候变化"
+            },
+            {
+              "lang": "zh",
+              "title": "氣候變化"
+            },
+            {
+              "lang": "yue",
+              "title": "氣候變化"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

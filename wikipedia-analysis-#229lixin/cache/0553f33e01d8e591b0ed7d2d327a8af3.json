@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:11.231840",
+  "response": {
+    "continue": {
+      "rvcontinue": "20191001155448|17689086",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47259,
+          "ns": 0,
+          "title": "Apatrida",
+          "revisions": [
+            {
+              "timestamp": "2020-07-09T17:25:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

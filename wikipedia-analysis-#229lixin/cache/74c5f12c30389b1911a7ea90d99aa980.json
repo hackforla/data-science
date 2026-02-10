@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:38.393105",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030408204452|199369",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5102,
+          "ns": 0,
+          "title": "Kinderarbeid",
+          "revisions": [
+            {
+              "timestamp": "2002-11-12T14:56:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

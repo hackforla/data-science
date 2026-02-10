@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:26.312770",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251217204535|231562542",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 112322,
+          "ns": 0,
+          "title": "Discrimination",
+          "revisions": [
+            {
+              "timestamp": "2026-01-01T19:13:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

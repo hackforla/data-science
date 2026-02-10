@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:39.633306",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110115191458|24976656",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4268924,
+          "ns": 0,
+          "title": "Praca dzieci",
+          "revisions": [
+            {
+              "timestamp": "2011-01-15T19:08:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

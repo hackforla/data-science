@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:59.304630",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050112164431|368632",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 70111,
+          "ns": 0,
+          "title": "Maremoto",
+          "revisions": [
+            {
+              "timestamp": "2005-01-12T16:27:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

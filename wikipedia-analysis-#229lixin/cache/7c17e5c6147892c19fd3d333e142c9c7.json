@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:01.730740",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190316155605|47758",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10566,
+          "ns": 0,
+          "title": "Ta'addanci",
+          "revisions": [
+            {
+              "timestamp": "2019-03-16T15:54:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:31.346765",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230510140941|37109694",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4338614,
+          "ns": 0,
+          "title": "مهاجرت اجباری داخلی",
+          "revisions": [
+            {
+              "timestamp": "2023-06-24T09:24:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

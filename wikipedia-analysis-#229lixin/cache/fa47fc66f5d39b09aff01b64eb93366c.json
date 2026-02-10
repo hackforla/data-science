@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:17.653764",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050219074154|326837",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 78095,
+          "ns": 0,
+          "title": "貧窮",
+          "revisions": [
+            {
+              "timestamp": "2005-02-19T07:32:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

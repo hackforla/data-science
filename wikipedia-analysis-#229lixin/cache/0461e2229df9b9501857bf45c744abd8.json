@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:58.468021",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250914080619|25210631",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2009604,
+          "ns": 0,
+          "title": "Volební podvod",
+          "revisions": [
+            {
+              "timestamp": "2025-10-14T13:05:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

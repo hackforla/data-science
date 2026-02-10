@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:48.879177",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060128094905|402055",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 54644,
+          "ns": 0,
+          "title": "Földrengés",
+          "revisions": [
+            {
+              "timestamp": "2006-01-28T09:47:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

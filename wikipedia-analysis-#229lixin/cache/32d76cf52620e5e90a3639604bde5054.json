@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:49.316864",
+  "response": {
+    "continue": {
+      "rvcontinue": "20071205034518|17522",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4727,
+          "ns": 0,
+          "title": "ඒඩ්ස්",
+          "revisions": [
+            {
+              "timestamp": "2007-12-03T06:44:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

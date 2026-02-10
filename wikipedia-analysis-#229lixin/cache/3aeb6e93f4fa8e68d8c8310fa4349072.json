@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:37.355296",
+  "response": {
+    "continue": {
+      "rvcontinue": "20191002022606|55595446",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15482908,
+          "ns": 0,
+          "title": "Gian lận bầu cử",
+          "revisions": [
+            {
+              "timestamp": "2019-10-01T10:44:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

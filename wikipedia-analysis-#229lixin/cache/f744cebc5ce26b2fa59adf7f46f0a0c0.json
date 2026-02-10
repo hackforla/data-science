@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:53.812657",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250715081349|12422966",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7892,
+          "ns": 0,
+          "title": "ประชาธิปไตย",
+          "revisions": [
+            {
+              "timestamp": "2025-07-16T23:12:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

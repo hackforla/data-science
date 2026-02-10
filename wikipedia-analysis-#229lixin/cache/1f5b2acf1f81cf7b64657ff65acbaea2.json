@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:32.096027",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100112071628|4350466",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 430034,
+          "ns": 0,
+          "title": "인신매매",
+          "revisions": [
+            {
+              "timestamp": "2010-01-12T07:11:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

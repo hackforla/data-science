@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:40.711023",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120509054928|142796",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 29394,
+          "ns": 0,
+          "title": "သေဒဏ်",
+          "revisions": [
+            {
+              "timestamp": "2012-05-08T06:07:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
