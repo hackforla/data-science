@@ -1,0 +1,16 @@
+# Environment
+.env
+nlp311/
+
+# Runtime artifacts
+data/
+mlruns/
+reports/
+.hf_cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
