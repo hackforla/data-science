@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:29.689075",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070414115703|947245",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 193107,
+          "ns": 0,
+          "title": "Drepturile omului",
+          "revisions": [
+            {
+              "timestamp": "2007-04-14T11:50:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:45.897558",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251017065223|356380",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 59766,
+          "ns": 0,
+          "title": "ټولټاکنې",
+          "revisions": [
+            {
+              "timestamp": "2022-02-15T13:35:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

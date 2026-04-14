@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:16.015938",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140724094008|4769193",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 372026,
+          "ns": 0,
+          "title": "Απατρία",
+          "revisions": [
+            {
+              "timestamp": "2014-07-24T08:14:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

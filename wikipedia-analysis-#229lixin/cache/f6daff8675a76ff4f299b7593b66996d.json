@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:15.680460",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230726103808|377082",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 50710,
+          "ns": 0,
+          "title": "2019-20 ኮሮናቫይረስ ወረርሽኝ",
+          "revisions": [
+            {
+              "timestamp": "2023-07-27T12:31:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

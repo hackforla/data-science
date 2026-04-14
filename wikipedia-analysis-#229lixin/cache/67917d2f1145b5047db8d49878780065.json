@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:11.676174",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050115165145|93826",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 22620,
+          "ns": 0,
+          "title": "Землетрясение",
+          "revisions": [
+            {
+              "timestamp": "2005-01-15T12:41:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

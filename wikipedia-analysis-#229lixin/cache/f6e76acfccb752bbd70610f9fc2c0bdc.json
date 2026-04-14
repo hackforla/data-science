@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:19.752711",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060927081052|297850",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 53696,
+          "ns": 0,
+          "title": "مالاریا",
+          "revisions": [
+            {
+              "timestamp": "2006-09-27T08:04:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

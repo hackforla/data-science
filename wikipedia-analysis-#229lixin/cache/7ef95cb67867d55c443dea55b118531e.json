@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:28.605658",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250815140337|17129564",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 872772,
+          "ns": 0,
+          "title": "Incendiu de pădure",
+          "revisions": [
+            {
+              "timestamp": "2025-08-15T14:03:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

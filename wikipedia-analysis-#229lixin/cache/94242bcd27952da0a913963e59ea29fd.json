@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:30.537362",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220117192029|19973411",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 31385,
+          "ns": 0,
+          "title": "Pekerja anak",
+          "revisions": [
+            {
+              "timestamp": "2023-02-21T12:28:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

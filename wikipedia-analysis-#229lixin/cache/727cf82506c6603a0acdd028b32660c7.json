@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:43.301526",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170523213535|88027741",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6399091,
+          "ns": 0,
+          "title": "Antivaccinismo",
+          "revisions": [
+            {
+              "timestamp": "2017-05-23T21:31:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

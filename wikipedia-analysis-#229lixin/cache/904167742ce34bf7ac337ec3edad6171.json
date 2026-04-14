@@ -1,0 +1,512 @@
+{
+  "cached_at": "2026-01-26T00:08:22.378091",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 32653,
+          "ns": 0,
+          "title": "Vaccine",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Entstof"
+            },
+            {
+              "lang": "an",
+              "title": "Vacuna"
+            },
+            {
+              "lang": "anp",
+              "title": "टीका"
+            },
+            {
+              "lang": "ar",
+              "title": "لقاح"
+            },
+            {
+              "lang": "ary",
+              "title": "لقاح"
+            },
+            {
+              "lang": "arz",
+              "title": "طوعم"
+            },
+            {
+              "lang": "as",
+              "title": "ছিটা"
+            },
+            {
+              "lang": "ast",
+              "title": "Vacuna"
+            },
+            {
+              "lang": "az",
+              "title": "Peyvənd"
+            },
+            {
+              "lang": "ba",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "sgs",
+              "title": "Čieps"
+            },
+            {
+              "lang": "bcl",
+              "title": "Bakuna"
+            },
+            {
+              "lang": "be",
+              "title": "Вакцына"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Вакцына"
+            },
+            {
+              "lang": "bg",
+              "title": "Ваксина"
+            },
+            {
+              "lang": "bh",
+              "title": "टीका (वैक्सीन)"
+            },
+            {
+              "lang": "bn",
+              "title": "টিকা"
+            },
+            {
+              "lang": "bo",
+              "title": "འབྲུམ་སྨན།"
+            },
+            {
+              "lang": "br",
+              "title": "Vaksin"
+            },
+            {
+              "lang": "bs",
+              "title": "Vakcina"
+            },
+            {
+              "lang": "bxr",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "ca",
+              "title": "Vacuna"
+            },
+            {
+              "lang": "cdo",
+              "title": "Ĭk-mièu"
+            },
+            {
+              "lang": "ckb",
+              "title": "ڤاکسین"
+            },
+            {
+              "lang": "cs",
+              "title": "Vakcína"
+            },
+            {
+              "lang": "cy",
+              "title": "Brechlyn"
+            },
+            {
+              "lang": "da",
+              "title": "Vaccine"
+            },
+            {
+              "lang": "dag",
+              "title": "Vaccine"
+            },
+            {
+              "lang": "de",
+              "title": "Impfstoff"
+            },
+            {
+              "lang": "el",
+              "title": "Εμβόλιο"
+            },
+            {
+              "lang": "eo",
+              "title": "Vakcino"
+            },
+            {
+              "lang": "es",
+              "title": "Vacuna"
+            },
+            {
+              "lang": "et",
+              "title": "Vaktsiin"
+            },
+            {
+              "lang": "eu",
+              "title": "Txerto"
+            },
+            {
+              "lang": "fa",
+              "title": "واکسن"
+            },
+            {
+              "lang": "fi",
+              "title": "Rokote"
+            },
+            {
+              "lang": "fr",
+              "title": "Vaccin"
+            },
+            {
+              "lang": "fur",
+              "title": "Vacine"
+            },
+            {
+              "lang": "gl",
+              "title": "Vacina"
+            },
+            {
+              "lang": "gn",
+              "title": "Vakúna"
+            },
+            {
+              "lang": "he",
+              "title": "חיסון"
+            },
+            {
+              "lang": "hi",
+              "title": "टीका (वैक्सीन)"
+            },
+            {
+              "lang": "hif",
+              "title": "Vaccine"
+            },
+            {
+              "lang": "hr",
+              "title": "Cjepivo"
+            },
+            {
+              "lang": "ht",
+              "title": "Vaksen"
+            },
+            {
+              "lang": "hu",
+              "title": "Védőoltás"
+            },
+            {
+              "lang": "hy",
+              "title": "Պատվաստանյութ"
+            },
+            {
+              "lang": "hyw",
+              "title": "Պատուաստ"
+            },
+            {
+              "lang": "ia",
+              "title": "Vaccino"
+            },
+            {
+              "lang": "id",
+              "title": "Vaksin"
+            },
+            {
+              "lang": "is",
+              "title": "Bóluefni"
+            },
+            {
+              "lang": "it",
+              "title": "Vaccino"
+            },
+            {
+              "lang": "ja",
+              "title": "ワクチン"
+            },
+            {
+              "lang": "jam",
+              "title": "Vaxiin"
+            },
+            {
+              "lang": "jv",
+              "title": "Vaksin"
+            },
+            {
+              "lang": "ka",
+              "title": "ვაქცინა"
+            },
+            {
+              "lang": "kab",
+              "title": "Tigezt"
+            },
+            {
+              "lang": "kk",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "km",
+              "title": "វ៉ាក់សាំង"
+            },
+            {
+              "lang": "kn",
+              "title": "ಲಸಿಕೆ"
+            },
+            {
+              "lang": "ko",
+              "title": "백신"
+            },
+            {
+              "lang": "ku",
+              "title": "Vaksîn"
+            },
+            {
+              "lang": "ky",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "la",
+              "title": "Vaccinum"
+            },
+            {
+              "lang": "lmo",
+              "title": "Vacin"
+            },
+            {
+              "lang": "lt",
+              "title": "Vakcina"
+            },
+            {
+              "lang": "lv",
+              "title": "Vakcīna"
+            },
+            {
+              "lang": "mg",
+              "title": "Vaksiny"
+            },
+            {
+              "lang": "min",
+              "title": "Vaksin"
+            },
+            {
+              "lang": "mk",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "ml",
+              "title": "വാക്സിൻ"
+            },
+            {
+              "lang": "mn",
+              "title": "Вакцин"
+            },
+            {
+              "lang": "mr",
+              "title": "लस"
+            },
+            {
+              "lang": "ms",
+              "title": "Vaksin"
+            },
+            {
+              "lang": "nds",
+              "title": "Impstoff"
+            },
+            {
+              "lang": "nl",
+              "title": "Vaccin"
+            },
+            {
+              "lang": "nn",
+              "title": "Vaksine"
+            },
+            {
+              "lang": "nb",
+              "title": "Vaksine"
+            },
+            {
+              "lang": "oc",
+              "title": "Vaccin"
+            },
+            {
+              "lang": "or",
+              "title": "ଟିକା"
+            },
+            {
+              "lang": "pa",
+              "title": "ਵੈਕਸੀਨ"
+            },
+            {
+              "lang": "pl",
+              "title": "Szczepionka"
+            },
+            {
+              "lang": "pms",
+              "title": "Vacin"
+            },
+            {
+              "lang": "pnb",
+              "title": "ویکسین"
+            },
+            {
+              "lang": "ps",
+              "title": "واکسين"
+            },
+            {
+              "lang": "pt",
+              "title": "Vacina"
+            },
+            {
+              "lang": "ro",
+              "title": "Vaccin"
+            },
+            {
+              "lang": "ru",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "rue",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "sah",
+              "title": "Быһыы"
+            },
+            {
+              "lang": "sc",
+              "title": "Vatzinu"
+            },
+            {
+              "lang": "sco",
+              "title": "Vaccine"
+            },
+            {
+              "lang": "sh",
+              "title": "Vakcina"
+            },
+            {
+              "lang": "si",
+              "title": "එන්නත්"
+            },
+            {
+              "lang": "simple",
+              "title": "Vaccine"
+            },
+            {
+              "lang": "sk",
+              "title": "Vakcína"
+            },
+            {
+              "lang": "sl",
+              "title": "Cepivo"
+            },
+            {
+              "lang": "sq",
+              "title": "Vaksina"
+            },
+            {
+              "lang": "sr",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "su",
+              "title": "Vaksin"
+            },
+            {
+              "lang": "sv",
+              "title": "Vaccin"
+            },
+            {
+              "lang": "sw",
+              "title": "Chanjo"
+            },
+            {
+              "lang": "ta",
+              "title": "தடுப்பு மருந்து"
+            },
+            {
+              "lang": "te",
+              "title": "టీకా"
+            },
+            {
+              "lang": "tg",
+              "title": "Ваксина"
+            },
+            {
+              "lang": "th",
+              "title": "วัคซีน"
+            },
+            {
+              "lang": "tr",
+              "title": "Aşı (tıp)"
+            },
+            {
+              "lang": "tw",
+              "title": "Vaccine"
+            },
+            {
+              "lang": "tyv",
+              "title": "Вакцина"
+            },
+            {
+              "lang": "uk",
+              "title": "Вакцини"
+            },
+            {
+              "lang": "ur",
+              "title": "ویکسین"
+            },
+            {
+              "lang": "uz",
+              "title": "Vaksinalar"
+            },
+            {
+              "lang": "vec",
+              "title": "Vasin"
+            },
+            {
+              "lang": "vep",
+              "title": "Vakcin"
+            },
+            {
+              "lang": "vi",
+              "title": "Vắc-xin"
+            },
+            {
+              "lang": "war",
+              "title": "Bakuna"
+            },
+            {
+              "lang": "wuu",
+              "title": "疫苗"
+            },
+            {
+              "lang": "xh",
+              "title": "Ichiza"
+            },
+            {
+              "lang": "yi",
+              "title": "וואקצין"
+            },
+            {
+              "lang": "zh",
+              "title": "疫苗"
+            },
+            {
+              "lang": "nan",
+              "title": "E̍k-chu"
+            },
+            {
+              "lang": "yue",
+              "title": "疫苗"
+            },
+            {
+              "lang": "zu",
+              "title": "Ikhambi lokugoma"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

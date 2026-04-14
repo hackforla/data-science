@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:00.123634",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080801190452|1987518",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 386936,
+          "ns": 0,
+          "title": "رقابة",
+          "revisions": [
+            {
+              "timestamp": "2008-08-01T16:20:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

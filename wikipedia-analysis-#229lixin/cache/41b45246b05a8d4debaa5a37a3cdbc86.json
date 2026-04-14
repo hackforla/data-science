@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:45.457983",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260119152044|108070117",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40766,
+          "ns": 0,
+          "title": "ホームレス",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T18:30:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

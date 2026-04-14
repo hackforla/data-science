@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:18.509249",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040514021952|7663223",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 427408,
+          "ns": 0,
+          "title": "Internally displaced person",
+          "revisions": [
+            {
+              "timestamp": "2004-01-11T12:26:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

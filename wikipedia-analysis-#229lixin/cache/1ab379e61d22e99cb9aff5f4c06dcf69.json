@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:37.951508",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250612143935|17027496",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1153849,
+          "ns": 0,
+          "title": "Libertatea de exprimare",
+          "revisions": [
+            {
+              "timestamp": "2025-11-14T07:33:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

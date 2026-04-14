@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:57.975368",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260120042208|1333862891",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 105323,
+          "ns": 0,
+          "title": "Freedom of the press",
+          "revisions": [
+            {
+              "timestamp": "2026-01-22T01:52:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

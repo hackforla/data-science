@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:12.208483",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250326085102|11025968",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 729148,
+          "ns": 0,
+          "title": "Ισότητα των φύλων",
+          "revisions": [
+            {
+              "timestamp": "2025-03-26T08:52:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

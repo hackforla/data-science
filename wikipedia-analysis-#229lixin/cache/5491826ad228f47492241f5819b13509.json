@@ -1,0 +1,828 @@
+{
+  "cached_at": "2026-01-26T00:42:55.688819",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 7959,
+          "ns": 0,
+          "title": "Democracy",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Demokrasie"
+            },
+            {
+              "lang": "gsw",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "am",
+              "title": "ዴሞክራሲ"
+            },
+            {
+              "lang": "an",
+              "title": "Democracia"
+            },
+            {
+              "lang": "anp",
+              "title": "प्रजातंत्र"
+            },
+            {
+              "lang": "ar",
+              "title": "ديمقراطية"
+            },
+            {
+              "lang": "ary",
+              "title": "ديموقراطية"
+            },
+            {
+              "lang": "arz",
+              "title": "ديموقراطيه"
+            },
+            {
+              "lang": "as",
+              "title": "গণতন্ত্ৰ"
+            },
+            {
+              "lang": "ast",
+              "title": "Democracia"
+            },
+            {
+              "lang": "av",
+              "title": "Демократия"
+            },
+            {
+              "lang": "az",
+              "title": "Demokratiya"
+            },
+            {
+              "lang": "azb",
+              "title": "دموکراسی"
+            },
+            {
+              "lang": "ba",
+              "title": "Демократия"
+            },
+            {
+              "lang": "bar",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "sgs",
+              "title": "Demuokratėjė"
+            },
+            {
+              "lang": "bcl",
+              "title": "Demokrasya"
+            },
+            {
+              "lang": "be",
+              "title": "Дэмакратыя"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Дэмакратыя"
+            },
+            {
+              "lang": "bg",
+              "title": "Демокрация"
+            },
+            {
+              "lang": "bh",
+              "title": "लोकतंत्र"
+            },
+            {
+              "lang": "blk",
+              "title": "ဒီမိုကရေသီ"
+            },
+            {
+              "lang": "bn",
+              "title": "গণতন্ত্র"
+            },
+            {
+              "lang": "bo",
+              "title": "དམངས་གཙོ་"
+            },
+            {
+              "lang": "bpy",
+              "title": "গণতন্ত্র"
+            },
+            {
+              "lang": "br",
+              "title": "Demokratelezh"
+            },
+            {
+              "lang": "bs",
+              "title": "Demokratija"
+            },
+            {
+              "lang": "btm",
+              "title": "Demokrasi"
+            },
+            {
+              "lang": "bxr",
+              "title": "Арадшалал"
+            },
+            {
+              "lang": "ca",
+              "title": "Democràcia"
+            },
+            {
+              "lang": "cdo",
+              "title": "Mìng-ciō"
+            },
+            {
+              "lang": "ce",
+              "title": "Демократи"
+            },
+            {
+              "lang": "ceb",
+              "title": "Demokrasya"
+            },
+            {
+              "lang": "ckb",
+              "title": "دیموکراسی"
+            },
+            {
+              "lang": "crh",
+              "title": "Demokratiya"
+            },
+            {
+              "lang": "cs",
+              "title": "Demokracie"
+            },
+            {
+              "lang": "cv",
+              "title": "Демократи"
+            },
+            {
+              "lang": "cy",
+              "title": "Democratiaeth"
+            },
+            {
+              "lang": "da",
+              "title": "Demokrati"
+            },
+            {
+              "lang": "de",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "din",
+              "title": "Agɛmkɔckedhiɛ"
+            },
+            {
+              "lang": "diq",
+              "title": "Demokrasiye"
+            },
+            {
+              "lang": "dv",
+              "title": "ދިމިޤްރާޠީ"
+            },
+            {
+              "lang": "el",
+              "title": "Δημοκρατία"
+            },
+            {
+              "lang": "eo",
+              "title": "Demokratio"
+            },
+            {
+              "lang": "es",
+              "title": "Democracia"
+            },
+            {
+              "lang": "et",
+              "title": "Demokraatia"
+            },
+            {
+              "lang": "eu",
+              "title": "Demokrazia"
+            },
+            {
+              "lang": "fa",
+              "title": "دموکراسی"
+            },
+            {
+              "lang": "fi",
+              "title": "Demokratia"
+            },
+            {
+              "lang": "vro",
+              "title": "Demokraatia"
+            },
+            {
+              "lang": "fo",
+              "title": "Fólkaræði"
+            },
+            {
+              "lang": "fr",
+              "title": "Démocratie"
+            },
+            {
+              "lang": "frr",
+              "title": "Demokratii"
+            },
+            {
+              "lang": "fy",
+              "title": "Demokrasy"
+            },
+            {
+              "lang": "ga",
+              "title": "Daonlathas"
+            },
+            {
+              "lang": "gcr",
+              "title": "Démokrasi"
+            },
+            {
+              "lang": "gd",
+              "title": "Deamocrasaidh"
+            },
+            {
+              "lang": "gl",
+              "title": "Democracia"
+            },
+            {
+              "lang": "gn",
+              "title": "Jekopytyjoja"
+            },
+            {
+              "lang": "gu",
+              "title": "લોકશાહી"
+            },
+            {
+              "lang": "guw",
+              "title": "Democracy"
+            },
+            {
+              "lang": "ha",
+              "title": "Dimokaraɗiyya"
+            },
+            {
+              "lang": "hak",
+              "title": "Mìn-tsú Tsú-ngi"
+            },
+            {
+              "lang": "he",
+              "title": "דמוקרטיה"
+            },
+            {
+              "lang": "hi",
+              "title": "लोकतंत्र"
+            },
+            {
+              "lang": "hif",
+              "title": "Prajatantr"
+            },
+            {
+              "lang": "hr",
+              "title": "Demokracija"
+            },
+            {
+              "lang": "ht",
+              "title": "Demokrasi"
+            },
+            {
+              "lang": "hu",
+              "title": "Demokrácia (politikai rendszer)"
+            },
+            {
+              "lang": "hy",
+              "title": "Ժողովրդավարություն"
+            },
+            {
+              "lang": "hyw",
+              "title": "Ժողովրդավարութիւն"
+            },
+            {
+              "lang": "ia",
+              "title": "Democratia"
+            },
+            {
+              "lang": "iba",
+              "title": "Demokrasi"
+            },
+            {
+              "lang": "id",
+              "title": "Demokrasi"
+            },
+            {
+              "lang": "ie",
+              "title": "Democratie"
+            },
+            {
+              "lang": "ilo",
+              "title": "Demokrasia"
+            },
+            {
+              "lang": "io",
+              "title": "Demokratio"
+            },
+            {
+              "lang": "is",
+              "title": "Lýðræði"
+            },
+            {
+              "lang": "it",
+              "title": "Democrazia"
+            },
+            {
+              "lang": "ja",
+              "title": "民主主義"
+            },
+            {
+              "lang": "jam",
+              "title": "Dimakrasi"
+            },
+            {
+              "lang": "jbo",
+              "title": "roltrusi'o"
+            },
+            {
+              "lang": "jv",
+              "title": "Dhémokrasi"
+            },
+            {
+              "lang": "ka",
+              "title": "დემოკრატია"
+            },
+            {
+              "lang": "kaa",
+              "title": "Demokratiya"
+            },
+            {
+              "lang": "kbp",
+              "title": "Temokraasii"
+            },
+            {
+              "lang": "kcg",
+              "title": "Di̱moki̱rasi"
+            },
+            {
+              "lang": "kg",
+              "title": "Dimokalasi"
+            },
+            {
+              "lang": "ki",
+              "title": "Ndemookirathĩ"
+            },
+            {
+              "lang": "kk",
+              "title": "Демократия"
+            },
+            {
+              "lang": "km",
+              "title": "ប្រជាធិបតេយ្យ"
+            },
+            {
+              "lang": "kn",
+              "title": "ಪ್ರಜಾಪ್ರಭುತ್ವ"
+            },
+            {
+              "lang": "knc",
+              "title": "Democracy"
+            },
+            {
+              "lang": "ko",
+              "title": "민주주의"
+            },
+            {
+              "lang": "krc",
+              "title": "Демократия"
+            },
+            {
+              "lang": "ksh",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "ku",
+              "title": "Demokrasî"
+            },
+            {
+              "lang": "kw",
+              "title": "Gwerinieth"
+            },
+            {
+              "lang": "ky",
+              "title": "Демократия"
+            },
+            {
+              "lang": "la",
+              "title": "Democratia"
+            },
+            {
+              "lang": "lb",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "lez",
+              "title": "Демократия"
+            },
+            {
+              "lang": "lfn",
+              "title": "Democratia"
+            },
+            {
+              "lang": "li",
+              "title": "Democratie"
+            },
+            {
+              "lang": "lij",
+              "title": "Democraçia"
+            },
+            {
+              "lang": "lmo",
+              "title": "Democrazia"
+            },
+            {
+              "lang": "ln",
+              "title": "Demokrasi"
+            },
+            {
+              "lang": "lt",
+              "title": "Demokratija"
+            },
+            {
+              "lang": "lv",
+              "title": "Demokrātija"
+            },
+            {
+              "lang": "mai",
+              "title": "लोकतन्त्र"
+            },
+            {
+              "lang": "mg",
+              "title": "Demôkrasia"
+            },
+            {
+              "lang": "mhr",
+              "title": "Демократий"
+            },
+            {
+              "lang": "mk",
+              "title": "Демократија"
+            },
+            {
+              "lang": "ml",
+              "title": "ജനാധിപത്യം"
+            },
+            {
+              "lang": "mn",
+              "title": "Ардчилал"
+            },
+            {
+              "lang": "mnw",
+              "title": "ဒဳမဝ်ကရေသဳ"
+            },
+            {
+              "lang": "mr",
+              "title": "लोकशाही"
+            },
+            {
+              "lang": "ms",
+              "title": "Demokrasi"
+            },
+            {
+              "lang": "mwl",
+              "title": "Democracie"
+            },
+            {
+              "lang": "my",
+              "title": "ဒီမိုကရေစီ"
+            },
+            {
+              "lang": "mzn",
+              "title": "دموکراسی"
+            },
+            {
+              "lang": "nah",
+              "title": "Tlācatēpacholiztli"
+            },
+            {
+              "lang": "nds",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Demokraty"
+            },
+            {
+              "lang": "ne",
+              "title": "लोकतन्त्र"
+            },
+            {
+              "lang": "new",
+              "title": "लोकतन्त्र"
+            },
+            {
+              "lang": "nl",
+              "title": "Democratie"
+            },
+            {
+              "lang": "nn",
+              "title": "Folkestyre"
+            },
+            {
+              "lang": "nb",
+              "title": "Demokrati"
+            },
+            {
+              "lang": "nr",
+              "title": "Umbuso wentando yenengi"
+            },
+            {
+              "lang": "nso",
+              "title": "Temokrasi"
+            },
+            {
+              "lang": "ny",
+              "title": "Demokilase"
+            },
+            {
+              "lang": "oc",
+              "title": "Democracia"
+            },
+            {
+              "lang": "olo",
+              "title": "Rahvahanvaldu"
+            },
+            {
+              "lang": "om",
+              "title": "Dimookiraasii"
+            },
+            {
+              "lang": "pa",
+              "title": "ਲੋਕਰਾਜ"
+            },
+            {
+              "lang": "pap",
+              "title": "Demokrasia"
+            },
+            {
+              "lang": "pdc",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "pfl",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "pl",
+              "title": "Demokracja"
+            },
+            {
+              "lang": "pms",
+              "title": "Democrassìa"
+            },
+            {
+              "lang": "pnb",
+              "title": "لوک راج"
+            },
+            {
+              "lang": "ps",
+              "title": "ولسواکي"
+            },
+            {
+              "lang": "pt",
+              "title": "Democracia"
+            },
+            {
+              "lang": "qu",
+              "title": "Llaqta kallpay"
+            },
+            {
+              "lang": "rm",
+              "title": "Democrazia"
+            },
+            {
+              "lang": "ro",
+              "title": "Democrație"
+            },
+            {
+              "lang": "ru",
+              "title": "Демократия"
+            },
+            {
+              "lang": "rue",
+              "title": "Демокрація"
+            },
+            {
+              "lang": "sa",
+              "title": "प्रजातन्त्रम्"
+            },
+            {
+              "lang": "sah",
+              "title": "Демократия"
+            },
+            {
+              "lang": "sc",
+              "title": "Democratzia"
+            },
+            {
+              "lang": "scn",
+              "title": "Dimucrazzìa"
+            },
+            {
+              "lang": "sco",
+              "title": "Democracy"
+            },
+            {
+              "lang": "sd",
+              "title": "جمھوريت"
+            },
+            {
+              "lang": "sh",
+              "title": "Demokratija"
+            },
+            {
+              "lang": "shn",
+              "title": "တီႇမူဝ်ႇၶရေႇသီႇ"
+            },
+            {
+              "lang": "si",
+              "title": "ප්‍රජාතන්ත්‍රවාදය"
+            },
+            {
+              "lang": "simple",
+              "title": "Democracy"
+            },
+            {
+              "lang": "sk",
+              "title": "Demokracia"
+            },
+            {
+              "lang": "sl",
+              "title": "Demokracija"
+            },
+            {
+              "lang": "sn",
+              "title": "Chatemabanze"
+            },
+            {
+              "lang": "so",
+              "title": "Dimoqraadi"
+            },
+            {
+              "lang": "sq",
+              "title": "Demokracia"
+            },
+            {
+              "lang": "sr",
+              "title": "Демократија"
+            },
+            {
+              "lang": "stq",
+              "title": "Demokratie"
+            },
+            {
+              "lang": "su",
+              "title": "Démokrasi"
+            },
+            {
+              "lang": "sv",
+              "title": "Demokrati"
+            },
+            {
+              "lang": "sw",
+              "title": "Demokrasia"
+            },
+            {
+              "lang": "ta",
+              "title": "மக்களாட்சி"
+            },
+            {
+              "lang": "te",
+              "title": "ప్రజాస్వామ్యం"
+            },
+            {
+              "lang": "tg",
+              "title": "Мардумсолорӣ"
+            },
+            {
+              "lang": "th",
+              "title": "ประชาธิปไตย"
+            },
+            {
+              "lang": "ti",
+              "title": "ዲሞክራሲ"
+            },
+            {
+              "lang": "tk",
+              "title": "Demokratiýa"
+            },
+            {
+              "lang": "tl",
+              "title": "Demokrasya"
+            },
+            {
+              "lang": "tok",
+              "title": "nasin lawa pi jan ale"
+            },
+            {
+              "lang": "tr",
+              "title": "Demokrasi"
+            },
+            {
+              "lang": "ts",
+              "title": "Demokhrasi"
+            },
+            {
+              "lang": "tt",
+              "title": "Демократия"
+            },
+            {
+              "lang": "tyv",
+              "title": "Демократия"
+            },
+            {
+              "lang": "ug",
+              "title": "دېموكراتىيە"
+            },
+            {
+              "lang": "uk",
+              "title": "Демократія"
+            },
+            {
+              "lang": "ur",
+              "title": "جمہوریت"
+            },
+            {
+              "lang": "uz",
+              "title": "Demokratiya"
+            },
+            {
+              "lang": "vec",
+              "title": "Democrasia"
+            },
+            {
+              "lang": "vep",
+              "title": "Demokratii"
+            },
+            {
+              "lang": "vi",
+              "title": "Dân chủ"
+            },
+            {
+              "lang": "war",
+              "title": "Demokrasya"
+            },
+            {
+              "lang": "wuu",
+              "title": "民主"
+            },
+            {
+              "lang": "xh",
+              "title": "I-Democracy"
+            },
+            {
+              "lang": "xmf",
+              "title": "დემოკრატია"
+            },
+            {
+              "lang": "yi",
+              "title": "דעמאקראטיע"
+            },
+            {
+              "lang": "yo",
+              "title": "Òṣèlú"
+            },
+            {
+              "lang": "za",
+              "title": "Minzcuj"
+            },
+            {
+              "lang": "zgh",
+              "title": "ⵜⴰⴷⵉⵎⵓⵇⵕⴰⵟⵉⵜ"
+            },
+            {
+              "lang": "zh",
+              "title": "民主"
+            },
+            {
+              "lang": "lzh",
+              "title": "民主"
+            },
+            {
+              "lang": "nan",
+              "title": "Bîn-chú"
+            },
+            {
+              "lang": "yue",
+              "title": "民主"
+            },
+            {
+              "lang": "zu",
+              "title": "Umbuso wabantu"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

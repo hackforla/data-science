@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:25.988314",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250409124449|28033621",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1630754,
+          "ns": 0,
+          "title": "Kínzás",
+          "revisions": [
+            {
+              "timestamp": "2025-06-07T22:47:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

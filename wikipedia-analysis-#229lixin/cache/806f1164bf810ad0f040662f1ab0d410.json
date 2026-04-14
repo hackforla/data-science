@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:23.287739",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061015182036|264349",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 43105,
+          "ns": 0,
+          "title": "Ψηφοφορία",
+          "revisions": [
+            {
+              "timestamp": "2006-10-15T17:52:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

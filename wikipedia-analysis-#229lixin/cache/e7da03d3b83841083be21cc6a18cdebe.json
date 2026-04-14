@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:23.457626",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170716162136|15173490",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1309969,
+          "ns": 0,
+          "title": "Vnitřně vysídlená osoba",
+          "revisions": [
+            {
+              "timestamp": "2017-07-16T16:17:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

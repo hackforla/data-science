@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:03.482181",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250709213840|40244488",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15659,
+          "ns": 0,
+          "title": "지진해일",
+          "revisions": [
+            {
+              "timestamp": "2025-07-10T22:49:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

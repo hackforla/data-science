@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:41.760570",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250329042901|73351268",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5676,
+          "ns": 0,
+          "title": "Tổ chức Y tế Thế giới",
+          "revisions": [
+            {
+              "timestamp": "2025-11-23T09:45:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

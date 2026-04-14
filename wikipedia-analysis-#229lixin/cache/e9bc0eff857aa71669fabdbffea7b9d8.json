@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:08.485723",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050221091359|437407",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 78635,
+          "ns": 0,
+          "title": "選舉",
+          "revisions": [
+            {
+              "timestamp": "2005-02-21T09:03:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

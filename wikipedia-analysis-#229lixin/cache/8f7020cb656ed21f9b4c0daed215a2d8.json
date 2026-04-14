@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:02.209503",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060413092901|1009421",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 154424,
+          "ns": 0,
+          "title": "Ilmastonmuutos",
+          "revisions": [
+            {
+              "timestamp": "2006-04-13T09:22:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

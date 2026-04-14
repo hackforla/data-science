@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:07.795505",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030413165149|105620",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 27027,
+          "ns": 0,
+          "title": "Pressefreiheit",
+          "revisions": [
+            {
+              "timestamp": "2003-04-13T16:43:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

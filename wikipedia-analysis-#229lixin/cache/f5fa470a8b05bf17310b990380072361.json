@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:48.980877",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110102200435|8784186",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1192397,
+          "ns": 0,
+          "title": "Basın özgürlüğü",
+          "revisions": [
+            {
+              "timestamp": "2011-01-02T20:04:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

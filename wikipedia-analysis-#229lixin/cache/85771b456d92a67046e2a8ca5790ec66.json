@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:41.186445",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250424155318|70001080",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 25073,
+          "ns": 0,
+          "title": "Tuberculose",
+          "revisions": [
+            {
+              "timestamp": "2025-08-05T16:27:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

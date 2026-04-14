@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:53.772630",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060104230414|170100",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 27698,
+          "ns": 0,
+          "title": "Verem",
+          "revisions": [
+            {
+              "timestamp": "2005-11-18T16:45:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

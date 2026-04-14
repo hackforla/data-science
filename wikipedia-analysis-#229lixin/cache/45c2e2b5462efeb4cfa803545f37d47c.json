@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:11.956263",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180125205007|105152318",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8325590,
+          "ns": 0,
+          "title": "Control de fronteras",
+          "revisions": [
+            {
+              "timestamp": "2018-01-25T20:15:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

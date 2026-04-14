@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:48.453167",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130927004444|5149125",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 572496,
+          "ns": 0,
+          "title": "ความไร้สัญชาติ",
+          "revisions": [
+            {
+              "timestamp": "2013-09-27T00:40:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

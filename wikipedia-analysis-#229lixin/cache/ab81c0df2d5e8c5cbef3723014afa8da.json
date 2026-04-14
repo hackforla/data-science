@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:27.326484",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230803011832|37644288",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3355465,
+          "ns": 0,
+          "title": "رأی‌گیری",
+          "revisions": [
+            {
+              "timestamp": "2025-02-06T09:49:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:22.353127",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200906180039|29142532",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1877708,
+          "ns": 0,
+          "title": "שוויון מגדרי",
+          "revisions": [
+            {
+              "timestamp": "2020-09-06T17:59:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:35.327019",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030830174638|68508",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14518,
+          "ns": 0,
+          "title": "選挙",
+          "revisions": [
+            {
+              "timestamp": "2003-08-30T17:41:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

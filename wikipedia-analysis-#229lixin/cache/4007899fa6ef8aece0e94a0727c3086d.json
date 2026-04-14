@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:30.276620",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251017212345|28084125",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1685644,
+          "ns": 0,
+          "title": "Tak bernegara",
+          "revisions": [
+            {
+              "timestamp": "2025-11-21T20:56:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

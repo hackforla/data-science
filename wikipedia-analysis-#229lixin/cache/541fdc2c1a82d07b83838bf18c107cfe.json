@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:05.661295",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050728192656|153534",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 28616,
+          "ns": 0,
+          "title": "Mučení",
+          "revisions": [
+            {
+              "timestamp": "2005-07-28T19:14:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

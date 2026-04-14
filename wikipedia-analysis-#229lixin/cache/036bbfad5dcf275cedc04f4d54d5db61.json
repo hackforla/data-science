@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:22.826407",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251031012142|107039443",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 110913,
+          "ns": 0,
+          "title": "出入国管理",
+          "revisions": [
+            {
+              "timestamp": "2026-01-12T01:11:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

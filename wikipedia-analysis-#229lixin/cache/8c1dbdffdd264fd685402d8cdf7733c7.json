@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:32.753641",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251126225013|72590237",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8600543,
+          "ns": 0,
+          "title": "أزمة إنسانية",
+          "revisions": [
+            {
+              "timestamp": "2025-11-26T22:51:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

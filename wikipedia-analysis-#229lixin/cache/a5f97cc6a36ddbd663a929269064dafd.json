@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:31.425877",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080525213634|135377",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16494,
+          "ns": 0,
+          "title": "Shirika la Afya Duniani",
+          "revisions": [
+            {
+              "timestamp": "2008-05-23T20:26:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:18.182548",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101207005133|58084",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12425,
+          "ns": 0,
+          "title": "တောမီး",
+          "revisions": [
+            {
+              "timestamp": "2010-12-06T16:34:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

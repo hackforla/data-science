@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:07.870292",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080524202746|1205700",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 218616,
+          "ns": 0,
+          "title": "خشکسالی",
+          "revisions": [
+            {
+              "timestamp": "2008-05-24T20:26:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

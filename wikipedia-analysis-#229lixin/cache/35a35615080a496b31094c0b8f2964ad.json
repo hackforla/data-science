@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:59.427292",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250530015142|73548274",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17422659,
+          "ns": 0,
+          "title": "Khủng hoảng nhân đạo",
+          "revisions": [
+            {
+              "timestamp": "2025-11-03T04:02:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

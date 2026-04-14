@@ -1,0 +1,344 @@
+{
+  "cached_at": "2026-01-26T00:12:52.261972",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 72956318,
+          "ns": 0,
+          "title": "2023 Turkey–Syria earthquakes",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Turks-Siriese aardbewings van 2023"
+            },
+            {
+              "lang": "ar",
+              "title": "زلزال قهرمان مرعش 2023"
+            },
+            {
+              "lang": "ary",
+              "title": "زلزال د تركيا و سوريا 2023"
+            },
+            {
+              "lang": "as",
+              "title": "২০২৩ চনৰ তুৰস্ক–চিৰিয়া ভূমিকম্প"
+            },
+            {
+              "lang": "az",
+              "title": "Türkiyə–Suriya zəlzələləri (2023)"
+            },
+            {
+              "lang": "azb",
+              "title": "۲۰۲۳ تورکیه-سوریه زلزله‌سی"
+            },
+            {
+              "lang": "ba",
+              "title": "Төркиәлә һәм Сүриәлә ер тетрәү (2023)"
+            },
+            {
+              "lang": "be",
+              "title": "Землетрасенне ў Турцыі і Сірыі (2023)"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Землятрус у Турэччыне і Сырыі (2023)"
+            },
+            {
+              "lang": "bg",
+              "title": "Земетресение в Турция и Сирия (2023)"
+            },
+            {
+              "lang": "bn",
+              "title": "২০২৩ তুরস্ক–সিরিয়া ভূমিকম্প"
+            },
+            {
+              "lang": "bs",
+              "title": "Zemljotresi u Turskoj i Siriji 2023."
+            },
+            {
+              "lang": "ca",
+              "title": "Terratrèmols de Turquia, Síria i el Kurdistan del 2023"
+            },
+            {
+              "lang": "ckb",
+              "title": "بوومەلەرزەی باکوور-ڕۆژاوای کوردستان ٢٠٢٣"
+            },
+            {
+              "lang": "cs",
+              "title": "Zemětřesení v Turecku a Sýrii (2023)"
+            },
+            {
+              "lang": "cy",
+              "title": "Daeargryn Twrci–Syria 2023"
+            },
+            {
+              "lang": "da",
+              "title": "Jordskælvet i Tyrkiet og Syrien 2023"
+            },
+            {
+              "lang": "de",
+              "title": "Erdbeben in der Türkei und Syrien 2023"
+            },
+            {
+              "lang": "el",
+              "title": "Σεισμός Τουρκίας-Συρίας (2023)"
+            },
+            {
+              "lang": "eo",
+              "title": "Tertremo en Turkio kaj Sirio en 2023"
+            },
+            {
+              "lang": "es",
+              "title": "Terremotos de Turquía y Siria de 2023"
+            },
+            {
+              "lang": "et",
+              "title": "2023. aasta Türgi-Süüria maavärin"
+            },
+            {
+              "lang": "eu",
+              "title": "2023ko Turkiako eta Siriako lurrikarak"
+            },
+            {
+              "lang": "fa",
+              "title": "زمین‌لرزه ۲۰۲۳ ترکیه و سوریه"
+            },
+            {
+              "lang": "ff",
+              "title": "Jerɓanɗe leydi to Turki e Siiri"
+            },
+            {
+              "lang": "fi",
+              "title": "Maanjäristykset Turkissa 6. helmikuuta 2023"
+            },
+            {
+              "lang": "fr",
+              "title": "Séismes de 2023 en Turquie et Syrie"
+            },
+            {
+              "lang": "fy",
+              "title": "Ierdbeving yn Turkije en Syrje (2023)"
+            },
+            {
+              "lang": "ga",
+              "title": "Crith talún Gaziantep, An Tuirc, 2023"
+            },
+            {
+              "lang": "gl",
+              "title": "Terremotos de Turquía e Siria de 2023"
+            },
+            {
+              "lang": "he",
+              "title": "רעידות האדמה בטורקיה ובסוריה (2023)"
+            },
+            {
+              "lang": "hi",
+              "title": "2023 तुर्की-सीरिया भूकंप"
+            },
+            {
+              "lang": "hif",
+              "title": "Turkey - Syrian Earthquake 2023"
+            },
+            {
+              "lang": "hr",
+              "title": "Potres u Turskoj i Siriji 2023."
+            },
+            {
+              "lang": "hu",
+              "title": "2023-as törökországi és szíriai földrengések"
+            },
+            {
+              "lang": "hy",
+              "title": "Երկրաշարժ (Թուրքիա-Սիրիա, 2023)"
+            },
+            {
+              "lang": "id",
+              "title": "Gempa bumi Turki–Suriah 2023"
+            },
+            {
+              "lang": "is",
+              "title": "Jarðskjálftinn í Tyrklandi og Sýrlandi 2023"
+            },
+            {
+              "lang": "it",
+              "title": "Terremoto in Turchia e Siria del 2023"
+            },
+            {
+              "lang": "ja",
+              "title": "トルコ・シリア地震"
+            },
+            {
+              "lang": "ka",
+              "title": "თურქეთ-სირიის მიწისძვრები (2023)"
+            },
+            {
+              "lang": "kaa",
+              "title": "Túrkiya—Siriya jer silkiniwi (2023)"
+            },
+            {
+              "lang": "kk",
+              "title": "Түркия мен Сириядағы жер сілкінісі (2023)"
+            },
+            {
+              "lang": "ko",
+              "title": "2023년 튀르키예-시리아 지진"
+            },
+            {
+              "lang": "ks",
+              "title": "2023 تُرکی-شام مُک بُنیُل"
+            },
+            {
+              "lang": "ku",
+              "title": "Erdheja Gurgum û Dîlokê 2023"
+            },
+            {
+              "lang": "la",
+              "title": "Terrae motus Turciae et Syriae anno 2023"
+            },
+            {
+              "lang": "lez",
+              "title": "Туьркиядани Сирияда хьанвай залзала (2023)"
+            },
+            {
+              "lang": "lt",
+              "title": "2023 m. žemės drebėjimai Turkijoje ir Sirijoje"
+            },
+            {
+              "lang": "lv",
+              "title": "2023. gada Turcijas un Sīrijas zemestrīce"
+            },
+            {
+              "lang": "ml",
+              "title": "2023 തുർക്കി-സിറിയ ഭൂകമ്പം"
+            },
+            {
+              "lang": "mr",
+              "title": "२०२३ तुर्कस्तान आणि सीरिया भूकंप"
+            },
+            {
+              "lang": "ms",
+              "title": "Gempa bumi Turki–Syria 2023"
+            },
+            {
+              "lang": "ne",
+              "title": "सन् २०२३ टर्की-सिरिया भूकम्प"
+            },
+            {
+              "lang": "nl",
+              "title": "Aardbeving Turkije-Syrië 2023"
+            },
+            {
+              "lang": "nb",
+              "title": "Jordskjelvet i Tyrkia og Syria 2023"
+            },
+            {
+              "lang": "ny",
+              "title": "2023 Turkey-Syria chivomezi"
+            },
+            {
+              "lang": "pl",
+              "title": "Trzęsienia ziemi w Turcji i Syrii (2023)"
+            },
+            {
+              "lang": "pnb",
+              "title": "ترکی، شام دا زلزلے ۲۰۲۳ء"
+            },
+            {
+              "lang": "pt",
+              "title": "Sismos da Turquia e Síria de 2023"
+            },
+            {
+              "lang": "ro",
+              "title": "Cutremurele din Turcia și Siria din 6 februarie 2023"
+            },
+            {
+              "lang": "ru",
+              "title": "Землетрясение в Турции и Сирии (2023)"
+            },
+            {
+              "lang": "simple",
+              "title": "2023 Turkey–Syria earthquake"
+            },
+            {
+              "lang": "sk",
+              "title": "Zemetrasenie v Turecku a Sýrii 2023"
+            },
+            {
+              "lang": "sl",
+              "title": "Potres v Turčiji in Siriji (2023)"
+            },
+            {
+              "lang": "sv",
+              "title": "Jordbävningen i Turkiet och Syrien 2023"
+            },
+            {
+              "lang": "ta",
+              "title": "2023 துருக்கி–சிரியா நிலநடுக்கம்"
+            },
+            {
+              "lang": "tg",
+              "title": "Заминларзаи Туркияву Сурия (2023)"
+            },
+            {
+              "lang": "th",
+              "title": "แผ่นดินไหวในประเทศตุรกีและประเทศซีเรีย พ.ศ. 2566"
+            },
+            {
+              "lang": "tl",
+              "title": "Mga lindol sa Turkiya–Siria ng 2023"
+            },
+            {
+              "lang": "tr",
+              "title": "2023 Kahramanmaraş depremleri"
+            },
+            {
+              "lang": "tt",
+              "title": "Төркия белән Сүриядә җир тетрәү (2023)"
+            },
+            {
+              "lang": "tum",
+              "title": "2023 Turkey-Syria chindindindi"
+            },
+            {
+              "lang": "uk",
+              "title": "Землетрус у Туреччині та Сирії (2023)"
+            },
+            {
+              "lang": "ur",
+              "title": "ترکیہ، شام کے زلزلے 2023ء"
+            },
+            {
+              "lang": "uz",
+              "title": "Turkiya—Suriya zilzilasi"
+            },
+            {
+              "lang": "vi",
+              "title": "Động đất Thổ Nhĩ Kỳ–Syria 2023"
+            },
+            {
+              "lang": "xmf",
+              "title": "თურქეთ-სირიაშ დიხაშნწალუეფი (2023)"
+            },
+            {
+              "lang": "zh",
+              "title": "2023年土耳其-叙利亚地震"
+            },
+            {
+              "lang": "lzh",
+              "title": "癸卯土國地動"
+            },
+            {
+              "lang": "yue",
+              "title": "2023年土耳其-敍利亞地震"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

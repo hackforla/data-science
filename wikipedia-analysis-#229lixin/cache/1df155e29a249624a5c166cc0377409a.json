@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:15.937623",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250630061329|57675908",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18510,
+          "ns": 0,
+          "title": "Folkmord",
+          "revisions": [
+            {
+              "timestamp": "2025-11-04T12:17:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:06.979356",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200919163508|79596557",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3887028,
+          "ns": 0,
+          "title": "人口移動",
+          "revisions": [
+            {
+              "timestamp": "2019-01-02T22:44:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

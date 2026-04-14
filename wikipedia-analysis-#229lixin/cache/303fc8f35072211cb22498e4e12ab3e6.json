@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:02.480341",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130905100043|11518798",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1768143,
+          "ns": 0,
+          "title": "مساواة بين الجنسين",
+          "revisions": [
+            {
+              "timestamp": "2013-09-02T14:36:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

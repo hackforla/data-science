@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:53.292419",
+  "response": {
+    "continue": {
+      "rvcontinue": "20181014092450|16529036",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1441898,
+          "ns": 0,
+          "title": "Klimatická variabilita a změny klimatu",
+          "revisions": [
+            {
+              "timestamp": "2018-10-14T08:47:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

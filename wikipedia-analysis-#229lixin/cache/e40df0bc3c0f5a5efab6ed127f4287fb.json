@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:40.820659",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250505171322|87157930",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1409586,
+          "ns": 0,
+          "title": "邊境管制",
+          "revisions": [
+            {
+              "timestamp": "2025-05-05T17:19:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

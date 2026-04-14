@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:19.746970",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251001112420|74197624",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 76943,
+          "ns": 0,
+          "title": "Chiến tranh",
+          "revisions": [
+            {
+              "timestamp": "2026-01-18T15:24:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

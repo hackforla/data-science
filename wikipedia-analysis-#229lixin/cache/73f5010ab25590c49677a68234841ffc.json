@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:11.954871",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060120161304|503884",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 319048,
+          "ns": 0,
+          "title": "Valg",
+          "revisions": [
+            {
+              "timestamp": "2006-01-20T15:47:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

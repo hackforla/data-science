@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:46.697654",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250510131057|8165187",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 297096,
+          "ns": 0,
+          "title": "সন্ত্রাসবাদ",
+          "revisions": [
+            {
+              "timestamp": "2025-06-11T09:01:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

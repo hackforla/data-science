@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:06.043863",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251005124118|148962060",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 170394,
+          "ns": 0,
+          "title": "Вакцина",
+          "revisions": [
+            {
+              "timestamp": "2025-10-18T23:16:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

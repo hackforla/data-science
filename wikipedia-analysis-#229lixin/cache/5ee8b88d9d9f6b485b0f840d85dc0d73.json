@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:16.934462",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040123124542|86270",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 30150,
+          "ns": 0,
+          "title": "Jordbävning",
+          "revisions": [
+            {
+              "timestamp": "2004-01-23T12:44:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

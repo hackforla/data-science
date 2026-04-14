@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:49.328339",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061117173633|844704",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 319525,
+          "ns": 0,
+          "title": "Kuraklık",
+          "revisions": [
+            {
+              "timestamp": "2006-11-17T17:34:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:26.395767",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221229200107|200294",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40442,
+          "ns": 0,
+          "title": "Hukuncin Kisa",
+          "revisions": [
+            {
+              "timestamp": "2022-12-29T19:58:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:37.707922",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251123164746|170625493",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 39087,
+          "ns": 0,
+          "title": "Vacuna",
+          "revisions": [
+            {
+              "timestamp": "2025-11-25T01:28:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

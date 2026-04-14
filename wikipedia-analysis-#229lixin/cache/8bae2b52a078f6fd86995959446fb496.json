@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:30.874190",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250826110228|42489868",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 53075,
+          "ns": 0,
+          "title": "دنیاگیری",
+          "revisions": [
+            {
+              "timestamp": "2025-08-26T11:02:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

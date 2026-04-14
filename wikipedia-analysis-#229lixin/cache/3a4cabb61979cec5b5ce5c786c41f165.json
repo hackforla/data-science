@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:25.219951",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240318173757|400854",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10360,
+          "ns": 0,
+          "title": "Zaɓe",
+          "revisions": [
+            {
+              "timestamp": "2024-05-06T19:06:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

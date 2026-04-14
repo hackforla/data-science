@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:47.811112",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220326161538|63264891",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1435475,
+          "ns": 0,
+          "title": "Deslocados internos",
+          "revisions": [
+            {
+              "timestamp": "2022-07-11T13:37:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

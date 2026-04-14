@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:36.460057",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250813204300|8398589",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 113352,
+          "ns": 0,
+          "title": "সুনামি",
+          "revisions": [
+            {
+              "timestamp": "2025-11-17T00:07:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

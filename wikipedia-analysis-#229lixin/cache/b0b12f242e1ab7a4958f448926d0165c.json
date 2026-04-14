@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:35.786809",
+  "response": {
+    "continue": {
+      "rvcontinue": "20071012083919|3959713",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 423241,
+          "ns": 0,
+          "title": "חסר בית",
+          "revisions": [
+            {
+              "timestamp": "2007-10-12T08:36:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

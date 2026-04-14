@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:09.087823",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060120053333|133405",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 26690,
+          "ns": 0,
+          "title": "Tử hình",
+          "revisions": [
+            {
+              "timestamp": "2006-01-20T05:33:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

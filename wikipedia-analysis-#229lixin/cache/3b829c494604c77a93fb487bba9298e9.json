@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:37.754698",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040215142040|96523",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 32213,
+          "ns": 0,
+          "title": "Genocidio",
+          "revisions": [
+            {
+              "timestamp": "2004-02-15T12:41:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

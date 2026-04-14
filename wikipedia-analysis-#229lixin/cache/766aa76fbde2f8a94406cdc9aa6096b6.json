@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:53.874038",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260102122052|1330771096",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21401843,
+          "ns": 0,
+          "title": "Freedom of speech",
+          "revisions": [
+            {
+              "timestamp": "2026-01-02T15:28:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

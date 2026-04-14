@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:28.277821",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250108160741|6336859",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 62441,
+          "ns": 0,
+          "title": "बाल-श्रम",
+          "revisions": [
+            {
+              "timestamp": "2025-08-10T14:16:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

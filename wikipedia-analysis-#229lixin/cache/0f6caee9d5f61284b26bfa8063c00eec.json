@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:44.328455",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060109203508|236524",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48035,
+          "ns": 0,
+          "title": "인종주의",
+          "revisions": [
+            {
+              "timestamp": "2006-01-09T20:27:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

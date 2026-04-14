@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:24.128857",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251205180116|72668389",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 597715,
+          "ns": 0,
+          "title": "لقاح",
+          "revisions": [
+            {
+              "timestamp": "2025-12-05T18:22:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:18.428903",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251207224115|231281783",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4035703,
+          "ns": 0,
+          "title": "Traite des êtres humains",
+          "revisions": [
+            {
+              "timestamp": "2026-01-18T16:34:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

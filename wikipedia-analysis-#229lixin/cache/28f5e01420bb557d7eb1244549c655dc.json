@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:18.723990",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041105133441|75066",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23083,
+          "ns": 0,
+          "title": "Tuberkuloosi",
+          "revisions": [
+            {
+              "timestamp": "2004-11-05T13:21:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

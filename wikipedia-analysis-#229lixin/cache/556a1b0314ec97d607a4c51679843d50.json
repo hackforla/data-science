@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:33.663180",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081007190100|34142477",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3283035,
+          "ns": 0,
+          "title": "Déplacés internes",
+          "revisions": [
+            {
+              "timestamp": "2008-09-12T20:43:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

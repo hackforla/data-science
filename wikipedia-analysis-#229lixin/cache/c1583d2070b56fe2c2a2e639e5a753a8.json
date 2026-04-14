@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:45.195498",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040315141335|8110",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6984,
+          "ns": 0,
+          "title": "Síndrome da imunodeficiência adquirida",
+          "revisions": [
+            {
+              "timestamp": "2004-03-15T11:30:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

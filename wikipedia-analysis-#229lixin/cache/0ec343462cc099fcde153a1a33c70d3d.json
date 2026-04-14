@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:02.067594",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251025121743|89667799",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10863,
+          "ns": 0,
+          "title": "民主",
+          "revisions": [
+            {
+              "timestamp": "2025-11-10T13:30:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

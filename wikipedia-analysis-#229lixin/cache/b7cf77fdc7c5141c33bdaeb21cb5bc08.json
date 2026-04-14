@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:23.328406",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251126130944|30557114",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 114381,
+          "ns": 0,
+          "title": "Избеглица",
+          "revisions": [
+            {
+              "timestamp": "2026-01-07T21:56:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

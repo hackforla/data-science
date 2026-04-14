@@ -1,0 +1,132 @@
+{
+  "cached_at": "2026-01-26T00:19:37.726393",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 69902,
+          "ns": 0,
+          "title": "Extreme weather",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "طقس متطرف"
+            },
+            {
+              "lang": "az",
+              "title": "Ekstremal hava"
+            },
+            {
+              "lang": "bn",
+              "title": "চরম আবহাওয়া"
+            },
+            {
+              "lang": "ca",
+              "title": "Fenomen meteorològic extrem"
+            },
+            {
+              "lang": "cs",
+              "title": "Extrémy počasí"
+            },
+            {
+              "lang": "el",
+              "title": "Ακραίο καιρικό φαινόμενο"
+            },
+            {
+              "lang": "es",
+              "title": "Fenómeno meteorológico extremo"
+            },
+            {
+              "lang": "fa",
+              "title": "هوای غیرعادی"
+            },
+            {
+              "lang": "fi",
+              "title": "Äärimmäiset sääilmiöt"
+            },
+            {
+              "lang": "fr",
+              "title": "Événement météorologique extrême"
+            },
+            {
+              "lang": "ha",
+              "title": "Matsanancin yanayi"
+            },
+            {
+              "lang": "hi",
+              "title": "चरम मौसम"
+            },
+            {
+              "lang": "id",
+              "title": "Cuaca ekstrem"
+            },
+            {
+              "lang": "it",
+              "title": "Fenomeno meteorologico estremo"
+            },
+            {
+              "lang": "ja",
+              "title": "異常気象"
+            },
+            {
+              "lang": "ko",
+              "title": "기상이변"
+            },
+            {
+              "lang": "mk",
+              "title": "Eкстремно време"
+            },
+            {
+              "lang": "ms",
+              "title": "Cuaca melampau"
+            },
+            {
+              "lang": "nl",
+              "title": "Extreem weer"
+            },
+            {
+              "lang": "nn",
+              "title": "Ekstremvêr"
+            },
+            {
+              "lang": "nb",
+              "title": "Ekstremvær"
+            },
+            {
+              "lang": "pt",
+              "title": "Condições meteorológicas extremas"
+            },
+            {
+              "lang": "simple",
+              "title": "Extreme weather"
+            },
+            {
+              "lang": "th",
+              "title": "ลมฟ้าอากาศสุดโต่ง"
+            },
+            {
+              "lang": "tr",
+              "title": "Ekstrem hava olayları"
+            },
+            {
+              "lang": "uk",
+              "title": "Екстремальні погодні явища"
+            },
+            {
+              "lang": "vi",
+              "title": "Thời tiết cực đoan"
+            },
+            {
+              "lang": "zh",
+              "title": "極端天氣"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

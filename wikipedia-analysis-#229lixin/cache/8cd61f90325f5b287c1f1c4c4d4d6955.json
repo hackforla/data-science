@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:25.855073",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231216141958|66544956",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5636526,
+          "ns": 0,
+          "title": "Vluchtelingencrisis",
+          "revisions": [
+            {
+              "timestamp": "2025-07-01T16:56:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

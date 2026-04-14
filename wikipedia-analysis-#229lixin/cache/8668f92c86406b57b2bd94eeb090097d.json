@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:57.594489",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070801140437|5068185",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 750829,
+          "ns": 0,
+          "title": "Антивакцинаторство",
+          "revisions": [
+            {
+              "timestamp": "2007-08-01T13:40:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

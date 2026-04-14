@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:50.795067",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080229212622|1048739",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 201187,
+          "ns": 0,
+          "title": "سازمان جهانی بهداشت",
+          "revisions": [
+            {
+              "timestamp": "2008-02-29T21:25:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

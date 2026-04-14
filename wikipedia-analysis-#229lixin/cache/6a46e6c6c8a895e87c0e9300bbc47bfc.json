@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:37.097953",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240205135716|16085783",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 182663,
+          "ns": 0,
+          "title": "Secetă",
+          "revisions": [
+            {
+              "timestamp": "2025-10-08T20:33:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

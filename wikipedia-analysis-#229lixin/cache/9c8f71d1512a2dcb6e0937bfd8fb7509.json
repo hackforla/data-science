@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:19.724051",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251222162138|42408485",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 399,
+          "ns": 0,
+          "title": "דמוקרטיה",
+          "revisions": [
+            {
+              "timestamp": "2026-01-09T09:44:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

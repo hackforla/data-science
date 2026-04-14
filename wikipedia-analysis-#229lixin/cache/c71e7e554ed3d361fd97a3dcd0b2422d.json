@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:23.022799",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250715143709|25054270",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15333,
+          "ns": 0,
+          "title": "Válka",
+          "revisions": [
+            {
+              "timestamp": "2026-01-06T23:45:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:29.445035",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031213225200|28788",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4319,
+          "ns": 0,
+          "title": "אפליה",
+          "revisions": [
+            {
+              "timestamp": "2003-12-13T22:41:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

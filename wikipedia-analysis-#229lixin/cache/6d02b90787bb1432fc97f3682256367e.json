@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:32.229135",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250327041154|27081536",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2948834,
+          "ns": 0,
+          "title": "Pemilihan",
+          "revisions": [
+            {
+              "timestamp": "2025-10-17T09:00:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

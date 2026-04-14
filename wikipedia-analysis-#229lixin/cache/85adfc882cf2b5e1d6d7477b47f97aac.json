@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:25.604648",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251119234232|107297258",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2045350,
+          "ns": 0,
+          "title": "表現の自由",
+          "revisions": [
+            {
+              "timestamp": "2026-01-17T23:19:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

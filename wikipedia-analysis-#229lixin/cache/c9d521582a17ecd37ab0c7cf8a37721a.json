@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:34.655214",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251028223601|40797458",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 761244,
+          "ns": 0,
+          "title": "무국적",
+          "revisions": [
+            {
+              "timestamp": "2025-11-20T00:01:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

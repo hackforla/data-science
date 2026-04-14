@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:51.927922",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050821234822|1189516",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 77812,
+          "ns": 0,
+          "title": "Asilo humanitario",
+          "revisions": [
+            {
+              "timestamp": "2004-10-24T21:08:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

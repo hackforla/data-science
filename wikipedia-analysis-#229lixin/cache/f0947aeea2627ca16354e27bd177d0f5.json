@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:05.589099",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240501142615|663160",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15742,
+          "ns": 0,
+          "title": "යුද්ධ",
+          "revisions": [
+            {
+              "timestamp": "2025-10-01T12:14:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

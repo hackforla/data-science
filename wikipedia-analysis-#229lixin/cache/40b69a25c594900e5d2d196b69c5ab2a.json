@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:37.059757",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250416133335|29495948",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4014054,
+          "ns": 0,
+          "title": "Климатска промена",
+          "revisions": [
+            {
+              "timestamp": "2025-07-17T19:27:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

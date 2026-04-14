@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:03.105829",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070207044833|740636",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 101373,
+          "ns": 0,
+          "title": "전쟁범죄",
+          "revisions": [
+            {
+              "timestamp": "2007-02-06T10:40:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

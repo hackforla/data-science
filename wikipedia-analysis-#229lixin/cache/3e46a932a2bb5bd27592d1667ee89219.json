@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:47.278711",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230927140503|301113",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 59765,
+          "ns": 0,
+          "title": "تبعیض",
+          "revisions": [
+            {
+              "timestamp": "2022-02-15T13:32:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

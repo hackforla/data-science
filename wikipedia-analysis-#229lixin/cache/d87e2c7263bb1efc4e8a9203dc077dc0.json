@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:52.869381",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031119123916|95398",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 27733,
+          "ns": 0,
+          "title": "ワクチン",
+          "revisions": [
+            {
+              "timestamp": "2003-11-19T12:33:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

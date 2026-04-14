@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:47.474703",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230524230121|77405052",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5212137,
+          "ns": 0,
+          "title": "氣候變化",
+          "revisions": [
+            {
+              "timestamp": "2016-01-29T03:25:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

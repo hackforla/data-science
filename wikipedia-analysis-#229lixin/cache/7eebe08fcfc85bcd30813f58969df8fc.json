@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:07.046253",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090116114500|49899",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9648,
+          "ns": 0,
+          "title": "එන්නත්",
+          "revisions": [
+            {
+              "timestamp": "2009-01-13T07:26:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

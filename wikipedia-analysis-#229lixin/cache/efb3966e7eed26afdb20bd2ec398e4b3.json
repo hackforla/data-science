@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:11.849537",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040111081554|50682",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20926,
+          "ns": 0,
+          "title": "Tuberkulose",
+          "revisions": [
+            {
+              "timestamp": "2003-11-30T22:37:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

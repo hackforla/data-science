@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:19.627789",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051026030429|1132003",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 176952,
+          "ns": 0,
+          "title": "瘟疫",
+          "revisions": [
+            {
+              "timestamp": "2005-10-26T03:00:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

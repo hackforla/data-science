@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:47.482533",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250116170642|56678882",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 105992,
+          "ns": 0,
+          "title": "Statslöshet",
+          "revisions": [
+            {
+              "timestamp": "2025-01-18T08:32:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

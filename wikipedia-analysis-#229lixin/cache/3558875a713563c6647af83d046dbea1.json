@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:13.266204",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050608234205|43624",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21818,
+          "ns": 0,
+          "title": "Геноцид",
+          "revisions": [
+            {
+              "timestamp": "2005-06-08T23:40:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

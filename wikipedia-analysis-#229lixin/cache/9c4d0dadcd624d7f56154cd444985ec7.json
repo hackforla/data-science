@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:55.257427",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240217190409|1321452",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 158903,
+          "ns": 0,
+          "title": "Ajira kwa watoto",
+          "revisions": [
+            {
+              "timestamp": "2025-06-06T11:33:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

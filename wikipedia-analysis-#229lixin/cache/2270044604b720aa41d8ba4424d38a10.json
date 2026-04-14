@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:52.341900",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250926035926|8491414",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1423884,
+          "ns": 0,
+          "title": "জলবায়ু পরিবর্তন",
+          "revisions": [
+            {
+              "timestamp": "2025-10-12T21:21:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

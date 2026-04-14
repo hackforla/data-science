@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:24.166030",
+  "response": {
+    "continue": {
+      "rvcontinue": "20160513092451|3067049",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 486733,
+          "ns": 0,
+          "title": "यक्ष्मा",
+          "revisions": [
+            {
+              "timestamp": "2012-07-12T12:39:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

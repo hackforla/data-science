@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:36.052108",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250805081743|105876708",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6805,
+          "ns": 0,
+          "title": "後天性免疫不全症候群",
+          "revisions": [
+            {
+              "timestamp": "2025-11-05T04:09:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

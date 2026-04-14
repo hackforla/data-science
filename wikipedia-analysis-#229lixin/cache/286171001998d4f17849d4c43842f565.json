@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:41.528181",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250226045115|1276910",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48485,
+          "ns": 0,
+          "title": "निर्वाचन",
+          "revisions": [
+            {
+              "timestamp": "2025-08-25T13:20:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

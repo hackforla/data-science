@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:44.548023",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250114154437|69359119",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 80319,
+          "ns": 0,
+          "title": "Trabalho infantil",
+          "revisions": [
+            {
+              "timestamp": "2025-08-07T14:10:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

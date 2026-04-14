@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:52.555242",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040824190117|97795",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 22992,
+          "ns": 0,
+          "title": "פשע מלחמה",
+          "revisions": [
+            {
+              "timestamp": "2004-08-24T18:57:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:25.509413",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060610124808|1300564",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2972513,
+          "ns": 0,
+          "title": "Нарушения на выборах",
+          "revisions": [
+            {
+              "timestamp": "2006-06-05T09:56:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

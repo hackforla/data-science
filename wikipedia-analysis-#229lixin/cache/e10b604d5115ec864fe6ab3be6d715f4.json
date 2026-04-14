@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:18.487911",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240713160732|465389",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5920,
+          "ns": 0,
+          "title": "Dimokaraɗiyya",
+          "revisions": [
+            {
+              "timestamp": "2025-06-18T05:19:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:07.182164",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230309031700|1143659945",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 73165192,
+          "ns": 0,
+          "title": "Monkeypox",
+          "revisions": [
+            {
+              "timestamp": "2023-07-20T13:42:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:27.115067",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250720152346|42261432",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5157569,
+          "ns": 0,
+          "title": "دنیاگیری کووید-۱۹",
+          "revisions": [
+            {
+              "timestamp": "2025-08-14T12:59:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

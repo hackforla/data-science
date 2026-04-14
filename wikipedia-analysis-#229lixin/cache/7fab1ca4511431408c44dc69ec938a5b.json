@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:14.017354",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051115182754|297929",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 65764,
+          "ns": 0,
+          "title": "Расизъм",
+          "revisions": [
+            {
+              "timestamp": "2005-11-15T09:16:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:35.662410",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241027001541|34134386",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3102345,
+          "ns": 0,
+          "title": "Sınır kontrolü",
+          "revisions": [
+            {
+              "timestamp": "2025-05-06T20:37:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

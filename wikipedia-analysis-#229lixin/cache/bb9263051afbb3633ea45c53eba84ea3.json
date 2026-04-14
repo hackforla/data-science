@@ -1,0 +1,18 @@
+{
+  "cached_at": "2026-01-26T00:50:17.755120",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4137916,
+          "ns": 0,
+          "title": "Income inequality"
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

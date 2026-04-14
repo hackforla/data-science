@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:32.578183",
+  "response": {
+    "continue": {
+      "rvcontinue": "20160917142923|17610974",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2152299,
+          "ns": 0,
+          "title": "Seçim hilesi",
+          "revisions": [
+            {
+              "timestamp": "2016-09-14T11:12:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

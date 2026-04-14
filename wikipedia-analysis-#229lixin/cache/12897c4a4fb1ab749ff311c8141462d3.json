@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:15.561144",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251001192431|8500803",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4712,
+          "ns": 0,
+          "title": "এইচআইভি/এইডস",
+          "revisions": [
+            {
+              "timestamp": "2025-10-14T05:18:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

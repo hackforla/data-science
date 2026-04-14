@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:14.593452",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070613104609|559964",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 71925,
+          "ns": 0,
+          "title": "Φυματίωση",
+          "revisions": [
+            {
+              "timestamp": "2007-06-13T10:39:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

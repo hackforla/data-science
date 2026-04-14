@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:22.591049",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221117134535|767378",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9495,
+          "ns": 0,
+          "title": "ရာသီဥတုပြောင်းလဲမှု",
+          "revisions": [
+            {
+              "timestamp": "2022-11-17T13:45:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

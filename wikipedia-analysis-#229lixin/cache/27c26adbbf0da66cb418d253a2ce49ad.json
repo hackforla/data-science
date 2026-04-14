@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:05.346124",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240224141940|41834830",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1125835,
+          "ns": 0,
+          "title": "Голосування",
+          "revisions": [
+            {
+              "timestamp": "2024-07-15T08:49:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

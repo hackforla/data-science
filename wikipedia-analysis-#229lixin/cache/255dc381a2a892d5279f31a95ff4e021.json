@@ -1,0 +1,588 @@
+{
+  "cached_at": "2026-01-26T00:39:41.385936",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 30636,
+          "ns": 0,
+          "title": "Terrorism",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "gsw",
+              "title": "Terrorismus"
+            },
+            {
+              "lang": "an",
+              "title": "Terrorismo"
+            },
+            {
+              "lang": "ar",
+              "title": "إرهاب"
+            },
+            {
+              "lang": "arz",
+              "title": "ارهاب"
+            },
+            {
+              "lang": "as",
+              "title": "সন্ত্ৰাসবাদ"
+            },
+            {
+              "lang": "ast",
+              "title": "Terrorismu"
+            },
+            {
+              "lang": "az",
+              "title": "Terrorizm"
+            },
+            {
+              "lang": "azb",
+              "title": "تروریزم"
+            },
+            {
+              "lang": "ba",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "sgs",
+              "title": "Teruorėzmos"
+            },
+            {
+              "lang": "bcl",
+              "title": "Terorismo"
+            },
+            {
+              "lang": "be",
+              "title": "Тэрарызм"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Тэрарызм"
+            },
+            {
+              "lang": "bg",
+              "title": "Тероризъм"
+            },
+            {
+              "lang": "bh",
+              "title": "आतंकवाद"
+            },
+            {
+              "lang": "bn",
+              "title": "সন্ত্রাসবাদ"
+            },
+            {
+              "lang": "br",
+              "title": "Sponterezh"
+            },
+            {
+              "lang": "bs",
+              "title": "Terorizam"
+            },
+            {
+              "lang": "btm",
+              "title": "Terorisme"
+            },
+            {
+              "lang": "bxr",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "ca",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "ce",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "ceb",
+              "title": "Terorismo"
+            },
+            {
+              "lang": "ckb",
+              "title": "تیرۆریزم"
+            },
+            {
+              "lang": "cs",
+              "title": "Terorismus"
+            },
+            {
+              "lang": "cy",
+              "title": "Terfysgaeth"
+            },
+            {
+              "lang": "da",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "de",
+              "title": "Terrorismus"
+            },
+            {
+              "lang": "diq",
+              "title": "Terorizm"
+            },
+            {
+              "lang": "el",
+              "title": "Τρομοκρατία"
+            },
+            {
+              "lang": "eo",
+              "title": "Terorismo"
+            },
+            {
+              "lang": "es",
+              "title": "Terrorismo"
+            },
+            {
+              "lang": "et",
+              "title": "Terrorism"
+            },
+            {
+              "lang": "eu",
+              "title": "Terrorismo"
+            },
+            {
+              "lang": "fa",
+              "title": "تروریسم"
+            },
+            {
+              "lang": "fi",
+              "title": "Terrorismi"
+            },
+            {
+              "lang": "fo",
+              "title": "Yvirgangur"
+            },
+            {
+              "lang": "fr",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "fy",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "ga",
+              "title": "Sceimhlitheoireacht"
+            },
+            {
+              "lang": "gcr",
+              "title": "Térorism"
+            },
+            {
+              "lang": "gd",
+              "title": "Ceannairceachd"
+            },
+            {
+              "lang": "gl",
+              "title": "Terrorismo"
+            },
+            {
+              "lang": "gn",
+              "title": "Mondyikakuaa"
+            },
+            {
+              "lang": "gu",
+              "title": "આતંકવાદ"
+            },
+            {
+              "lang": "gv",
+              "title": "Atçhimys"
+            },
+            {
+              "lang": "ha",
+              "title": "Ta'addanci"
+            },
+            {
+              "lang": "he",
+              "title": "טרור"
+            },
+            {
+              "lang": "hi",
+              "title": "आतंकवाद"
+            },
+            {
+              "lang": "hif",
+              "title": "Atankwaad"
+            },
+            {
+              "lang": "hr",
+              "title": "Terorizam"
+            },
+            {
+              "lang": "hu",
+              "title": "Terrorizmus"
+            },
+            {
+              "lang": "hy",
+              "title": "Ահաբեկչություն"
+            },
+            {
+              "lang": "hyw",
+              "title": "Ահաբեկչութիւն"
+            },
+            {
+              "lang": "ia",
+              "title": "Terrorismo"
+            },
+            {
+              "lang": "id",
+              "title": "Terorisme"
+            },
+            {
+              "lang": "ie",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "ilo",
+              "title": "Terorismo"
+            },
+            {
+              "lang": "io",
+              "title": "Terorismo"
+            },
+            {
+              "lang": "is",
+              "title": "Hryðjuverk"
+            },
+            {
+              "lang": "it",
+              "title": "Terrorismo"
+            },
+            {
+              "lang": "ja",
+              "title": "テロリズム"
+            },
+            {
+              "lang": "jbo",
+              "title": "tadjycolnunte'a"
+            },
+            {
+              "lang": "jv",
+              "title": "Terorisme"
+            },
+            {
+              "lang": "ka",
+              "title": "ტერორიზმი"
+            },
+            {
+              "lang": "kaa",
+              "title": "Terrorizm"
+            },
+            {
+              "lang": "kab",
+              "title": "Aremmaɣ"
+            },
+            {
+              "lang": "kk",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "kn",
+              "title": "ಭಯೋತ್ಪಾದನೆ"
+            },
+            {
+              "lang": "knc",
+              "title": "Terrorism"
+            },
+            {
+              "lang": "ko",
+              "title": "테러리즘"
+            },
+            {
+              "lang": "krc",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "ku",
+              "title": "Terorîzm"
+            },
+            {
+              "lang": "kw",
+              "title": "Broweghereth"
+            },
+            {
+              "lang": "ky",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "la",
+              "title": "Tromocratia"
+            },
+            {
+              "lang": "lad",
+              "title": "Terrorizmo"
+            },
+            {
+              "lang": "li",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "lld",
+              "title": "Terorism"
+            },
+            {
+              "lang": "lmo",
+              "title": "Terrorism"
+            },
+            {
+              "lang": "lt",
+              "title": "Terorizmas"
+            },
+            {
+              "lang": "lv",
+              "title": "Terorisms"
+            },
+            {
+              "lang": "mg",
+              "title": "Fampihorohoroana"
+            },
+            {
+              "lang": "mk",
+              "title": "Тероризам"
+            },
+            {
+              "lang": "ml",
+              "title": "ഭീകരവാദം"
+            },
+            {
+              "lang": "mn",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "mr",
+              "title": "दहशतवाद"
+            },
+            {
+              "lang": "ms",
+              "title": "Terorisme"
+            },
+            {
+              "lang": "my",
+              "title": "အကြမ်းဖက်ဝါဒ"
+            },
+            {
+              "lang": "mzn",
+              "title": "تروریسم"
+            },
+            {
+              "lang": "nds",
+              "title": "Terrorismus"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "ne",
+              "title": "आतङ्कवाद"
+            },
+            {
+              "lang": "new",
+              "title": "आतङ्कवाद"
+            },
+            {
+              "lang": "nl",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "nn",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "nb",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "oc",
+              "title": "Terrorisme"
+            },
+            {
+              "lang": "pa",
+              "title": "ਦਹਿਸ਼ਤਵਾਦ"
+            },
+            {
+              "lang": "pap",
+              "title": "Terorismo"
+            },
+            {
+              "lang": "pl",
+              "title": "Terroryzm"
+            },
+            {
+              "lang": "pms",
+              "title": "Terorism"
+            },
+            {
+              "lang": "pnb",
+              "title": "دہشت گردی"
+            },
+            {
+              "lang": "pt",
+              "title": "Terrorismo"
+            },
+            {
+              "lang": "ro",
+              "title": "Terorism"
+            },
+            {
+              "lang": "ru",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "rue",
+              "title": "Терорізм"
+            },
+            {
+              "lang": "rw",
+              "title": "Iterabwoba"
+            },
+            {
+              "lang": "sah",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "sc",
+              "title": "Terrorismu"
+            },
+            {
+              "lang": "scn",
+              "title": "Tirrurìsimu"
+            },
+            {
+              "lang": "sco",
+              "title": "Terrorism"
+            },
+            {
+              "lang": "sd",
+              "title": "دھشتگردي"
+            },
+            {
+              "lang": "sh",
+              "title": "Terorizam"
+            },
+            {
+              "lang": "si",
+              "title": "ත්‍රස්තවාදය"
+            },
+            {
+              "lang": "simple",
+              "title": "Terrorism"
+            },
+            {
+              "lang": "sk",
+              "title": "Terorizmus"
+            },
+            {
+              "lang": "sl",
+              "title": "Terorizem"
+            },
+            {
+              "lang": "sq",
+              "title": "Terrorizmi"
+            },
+            {
+              "lang": "sr",
+              "title": "Тероризам"
+            },
+            {
+              "lang": "sv",
+              "title": "Terrorism"
+            },
+            {
+              "lang": "sw",
+              "title": "Ugaidi"
+            },
+            {
+              "lang": "ta",
+              "title": "பயங்கரவாதம்"
+            },
+            {
+              "lang": "te",
+              "title": "ఉగ్రవాదం"
+            },
+            {
+              "lang": "tg",
+              "title": "Терроризм"
+            },
+            {
+              "lang": "th",
+              "title": "การก่อการร้าย"
+            },
+            {
+              "lang": "tl",
+              "title": "Terorismo"
+            },
+            {
+              "lang": "tr",
+              "title": "Terörizm"
+            },
+            {
+              "lang": "tt",
+              "title": "Террорчылык"
+            },
+            {
+              "lang": "uk",
+              "title": "Тероризм"
+            },
+            {
+              "lang": "ur",
+              "title": "دہشت گردی"
+            },
+            {
+              "lang": "uz",
+              "title": "Terrorizm"
+            },
+            {
+              "lang": "vi",
+              "title": "Khủng bố"
+            },
+            {
+              "lang": "wa",
+              "title": "Terorisse"
+            },
+            {
+              "lang": "war",
+              "title": "Terorismo"
+            },
+            {
+              "lang": "wuu",
+              "title": "恐怖主义"
+            },
+            {
+              "lang": "xmf",
+              "title": "ტერორიზმი"
+            },
+            {
+              "lang": "yi",
+              "title": "טעראריזם"
+            },
+            {
+              "lang": "zh",
+              "title": "恐怖主义"
+            },
+            {
+              "lang": "nan",
+              "title": "Khióng-pò͘-chú-gī"
+            },
+            {
+              "lang": "yue",
+              "title": "恐怖主義"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

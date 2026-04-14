@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:50.873503",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210209094348|1005768894",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 65021828,
+          "ns": 0,
+          "title": "Global warming",
+          "revisions": [
+            {
+              "timestamp": "2020-08-21T09:46:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

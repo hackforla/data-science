@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:47.065775",
+  "response": {
+    "continue": {
+      "rvcontinue": "20091217101652|2223970",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 288257,
+          "ns": 0,
+          "title": "การเซ็นเซอร์",
+          "revisions": [
+            {
+              "timestamp": "2009-12-17T10:15:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

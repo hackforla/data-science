@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:21.533365",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070112090835|2471822",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 297930,
+          "ns": 0,
+          "title": "סחר בבני אדם",
+          "revisions": [
+            {
+              "timestamp": "2007-01-10T18:00:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

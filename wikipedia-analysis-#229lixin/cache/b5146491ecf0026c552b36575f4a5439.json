@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:15.198902",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251106052721|28353260",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3578381,
+          "ns": 0,
+          "title": "Pemilihan umum Presiden Amerika Serikat 2024",
+          "revisions": [
+            {
+              "timestamp": "2025-11-14T08:14:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

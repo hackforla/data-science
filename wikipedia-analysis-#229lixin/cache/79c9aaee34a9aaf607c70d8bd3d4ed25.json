@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:23.881454",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030504153427|15878",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 13381,
+          "ns": 0,
+          "title": "Krig",
+          "revisions": [
+            {
+              "timestamp": "2003-05-04T13:17:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

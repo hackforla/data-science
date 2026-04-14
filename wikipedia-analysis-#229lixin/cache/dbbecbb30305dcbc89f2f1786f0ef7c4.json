@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:03.218275",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210721163139|99604",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 22771,
+          "ns": 0,
+          "title": "Ambaliya",
+          "revisions": [
+            {
+              "timestamp": "2021-07-21T16:30:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

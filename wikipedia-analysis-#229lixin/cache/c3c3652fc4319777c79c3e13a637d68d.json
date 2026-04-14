@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:54.522852",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210526055431|5202999",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1280838,
+          "ns": 0,
+          "title": "चरम मौसम",
+          "revisions": [
+            {
+              "timestamp": "2021-05-26T05:52:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
