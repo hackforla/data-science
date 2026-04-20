@@ -24,7 +24,7 @@ jupyterlab==2.2.10
 jupyterlab-server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1590229434073/work
 m3u8downloader==0.8.0
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.1.0
 mkl-random==1.1.0
 mkl-service==2.3.0
