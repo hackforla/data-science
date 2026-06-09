@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:13.313059",
+  "response": {
+    "continue": {
+      "rvcontinue": "20160125154238|38856635",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5208599,
+          "ns": 0,
+          "title": "極端天氣",
+          "revisions": [
+            {
+              "timestamp": "2016-01-25T15:39:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

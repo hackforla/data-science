@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:35.327516",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210111230912|48745627",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8520950,
+          "ns": 0,
+          "title": "Presidentvalet i USA 2024",
+          "revisions": [
+            {
+              "timestamp": "2021-01-11T23:07:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+# Wikipedia Language Equity Analysis - Time-Sensitive Topics
+# 50 critical topics requiring timely information for public safety and human rights
+
+# ==================== PUBLIC HEALTH EMERGENCIES (10) ====================
+COVID-19 pandemic
+Monkeypox
+Ebola virus disease
+HIV/AIDS
+Tuberculosis
+Malaria
+Pandemic
+Vaccine
+Mpox outbreak
+World Health Organization
+
+# ==================== CLIMATE DISASTERS & EMERGENCIES (10) ====================
+Climate change
+Global warming
+2023 Turkey–Syria earthquakes
+Wildfire
+Flood
+Drought
+Hurricane
+Earthquake
+Tsunami
+Extreme weather
+
+# ==================== MIGRATION & REFUGEE CRISES (8) ====================
+Refugee crisis
+Migrant crisis
+Refugee
+Human migration
+Asylum seeker
+Internally displaced person
+Statelessness
+Border control
+
+# ==================== HUMAN RIGHTS & FREEDOMS (10) ====================
+Human rights
+Freedom of speech
+Freedom of the press
+Censorship
+Human trafficking
+Torture
+Gender equality
+LGBT rights
+Child labour
+Capital punishment
+
+# ==================== CONFLICT & HUMANITARIAN CRISES (6) ====================
+War
+Genocide
+War crime
+Humanitarian crisis
+Peacekeeping
+Terrorism
+
+# ==================== DEMOCRATIC PROCESSES (6) ====================
+2024 United States presidential election
+Electoral fraud
+Voter suppression
+Democracy
+Election
+Voting
+
+# ==================== CRITICAL SOCIAL ISSUES (6) ====================
+Poverty
+Homelessness
+Discrimination
+Racism
+Income inequality
+Vaccine hesitancy

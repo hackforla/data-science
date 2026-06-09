@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:46.442199",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250709131358|77163233",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 132117,
+          "ns": 0,
+          "title": "Dyskryminacja (psychologia społeczna)",
+          "revisions": [
+            {
+              "timestamp": "2025-08-10T04:47:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

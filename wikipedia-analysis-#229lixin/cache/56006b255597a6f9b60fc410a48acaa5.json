@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:38.583774",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070619025845|816004",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3432330,
+          "ns": 0,
+          "title": "لاجئ",
+          "revisions": [
+            {
+              "timestamp": "2007-06-19T02:57:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

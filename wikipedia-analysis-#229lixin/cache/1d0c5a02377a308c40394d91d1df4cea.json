@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:52.555207",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051114201455|1223751",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 187327,
+          "ns": 0,
+          "title": "Barnarbete",
+          "revisions": [
+            {
+              "timestamp": "2005-08-20T21:17:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

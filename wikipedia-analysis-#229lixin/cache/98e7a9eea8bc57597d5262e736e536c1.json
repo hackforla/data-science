@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:36.082203",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240129214618|37959288",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1020120,
+          "ns": 0,
+          "title": "פנדמיה",
+          "revisions": [
+            {
+              "timestamp": "2024-09-02T20:51:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

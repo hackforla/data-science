@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:47.010158",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260124135617|78877503",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 71936,
+          "ns": 0,
+          "title": "Kara śmierci",
+          "revisions": [
+            {
+              "timestamp": "2026-01-24T13:57:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

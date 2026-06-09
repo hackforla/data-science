@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:13.907648",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251228140206|28640294",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1839385,
+          "ns": 0,
+          "title": "2024-es amerikai elnökválasztás",
+          "revisions": [
+            {
+              "timestamp": "2026-01-14T05:39:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

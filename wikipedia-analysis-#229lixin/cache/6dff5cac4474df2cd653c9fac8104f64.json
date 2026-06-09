@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:58.440541",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140102020244|157968",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14167,
+          "ns": 0,
+          "title": "جگړه",
+          "revisions": [
+            {
+              "timestamp": "2014-01-02T02:03:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

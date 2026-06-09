@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:19.517224",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250307213946|12522563",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 62937,
+          "ns": 0,
+          "title": "Война",
+          "revisions": [
+            {
+              "timestamp": "2025-03-08T07:50:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

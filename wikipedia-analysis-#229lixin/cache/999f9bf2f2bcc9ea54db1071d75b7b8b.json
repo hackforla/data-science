@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:36.168609",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251130012633|30566898",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 136552,
+          "ns": 0,
+          "title": "Глобално загревање",
+          "revisions": [
+            {
+              "timestamp": "2025-12-07T04:05:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

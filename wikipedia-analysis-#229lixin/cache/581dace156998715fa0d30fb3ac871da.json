@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:04.578400",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251012192616|28460998",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 927374,
+          "ns": 0,
+          "title": "Menekült",
+          "revisions": [
+            {
+              "timestamp": "2025-10-12T19:48:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

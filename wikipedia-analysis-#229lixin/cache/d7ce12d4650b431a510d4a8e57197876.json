@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:59.368061",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050516020912|19759",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5967,
+          "ns": 0,
+          "title": "Dân chủ",
+          "revisions": [
+            {
+              "timestamp": "2005-05-15T22:27:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

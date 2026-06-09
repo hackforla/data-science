@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:02.229936",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230206081819|230603659",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12547238,
+          "ns": 0,
+          "title": "Erdbeben in der Türkei und Syrien 2023",
+          "revisions": [
+            {
+              "timestamp": "2023-02-06T08:16:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

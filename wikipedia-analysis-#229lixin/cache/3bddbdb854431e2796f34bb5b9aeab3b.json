@@ -1,0 +1,560 @@
+{
+  "cached_at": "2026-01-26T00:46:12.521241",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 64959,
+          "ns": 0,
+          "title": "Poverty",
+          "langlinks": [
+            {
+              "lang": "ab",
+              "title": "Аӷарра"
+            },
+            {
+              "lang": "af",
+              "title": "Armoede"
+            },
+            {
+              "lang": "an",
+              "title": "Pobreza"
+            },
+            {
+              "lang": "ar",
+              "title": "فقر"
+            },
+            {
+              "lang": "ary",
+              "title": "فقر"
+            },
+            {
+              "lang": "as",
+              "title": "দৰিদ্ৰতা"
+            },
+            {
+              "lang": "ast",
+              "title": "Probeza"
+            },
+            {
+              "lang": "az",
+              "title": "Kasıblıq"
+            },
+            {
+              "lang": "azb",
+              "title": "یوخسوللوق"
+            },
+            {
+              "lang": "ba",
+              "title": "Ярлылыҡ"
+            },
+            {
+              "lang": "sgs",
+              "title": "Ubagīstė"
+            },
+            {
+              "lang": "bcl",
+              "title": "Katikapohan"
+            },
+            {
+              "lang": "be",
+              "title": "Беднасць"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Беднасьць"
+            },
+            {
+              "lang": "bg",
+              "title": "Бедност"
+            },
+            {
+              "lang": "bh",
+              "title": "गरीबी"
+            },
+            {
+              "lang": "bn",
+              "title": "দারিদ্র্য"
+            },
+            {
+              "lang": "bo",
+              "title": "དབུལ་ཕོངས།"
+            },
+            {
+              "lang": "br",
+              "title": "Paourentez"
+            },
+            {
+              "lang": "bs",
+              "title": "Siromaštvo"
+            },
+            {
+              "lang": "ca",
+              "title": "Pobresa"
+            },
+            {
+              "lang": "ce",
+              "title": "Къоьлла"
+            },
+            {
+              "lang": "ckb",
+              "title": "ھەژاری"
+            },
+            {
+              "lang": "cs",
+              "title": "Chudoba"
+            },
+            {
+              "lang": "cv",
+              "title": "Чухăнлăх"
+            },
+            {
+              "lang": "cy",
+              "title": "Tlodi"
+            },
+            {
+              "lang": "da",
+              "title": "Fattigdom"
+            },
+            {
+              "lang": "de",
+              "title": "Armut"
+            },
+            {
+              "lang": "el",
+              "title": "Φτώχεια"
+            },
+            {
+              "lang": "eo",
+              "title": "Malriĉeco"
+            },
+            {
+              "lang": "es",
+              "title": "Pobreza"
+            },
+            {
+              "lang": "et",
+              "title": "Vaesus"
+            },
+            {
+              "lang": "eu",
+              "title": "Pobretasun"
+            },
+            {
+              "lang": "fa",
+              "title": "فقر"
+            },
+            {
+              "lang": "fi",
+              "title": "Köyhyys"
+            },
+            {
+              "lang": "fr",
+              "title": "Pauvreté"
+            },
+            {
+              "lang": "fur",
+              "title": "Puaretât"
+            },
+            {
+              "lang": "fy",
+              "title": "Earmoede"
+            },
+            {
+              "lang": "gcr",
+              "title": "Povté"
+            },
+            {
+              "lang": "gl",
+              "title": "Pobreza"
+            },
+            {
+              "lang": "gn",
+              "title": "Sogue"
+            },
+            {
+              "lang": "ha",
+              "title": "Talauci"
+            },
+            {
+              "lang": "he",
+              "title": "עוני"
+            },
+            {
+              "lang": "hi",
+              "title": "गरीबी"
+            },
+            {
+              "lang": "hif",
+              "title": "Garibi"
+            },
+            {
+              "lang": "hr",
+              "title": "Siromaštvo"
+            },
+            {
+              "lang": "ht",
+              "title": "Pòv"
+            },
+            {
+              "lang": "hu",
+              "title": "Szegénység"
+            },
+            {
+              "lang": "hy",
+              "title": "Աղքատություն"
+            },
+            {
+              "lang": "ia",
+              "title": "Paupertate"
+            },
+            {
+              "lang": "id",
+              "title": "Kemiskinan"
+            },
+            {
+              "lang": "ie",
+              "title": "Povritá"
+            },
+            {
+              "lang": "is",
+              "title": "Fátækt"
+            },
+            {
+              "lang": "it",
+              "title": "Povertà"
+            },
+            {
+              "lang": "ja",
+              "title": "貧困"
+            },
+            {
+              "lang": "jam",
+              "title": "Pavati"
+            },
+            {
+              "lang": "jbo",
+              "title": "kampindi"
+            },
+            {
+              "lang": "jv",
+              "title": "Kamlaratan"
+            },
+            {
+              "lang": "ka",
+              "title": "სიღარიბე"
+            },
+            {
+              "lang": "kcg",
+              "title": "Kunak (kyang)"
+            },
+            {
+              "lang": "kk",
+              "title": "Абсолютті кедейшілік"
+            },
+            {
+              "lang": "km",
+              "title": "ភាពក្រីក្រ"
+            },
+            {
+              "lang": "kn",
+              "title": "ಬಡತನ"
+            },
+            {
+              "lang": "ko",
+              "title": "빈곤"
+            },
+            {
+              "lang": "ks",
+              "title": "غُربَت"
+            },
+            {
+              "lang": "ku",
+              "title": "Xizanî"
+            },
+            {
+              "lang": "ky",
+              "title": "Жакырчылык"
+            },
+            {
+              "lang": "la",
+              "title": "Paupertas"
+            },
+            {
+              "lang": "lb",
+              "title": "Aarmut"
+            },
+            {
+              "lang": "lg",
+              "title": "Obubulwa"
+            },
+            {
+              "lang": "lmo",
+              "title": "Puertà"
+            },
+            {
+              "lang": "lo",
+              "title": "ຄວາມທຸກຍາກ"
+            },
+            {
+              "lang": "lt",
+              "title": "Skurdas"
+            },
+            {
+              "lang": "lv",
+              "title": "Nabadzība"
+            },
+            {
+              "lang": "mg",
+              "title": "Fahantrana"
+            },
+            {
+              "lang": "mk",
+              "title": "Сиромаштија"
+            },
+            {
+              "lang": "ml",
+              "title": "ദാരിദ്ര്യം"
+            },
+            {
+              "lang": "mn",
+              "title": "Ядуурал"
+            },
+            {
+              "lang": "mni",
+              "title": "ꯂꯥꯏꯔꯕ"
+            },
+            {
+              "lang": "ms",
+              "title": "Kemiskinan"
+            },
+            {
+              "lang": "my",
+              "title": "ဆင်းရဲမွဲတေမှု"
+            },
+            {
+              "lang": "nds",
+              "title": "Armood"
+            },
+            {
+              "lang": "ne",
+              "title": "गरिबी"
+            },
+            {
+              "lang": "nl",
+              "title": "Armoede"
+            },
+            {
+              "lang": "nn",
+              "title": "Fattigdom"
+            },
+            {
+              "lang": "nb",
+              "title": "Fattigdom"
+            },
+            {
+              "lang": "nrm",
+              "title": "Pouortaé"
+            },
+            {
+              "lang": "oc",
+              "title": "Pauretat"
+            },
+            {
+              "lang": "om",
+              "title": "Hiyyummaa"
+            },
+            {
+              "lang": "pa",
+              "title": "ਗਰੀਬੀ"
+            },
+            {
+              "lang": "pcm",
+              "title": "Poverty"
+            },
+            {
+              "lang": "pdc",
+              "title": "Aarmut"
+            },
+            {
+              "lang": "pl",
+              "title": "Bieda"
+            },
+            {
+              "lang": "pms",
+              "title": "Povertà"
+            },
+            {
+              "lang": "pnb",
+              "title": "غربت"
+            },
+            {
+              "lang": "ps",
+              "title": "بېوزلي"
+            },
+            {
+              "lang": "pt",
+              "title": "Pobreza"
+            },
+            {
+              "lang": "qu",
+              "title": "Wakcha"
+            },
+            {
+              "lang": "ro",
+              "title": "Sărăcie"
+            },
+            {
+              "lang": "ru",
+              "title": "Бедность"
+            },
+            {
+              "lang": "rue",
+              "title": "Худоба"
+            },
+            {
+              "lang": "sat",
+              "title": "ᱨᱮᱸᱜᱮᱡ ᱦᱚᱲ"
+            },
+            {
+              "lang": "scn",
+              "title": "Puvireddu"
+            },
+            {
+              "lang": "sd",
+              "title": "غربت"
+            },
+            {
+              "lang": "sh",
+              "title": "Siromaštvo"
+            },
+            {
+              "lang": "si",
+              "title": "දිළිඳුබව"
+            },
+            {
+              "lang": "simple",
+              "title": "Poverty"
+            },
+            {
+              "lang": "skr",
+              "title": "ݙو طبقے"
+            },
+            {
+              "lang": "sl",
+              "title": "Revščina"
+            },
+            {
+              "lang": "so",
+              "title": "Sabool"
+            },
+            {
+              "lang": "sq",
+              "title": "Varfëria"
+            },
+            {
+              "lang": "sr",
+              "title": "Сиромаштво"
+            },
+            {
+              "lang": "sv",
+              "title": "Fattigdom"
+            },
+            {
+              "lang": "sw",
+              "title": "Umaskini"
+            },
+            {
+              "lang": "ta",
+              "title": "வறுமை"
+            },
+            {
+              "lang": "te",
+              "title": "పేదరికం"
+            },
+            {
+              "lang": "tg",
+              "title": "Фақр"
+            },
+            {
+              "lang": "th",
+              "title": "ความยากจน"
+            },
+            {
+              "lang": "tl",
+              "title": "Kahirapan"
+            },
+            {
+              "lang": "tok",
+              "title": "jo lili"
+            },
+            {
+              "lang": "tr",
+              "title": "Yoksulluk"
+            },
+            {
+              "lang": "tt",
+              "title": "Ярлылык"
+            },
+            {
+              "lang": "uk",
+              "title": "Бідність"
+            },
+            {
+              "lang": "ur",
+              "title": "غربت"
+            },
+            {
+              "lang": "uz",
+              "title": "Qashshoqlik"
+            },
+            {
+              "lang": "vep",
+              "title": "Gollüz"
+            },
+            {
+              "lang": "vi",
+              "title": "Nghèo"
+            },
+            {
+              "lang": "war",
+              "title": "Kakablasan"
+            },
+            {
+              "lang": "wuu",
+              "title": "贫穷"
+            },
+            {
+              "lang": "xh",
+              "title": "Ubuhlwempu"
+            },
+            {
+              "lang": "yi",
+              "title": "ארימקייט"
+            },
+            {
+              "lang": "yo",
+              "title": "Àìní"
+            },
+            {
+              "lang": "zh",
+              "title": "貧窮"
+            },
+            {
+              "lang": "nan",
+              "title": "Sàn-chhiah"
+            },
+            {
+              "lang": "yue",
+              "title": "窮"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

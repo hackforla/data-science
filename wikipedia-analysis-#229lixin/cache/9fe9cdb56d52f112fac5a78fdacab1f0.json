@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:55.891126",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200208124740|1100580",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 121175,
+          "ns": 0,
+          "title": "Mlipuko wa virusi vya korona 2019-20",
+          "revisions": [
+            {
+              "timestamp": "2020-02-08T12:30:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

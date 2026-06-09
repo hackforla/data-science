@@ -1,0 +1,352 @@
+{
+  "cached_at": "2026-01-26T00:40:47.059174",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 59568546,
+          "ns": 0,
+          "title": "2024 United States presidential election",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Amerikaanse presidentsverkiesing 2024"
+            },
+            {
+              "lang": "ar",
+              "title": "الانتخابات الرئاسية الأمريكية 2024"
+            },
+            {
+              "lang": "ary",
+              "title": "نتيخابات رياسية د لميريكان 2024"
+            },
+            {
+              "lang": "az",
+              "title": "ABŞ-də prezident seçkiləri (2024)"
+            },
+            {
+              "lang": "ban",
+              "title": "Pamilihan umum Présidén Amérika Serikat 2024"
+            },
+            {
+              "lang": "bbc",
+              "title": "Pamillit Presiden ni Amerika Serikat 2024"
+            },
+            {
+              "lang": "be",
+              "title": "Прэзідэнцкія выбары ў ЗША (2024)"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Прэзыдэнцкія выбары ў ЗША 2024 году"
+            },
+            {
+              "lang": "bg",
+              "title": "Президентски избори в САЩ (2024)"
+            },
+            {
+              "lang": "bn",
+              "title": "মার্কিন যুক্তরাষ্ট্রের রাষ্ট্রপতি নির্বাচন, ২০২৪"
+            },
+            {
+              "lang": "ca",
+              "title": "Eleccions presidencials dels Estats Units de 2024"
+            },
+            {
+              "lang": "cdo",
+              "title": "2024 nièng Mī-guók cūng-tūng sōng-gṳ̄"
+            },
+            {
+              "lang": "ckb",
+              "title": "ھەڵبژاردنی سەرۆکایەتیی ویلایەتە یەکگرتووەکانی ئەمریکا (٢٠٢٤)"
+            },
+            {
+              "lang": "cs",
+              "title": "Volby prezidenta USA 2024"
+            },
+            {
+              "lang": "cv",
+              "title": "АПШри президент суйлавĕ (2024)"
+            },
+            {
+              "lang": "cy",
+              "title": "Etholiad arlywyddol yr Unol Daleithiau, 2024"
+            },
+            {
+              "lang": "da",
+              "title": "Præsidentvalget i USA 2024"
+            },
+            {
+              "lang": "de",
+              "title": "Präsidentschaftswahl in den Vereinigten Staaten 2024"
+            },
+            {
+              "lang": "diq",
+              "title": "Weçinıtışê serêcumhuriya DAY 2024"
+            },
+            {
+              "lang": "el",
+              "title": "Προεδρική εκλογή των Ηνωμένων Πολιτειών 2024"
+            },
+            {
+              "lang": "es",
+              "title": "Elecciones presidenciales de Estados Unidos de 2024"
+            },
+            {
+              "lang": "et",
+              "title": "2024. aasta Ameerika Ühendriikide presidendivalimised"
+            },
+            {
+              "lang": "eu",
+              "title": "2024ko Ameriketako Estatu Batuetako hauteskunde presidentzialak"
+            },
+            {
+              "lang": "fa",
+              "title": "انتخابات ریاست‌جمهوری ایالات متحده آمریکا (۲۰۲۴)"
+            },
+            {
+              "lang": "fi",
+              "title": "Yhdysvaltain presidentinvaalit 2024"
+            },
+            {
+              "lang": "fr",
+              "title": "Élection présidentielle américaine de 2024"
+            },
+            {
+              "lang": "frr",
+              "title": "US-Presidentenwool 2024"
+            },
+            {
+              "lang": "fy",
+              "title": "Amerikaanske presidintsferkiezings (2024)"
+            },
+            {
+              "lang": "ga",
+              "title": "Toghchán Uachtaránachta na Stát Aontaithe 2024"
+            },
+            {
+              "lang": "gl",
+              "title": "Eleccións presidenciais dos Estados Unidos de 2024"
+            },
+            {
+              "lang": "ha",
+              "title": "Zaɓen shugaban ƙasar Amurka a 2024"
+            },
+            {
+              "lang": "hak",
+              "title": "2024-ngièn Mî-koet chúng-thúng sién-kí"
+            },
+            {
+              "lang": "he",
+              "title": "הבחירות לנשיאות ארצות הברית 2024"
+            },
+            {
+              "lang": "hi",
+              "title": "संयुक्त राज्य राष्ट्रपति चुनाव, 2024"
+            },
+            {
+              "lang": "hr",
+              "title": "Predsjednički izbori u Sjedinjenim Američkim Državama 2024."
+            },
+            {
+              "lang": "hu",
+              "title": "2024-es amerikai elnökválasztás"
+            },
+            {
+              "lang": "hy",
+              "title": "ԱՄՆ նախագահական ընտրություններ (2024)"
+            },
+            {
+              "lang": "id",
+              "title": "Pemilihan umum Presiden Amerika Serikat 2024"
+            },
+            {
+              "lang": "is",
+              "title": "Forsetakosningar í Bandaríkjunum 2024"
+            },
+            {
+              "lang": "it",
+              "title": "Elezioni presidenziali negli Stati Uniti d'America del 2024"
+            },
+            {
+              "lang": "ja",
+              "title": "2024年アメリカ合衆国大統領選挙"
+            },
+            {
+              "lang": "ka",
+              "title": "აშშ-ის საპრეზიდენტო არჩევნები (2024)"
+            },
+            {
+              "lang": "kk",
+              "title": "2024 АҚШ президент сайлауы"
+            },
+            {
+              "lang": "ko",
+              "title": "2024년 미국 대통령 선거"
+            },
+            {
+              "lang": "ku",
+              "title": "Hilbijartina serokatiya DYAyê 2024"
+            },
+            {
+              "lang": "la",
+              "title": "Comitia praesidentialia Civitatum Foederatarum anno 2024"
+            },
+            {
+              "lang": "lt",
+              "title": "2024 metų JAV prezidento rinkimai"
+            },
+            {
+              "lang": "lv",
+              "title": "2024. gada ASV prezidenta vēlēšanas"
+            },
+            {
+              "lang": "mk",
+              "title": "Претседателски избори во САД (2024)"
+            },
+            {
+              "lang": "mr",
+              "title": "२०२४ अमेरिकन अध्यक्षीय निवडणूक"
+            },
+            {
+              "lang": "ms",
+              "title": "Pilihan raya presiden Amerika Syarikat 2024"
+            },
+            {
+              "lang": "ne",
+              "title": "सन् २०२४ को अमेरिकी राष्ट्रपतीय निर्वाचन"
+            },
+            {
+              "lang": "nl",
+              "title": "Amerikaanse presidentsverkiezingen 2024"
+            },
+            {
+              "lang": "nb",
+              "title": "Presidentvalget i USA 2024"
+            },
+            {
+              "lang": "ny",
+              "title": "Chisankho cha Purezidenti waku United States cha 2024"
+            },
+            {
+              "lang": "pa",
+              "title": "2024 ਸੰਯੁਕਤ ਰਾਜ ਰਾਸ਼ਟਰਪਤੀ ਚੋਣਾਂ"
+            },
+            {
+              "lang": "pl",
+              "title": "Wybory prezydenckie w Stanach Zjednoczonych w 2024 roku"
+            },
+            {
+              "lang": "pt",
+              "title": "Eleição presidencial nos Estados Unidos em 2024"
+            },
+            {
+              "lang": "ro",
+              "title": "Alegeri prezidențiale în Statele Unite ale Americii, 2024"
+            },
+            {
+              "lang": "ru",
+              "title": "Президентские выборы в США (2024)"
+            },
+            {
+              "lang": "sh",
+              "title": "Predsjednički izbori u Sjedinjenim Američkim Državama 2024."
+            },
+            {
+              "lang": "si",
+              "title": "2024 එක්සත් ජනපද ජනාධිපතිවරණය"
+            },
+            {
+              "lang": "simple",
+              "title": "2024 United States presidential election"
+            },
+            {
+              "lang": "sk",
+              "title": "Prezidentské voľby v USA v roku 2024"
+            },
+            {
+              "lang": "sl",
+              "title": "Volitve predsednika Združenih držav Amerike 2024"
+            },
+            {
+              "lang": "smn",
+              "title": "Ive 2024 Ovtâstum staatâi presidentvaaljah"
+            },
+            {
+              "lang": "sq",
+              "title": "Zgjedhjet presidenciale në Shtete të Bashkuara, 2024"
+            },
+            {
+              "lang": "sr",
+              "title": "Председнички избори у САД 2024."
+            },
+            {
+              "lang": "sv",
+              "title": "Presidentvalet i USA 2024"
+            },
+            {
+              "lang": "sw",
+              "title": "Uchaguzi wa Rais wa Marekani, 2024"
+            },
+            {
+              "lang": "ta",
+              "title": "2024 ஐக்கிய அமெரிக்கக் குடியரசுத் தலைவர் தேர்தல்"
+            },
+            {
+              "lang": "th",
+              "title": "การเลือกตั้งประธานาธิบดีสหรัฐ พ.ศ. 2567"
+            },
+            {
+              "lang": "tok",
+              "title": "jan li wile e jan lawa pi ma Mewika lon tenpo sike 2024"
+            },
+            {
+              "lang": "tr",
+              "title": "2024 Amerika Birleşik Devletleri başkanlık seçimleri"
+            },
+            {
+              "lang": "ug",
+              "title": "2024 ئامېرىكا ئەلبېشلىق سايلىمى"
+            },
+            {
+              "lang": "uk",
+              "title": "Президентські вибори у США 2024"
+            },
+            {
+              "lang": "ur",
+              "title": "ریاستہائے متحدہ کے صدارتی انتخابات 2024ء"
+            },
+            {
+              "lang": "vec",
+              "title": "Ełesion presidensiałi inte i Stati Unii d'Amèrica del 2024"
+            },
+            {
+              "lang": "vi",
+              "title": "Bầu cử tổng thống Hoa Kỳ 2024"
+            },
+            {
+              "lang": "wuu",
+              "title": "2024年美国总统选举"
+            },
+            {
+              "lang": "zh",
+              "title": "2024年美國總統選舉"
+            },
+            {
+              "lang": "nan",
+              "title": "2024 nî Bí-kok chóng-thóng soán-kí"
+            },
+            {
+              "lang": "yue",
+              "title": "第60屆美國總統選舉"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

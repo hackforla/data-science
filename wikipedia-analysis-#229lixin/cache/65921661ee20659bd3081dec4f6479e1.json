@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:44.581853",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240704200923|1342736",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 183905,
+          "ns": 0,
+          "title": "Uhuru wa kujieleza",
+          "revisions": [
+            {
+              "timestamp": "2024-07-04T10:25:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

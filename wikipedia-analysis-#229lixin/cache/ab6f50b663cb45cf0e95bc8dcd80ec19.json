@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:22.307586",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030403112426|100816",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3050364,
+          "ns": 0,
+          "title": "Armut",
+          "revisions": [
+            {
+              "timestamp": "2003-04-03T11:15:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

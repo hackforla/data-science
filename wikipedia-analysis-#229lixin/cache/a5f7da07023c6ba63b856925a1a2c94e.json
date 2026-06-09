@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:43.828494",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050205141131|31792",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 13268,
+          "ns": 0,
+          "title": "Perang",
+          "revisions": [
+            {
+              "timestamp": "2005-02-05T14:08:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

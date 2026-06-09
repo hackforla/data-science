@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:39.437817",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210320053951|64622576",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5691545,
+          "ns": 0,
+          "title": "Kiểm soát biên giới",
+          "revisions": [
+            {
+              "timestamp": "2021-08-11T17:49:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

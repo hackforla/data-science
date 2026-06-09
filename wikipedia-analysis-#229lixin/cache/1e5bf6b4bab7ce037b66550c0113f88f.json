@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:08.477313",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060626020831|22940",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6525,
+          "ns": 0,
+          "title": "ম্যালেরিয়া",
+          "revisions": [
+            {
+              "timestamp": "2006-06-26T01:55:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:44.287400",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080722044415|38649",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8046,
+          "ns": 0,
+          "title": "වධ හිංසාව",
+          "revisions": [
+            {
+              "timestamp": "2008-07-22T04:28:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

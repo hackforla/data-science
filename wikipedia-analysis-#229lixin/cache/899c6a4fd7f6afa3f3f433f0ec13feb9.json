@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:52.872852",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050327160007|641270",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 140607,
+          "ns": 0,
+          "title": "Bieda",
+          "revisions": [
+            {
+              "timestamp": "2005-03-27T15:48:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

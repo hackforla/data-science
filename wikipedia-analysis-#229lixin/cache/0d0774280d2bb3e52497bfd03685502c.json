@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:25.985511",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260126012616|171718908",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 31924,
+          "ns": 0,
+          "title": "Racismo",
+          "revisions": [
+            {
+              "timestamp": "2026-01-26T01:26:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

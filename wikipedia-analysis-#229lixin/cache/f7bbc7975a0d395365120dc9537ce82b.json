@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:26.112356",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020809183445|6533",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2829,
+          "ns": 0,
+          "title": "Syndrome d'immunodéficience acquise",
+          "revisions": [
+            {
+              "timestamp": "2002-08-09T17:51:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

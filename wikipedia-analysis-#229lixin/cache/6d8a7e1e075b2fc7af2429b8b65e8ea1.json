@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:57.205772",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250901212326|77520414",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6752,
+          "ns": 0,
+          "title": "Wojna",
+          "revisions": [
+            {
+              "timestamp": "2026-01-02T05:56:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:50.505301",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220112125809|9859986",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 838734,
+          "ns": 0,
+          "title": "การทรมาน",
+          "revisions": [
+            {
+              "timestamp": "2024-11-08T14:43:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

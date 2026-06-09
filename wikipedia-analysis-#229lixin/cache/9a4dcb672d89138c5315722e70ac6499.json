@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:17.149046",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260109081641|263167196",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18801,
+          "ns": 0,
+          "title": "Todesstrafe",
+          "revisions": [
+            {
+              "timestamp": "2026-01-09T11:50:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

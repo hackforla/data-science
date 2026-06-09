@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:43.405084",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251107064143|74353258",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 28912,
+          "ns": 0,
+          "title": "Khủng bố",
+          "revisions": [
+            {
+              "timestamp": "2025-11-14T19:08:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

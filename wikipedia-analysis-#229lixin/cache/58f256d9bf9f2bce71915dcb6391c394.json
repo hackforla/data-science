@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:40.033294",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070227120308|841889",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 178831,
+          "ns": 0,
+          "title": "Cenzură",
+          "revisions": [
+            {
+              "timestamp": "2007-02-27T12:02:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

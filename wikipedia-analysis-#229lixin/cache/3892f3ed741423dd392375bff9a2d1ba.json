@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:45.890561",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230617101122|70348476",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19804821,
+          "ns": 0,
+          "title": "Bầu cử tổng thống Hoa Kỳ 2024",
+          "revisions": [
+            {
+              "timestamp": "2023-05-23T10:53:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:59.861501",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050626211056|19340",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7943,
+          "ns": 0,
+          "title": "حقوق بشر",
+          "revisions": [
+            {
+              "timestamp": "2005-06-26T20:55:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

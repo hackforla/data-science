@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:03.009524",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250729190819|12088960",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11423,
+          "ns": 0,
+          "title": "Ytringsfrihed",
+          "revisions": [
+            {
+              "timestamp": "2025-11-30T20:17:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

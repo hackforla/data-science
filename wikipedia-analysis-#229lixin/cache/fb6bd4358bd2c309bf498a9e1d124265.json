@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:08.583212",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250429215222|70530136",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 258541,
+          "ns": 0,
+          "title": "تمييز",
+          "revisions": [
+            {
+              "timestamp": "2025-04-30T03:42:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

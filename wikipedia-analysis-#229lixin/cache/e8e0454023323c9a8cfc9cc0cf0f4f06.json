@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:38.778306",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250324233607|16889187",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 647934,
+          "ns": 0,
+          "title": "Libertatea presei",
+          "revisions": [
+            {
+              "timestamp": "2025-05-01T14:55:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:01.920608",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110228085651|925151",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 249004,
+          "ns": 0,
+          "title": "शरणार्थी",
+          "revisions": [
+            {
+              "timestamp": "2011-02-28T08:56:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

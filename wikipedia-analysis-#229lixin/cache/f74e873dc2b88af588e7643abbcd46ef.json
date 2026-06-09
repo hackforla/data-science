@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:06.037943",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260112064923|42526089",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 182204,
+          "ns": 0,
+          "title": "שיטפון",
+          "revisions": [
+            {
+              "timestamp": "2026-01-12T07:14:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

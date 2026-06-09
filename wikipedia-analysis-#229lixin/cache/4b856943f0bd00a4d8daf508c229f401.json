@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:53.866737",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251102195902|1465883",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1899,
+          "ns": 0,
+          "title": "Ukimwi",
+          "revisions": [
+            {
+              "timestamp": "2025-12-17T03:07:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

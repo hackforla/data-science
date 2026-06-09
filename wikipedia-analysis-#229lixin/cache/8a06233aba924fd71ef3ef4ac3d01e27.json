@@ -1,0 +1,476 @@
+{
+  "cached_at": "2026-01-26T00:36:24.413674",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 12441,
+          "ns": 0,
+          "title": "Genocide",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Volksmoord"
+            },
+            {
+              "lang": "gsw",
+              "title": "Völkermord"
+            },
+            {
+              "lang": "ang",
+              "title": "Folcmorðor"
+            },
+            {
+              "lang": "ar",
+              "title": "إبادة جماعية"
+            },
+            {
+              "lang": "arz",
+              "title": "ابادة الشعوب"
+            },
+            {
+              "lang": "as",
+              "title": "নৰসংহাৰ"
+            },
+            {
+              "lang": "ast",
+              "title": "Xenocidiu"
+            },
+            {
+              "lang": "az",
+              "title": "Soyqırım"
+            },
+            {
+              "lang": "ba",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "be",
+              "title": "Генацыд"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Генацыд"
+            },
+            {
+              "lang": "bg",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "bn",
+              "title": "জাতিনিধন"
+            },
+            {
+              "lang": "br",
+              "title": "Gouennlazh"
+            },
+            {
+              "lang": "bs",
+              "title": "Genocid"
+            },
+            {
+              "lang": "ca",
+              "title": "Genocidi"
+            },
+            {
+              "lang": "ckb",
+              "title": "جینۆساید"
+            },
+            {
+              "lang": "cs",
+              "title": "Genocida"
+            },
+            {
+              "lang": "cv",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "cy",
+              "title": "Hil-laddiad"
+            },
+            {
+              "lang": "da",
+              "title": "Folkedrab"
+            },
+            {
+              "lang": "de",
+              "title": "Völkermord"
+            },
+            {
+              "lang": "diq",
+              "title": "Cênosid"
+            },
+            {
+              "lang": "el",
+              "title": "Γενοκτονία"
+            },
+            {
+              "lang": "eo",
+              "title": "Genocido"
+            },
+            {
+              "lang": "es",
+              "title": "Genocidio"
+            },
+            {
+              "lang": "et",
+              "title": "Genotsiid"
+            },
+            {
+              "lang": "eu",
+              "title": "Genozidio"
+            },
+            {
+              "lang": "fa",
+              "title": "نسل‌کشی"
+            },
+            {
+              "lang": "fi",
+              "title": "Kansanmurha"
+            },
+            {
+              "lang": "fo",
+              "title": "Fólkamorð"
+            },
+            {
+              "lang": "fr",
+              "title": "Génocide"
+            },
+            {
+              "lang": "fy",
+              "title": "Genoside"
+            },
+            {
+              "lang": "ga",
+              "title": "Cinedhíothú"
+            },
+            {
+              "lang": "gag",
+              "title": "Genoțid"
+            },
+            {
+              "lang": "gl",
+              "title": "Xenocidio"
+            },
+            {
+              "lang": "ha",
+              "title": "Kisan kiyashi"
+            },
+            {
+              "lang": "he",
+              "title": "רצח עם"
+            },
+            {
+              "lang": "hi",
+              "title": "नरसंहार"
+            },
+            {
+              "lang": "hr",
+              "title": "Genocid"
+            },
+            {
+              "lang": "hu",
+              "title": "Népirtás"
+            },
+            {
+              "lang": "hy",
+              "title": "Ցեղասպանություն"
+            },
+            {
+              "lang": "hyw",
+              "title": "Ցեղասպանութիւն"
+            },
+            {
+              "lang": "id",
+              "title": "Genosida"
+            },
+            {
+              "lang": "io",
+              "title": "Gentocido"
+            },
+            {
+              "lang": "is",
+              "title": "Þjóðarmorð"
+            },
+            {
+              "lang": "it",
+              "title": "Genocidio"
+            },
+            {
+              "lang": "ja",
+              "title": "ジェノサイド"
+            },
+            {
+              "lang": "jv",
+              "title": "Genosida"
+            },
+            {
+              "lang": "ka",
+              "title": "გენოციდი"
+            },
+            {
+              "lang": "kk",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "ko",
+              "title": "집단학살"
+            },
+            {
+              "lang": "ku",
+              "title": "Komkujî"
+            },
+            {
+              "lang": "ky",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "la",
+              "title": "Genocidium"
+            },
+            {
+              "lang": "lfn",
+              "title": "Jenoside"
+            },
+            {
+              "lang": "li",
+              "title": "Genocide"
+            },
+            {
+              "lang": "lld",
+              "title": "Genozide"
+            },
+            {
+              "lang": "lmo",
+              "title": "Genocidi"
+            },
+            {
+              "lang": "lt",
+              "title": "Genocidas"
+            },
+            {
+              "lang": "lv",
+              "title": "Genocīds"
+            },
+            {
+              "lang": "mdf",
+              "title": "Геноцидсь"
+            },
+            {
+              "lang": "mk",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "ml",
+              "title": "വംശഹത്യ"
+            },
+            {
+              "lang": "mn",
+              "title": "Төрлөөр устгах"
+            },
+            {
+              "lang": "mnw",
+              "title": "ဂမ္စိုတ်ကမၠက်ဂကူ"
+            },
+            {
+              "lang": "ms",
+              "title": "Pembasmian kaum"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Volkermoard"
+            },
+            {
+              "lang": "ne",
+              "title": "नरसंहार"
+            },
+            {
+              "lang": "nl",
+              "title": "Genocide"
+            },
+            {
+              "lang": "nn",
+              "title": "Folkemord"
+            },
+            {
+              "lang": "nb",
+              "title": "Folkemord"
+            },
+            {
+              "lang": "oc",
+              "title": "Genocidi"
+            },
+            {
+              "lang": "pa",
+              "title": "ਨਸਲਕੁਸ਼ੀ"
+            },
+            {
+              "lang": "pl",
+              "title": "Ludobójstwo"
+            },
+            {
+              "lang": "ps",
+              "title": "نسل وژنه"
+            },
+            {
+              "lang": "pt",
+              "title": "Genocídio"
+            },
+            {
+              "lang": "rm",
+              "title": "Genocid"
+            },
+            {
+              "lang": "ro",
+              "title": "Genocid"
+            },
+            {
+              "lang": "ru",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "rue",
+              "title": "Ґеноцід"
+            },
+            {
+              "lang": "sah",
+              "title": "Гэноцид"
+            },
+            {
+              "lang": "sc",
+              "title": "Genotzìdiu"
+            },
+            {
+              "lang": "sd",
+              "title": "نسل ڪشي"
+            },
+            {
+              "lang": "sh",
+              "title": "Genocid"
+            },
+            {
+              "lang": "si",
+              "title": "වර්ග සංහාරය"
+            },
+            {
+              "lang": "simple",
+              "title": "Genocide"
+            },
+            {
+              "lang": "sk",
+              "title": "Genocída (právo)"
+            },
+            {
+              "lang": "sl",
+              "title": "Genocid"
+            },
+            {
+              "lang": "sq",
+              "title": "Gjenocidi"
+            },
+            {
+              "lang": "sr",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "sv",
+              "title": "Folkmord"
+            },
+            {
+              "lang": "sw",
+              "title": "Mauaji ya kimbari"
+            },
+            {
+              "lang": "ta",
+              "title": "இனப்படுகொலை"
+            },
+            {
+              "lang": "te",
+              "title": "జాతి నిర్మూలన"
+            },
+            {
+              "lang": "tg",
+              "title": "Наслкушӣ"
+            },
+            {
+              "lang": "th",
+              "title": "การฆ่าล้างเผ่าพันธุ์"
+            },
+            {
+              "lang": "tl",
+              "title": "Pagpatay ng lahi"
+            },
+            {
+              "lang": "tr",
+              "title": "Soykırım"
+            },
+            {
+              "lang": "tyv",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "ug",
+              "title": "ئىرىقى قىرغىنچىلىق"
+            },
+            {
+              "lang": "uk",
+              "title": "Геноцид"
+            },
+            {
+              "lang": "ur",
+              "title": "نسل کشی"
+            },
+            {
+              "lang": "uz",
+              "title": "Genotsid"
+            },
+            {
+              "lang": "vec",
+              "title": "Zenosìdio"
+            },
+            {
+              "lang": "vi",
+              "title": "Diệt chủng"
+            },
+            {
+              "lang": "wa",
+              "title": "Djenocide"
+            },
+            {
+              "lang": "war",
+              "title": "Henosidyo"
+            },
+            {
+              "lang": "wuu",
+              "title": "种族灭绝"
+            },
+            {
+              "lang": "xmf",
+              "title": "გენოციდი"
+            },
+            {
+              "lang": "yi",
+              "title": "פעלקער מארד"
+            },
+            {
+              "lang": "zh",
+              "title": "种族灭绝"
+            },
+            {
+              "lang": "nan",
+              "title": "Chéng-cho̍k bia̍t-choa̍t"
+            },
+            {
+              "lang": "yue",
+              "title": "種族滅絕"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

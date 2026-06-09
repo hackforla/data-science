@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:11.891006",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260120074716|11455839",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 751971,
+          "ns": 0,
+          "title": "Βασανιστήριο",
+          "revisions": [
+            {
+              "timestamp": "2026-01-20T07:48:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

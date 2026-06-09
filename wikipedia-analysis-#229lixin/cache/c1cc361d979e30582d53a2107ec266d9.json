@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:17.219770",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250922122446|1317521",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 146438,
+          "ns": 0,
+          "title": "आतङ्कवाद",
+          "revisions": [
+            {
+              "timestamp": "2025-09-01T07:40:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

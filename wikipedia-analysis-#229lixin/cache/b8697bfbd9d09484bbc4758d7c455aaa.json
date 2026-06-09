@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:06.119217",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251211113352|72717984",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9980,
+          "ns": 0,
+          "title": "ملاريا",
+          "revisions": [
+            {
+              "timestamp": "2025-12-19T03:43:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

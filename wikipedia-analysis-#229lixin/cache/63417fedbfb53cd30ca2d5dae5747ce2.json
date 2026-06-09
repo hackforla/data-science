@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:39.766413",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100423064714|50813",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10719,
+          "ns": 0,
+          "title": "एड्स",
+          "revisions": [
+            {
+              "timestamp": "2010-04-23T06:07:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

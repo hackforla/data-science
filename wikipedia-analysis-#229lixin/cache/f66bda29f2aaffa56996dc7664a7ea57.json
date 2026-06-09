@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:25.669348",
+  "response": {
+    "continue": {
+      "rvcontinue": "20121104181230|3666793",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 277177,
+          "ns": 0,
+          "title": "Πανδημία",
+          "revisions": [
+            {
+              "timestamp": "2012-11-04T17:02:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

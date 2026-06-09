@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:17.980127",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250712054811|23419709",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 413439,
+          "ns": 0,
+          "title": "Sukupuolten tasa-arvo",
+          "revisions": [
+            {
+              "timestamp": "2025-10-02T11:43:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:32.600949",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250617164611|23365797",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1857819,
+          "ns": 0,
+          "title": "Rokotuskriittisyys",
+          "revisions": [
+            {
+              "timestamp": "2025-06-17T16:29:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

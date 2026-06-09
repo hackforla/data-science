@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:09.432426",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080109031414|948943",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 157493,
+          "ns": 0,
+          "title": "Sốt rét",
+          "revisions": [
+            {
+              "timestamp": "2008-01-09T03:04:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:38.018378",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040517001000|704628",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 46946,
+          "ns": 0,
+          "title": "Klimatförändring",
+          "revisions": [
+            {
+              "timestamp": "2004-05-16T15:30:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

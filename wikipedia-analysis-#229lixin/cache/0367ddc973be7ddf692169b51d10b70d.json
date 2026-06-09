@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:49.587042",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041122055257|633579",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 101188,
+          "ns": 0,
+          "title": "Głosowanie",
+          "revisions": [
+            {
+              "timestamp": "2004-11-21T22:48:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

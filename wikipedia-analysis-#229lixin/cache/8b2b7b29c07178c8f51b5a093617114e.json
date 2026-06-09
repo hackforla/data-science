@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:24.756111",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250727072004|674471",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 106749,
+          "ns": 0,
+          "title": "Aikin yara",
+          "revisions": [
+            {
+              "timestamp": "2025-09-25T06:56:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

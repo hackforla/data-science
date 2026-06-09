@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:36.759665",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231129151600|70926495",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2264444,
+          "ns": 0,
+          "title": "Gìn giữ hòa bình",
+          "revisions": [
+            {
+              "timestamp": "2025-01-15T08:54:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

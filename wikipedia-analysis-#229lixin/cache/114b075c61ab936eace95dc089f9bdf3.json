@@ -1,0 +1,556 @@
+{
+  "cached_at": "2026-01-26T00:11:51.407344",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 65021828,
+          "ns": 0,
+          "title": "Global warming",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Aardverwarming"
+            },
+            {
+              "lang": "gsw",
+              "title": "Globale Erwärmung"
+            },
+            {
+              "lang": "am",
+              "title": "የዓለም መሞቅ"
+            },
+            {
+              "lang": "an",
+              "title": "Calentamiento global"
+            },
+            {
+              "lang": "ang",
+              "title": "Woruldlicu wearmung"
+            },
+            {
+              "lang": "anp",
+              "title": "विश्वव्यापी तापमान म॑ वृद्धि"
+            },
+            {
+              "lang": "ar",
+              "title": "الاحتباس الحراري"
+            },
+            {
+              "lang": "arz",
+              "title": "دفا كوكبى"
+            },
+            {
+              "lang": "as",
+              "title": "গোলকীয় উষ্ণতা বৃদ্ধি"
+            },
+            {
+              "lang": "ast",
+              "title": "Calentamientu global"
+            },
+            {
+              "lang": "ba",
+              "title": "Глобаль йылыныу"
+            },
+            {
+              "lang": "bar",
+              "title": "Eadaweamung"
+            },
+            {
+              "lang": "sgs",
+              "title": "Gluobalėnis atšėlėms"
+            },
+            {
+              "lang": "be",
+              "title": "Глабальнае пацяпленне"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Глябальнае пацяпленьне"
+            },
+            {
+              "lang": "bg",
+              "title": "Глобално затопляне"
+            },
+            {
+              "lang": "bh",
+              "title": "ग्लोबल वॉर्मिंग"
+            },
+            {
+              "lang": "bn",
+              "title": "ভূমণ্ডলীয় উষ্ণতা বৃদ্ধি"
+            },
+            {
+              "lang": "br",
+              "title": "Tommadur ar blanedenn"
+            },
+            {
+              "lang": "bs",
+              "title": "Globalno zatopljenje"
+            },
+            {
+              "lang": "bxr",
+              "title": "Дэлхэйн дулааралга"
+            },
+            {
+              "lang": "ca",
+              "title": "Canvi climàtic antropogènic"
+            },
+            {
+              "lang": "ce",
+              "title": "Глобалан дохдалар"
+            },
+            {
+              "lang": "ceb",
+              "title": "Kalibotanong pagpanginit"
+            },
+            {
+              "lang": "ckb",
+              "title": "گەرمبوونی زەوی"
+            },
+            {
+              "lang": "cs",
+              "title": "Globální oteplování"
+            },
+            {
+              "lang": "cv",
+              "title": "Планета ăшăнни"
+            },
+            {
+              "lang": "da",
+              "title": "Global opvarmning"
+            },
+            {
+              "lang": "de",
+              "title": "Globale Erwärmung"
+            },
+            {
+              "lang": "diq",
+              "title": "Germbiyayışo Global"
+            },
+            {
+              "lang": "el",
+              "title": "Υπερθέρμανση του πλανήτη"
+            },
+            {
+              "lang": "eo",
+              "title": "Tutmonda varmiĝo"
+            },
+            {
+              "lang": "es",
+              "title": "Calentamiento global"
+            },
+            {
+              "lang": "et",
+              "title": "Globaalne soojenemine"
+            },
+            {
+              "lang": "eu",
+              "title": "Berotze globala"
+            },
+            {
+              "lang": "fi",
+              "title": "Ilmaston lämpeneminen"
+            },
+            {
+              "lang": "vro",
+              "title": "Ilma lämmämbäsminek üle ilma"
+            },
+            {
+              "lang": "fo",
+              "title": "Globala upphitingin"
+            },
+            {
+              "lang": "frr",
+              "title": "Globaal apwarmin"
+            },
+            {
+              "lang": "fur",
+              "title": "Riscjaldament globâl"
+            },
+            {
+              "lang": "gcr",
+              "title": "Réchofman klimatik"
+            },
+            {
+              "lang": "gl",
+              "title": "Quecemento global"
+            },
+            {
+              "lang": "gn",
+              "title": "Yvy ñembyaku"
+            },
+            {
+              "lang": "guc",
+              "title": "Calentamiento global"
+            },
+            {
+              "lang": "he",
+              "title": "התחממות עולמית"
+            },
+            {
+              "lang": "hi",
+              "title": "भूमंडलीय ऊष्मीकरण"
+            },
+            {
+              "lang": "hif",
+              "title": "Global warming"
+            },
+            {
+              "lang": "hr",
+              "title": "Globalno zatopljenje"
+            },
+            {
+              "lang": "ht",
+              "title": "Rechofman klimatik"
+            },
+            {
+              "lang": "hu",
+              "title": "Globális felmelegedés"
+            },
+            {
+              "lang": "hy",
+              "title": "Գլոբալ տաքացում"
+            },
+            {
+              "lang": "ia",
+              "title": "Calefaction global"
+            },
+            {
+              "lang": "id",
+              "title": "Pemanasan global"
+            },
+            {
+              "lang": "ig",
+              "title": "Okpomọkụ gburugburu ụwa"
+            },
+            {
+              "lang": "ilo",
+              "title": "Panagpudot ti lubong"
+            },
+            {
+              "lang": "io",
+              "title": "Globala varmesko"
+            },
+            {
+              "lang": "is",
+              "title": "Hnattræn hlýnun"
+            },
+            {
+              "lang": "it",
+              "title": "Riscaldamento globale"
+            },
+            {
+              "lang": "ja",
+              "title": "地球温暖化"
+            },
+            {
+              "lang": "jam",
+              "title": "Gluobal waamin"
+            },
+            {
+              "lang": "jv",
+              "title": "Pamanasan global"
+            },
+            {
+              "lang": "ka",
+              "title": "გლობალური დათბობა"
+            },
+            {
+              "lang": "kk",
+              "title": "Жаһандық жылыну"
+            },
+            {
+              "lang": "kn",
+              "title": "ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆ"
+            },
+            {
+              "lang": "ko",
+              "title": "지구 온난화"
+            },
+            {
+              "lang": "kw",
+              "title": "Tommheans ollvysel"
+            },
+            {
+              "lang": "ky",
+              "title": "Глобалдык жылуулук"
+            },
+            {
+              "lang": "la",
+              "title": "Calefactio globalis"
+            },
+            {
+              "lang": "lb",
+              "title": "Global Erwiermung"
+            },
+            {
+              "lang": "lez",
+              "title": "Дуьньядин чими хьун"
+            },
+            {
+              "lang": "lfn",
+              "title": "Caldi global"
+            },
+            {
+              "lang": "lg",
+              "title": "Olubuguumiriro lw'Enkulungo y'Ensi"
+            },
+            {
+              "lang": "li",
+              "title": "Klimaatopwerming"
+            },
+            {
+              "lang": "lld",
+              "title": "Sciaudamënt globel"
+            },
+            {
+              "lang": "lmo",
+              "title": "Riscaldament glubal"
+            },
+            {
+              "lang": "lt",
+              "title": "Visuotinis atšilimas"
+            },
+            {
+              "lang": "lv",
+              "title": "Globālā sasilšana"
+            },
+            {
+              "lang": "mg",
+              "title": "Fihafanan' ny Tany"
+            },
+            {
+              "lang": "mk",
+              "title": "Глобално затоплување"
+            },
+            {
+              "lang": "ml",
+              "title": "ആഗോളതാപനം"
+            },
+            {
+              "lang": "mr",
+              "title": "जागतिक तापमानवाढ"
+            },
+            {
+              "lang": "my",
+              "title": "ကမ္ဘာကြီး ပူနွေးလာမှု"
+            },
+            {
+              "lang": "nds",
+              "title": "Globale Upwärmen"
+            },
+            {
+              "lang": "new",
+              "title": "ग्लोबल वार्मिङ्ग"
+            },
+            {
+              "lang": "nl",
+              "title": "Opwarming van de Aarde"
+            },
+            {
+              "lang": "nn",
+              "title": "Global oppvarming"
+            },
+            {
+              "lang": "nb",
+              "title": "Global oppvarming"
+            },
+            {
+              "lang": "nqo",
+              "title": "ߜߌߙߌ߲ߕߐ"
+            },
+            {
+              "lang": "oc",
+              "title": "Rescalfament climatic"
+            },
+            {
+              "lang": "om",
+              "title": "Ho'a Adunya"
+            },
+            {
+              "lang": "or",
+              "title": "ବିଶ୍ୱତାପନ"
+            },
+            {
+              "lang": "pa",
+              "title": "ਆਲਮੀ ਤਪਸ਼"
+            },
+            {
+              "lang": "pam",
+              "title": "Pamangaluku ning yatu"
+            },
+            {
+              "lang": "pl",
+              "title": "Globalne ocieplenie"
+            },
+            {
+              "lang": "pms",
+              "title": "Riscaudament global"
+            },
+            {
+              "lang": "pnb",
+              "title": "گلوبل وارمنگ"
+            },
+            {
+              "lang": "pt",
+              "title": "Aquecimento global"
+            },
+            {
+              "lang": "rm",
+              "title": "Stgaudament global"
+            },
+            {
+              "lang": "ro",
+              "title": "Încălzirea globală"
+            },
+            {
+              "lang": "ru",
+              "title": "Глобальное потепление"
+            },
+            {
+              "lang": "rue",
+              "title": "Ґлобалне потеплїня"
+            },
+            {
+              "lang": "sah",
+              "title": "Аан дойду сылыйыыта"
+            },
+            {
+              "lang": "sc",
+              "title": "Callentamentu globale"
+            },
+            {
+              "lang": "sd",
+              "title": "عالمي گرميءَ ۾ واڌ"
+            },
+            {
+              "lang": "se",
+              "title": "Globála liegganeapmi"
+            },
+            {
+              "lang": "sh",
+              "title": "Globalno zatopljenje"
+            },
+            {
+              "lang": "si",
+              "title": "ගෝලීය තාපනය"
+            },
+            {
+              "lang": "simple",
+              "title": "Global warming"
+            },
+            {
+              "lang": "sk",
+              "title": "Globálne otepľovanie"
+            },
+            {
+              "lang": "sl",
+              "title": "Globalno segrevanje"
+            },
+            {
+              "lang": "sr",
+              "title": "Глобално загревање"
+            },
+            {
+              "lang": "stq",
+              "title": "Globoale Apwoormenge"
+            },
+            {
+              "lang": "su",
+              "title": "Jagat nyongkab"
+            },
+            {
+              "lang": "sv",
+              "title": "Global uppvärmning"
+            },
+            {
+              "lang": "sw",
+              "title": "Kupanda kwa halijoto duniani"
+            },
+            {
+              "lang": "ta",
+              "title": "புவி சூடாதல்"
+            },
+            {
+              "lang": "te",
+              "title": "గ్లోబల్ వార్మింగ్"
+            },
+            {
+              "lang": "tg",
+              "title": "Гармшавии ҷаҳонӣ"
+            },
+            {
+              "lang": "th",
+              "title": "ภาวะโลกร้อน"
+            },
+            {
+              "lang": "tok",
+              "title": "ante suli pi kon ma"
+            },
+            {
+              "lang": "tr",
+              "title": "Küresel ısınma"
+            },
+            {
+              "lang": "tt",
+              "title": "Глобаль җылыну"
+            },
+            {
+              "lang": "uk",
+              "title": "Глобальне потепління"
+            },
+            {
+              "lang": "ur",
+              "title": "عالمی حرارت"
+            },
+            {
+              "lang": "vi",
+              "title": "Ấm lên toàn cầu"
+            },
+            {
+              "lang": "wa",
+              "title": "Reschandixhaedje del Daegne"
+            },
+            {
+              "lang": "war",
+              "title": "Pagpaso han kalibutan"
+            },
+            {
+              "lang": "wuu",
+              "title": "全球暖化"
+            },
+            {
+              "lang": "yi",
+              "title": "גלאבאלע אנווארעמען"
+            },
+            {
+              "lang": "zh",
+              "title": "全球变暖"
+            },
+            {
+              "lang": "lzh",
+              "title": "天地日暖"
+            },
+            {
+              "lang": "nan",
+              "title": "Tē-kiû sio-lo̍h-hòa"
+            },
+            {
+              "lang": "yue",
+              "title": "全球變暖"
+            },
+            {
+              "lang": "zu",
+              "title": "Ukufudumala kwembulunga"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

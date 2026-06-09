@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:01.288929",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260105225636|1331351340",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 247927,
+          "ns": 0,
+          "title": "Border control",
+          "revisions": [
+            {
+              "timestamp": "2026-01-09T05:44:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

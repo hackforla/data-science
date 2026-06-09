@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:42.361054",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040208164925|188791",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40093,
+          "ns": 0,
+          "title": "Verkiezing",
+          "revisions": [
+            {
+              "timestamp": "2004-02-08T16:39:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

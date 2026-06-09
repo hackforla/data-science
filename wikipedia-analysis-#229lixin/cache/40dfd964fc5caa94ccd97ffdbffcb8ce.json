@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:18.896492",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230118202522|60674908",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5208108,
+          "ns": 0,
+          "title": "أزمة اللاجئين",
+          "revisions": [
+            {
+              "timestamp": "2023-01-18T20:27:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

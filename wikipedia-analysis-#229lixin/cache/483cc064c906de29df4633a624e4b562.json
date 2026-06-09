@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:58.417560",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250410155408|41586226",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 184522,
+          "ns": 0,
+          "title": "سیل",
+          "revisions": [
+            {
+              "timestamp": "2025-05-02T09:12:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

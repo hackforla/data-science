@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:18.687523",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081128090345|1495280",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 203634,
+          "ns": 0,
+          "title": "อาชญากรรมสงคราม",
+          "revisions": [
+            {
+              "timestamp": "2008-11-28T09:03:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

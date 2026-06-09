@@ -1,0 +1,52 @@
+{
+  "cached_at": "2026-01-26T00:42:42.375311",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1125781,
+          "ns": 0,
+          "title": "Voter suppression",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "قمع المقترعين"
+            },
+            {
+              "lang": "es",
+              "title": "Supresión del votante"
+            },
+            {
+              "lang": "he",
+              "title": "הרתעת מצביעים"
+            },
+            {
+              "lang": "id",
+              "title": "Intimidasi terhadap pemilih"
+            },
+            {
+              "lang": "ja",
+              "title": "ボーター・サプレッション"
+            },
+            {
+              "lang": "ms",
+              "title": "Penindasan pengundi"
+            },
+            {
+              "lang": "nl",
+              "title": "Kiezersonderdrukking"
+            },
+            {
+              "lang": "sq",
+              "title": "Shtypja e votuesit"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:36.624513",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150621194810|16360386",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1963136,
+          "ns": 0,
+          "title": "Контроль на кордоні",
+          "revisions": [
+            {
+              "timestamp": "2015-06-21T19:35:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

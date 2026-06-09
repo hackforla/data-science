@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:01.262785",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240823004526|1348204",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16546,
+          "ns": 0,
+          "title": "Adhabu ya kifo",
+          "revisions": [
+            {
+              "timestamp": "2024-11-18T23:10:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

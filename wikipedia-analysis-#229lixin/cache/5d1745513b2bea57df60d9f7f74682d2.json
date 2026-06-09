@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:59.996308",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230223223604|216695",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 22395,
+          "ns": 0,
+          "title": "Mai Neman Mafaka",
+          "revisions": [
+            {
+              "timestamp": "2025-07-24T15:40:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

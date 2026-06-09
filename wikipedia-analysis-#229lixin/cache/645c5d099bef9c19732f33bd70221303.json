@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:56.088111",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140720173053|14893508",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1117312,
+          "ns": 0,
+          "title": "Háborús bűncselekmény",
+          "revisions": [
+            {
+              "timestamp": "2014-07-20T17:09:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

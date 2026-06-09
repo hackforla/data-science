@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:02.975404",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200119065647|57882223",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16945751,
+          "ns": 0,
+          "title": "Đại dịch COVID-19",
+          "revisions": [
+            {
+              "timestamp": "2020-01-19T06:54:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

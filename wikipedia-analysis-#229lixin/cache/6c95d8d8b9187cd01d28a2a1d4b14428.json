@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:30.560682",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241219212014|102997645",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 353031,
+          "ns": 0,
+          "title": "男女同権",
+          "revisions": [
+            {
+              "timestamp": "2025-08-17T13:08:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

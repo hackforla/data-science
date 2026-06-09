@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:28.637312",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251020170455|42040597",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 13749,
+          "ns": 0,
+          "title": "מלריה",
+          "revisions": [
+            {
+              "timestamp": "2025-12-11T21:44:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:53.322393",
+  "response": {
+    "continue": {
+      "rvcontinue": "20171218191323|21817770",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4327865,
+          "ns": 0,
+          "title": "پناهجو",
+          "revisions": [
+            {
+              "timestamp": "2017-12-18T19:12:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

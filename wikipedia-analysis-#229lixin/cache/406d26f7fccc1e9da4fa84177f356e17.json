@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:44.996721",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190127035345|113560298",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8800750,
+          "ns": 0,
+          "title": "Supresión del votante",
+          "revisions": [
+            {
+              "timestamp": "2019-01-26T20:32:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

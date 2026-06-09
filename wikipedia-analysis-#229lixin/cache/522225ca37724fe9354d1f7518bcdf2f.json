@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:17.201028",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250411143346|1414800",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 34029,
+          "ns": 0,
+          "title": "Mauaji ya kimbari",
+          "revisions": [
+            {
+              "timestamp": "2025-06-04T14:07:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

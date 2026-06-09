@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:37.955183",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250105075221|26746958",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2769385,
+          "ns": 0,
+          "title": "Pemungutan suara",
+          "revisions": [
+            {
+              "timestamp": "2025-10-17T09:07:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

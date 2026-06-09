@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:59.867493",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250521115838|11101363",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 86501,
+          "ns": 0,
+          "title": "Κλιματική αλλαγή",
+          "revisions": [
+            {
+              "timestamp": "2025-07-21T12:47:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

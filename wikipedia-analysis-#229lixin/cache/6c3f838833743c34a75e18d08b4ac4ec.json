@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:53.087584",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251114134645|42175165",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8158,
+          "ns": 0,
+          "title": "צונמי",
+          "revisions": [
+            {
+              "timestamp": "2025-12-25T06:26:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

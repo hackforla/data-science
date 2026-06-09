@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:04.789828",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050109103509|443069",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 87565,
+          "ns": 0,
+          "title": "Fattigdom",
+          "revisions": [
+            {
+              "timestamp": "2004-11-15T19:54:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

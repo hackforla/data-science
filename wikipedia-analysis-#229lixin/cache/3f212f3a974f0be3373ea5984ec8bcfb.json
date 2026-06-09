@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:13.061208",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041030134635|141765",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 30755,
+          "ns": 0,
+          "title": "בצורת",
+          "revisions": [
+            {
+              "timestamp": "2004-10-30T13:43:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

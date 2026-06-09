@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:04.754425",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240421083254|7338993",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1186437,
+          "ns": 0,
+          "title": "সীমান্ত নিয়ন্ত্রণ",
+          "revisions": [
+            {
+              "timestamp": "2025-01-31T14:36:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

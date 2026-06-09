@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:51.294094",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040624182215|9416",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5520,
+          "ns": 0,
+          "title": "Gempa bumi",
+          "revisions": [
+            {
+              "timestamp": "2004-06-24T15:33:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

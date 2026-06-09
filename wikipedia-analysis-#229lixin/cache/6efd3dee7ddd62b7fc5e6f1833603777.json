@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:30.491008",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250620225546|168064658",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5376295,
+          "ns": 0,
+          "title": "Controversia de las vacunas",
+          "revisions": [
+            {
+              "timestamp": "2025-10-20T23:14:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

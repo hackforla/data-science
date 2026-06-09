@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:08.845826",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200509224321|955808705",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 33096132,
+          "ns": 0,
+          "title": "Ebola virus disease",
+          "revisions": [
+            {
+              "timestamp": "2022-10-17T19:09:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

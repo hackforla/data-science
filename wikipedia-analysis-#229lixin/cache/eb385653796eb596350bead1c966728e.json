@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:25.357566",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240107051453|72425914",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5589516,
+          "ns": 0,
+          "title": "Wybory prezydenckie w Stanach Zjednoczonych w 2024 roku",
+          "revisions": [
+            {
+              "timestamp": "2024-01-07T05:10:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

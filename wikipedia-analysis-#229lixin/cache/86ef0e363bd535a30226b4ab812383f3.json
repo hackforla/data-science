@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:45.741653",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241025175926|12395591",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 154960,
+          "ns": 0,
+          "title": "Наводнение",
+          "revisions": [
+            {
+              "timestamp": "2025-09-04T02:10:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

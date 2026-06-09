@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:16.922921",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050806133437|2665172",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 302928,
+          "ns": 0,
+          "title": "不正選挙",
+          "revisions": [
+            {
+              "timestamp": "2005-08-06T07:22:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

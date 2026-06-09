@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:57.275948",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240314111625|81893419",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 373663,
+          "ns": 0,
+          "title": "干旱",
+          "revisions": [
+            {
+              "timestamp": "2025-11-20T23:20:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:56.596425",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051105161821|138559",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35818,
+          "ns": 0,
+          "title": "Маларија",
+          "revisions": [
+            {
+              "timestamp": "2005-11-05T16:16:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

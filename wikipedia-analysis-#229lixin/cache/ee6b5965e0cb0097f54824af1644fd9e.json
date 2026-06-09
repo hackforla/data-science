@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:43.821252",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050201183839|226413",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47364,
+          "ns": 0,
+          "title": "חיסון",
+          "revisions": [
+            {
+              "timestamp": "2005-02-01T17:30:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

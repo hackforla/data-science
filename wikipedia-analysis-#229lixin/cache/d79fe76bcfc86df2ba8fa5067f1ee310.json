@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:46.689727",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080927053717|11152277",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1405823,
+          "ns": 0,
+          "title": "Детский труд",
+          "revisions": [
+            {
+              "timestamp": "2008-09-27T05:36:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:59.179282",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250722150206|17093461",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 182998,
+          "ns": 0,
+          "title": "Sărăcie",
+          "revisions": [
+            {
+              "timestamp": "2025-09-06T17:04:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

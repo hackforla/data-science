@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:15.278137",
+  "response": {
+    "continue": {
+      "rvcontinue": "20191124113446|9679336",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 499368,
+          "ns": 0,
+          "title": "Гласуване",
+          "revisions": [
+            {
+              "timestamp": "2020-05-12T06:23:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

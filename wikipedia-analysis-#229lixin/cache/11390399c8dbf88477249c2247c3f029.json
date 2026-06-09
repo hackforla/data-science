@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:34.589966",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200124175525|22195677",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1679312,
+          "ns": 0,
+          "title": "Covid19-pandémia",
+          "revisions": [
+            {
+              "timestamp": "2020-01-24T17:55:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

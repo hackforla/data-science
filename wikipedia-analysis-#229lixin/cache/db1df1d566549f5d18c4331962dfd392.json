@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:39.858102",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250903000316|40556933",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12692,
+          "ns": 0,
+          "title": "사형",
+          "revisions": [
+            {
+              "timestamp": "2026-01-13T07:24:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

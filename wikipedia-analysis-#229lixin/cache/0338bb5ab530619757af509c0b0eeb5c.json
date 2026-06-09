@@ -1,0 +1,20 @@
+{
+  "cached_at": "2026-01-26T00:34:56.384130",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 91989,
+          "ns": 0,
+          "title": "මරණ දණ්ඩනය",
+          "revisions": [
+            {
+              "timestamp": "2021-10-01T15:11:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

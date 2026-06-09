@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:42.308074",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070315222607|7496419",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2588065,
+          "ns": 0,
+          "title": "Povertà",
+          "revisions": [
+            {
+              "timestamp": "2007-03-14T20:55:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

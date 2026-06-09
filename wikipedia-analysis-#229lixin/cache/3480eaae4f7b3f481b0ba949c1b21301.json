@@ -1,0 +1,748 @@
+{
+  "cached_at": "2026-01-26T00:09:33.107262",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 33583,
+          "ns": 0,
+          "title": "World Health Organization",
+          "langlinks": [
+            {
+              "lang": "ab",
+              "title": "Агәабзиарахьчара адунеизегьтәи аиҿкаара"
+            },
+            {
+              "lang": "af",
+              "title": "Wêreldgesondheidsorganisasie"
+            },
+            {
+              "lang": "gsw",
+              "title": "Weltgesundheitsorganisation"
+            },
+            {
+              "lang": "am",
+              "title": "የአለም ጤና ድርጅት"
+            },
+            {
+              "lang": "an",
+              "title": "Organización Mundial d'a Salut"
+            },
+            {
+              "lang": "ar",
+              "title": "منظمة الصحة العالمية"
+            },
+            {
+              "lang": "arz",
+              "title": "منظمة الصحه العالمية"
+            },
+            {
+              "lang": "as",
+              "title": "বিশ্ব স্বাস্থ্য সংস্থা"
+            },
+            {
+              "lang": "ast",
+              "title": "Organización Mundial de la Salú"
+            },
+            {
+              "lang": "az",
+              "title": "Ümumdünya Səhiyyə Təşkilatı"
+            },
+            {
+              "lang": "azb",
+              "title": "دونیا ساغلیق تشکیلاتی"
+            },
+            {
+              "lang": "ba",
+              "title": "Бөтә донъя һаулыҡ һаҡлау ойошмаһы"
+            },
+            {
+              "lang": "ban",
+              "title": "Organisasi Kakénakan Gumi"
+            },
+            {
+              "lang": "sgs",
+              "title": "Svieta sveikatas organėzacėjė"
+            },
+            {
+              "lang": "bbc",
+              "title": "Punguan Hahisaron Portibi"
+            },
+            {
+              "lang": "bcl",
+              "title": "Pankinaban na Organisasyon nin Salud"
+            },
+            {
+              "lang": "be",
+              "title": "Сусветная арганізацыя аховы здароўя"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Сусьветная арганізацыя здароўя"
+            },
+            {
+              "lang": "bg",
+              "title": "Световна здравна организация"
+            },
+            {
+              "lang": "bh",
+              "title": "बिस्व स्वास्थ संगठन"
+            },
+            {
+              "lang": "bi",
+              "title": "Wol Helt Ogenaesesen"
+            },
+            {
+              "lang": "bjn",
+              "title": "Pahimpunan Kawigasan Dunia"
+            },
+            {
+              "lang": "bn",
+              "title": "বিশ্ব স্বাস্থ্য সংস্থা"
+            },
+            {
+              "lang": "bo",
+              "title": "རྒྱལ་སྤྱིའི་འཕྲོད་བསྟེན་སྒྲིག་འཛུགས།"
+            },
+            {
+              "lang": "br",
+              "title": "Aozadur Bedel ar Yec'hed"
+            },
+            {
+              "lang": "bs",
+              "title": "Svjetska zdravstvena organizacija"
+            },
+            {
+              "lang": "btm",
+              "title": "Organisasi Kairasan Dunia"
+            },
+            {
+              "lang": "bxr",
+              "title": "Дэлхэйн элүүр мэндын байгуулга"
+            },
+            {
+              "lang": "ca",
+              "title": "Organització Mundial de la Salut"
+            },
+            {
+              "lang": "ce",
+              "title": "Дерригдуьненан могушалла Ӏалашйаран организаци"
+            },
+            {
+              "lang": "ckb",
+              "title": "ڕێکخراوەی تەندروستیی جیھانی"
+            },
+            {
+              "lang": "crh",
+              "title": "Dünya sağlıq saqlav teşkilâtı"
+            },
+            {
+              "lang": "cs",
+              "title": "Světová zdravotnická organizace"
+            },
+            {
+              "lang": "cv",
+              "title": "Пĕтĕм тĕнчери сывлăха сыхлас йĕркелӳ"
+            },
+            {
+              "lang": "cy",
+              "title": "Sefydliad Iechyd y Byd"
+            },
+            {
+              "lang": "da",
+              "title": "WHO"
+            },
+            {
+              "lang": "dag",
+              "title": "World Health Organization"
+            },
+            {
+              "lang": "de",
+              "title": "Weltgesundheitsorganisation"
+            },
+            {
+              "lang": "dty",
+              "title": "विश्व स्वास्थ्य सङ्गठन"
+            },
+            {
+              "lang": "el",
+              "title": "Παγκόσμιος Οργανισμός Υγείας"
+            },
+            {
+              "lang": "eml",
+              "title": "Organiśasiòun mondièla dla sanitê"
+            },
+            {
+              "lang": "eo",
+              "title": "Monda Organizaĵo pri Sano"
+            },
+            {
+              "lang": "es",
+              "title": "Organización Mundial de la Salud"
+            },
+            {
+              "lang": "et",
+              "title": "Maailma Terviseorganisatsioon"
+            },
+            {
+              "lang": "eu",
+              "title": "Munduko Osasun Erakundea"
+            },
+            {
+              "lang": "fa",
+              "title": "سازمان جهانی بهداشت"
+            },
+            {
+              "lang": "fi",
+              "title": "Maailman terveysjärjestö"
+            },
+            {
+              "lang": "vro",
+              "title": "Maailma Tervüseorganisats'uun"
+            },
+            {
+              "lang": "fo",
+              "title": "WHO"
+            },
+            {
+              "lang": "fr",
+              "title": "Organisation mondiale de la santé"
+            },
+            {
+              "lang": "frp",
+              "title": "Organisacion mondiâla de la santât"
+            },
+            {
+              "lang": "frr",
+              "title": "WHO"
+            },
+            {
+              "lang": "fy",
+              "title": "Wrâldsûnensorganisaasje"
+            },
+            {
+              "lang": "ga",
+              "title": "An Eagraíocht Dhomhanda Sláinte"
+            },
+            {
+              "lang": "gcr",
+              "title": "Organizasyon mondyal di santé"
+            },
+            {
+              "lang": "gl",
+              "title": "Organización Mundial da Saúde"
+            },
+            {
+              "lang": "gn",
+              "title": "Tesãi Arapygua Atyguasu"
+            },
+            {
+              "lang": "gu",
+              "title": "વિશ્વ આરોગ્ય સંસ્થા"
+            },
+            {
+              "lang": "gv",
+              "title": "Reagheydys Slaynt y Theihll"
+            },
+            {
+              "lang": "ha",
+              "title": "Hukumar Lafiya ta Duniya"
+            },
+            {
+              "lang": "hak",
+              "title": "Sṳ-kie Ví-sên Chû-chṳt"
+            },
+            {
+              "lang": "he",
+              "title": "ארגון הבריאות העולמי"
+            },
+            {
+              "lang": "hi",
+              "title": "विश्व स्वास्थ्य संगठन"
+            },
+            {
+              "lang": "hif",
+              "title": "World Health Organization"
+            },
+            {
+              "lang": "hr",
+              "title": "Svjetska zdravstvena organizacija"
+            },
+            {
+              "lang": "ht",
+              "title": "Òganizasyon Mondyal Lasante"
+            },
+            {
+              "lang": "hu",
+              "title": "Egészségügyi Világszervezet"
+            },
+            {
+              "lang": "hy",
+              "title": "Առողջապահության համաշխարհային կազմակերպություն"
+            },
+            {
+              "lang": "hyw",
+              "title": "Առողջապահութեան Համաշխարհային Կազմակերպութիւն"
+            },
+            {
+              "lang": "ia",
+              "title": "Organisation Mundial del Sanitate"
+            },
+            {
+              "lang": "iba",
+              "title": "Gerempung Pengerai Sedunya"
+            },
+            {
+              "lang": "id",
+              "title": "Organisasi Kesehatan Dunia"
+            },
+            {
+              "lang": "ie",
+              "title": "Mundal Organisation del Sanitá"
+            },
+            {
+              "lang": "ilo",
+              "title": "Gunglo ti Salun-at ti Lubong"
+            },
+            {
+              "lang": "io",
+              "title": "Mondal Organizuro pri Saneso"
+            },
+            {
+              "lang": "is",
+              "title": "Alþjóðaheilbrigðismálastofnunin"
+            },
+            {
+              "lang": "it",
+              "title": "Organizzazione mondiale della sanità"
+            },
+            {
+              "lang": "ja",
+              "title": "世界保健機関"
+            },
+            {
+              "lang": "jam",
+              "title": "Wol Elt Aaganizieshan"
+            },
+            {
+              "lang": "jv",
+              "title": "Paheman Kawarasan Donya"
+            },
+            {
+              "lang": "ka",
+              "title": "ჯანდაცვის მსოფლიო ორგანიზაცია"
+            },
+            {
+              "lang": "kaa",
+              "title": "Dúnya júzilik densawlıqtı saqlaw shólkemi"
+            },
+            {
+              "lang": "kab",
+              "title": "Tuddsa tamadlant n tdawsa"
+            },
+            {
+              "lang": "kbp",
+              "title": "OMS ŋgbɛyɛ"
+            },
+            {
+              "lang": "kcg",
+              "title": "Sot-nta̱m Gbi̱ngban Swanta"
+            },
+            {
+              "lang": "ki",
+              "title": "World Health Organization"
+            },
+            {
+              "lang": "kk",
+              "title": "Дүниежүзілік денсаулық сақтау ұйымы"
+            },
+            {
+              "lang": "km",
+              "title": "អង្គការសុខភាពពិភពលោក"
+            },
+            {
+              "lang": "kn",
+              "title": "ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಘಟನೆ"
+            },
+            {
+              "lang": "knc",
+              "title": "WHO"
+            },
+            {
+              "lang": "ko",
+              "title": "세계보건기구"
+            },
+            {
+              "lang": "krc",
+              "title": "Дуния саулукъ организация"
+            },
+            {
+              "lang": "ks",
+              "title": "عالمی صحت اِدارٕ"
+            },
+            {
+              "lang": "ku",
+              "title": "Rêxistina Tenduristiyê ya Cîhanê"
+            },
+            {
+              "lang": "kus",
+              "title": "World Health Organization (WHO)"
+            },
+            {
+              "lang": "kw",
+              "title": "Kowethyans Yeghes an Bys"
+            },
+            {
+              "lang": "ky",
+              "title": "Бүткүл дүйнөлүк саламаттык сактоо уюму"
+            },
+            {
+              "lang": "la",
+              "title": "Ordo mundi sanitarius"
+            },
+            {
+              "lang": "lb",
+              "title": "Weltgesondheetsorganisatioun"
+            },
+            {
+              "lang": "lfn",
+              "title": "Organiza Mundal de Sania"
+            },
+            {
+              "lang": "li",
+              "title": "Werreldgezóndjheidsorganisaasje"
+            },
+            {
+              "lang": "lmo",
+              "title": "Organizzazzion mondiala de la Sanità"
+            },
+            {
+              "lang": "lo",
+              "title": "ອົງການອະນາໄມໂລກ"
+            },
+            {
+              "lang": "lt",
+              "title": "Pasaulio sveikatos organizacija"
+            },
+            {
+              "lang": "lv",
+              "title": "Pasaules Veselības organizācija"
+            },
+            {
+              "lang": "mg",
+              "title": "Fikambanana Maneran-Tany momba ny Fahasalamana"
+            },
+            {
+              "lang": "min",
+              "title": "Organisasi Kasihatan Dunia"
+            },
+            {
+              "lang": "mk",
+              "title": "Светска здравствена организација"
+            },
+            {
+              "lang": "ml",
+              "title": "ലോകാരോഗ്യസംഘടന"
+            },
+            {
+              "lang": "mn",
+              "title": "Дэлхийн Эрүүл Мэндийн Байгууллага"
+            },
+            {
+              "lang": "mnw",
+              "title": "ပရေၚ်ထတ်ယုက်"
+            },
+            {
+              "lang": "mr",
+              "title": "विश्व स्वास्थ्य संस्था"
+            },
+            {
+              "lang": "ms",
+              "title": "Pertubuhan Kesihatan Sedunia"
+            },
+            {
+              "lang": "mt",
+              "title": "Organizzazzjoni Dinjija tas-Saħħa"
+            },
+            {
+              "lang": "my",
+              "title": "ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့"
+            },
+            {
+              "lang": "nds",
+              "title": "Organisatschoon för Weltgesundheit"
+            },
+            {
+              "lang": "ne",
+              "title": "विश्व स्वास्थ्य सङ्गठन"
+            },
+            {
+              "lang": "new",
+              "title": "वर्ल्ड हेल्थ अर्गेनाइजेसन"
+            },
+            {
+              "lang": "nl",
+              "title": "Wereldgezondheidsorganisatie"
+            },
+            {
+              "lang": "nn",
+              "title": "Verdsorganisasjonen for helse"
+            },
+            {
+              "lang": "nb",
+              "title": "Verdens helseorganisasjon"
+            },
+            {
+              "lang": "ny",
+              "title": "World Health Organization"
+            },
+            {
+              "lang": "oc",
+              "title": "Organizacion Mondiala de la Santat"
+            },
+            {
+              "lang": "or",
+              "title": "ବିଶ୍ୱ ସ୍ୱାସ୍ଥ୍ୟ ସଂଗଠନ"
+            },
+            {
+              "lang": "pa",
+              "title": "ਵਿਸ਼ਵ ਸਿਹਤ ਸੰਸਥਾ"
+            },
+            {
+              "lang": "pap",
+              "title": "Organisashon Mundial di Salú"
+            },
+            {
+              "lang": "pl",
+              "title": "Światowa Organizacja Zdrowia"
+            },
+            {
+              "lang": "pms",
+              "title": "Organisassion Mondial ëd la Sanità"
+            },
+            {
+              "lang": "pnb",
+              "title": "عالمی صحت تنظیم"
+            },
+            {
+              "lang": "ps",
+              "title": "د روغتيا نړيوال سازمان"
+            },
+            {
+              "lang": "pt",
+              "title": "Organização Mundial da Saúde"
+            },
+            {
+              "lang": "rki",
+              "title": "ကမ္ဘာ့ကျန်းမာရီးအဖွဲ့"
+            },
+            {
+              "lang": "ro",
+              "title": "Organizația Mondială a Sănătății"
+            },
+            {
+              "lang": "ru",
+              "title": "Всемирная организация здравоохранения"
+            },
+            {
+              "lang": "rue",
+              "title": "Світова орґанізація охороны здоровя"
+            },
+            {
+              "lang": "rw",
+              "title": "WHO"
+            },
+            {
+              "lang": "sa",
+              "title": "विश्वस्वास्थ्यसंस्था"
+            },
+            {
+              "lang": "sah",
+              "title": "Доруобуйа аан дойдутааҕы тэрилтэтэ"
+            },
+            {
+              "lang": "sc",
+              "title": "Organizatzione Mundiale de sa Salude"
+            },
+            {
+              "lang": "scn",
+              "title": "Urganizzazioni Munniali dâ Saluti"
+            },
+            {
+              "lang": "sd",
+              "title": "ورلڊ هيلٿ آرگنائيزيشن"
+            },
+            {
+              "lang": "sh",
+              "title": "Svjetska zdravstvena organizacija"
+            },
+            {
+              "lang": "shn",
+              "title": "ၸုမ်းပၢႆးယူႇလီလုမ်ႈၾႃႉ"
+            },
+            {
+              "lang": "si",
+              "title": "ලෝක සෞඛ්‍ය සංවිධානය"
+            },
+            {
+              "lang": "simple",
+              "title": "World Health Organization"
+            },
+            {
+              "lang": "sk",
+              "title": "Svetová zdravotnícka organizácia"
+            },
+            {
+              "lang": "sl",
+              "title": "Svetovna zdravstvena organizacija"
+            },
+            {
+              "lang": "smn",
+              "title": "Maailm tiervâsvuotâorganisaatio"
+            },
+            {
+              "lang": "sn",
+              "title": "Sangano reHutano Pasirose"
+            },
+            {
+              "lang": "so",
+              "title": "Ururka Caafimaadka Aduunka"
+            },
+            {
+              "lang": "sq",
+              "title": "Organizata Botërore e Shëndetësisë"
+            },
+            {
+              "lang": "sr",
+              "title": "Светска здравствена организација"
+            },
+            {
+              "lang": "su",
+              "title": "Organisasi Kaséhatan Dunya"
+            },
+            {
+              "lang": "sv",
+              "title": "Världshälsoorganisationen"
+            },
+            {
+              "lang": "sw",
+              "title": "Shirika la Afya Duniani"
+            },
+            {
+              "lang": "szl",
+              "title": "Światowŏ Ôrganizacyjŏ Zdrowiŏ"
+            },
+            {
+              "lang": "ta",
+              "title": "உலக சுகாதார அமைப்பு"
+            },
+            {
+              "lang": "te",
+              "title": "ప్రపంచ ఆరోగ్య సంస్థ"
+            },
+            {
+              "lang": "tg",
+              "title": "Созмони ҷаҳонии тандурустӣ"
+            },
+            {
+              "lang": "th",
+              "title": "องค์การอนามัยโลก"
+            },
+            {
+              "lang": "ti",
+              "title": "ውድብ ጥዕና ዓለም"
+            },
+            {
+              "lang": "tk",
+              "title": "Bütindünýä Saglyk Guramasy(BSG)"
+            },
+            {
+              "lang": "tl",
+              "title": "Pandaigdigang Organisasyon sa Kalusugan"
+            },
+            {
+              "lang": "tr",
+              "title": "Dünya Sağlık Örgütü"
+            },
+            {
+              "lang": "tt",
+              "title": "Бөтендөнья сәламәтлек оешмасы"
+            },
+            {
+              "lang": "ug",
+              "title": "دۇنيا سەھىيە تەشكىلاتى"
+            },
+            {
+              "lang": "uk",
+              "title": "Всесвітня організація охорони здоров'я"
+            },
+            {
+              "lang": "ur",
+              "title": "عالمی ادارہ صحت"
+            },
+            {
+              "lang": "uz",
+              "title": "Jahon sogʻliqni saqlash tashkiloti"
+            },
+            {
+              "lang": "vec",
+              "title": "Organizasion mondiałe de ła sanità"
+            },
+            {
+              "lang": "vep",
+              "title": "Mail'man tervhudenorganizacii"
+            },
+            {
+              "lang": "vi",
+              "title": "Tổ chức Y tế Thế giới"
+            },
+            {
+              "lang": "war",
+              "title": "World Health Organization"
+            },
+            {
+              "lang": "wuu",
+              "title": "世界卫生组织"
+            },
+            {
+              "lang": "xmf",
+              "title": "ჭყანთხილუაშ მოსოფელიშ ორგანიზაცია"
+            },
+            {
+              "lang": "yi",
+              "title": "װעלט געזונט ארגאניזאציע"
+            },
+            {
+              "lang": "yo",
+              "title": "Àjọ Ìlera Àgbáyé"
+            },
+            {
+              "lang": "za",
+              "title": "Seiqgyaiq Veiswngh Cujciz"
+            },
+            {
+              "lang": "zh",
+              "title": "世界卫生组织"
+            },
+            {
+              "lang": "lzh",
+              "title": "世界衛生組織"
+            },
+            {
+              "lang": "nan",
+              "title": "Sè-kài Ōe-seng Cho͘-chit"
+            },
+            {
+              "lang": "yue",
+              "title": "世界衞生組織"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

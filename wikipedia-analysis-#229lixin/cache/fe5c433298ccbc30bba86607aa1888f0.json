@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:12.274898",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060911190922|4673710",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 529132,
+          "ns": 0,
+          "title": "Trata de personas",
+          "revisions": [
+            {
+              "timestamp": "2006-09-11T19:05:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

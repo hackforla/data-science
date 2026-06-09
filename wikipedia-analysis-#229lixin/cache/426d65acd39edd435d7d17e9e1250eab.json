@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:46.885622",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210108123715|28479293",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2916418,
+          "ns": 0,
+          "title": "백신 기피",
+          "revisions": [
+            {
+              "timestamp": "2021-01-08T12:35:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

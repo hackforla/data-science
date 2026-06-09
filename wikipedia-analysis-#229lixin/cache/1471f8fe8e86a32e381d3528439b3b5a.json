@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:59.664341",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040522110352|66521",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14926,
+          "ns": 0,
+          "title": "פליט",
+          "revisions": [
+            {
+              "timestamp": "2004-05-22T07:13:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

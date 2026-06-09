@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:07.565221",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231019235247|70804855",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 196194,
+          "ns": 0,
+          "title": "Bầu cử",
+          "revisions": [
+            {
+              "timestamp": "2025-10-14T12:14:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

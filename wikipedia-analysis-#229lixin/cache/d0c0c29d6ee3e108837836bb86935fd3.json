@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:52.421380",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260125032258|28889807",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18249,
+          "ns": 0,
+          "title": "Genosida",
+          "revisions": [
+            {
+              "timestamp": "2026-01-26T06:10:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

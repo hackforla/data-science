@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:51.802917",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030307214446|108592",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23728,
+          "ns": 0,
+          "title": "Hochwasser",
+          "revisions": [
+            {
+              "timestamp": "2003-03-07T21:44:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

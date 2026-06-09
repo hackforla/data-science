@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:18.843071",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251202011722|107447248",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 246407,
+          "ns": 0,
+          "title": "気候変動",
+          "revisions": [
+            {
+              "timestamp": "2025-12-02T03:29:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

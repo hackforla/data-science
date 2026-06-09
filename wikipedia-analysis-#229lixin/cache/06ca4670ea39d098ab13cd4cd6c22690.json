@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:11.500804",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050930050134|145231",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 33347,
+          "ns": 0,
+          "title": "허리케인",
+          "revisions": [
+            {
+              "timestamp": "2005-09-02T07:37:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

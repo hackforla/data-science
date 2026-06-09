@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:41.149121",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220929194537|21731185",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3712174,
+          "ns": 0,
+          "title": "Krisis kemanusiaan",
+          "revisions": [
+            {
+              "timestamp": "2022-09-29T19:44:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

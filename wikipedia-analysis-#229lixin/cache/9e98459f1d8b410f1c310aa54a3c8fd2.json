@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:42.138195",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060221113436|266271",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 64086,
+          "ns": 0,
+          "title": "Tuberculoză",
+          "revisions": [
+            {
+              "timestamp": "2006-02-21T11:33:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "cached_at": "2026-01-26T00:27:58.100038",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 105323,
+          "ns": 0,
+          "title": "Freedom of the press",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "حرية الصحافة"
+            },
+            {
+              "lang": "ast",
+              "title": "Llibertá de prensa"
+            },
+            {
+              "lang": "az",
+              "title": "Mətbuat azadlığı"
+            },
+            {
+              "lang": "azb",
+              "title": "مطبوعات اؤزگورلوگو"
+            },
+            {
+              "lang": "bg",
+              "title": "Свобода на пресата"
+            },
+            {
+              "lang": "bn",
+              "title": "সংবাদপত্রের স্বাধীনতা"
+            },
+            {
+              "lang": "ca",
+              "title": "Llibertat de premsa"
+            },
+            {
+              "lang": "ckb",
+              "title": "ئازادیی ڕۆژنامەوانی"
+            },
+            {
+              "lang": "cs",
+              "title": "Svoboda tisku"
+            },
+            {
+              "lang": "cv",
+              "title": "Массăллă информаци ирĕклĕхĕ"
+            },
+            {
+              "lang": "cy",
+              "title": "Rhyddid y wasg"
+            },
+            {
+              "lang": "da",
+              "title": "Trykkefrihed"
+            },
+            {
+              "lang": "de",
+              "title": "Pressefreiheit"
+            },
+            {
+              "lang": "eo",
+              "title": "Gazetarlibereco"
+            },
+            {
+              "lang": "es",
+              "title": "Libertad de prensa"
+            },
+            {
+              "lang": "et",
+              "title": "Ajakirjandusvabadus"
+            },
+            {
+              "lang": "eu",
+              "title": "Prentsa-askatasun"
+            },
+            {
+              "lang": "fa",
+              "title": "آزادی مطبوعات"
+            },
+            {
+              "lang": "fi",
+              "title": "Lehdistönvapaus"
+            },
+            {
+              "lang": "fr",
+              "title": "Liberté de la presse"
+            },
+            {
+              "lang": "gl",
+              "title": "Liberdade de prensa"
+            },
+            {
+              "lang": "ha",
+              "title": "Hakkin samun 'yan jarida kyauta"
+            },
+            {
+              "lang": "he",
+              "title": "חופש העיתונות"
+            },
+            {
+              "lang": "hi",
+              "title": "प्रेस की स्वतंत्रता"
+            },
+            {
+              "lang": "hr",
+              "title": "Sloboda tiska"
+            },
+            {
+              "lang": "ht",
+              "title": "Libète laprès"
+            },
+            {
+              "lang": "hu",
+              "title": "Sajtószabadság"
+            },
+            {
+              "lang": "hy",
+              "title": "Մամուլի ազատություն"
+            },
+            {
+              "lang": "id",
+              "title": "Kebebasan pers"
+            },
+            {
+              "lang": "is",
+              "title": "Prentfrelsi"
+            },
+            {
+              "lang": "it",
+              "title": "Libertà di stampa"
+            },
+            {
+              "lang": "ja",
+              "title": "報道の自由"
+            },
+            {
+              "lang": "ka",
+              "title": "პრესის თავისუფლება"
+            },
+            {
+              "lang": "kk",
+              "title": "Баспасөз бостандығы"
+            },
+            {
+              "lang": "ko",
+              "title": "출판의 자유"
+            },
+            {
+              "lang": "ky",
+              "title": "Басма сөз эркиндиги"
+            },
+            {
+              "lang": "la",
+              "title": "Libertas imprimendi"
+            },
+            {
+              "lang": "lt",
+              "title": "Spaudos laisvė"
+            },
+            {
+              "lang": "lv",
+              "title": "Preses brīvība"
+            },
+            {
+              "lang": "mk",
+              "title": "Слобода на печатот"
+            },
+            {
+              "lang": "ms",
+              "title": "Kebebasan media"
+            },
+            {
+              "lang": "my",
+              "title": "စာနယ်ဇင်းလွတ်လပ်ခွင့်"
+            },
+            {
+              "lang": "nds",
+              "title": "Freeheit vun de Presse"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Persvrieheaid"
+            },
+            {
+              "lang": "nl",
+              "title": "Persvrijheid"
+            },
+            {
+              "lang": "nn",
+              "title": "Trykkefridom"
+            },
+            {
+              "lang": "nb",
+              "title": "Trykkefrihet"
+            },
+            {
+              "lang": "oc",
+              "title": "Libertat de la premsa"
+            },
+            {
+              "lang": "or",
+              "title": "ଗଣମାଧ୍ୟମର ସ୍ୱାଧିନତା"
+            },
+            {
+              "lang": "pl",
+              "title": "Wolność prasy"
+            },
+            {
+              "lang": "pnb",
+              "title": "آزادی اشاعت"
+            },
+            {
+              "lang": "pt",
+              "title": "Liberdade de imprensa"
+            },
+            {
+              "lang": "ro",
+              "title": "Libertatea presei"
+            },
+            {
+              "lang": "ru",
+              "title": "Свобода массовой информации"
+            },
+            {
+              "lang": "sc",
+              "title": "Libertade de imprenta"
+            },
+            {
+              "lang": "sh",
+              "title": "Sloboda tiska"
+            },
+            {
+              "lang": "si",
+              "title": "මාධ්‍ය නිදහස"
+            },
+            {
+              "lang": "simple",
+              "title": "Freedom of the press"
+            },
+            {
+              "lang": "sl",
+              "title": "Svoboda tiska"
+            },
+            {
+              "lang": "sr",
+              "title": "Sloboda štampe"
+            },
+            {
+              "lang": "sv",
+              "title": "Tryckfrihet"
+            },
+            {
+              "lang": "ta",
+              "title": "ஊடகச் சுதந்திரம்"
+            },
+            {
+              "lang": "th",
+              "title": "เสรีภาพสื่อ"
+            },
+            {
+              "lang": "tl",
+              "title": "Kalayaan ng mga mamamahayag"
+            },
+            {
+              "lang": "tr",
+              "title": "Basın özgürlüğü"
+            },
+            {
+              "lang": "uk",
+              "title": "Свобода преси"
+            },
+            {
+              "lang": "ur",
+              "title": "آزادی اشاعت"
+            },
+            {
+              "lang": "uz",
+              "title": "Matbuot erkinligi"
+            },
+            {
+              "lang": "vi",
+              "title": "Tự do báo chí"
+            },
+            {
+              "lang": "wuu",
+              "title": "新闻自由"
+            },
+            {
+              "lang": "zh",
+              "title": "新闻自由"
+            },
+            {
+              "lang": "nan",
+              "title": "Sin-bûn chū-iû"
+            },
+            {
+              "lang": "yue",
+              "title": "新聞自由"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

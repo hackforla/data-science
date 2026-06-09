@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:31.637310",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040318144500|159772",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23745,
+          "ns": 0,
+          "title": "Wolność słowa",
+          "revisions": [
+            {
+              "timestamp": "2003-09-23T12:29:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

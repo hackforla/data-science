@@ -1,0 +1,20 @@
+{
+  "cached_at": "2026-01-26T00:38:49.673844",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 60855,
+          "ns": 0,
+          "title": "بشري ناورین",
+          "revisions": [
+            {
+              "timestamp": "2022-04-17T20:19:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

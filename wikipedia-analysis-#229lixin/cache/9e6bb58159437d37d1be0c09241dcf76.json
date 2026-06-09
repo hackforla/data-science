@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:38.544894",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051120211757|436276",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 82735,
+          "ns": 0,
+          "title": "Krigsforbrydelse",
+          "revisions": [
+            {
+              "timestamp": "2005-11-20T21:16:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

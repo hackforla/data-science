@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:31.412625",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230725141816|5913908",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18805,
+          "ns": 0,
+          "title": "मृत्युदंड",
+          "revisions": [
+            {
+              "timestamp": "2023-09-17T08:35:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:48.314826",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030124194628|24701",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7710,
+          "ns": 0,
+          "title": "Stemming (meningsuiting)",
+          "revisions": [
+            {
+              "timestamp": "2003-01-24T19:45:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

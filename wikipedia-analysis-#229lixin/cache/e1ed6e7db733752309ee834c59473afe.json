@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:55.304036",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040701135134|112751",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35388,
+          "ns": 0,
+          "title": "言論自由",
+          "revisions": [
+            {
+              "timestamp": "2004-07-01T11:50:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:45.295640",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240606094806|675729",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21623,
+          "ns": 0,
+          "title": "ක්‍ෂය රෝගය",
+          "revisions": [
+            {
+              "timestamp": "2024-06-15T04:17:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

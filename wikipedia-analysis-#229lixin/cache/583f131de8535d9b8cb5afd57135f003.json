@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:31.440193",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250925204344|77679425",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5421465,
+          "ns": 0,
+          "title": "Trzęsienia ziemi w Turcji i Syrii (2023)",
+          "revisions": [
+            {
+              "timestamp": "2025-09-25T22:22:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

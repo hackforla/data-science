@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:54.105830",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100205113242|2975112",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 286033,
+          "ns": 0,
+          "title": "Засушаване",
+          "revisions": [
+            {
+              "timestamp": "2010-02-04T14:37:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:31.525294",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230127144953|210706",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 41359,
+          "ns": 0,
+          "title": "Wariyar launin fata",
+          "revisions": [
+            {
+              "timestamp": "2023-01-27T14:43:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:07.941256",
+  "response": {
+    "continue": {
+      "rvcontinue": "20211228225117|10968645",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 231904,
+          "ns": 0,
+          "title": "Menneskehandel",
+          "revisions": [
+            {
+              "timestamp": "2022-02-12T03:35:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "cached_at": "2026-01-26T00:25:01.405647",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 247927,
+          "ns": 0,
+          "title": "Border control",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "رقابة حدودية"
+            },
+            {
+              "lang": "az",
+              "title": "Sərhəd nəzarəti"
+            },
+            {
+              "lang": "bn",
+              "title": "সীমান্ত নিয়ন্ত্রণ"
+            },
+            {
+              "lang": "ca",
+              "title": "Control de fronteres"
+            },
+            {
+              "lang": "cs",
+              "title": "Hraniční kontrola"
+            },
+            {
+              "lang": "da",
+              "title": "Grænsekontrol"
+            },
+            {
+              "lang": "de",
+              "title": "Grenzkontrolle"
+            },
+            {
+              "lang": "eo",
+              "title": "Landlima kontrolo"
+            },
+            {
+              "lang": "es",
+              "title": "Control de fronteras"
+            },
+            {
+              "lang": "fa",
+              "title": "کنترل مرزی"
+            },
+            {
+              "lang": "fi",
+              "title": "Rajavalvonta"
+            },
+            {
+              "lang": "fr",
+              "title": "Contrôle frontalier"
+            },
+            {
+              "lang": "ga",
+              "title": "Rialú teorann"
+            },
+            {
+              "lang": "ha",
+              "title": "Ikon iyaka"
+            },
+            {
+              "lang": "hr",
+              "title": "Granični nadzor"
+            },
+            {
+              "lang": "id",
+              "title": "Pengendalian perbatasan"
+            },
+            {
+              "lang": "ja",
+              "title": "出入国管理"
+            },
+            {
+              "lang": "ko",
+              "title": "출입국관리"
+            },
+            {
+              "lang": "mk",
+              "title": "Гранична проверка"
+            },
+            {
+              "lang": "nl",
+              "title": "Grensbewaking"
+            },
+            {
+              "lang": "pl",
+              "title": "Kontrola graniczna"
+            },
+            {
+              "lang": "pt",
+              "title": "Controle aduaneiro"
+            },
+            {
+              "lang": "sl",
+              "title": "Mejna kontrola"
+            },
+            {
+              "lang": "sr",
+              "title": "Гранична провера"
+            },
+            {
+              "lang": "sv",
+              "title": "Gränskontroll"
+            },
+            {
+              "lang": "tr",
+              "title": "Sınır kontrolü"
+            },
+            {
+              "lang": "uk",
+              "title": "Контроль на кордоні"
+            },
+            {
+              "lang": "vi",
+              "title": "Kiểm soát biên giới"
+            },
+            {
+              "lang": "zh",
+              "title": "邊境管制"
+            },
+            {
+              "lang": "yue",
+              "title": "邊境管制"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

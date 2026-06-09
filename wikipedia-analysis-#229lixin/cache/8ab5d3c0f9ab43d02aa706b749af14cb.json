@@ -1,0 +1,640 @@
+{
+  "cached_at": "2026-01-26T00:14:40.071852",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 50482,
+          "ns": 0,
+          "title": "Flood",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Oorstroming"
+            },
+            {
+              "lang": "gsw",
+              "title": "Hochwasser"
+            },
+            {
+              "lang": "am",
+              "title": "ጎርፍ"
+            },
+            {
+              "lang": "an",
+              "title": "Inundación"
+            },
+            {
+              "lang": "anp",
+              "title": "बाढ"
+            },
+            {
+              "lang": "ar",
+              "title": "فيضان"
+            },
+            {
+              "lang": "arz",
+              "title": "فيضان"
+            },
+            {
+              "lang": "as",
+              "title": "বানপানী"
+            },
+            {
+              "lang": "ast",
+              "title": "Enllena"
+            },
+            {
+              "lang": "az",
+              "title": "Daşqın"
+            },
+            {
+              "lang": "azb",
+              "title": "داشقین"
+            },
+            {
+              "lang": "ba",
+              "title": "Һыу баҫыу"
+            },
+            {
+              "lang": "ban",
+              "title": "Gentuh"
+            },
+            {
+              "lang": "bar",
+              "title": "Fluad"
+            },
+            {
+              "lang": "sgs",
+              "title": "Plūds"
+            },
+            {
+              "lang": "bcl",
+              "title": "Bahâ"
+            },
+            {
+              "lang": "bdr",
+              "title": "Liud"
+            },
+            {
+              "lang": "be",
+              "title": "Навадненне"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Паводка"
+            },
+            {
+              "lang": "bg",
+              "title": "Наводнение"
+            },
+            {
+              "lang": "bh",
+              "title": "बाढ़ि"
+            },
+            {
+              "lang": "bjn",
+              "title": "Baah"
+            },
+            {
+              "lang": "bn",
+              "title": "বন্যা"
+            },
+            {
+              "lang": "br",
+              "title": "Dour-beuz"
+            },
+            {
+              "lang": "bs",
+              "title": "Poplava"
+            },
+            {
+              "lang": "bxr",
+              "title": "Үер"
+            },
+            {
+              "lang": "ca",
+              "title": "Inundació"
+            },
+            {
+              "lang": "cdo",
+              "title": "Cūi-căi"
+            },
+            {
+              "lang": "ckb",
+              "title": "لافاو"
+            },
+            {
+              "lang": "cs",
+              "title": "Povodeň"
+            },
+            {
+              "lang": "cv",
+              "title": "Шыв илни"
+            },
+            {
+              "lang": "cy",
+              "title": "Llifogydd"
+            },
+            {
+              "lang": "da",
+              "title": "Oversvømmelse"
+            },
+            {
+              "lang": "dag",
+              "title": "Kɔkpɛɣu"
+            },
+            {
+              "lang": "de",
+              "title": "Hochwasser"
+            },
+            {
+              "lang": "dty",
+              "title": "बाढी"
+            },
+            {
+              "lang": "el",
+              "title": "Πλημμύρα"
+            },
+            {
+              "lang": "eo",
+              "title": "Inundo"
+            },
+            {
+              "lang": "es",
+              "title": "Inundación"
+            },
+            {
+              "lang": "et",
+              "title": "Üleujutus"
+            },
+            {
+              "lang": "eu",
+              "title": "Uholde"
+            },
+            {
+              "lang": "fa",
+              "title": "سیل"
+            },
+            {
+              "lang": "fi",
+              "title": "Tulva"
+            },
+            {
+              "lang": "vro",
+              "title": "Üleujotus"
+            },
+            {
+              "lang": "fj",
+              "title": "Waluvu"
+            },
+            {
+              "lang": "fr",
+              "title": "Inondation"
+            },
+            {
+              "lang": "frr",
+              "title": "Huuchweeder"
+            },
+            {
+              "lang": "fy",
+              "title": "Oerstreaming"
+            },
+            {
+              "lang": "ga",
+              "title": "Tuile"
+            },
+            {
+              "lang": "gan",
+              "title": "水澇"
+            },
+            {
+              "lang": "gcr",
+              "title": "Inondasyon"
+            },
+            {
+              "lang": "gl",
+              "title": "Inundación"
+            },
+            {
+              "lang": "gu",
+              "title": "પૂર"
+            },
+            {
+              "lang": "ha",
+              "title": "Ambaliya"
+            },
+            {
+              "lang": "he",
+              "title": "שיטפון"
+            },
+            {
+              "lang": "hi",
+              "title": "बाढ़"
+            },
+            {
+              "lang": "hif",
+              "title": "Baarr"
+            },
+            {
+              "lang": "hr",
+              "title": "Poplava"
+            },
+            {
+              "lang": "ht",
+              "title": "Inondasyon"
+            },
+            {
+              "lang": "hu",
+              "title": "Árvíz"
+            },
+            {
+              "lang": "hy",
+              "title": "Ջրհեղեղ"
+            },
+            {
+              "lang": "ia",
+              "title": "Inundation"
+            },
+            {
+              "lang": "iba",
+              "title": "Bah"
+            },
+            {
+              "lang": "id",
+              "title": "Banjir"
+            },
+            {
+              "lang": "ig",
+              "title": "Idei mmiri"
+            },
+            {
+              "lang": "ilo",
+              "title": "Layus"
+            },
+            {
+              "lang": "io",
+              "title": "Inundado"
+            },
+            {
+              "lang": "is",
+              "title": "Flóð"
+            },
+            {
+              "lang": "it",
+              "title": "Inondazione"
+            },
+            {
+              "lang": "ja",
+              "title": "洪水"
+            },
+            {
+              "lang": "jam",
+              "title": "Flod"
+            },
+            {
+              "lang": "jv",
+              "title": "Banjir"
+            },
+            {
+              "lang": "ka",
+              "title": "წყალდიდობა"
+            },
+            {
+              "lang": "kbp",
+              "title": "Lɩm wadʊʊ"
+            },
+            {
+              "lang": "kk",
+              "title": "Топан су"
+            },
+            {
+              "lang": "kn",
+              "title": "ಪ್ರವಾಹ"
+            },
+            {
+              "lang": "ko",
+              "title": "홍수"
+            },
+            {
+              "lang": "krc",
+              "title": "Суу къобуу"
+            },
+            {
+              "lang": "ks",
+              "title": "سٔہلاب"
+            },
+            {
+              "lang": "ku",
+              "title": "Lehî"
+            },
+            {
+              "lang": "ky",
+              "title": "Ташкын"
+            },
+            {
+              "lang": "la",
+              "title": "Inundatio"
+            },
+            {
+              "lang": "lo",
+              "title": "ນໍ້າຖ້ວມ"
+            },
+            {
+              "lang": "lt",
+              "title": "Potvynis (stichinė nelaimė)"
+            },
+            {
+              "lang": "lv",
+              "title": "Plūdi"
+            },
+            {
+              "lang": "mad",
+              "title": "Bânjir"
+            },
+            {
+              "lang": "mai",
+              "title": "बाढ़ि"
+            },
+            {
+              "lang": "map-bms",
+              "title": "Banjir"
+            },
+            {
+              "lang": "mg",
+              "title": "Tondra-drano"
+            },
+            {
+              "lang": "min",
+              "title": "Aia ampuah"
+            },
+            {
+              "lang": "mk",
+              "title": "Поплава"
+            },
+            {
+              "lang": "ml",
+              "title": "വെള്ളപ്പൊക്കം"
+            },
+            {
+              "lang": "mn",
+              "title": "Үер"
+            },
+            {
+              "lang": "mr",
+              "title": "पूर"
+            },
+            {
+              "lang": "ms",
+              "title": "Banjir"
+            },
+            {
+              "lang": "my",
+              "title": "ရေကြီးခြင်း"
+            },
+            {
+              "lang": "mzn",
+              "title": "لاهیز"
+            },
+            {
+              "lang": "nap",
+              "title": "Alluvione"
+            },
+            {
+              "lang": "nds",
+              "title": "Flood (Natuurkatastrooph)"
+            },
+            {
+              "lang": "ne",
+              "title": "बाढी"
+            },
+            {
+              "lang": "new",
+              "title": "खुसि बाहा"
+            },
+            {
+              "lang": "nl",
+              "title": "Overstroming"
+            },
+            {
+              "lang": "nn",
+              "title": "Flaum"
+            },
+            {
+              "lang": "nb",
+              "title": "Flom"
+            },
+            {
+              "lang": "oc",
+              "title": "Inondacion"
+            },
+            {
+              "lang": "or",
+              "title": "ବନ୍ୟା"
+            },
+            {
+              "lang": "pa",
+              "title": "ਹੜ੍ਹ"
+            },
+            {
+              "lang": "pl",
+              "title": "Powódź"
+            },
+            {
+              "lang": "pms",
+              "title": "Inondassion"
+            },
+            {
+              "lang": "pnb",
+              "title": "سلھاب"
+            },
+            {
+              "lang": "ps",
+              "title": "سيلاب"
+            },
+            {
+              "lang": "pt",
+              "title": "Inundação"
+            },
+            {
+              "lang": "qu",
+              "title": "Nuyuy"
+            },
+            {
+              "lang": "ro",
+              "title": "Inundație"
+            },
+            {
+              "lang": "ru",
+              "title": "Наводнение"
+            },
+            {
+              "lang": "rue",
+              "title": "Повінь"
+            },
+            {
+              "lang": "sa",
+              "title": "प्लावनम्"
+            },
+            {
+              "lang": "sat",
+              "title": "ᱵᱟᱱ"
+            },
+            {
+              "lang": "scn",
+              "title": "Allavinamentu"
+            },
+            {
+              "lang": "sco",
+              "title": "Fluid (naitural disaster)"
+            },
+            {
+              "lang": "sh",
+              "title": "Poplava"
+            },
+            {
+              "lang": "si",
+              "title": "ජලගැල්ම"
+            },
+            {
+              "lang": "simple",
+              "title": "Flood"
+            },
+            {
+              "lang": "sk",
+              "title": "Povodeň"
+            },
+            {
+              "lang": "sl",
+              "title": "Poplava"
+            },
+            {
+              "lang": "sn",
+              "title": "Mafashamo"
+            },
+            {
+              "lang": "so",
+              "title": "Daad"
+            },
+            {
+              "lang": "sq",
+              "title": "Përmbytja"
+            },
+            {
+              "lang": "sr",
+              "title": "Поплава"
+            },
+            {
+              "lang": "su",
+              "title": "Caah"
+            },
+            {
+              "lang": "sv",
+              "title": "Översvämning"
+            },
+            {
+              "lang": "sw",
+              "title": "Mafuriko"
+            },
+            {
+              "lang": "ta",
+              "title": "வெள்ளம்"
+            },
+            {
+              "lang": "te",
+              "title": "వరద"
+            },
+            {
+              "lang": "tg",
+              "title": "Обхезӣ"
+            },
+            {
+              "lang": "th",
+              "title": "น้ำท่วม"
+            },
+            {
+              "lang": "tl",
+              "title": "Baha"
+            },
+            {
+              "lang": "tr",
+              "title": "Sel"
+            },
+            {
+              "lang": "trv",
+              "title": "Rngsux Paru"
+            },
+            {
+              "lang": "tt",
+              "title": "Су басу"
+            },
+            {
+              "lang": "uk",
+              "title": "Повідь"
+            },
+            {
+              "lang": "ur",
+              "title": "سیلاب"
+            },
+            {
+              "lang": "uz",
+              "title": "Toshqin"
+            },
+            {
+              "lang": "ve",
+              "title": "Midalo"
+            },
+            {
+              "lang": "vep",
+              "title": "Sur'vezi"
+            },
+            {
+              "lang": "vi",
+              "title": "Lụt"
+            },
+            {
+              "lang": "wa",
+              "title": "Grossès aiwes"
+            },
+            {
+              "lang": "war",
+              "title": "Bahâ"
+            },
+            {
+              "lang": "wuu",
+              "title": "洪水"
+            },
+            {
+              "lang": "xmf",
+              "title": "წყარალა"
+            },
+            {
+              "lang": "yi",
+              "title": "פארפלייצונג"
+            },
+            {
+              "lang": "za",
+              "title": "Raemxrongz"
+            },
+            {
+              "lang": "zh",
+              "title": "洪水"
+            },
+            {
+              "lang": "nan",
+              "title": "Tōa-chúi"
+            },
+            {
+              "lang": "yue",
+              "title": "洪水"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

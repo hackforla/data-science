@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:39.844295",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250210131542|1398666",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 198628,
+          "ns": 0,
+          "title": "Mabadiliko ya tabianchi",
+          "revisions": [
+            {
+              "timestamp": "2025-08-01T14:52:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

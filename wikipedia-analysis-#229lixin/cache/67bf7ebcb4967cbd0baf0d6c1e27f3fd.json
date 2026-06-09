@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:37.446553",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250818133222|40486252",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3456,
+          "ns": 0,
+          "title": "후천면역결핍증후군",
+          "revisions": [
+            {
+              "timestamp": "2025-11-09T15:15:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

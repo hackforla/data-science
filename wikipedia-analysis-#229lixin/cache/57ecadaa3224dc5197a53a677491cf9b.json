@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:07.460426",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250913000920|169468646",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10464596,
+          "ns": 0,
+          "title": "Terremotos de Turquía y Siria de 2023",
+          "revisions": [
+            {
+              "timestamp": "2025-11-10T10:43:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

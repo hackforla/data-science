@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:22.368947",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070801141606|698523",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 147343,
+          "ns": 0,
+          "title": "تبعیض",
+          "revisions": [
+            {
+              "timestamp": "2007-08-01T14:15:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

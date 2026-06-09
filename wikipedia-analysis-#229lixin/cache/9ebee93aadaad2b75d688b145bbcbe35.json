@@ -1,0 +1,20 @@
+{
+  "cached_at": "2026-01-26T00:46:55.672689",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 58656,
+          "ns": 0,
+          "title": "بېوزلي",
+          "revisions": [
+            {
+              "timestamp": "2021-12-18T07:48:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

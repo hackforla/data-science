@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:26.506177",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260125114112|74707028",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 800383,
+          "ns": 0,
+          "title": "Diệt chủng",
+          "revisions": [
+            {
+              "timestamp": "2026-01-26T08:15:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

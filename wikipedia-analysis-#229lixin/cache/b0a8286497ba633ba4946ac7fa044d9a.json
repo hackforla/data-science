@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:16.050007",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051027135514|1457668",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 226744,
+          "ns": 0,
+          "title": "Cambiamento climatico",
+          "revisions": [
+            {
+              "timestamp": "2005-10-27T13:54:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

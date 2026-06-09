@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:24.809775",
+  "response": {
+    "continue": {
+      "rvcontinue": "20171113214438|343755",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12338,
+          "ns": 0,
+          "title": "የመሬት መንቀጥቀጥ",
+          "revisions": [
+            {
+              "timestamp": "2022-06-22T18:52:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

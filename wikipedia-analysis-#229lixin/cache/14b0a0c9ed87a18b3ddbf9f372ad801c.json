@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:43.886100",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251209175725|36500198",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16999,
+          "ns": 0,
+          "title": "İnsan hakları",
+          "revisions": [
+            {
+              "timestamp": "2025-12-09T17:59:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

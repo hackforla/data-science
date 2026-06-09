@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:38.771732",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060129064930|738815",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 142427,
+          "ns": 0,
+          "title": "Свобода слова",
+          "revisions": [
+            {
+              "timestamp": "2006-01-29T06:40:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

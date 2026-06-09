@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:06.006721",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200715170401|4396058",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 933624,
+          "ns": 0,
+          "title": "লৈঙ্গিক সমতা",
+          "revisions": [
+            {
+              "timestamp": "2020-07-12T12:07:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

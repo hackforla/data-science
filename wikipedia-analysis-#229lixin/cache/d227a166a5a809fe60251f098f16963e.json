@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:32.592377",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250125151139|44428433",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 33787,
+          "ns": 0,
+          "title": "Біженці",
+          "revisions": [
+            {
+              "timestamp": "2025-12-21T01:45:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

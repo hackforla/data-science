@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:26.642826",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240213111029|630049",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10388,
+          "ns": 0,
+          "title": "ලෝක සෞඛ්‍ය සංවිධානය",
+          "revisions": [
+            {
+              "timestamp": "2024-02-14T01:13:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:57.730195",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251126151310|30557867",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 136588,
+          "ns": 0,
+          "title": "Смртна казна",
+          "revisions": [
+            {
+              "timestamp": "2026-01-15T12:47:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

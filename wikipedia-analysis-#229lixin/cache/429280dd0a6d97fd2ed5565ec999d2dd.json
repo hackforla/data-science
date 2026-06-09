@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:35.296950",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240803202523|74475344",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3595270,
+          "ns": 0,
+          "title": "Wolność prasy",
+          "revisions": [
+            {
+              "timestamp": "2024-08-03T20:26:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

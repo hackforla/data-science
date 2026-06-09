@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:58.090253",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030803200935|67828",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21655,
+          "ns": 0,
+          "title": "Szczepionka",
+          "revisions": [
+            {
+              "timestamp": "2003-08-03T20:05:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

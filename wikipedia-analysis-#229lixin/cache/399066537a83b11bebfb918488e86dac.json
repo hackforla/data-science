@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:19.557759",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200830051116|884642",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 53468,
+          "ns": 0,
+          "title": "डढेलो",
+          "revisions": [
+            {
+              "timestamp": "2013-01-20T15:56:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

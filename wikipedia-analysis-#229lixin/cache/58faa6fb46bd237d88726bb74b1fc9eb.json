@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:01.292062",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041218052536|239603",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 51604,
+          "ns": 0,
+          "title": "结核病",
+          "revisions": [
+            {
+              "timestamp": "2004-11-07T10:42:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

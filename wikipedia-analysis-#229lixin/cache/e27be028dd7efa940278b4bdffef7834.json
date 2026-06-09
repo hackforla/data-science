@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:23.735683",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250424110051|45179154",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 809627,
+          "ns": 0,
+          "title": "Воєнний злочин",
+          "revisions": [
+            {
+              "timestamp": "2025-08-09T15:56:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

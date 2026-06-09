@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:02.589866",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030222171522|30519",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8913,
+          "ns": 0,
+          "title": "Aardbeving",
+          "revisions": [
+            {
+              "timestamp": "2003-02-22T17:13:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

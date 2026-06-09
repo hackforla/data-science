@@ -1,0 +1,624 @@
+{
+  "cached_at": "2026-01-26T00:49:10.123463",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 25613,
+          "ns": 0,
+          "title": "Racism",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Rassisme"
+            },
+            {
+              "lang": "gsw",
+              "title": "Rassismus"
+            },
+            {
+              "lang": "am",
+              "title": "ዘረኝነት"
+            },
+            {
+              "lang": "an",
+              "title": "Racismo"
+            },
+            {
+              "lang": "anp",
+              "title": "नस्लवाद"
+            },
+            {
+              "lang": "ar",
+              "title": "عنصرية"
+            },
+            {
+              "lang": "ary",
+              "title": "عنصرية"
+            },
+            {
+              "lang": "arz",
+              "title": "عنصريه"
+            },
+            {
+              "lang": "as",
+              "title": "বৰ্ণবৈষম্য"
+            },
+            {
+              "lang": "ast",
+              "title": "Racismu"
+            },
+            {
+              "lang": "az",
+              "title": "İrqçilik"
+            },
+            {
+              "lang": "azb",
+              "title": "عیرقچیلیک"
+            },
+            {
+              "lang": "ba",
+              "title": "Расизм"
+            },
+            {
+              "lang": "bar",
+              "title": "Rassismus"
+            },
+            {
+              "lang": "sgs",
+              "title": "Rasėzmos"
+            },
+            {
+              "lang": "be",
+              "title": "Расізм"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Расізм"
+            },
+            {
+              "lang": "bg",
+              "title": "Расизъм"
+            },
+            {
+              "lang": "bn",
+              "title": "বর্ণবাদ"
+            },
+            {
+              "lang": "br",
+              "title": "Gouennelouriezh"
+            },
+            {
+              "lang": "bs",
+              "title": "Rasizam"
+            },
+            {
+              "lang": "btm",
+              "title": "Rasisme"
+            },
+            {
+              "lang": "bxr",
+              "title": "Расизм"
+            },
+            {
+              "lang": "ca",
+              "title": "Racisme"
+            },
+            {
+              "lang": "ce",
+              "title": "Расизм"
+            },
+            {
+              "lang": "chr",
+              "title": "ᏗᏓᏓᎴᏙᏗ"
+            },
+            {
+              "lang": "ckb",
+              "title": "ڕەگەزپەرستی"
+            },
+            {
+              "lang": "cs",
+              "title": "Rasismus"
+            },
+            {
+              "lang": "cv",
+              "title": "Расизм"
+            },
+            {
+              "lang": "cy",
+              "title": "Hiliaeth"
+            },
+            {
+              "lang": "da",
+              "title": "Racisme"
+            },
+            {
+              "lang": "de",
+              "title": "Rassismus"
+            },
+            {
+              "lang": "din",
+              "title": "Nyiɛrëthändït"
+            },
+            {
+              "lang": "dtp",
+              "title": "Rinanzat"
+            },
+            {
+              "lang": "el",
+              "title": "Ρατσισμός"
+            },
+            {
+              "lang": "eo",
+              "title": "Rasismo"
+            },
+            {
+              "lang": "es",
+              "title": "Racismo"
+            },
+            {
+              "lang": "et",
+              "title": "Rassism"
+            },
+            {
+              "lang": "eu",
+              "title": "Arrazismo"
+            },
+            {
+              "lang": "fa",
+              "title": "نژادپرستی"
+            },
+            {
+              "lang": "fi",
+              "title": "Rasismi"
+            },
+            {
+              "lang": "vro",
+              "title": "Rassism"
+            },
+            {
+              "lang": "fo",
+              "title": "Rasuskilnaður"
+            },
+            {
+              "lang": "fr",
+              "title": "Racisme"
+            },
+            {
+              "lang": "fy",
+              "title": "Rasisme"
+            },
+            {
+              "lang": "ga",
+              "title": "Ciníochas"
+            },
+            {
+              "lang": "gcr",
+              "title": "Rasism"
+            },
+            {
+              "lang": "gl",
+              "title": "Racismo"
+            },
+            {
+              "lang": "gn",
+              "title": "Ñemboyke piresa'ýre"
+            },
+            {
+              "lang": "ha",
+              "title": "Wariyar launin fata"
+            },
+            {
+              "lang": "he",
+              "title": "גזענות"
+            },
+            {
+              "lang": "hi",
+              "title": "नस्लवाद"
+            },
+            {
+              "lang": "hif",
+              "title": "Racism"
+            },
+            {
+              "lang": "hr",
+              "title": "Rasizam"
+            },
+            {
+              "lang": "ht",
+              "title": "Rasis"
+            },
+            {
+              "lang": "hu",
+              "title": "Rasszizmus"
+            },
+            {
+              "lang": "hy",
+              "title": "Ռասիզմ"
+            },
+            {
+              "lang": "ia",
+              "title": "Racialismo"
+            },
+            {
+              "lang": "id",
+              "title": "Rasisme"
+            },
+            {
+              "lang": "ilo",
+              "title": "Rasismo"
+            },
+            {
+              "lang": "io",
+              "title": "Rasismo"
+            },
+            {
+              "lang": "is",
+              "title": "Kynþáttahyggja"
+            },
+            {
+              "lang": "it",
+              "title": "Razzismo"
+            },
+            {
+              "lang": "ja",
+              "title": "人種主義"
+            },
+            {
+              "lang": "jam",
+              "title": "Riesizim"
+            },
+            {
+              "lang": "jv",
+              "title": "Rasisme"
+            },
+            {
+              "lang": "ka",
+              "title": "რასიზმი"
+            },
+            {
+              "lang": "kk",
+              "title": "Нәсілшілдік"
+            },
+            {
+              "lang": "kn",
+              "title": "ವರ್ಣಭೇದ ನೀತಿ"
+            },
+            {
+              "lang": "knc",
+              "title": "Racism"
+            },
+            {
+              "lang": "ko",
+              "title": "인종주의"
+            },
+            {
+              "lang": "krc",
+              "title": "Расизм"
+            },
+            {
+              "lang": "ks",
+              "title": "नस्ली अलीहदगी"
+            },
+            {
+              "lang": "ku",
+              "title": "Nîjadperestî"
+            },
+            {
+              "lang": "kw",
+              "title": "Hilgasieth"
+            },
+            {
+              "lang": "ky",
+              "title": "Расизм"
+            },
+            {
+              "lang": "la",
+              "title": "Rassismus"
+            },
+            {
+              "lang": "lad",
+              "title": "Rasizmo"
+            },
+            {
+              "lang": "lb",
+              "title": "Rassissem"
+            },
+            {
+              "lang": "lfn",
+              "title": "Razisme"
+            },
+            {
+              "lang": "li",
+              "title": "Racisme"
+            },
+            {
+              "lang": "lld",
+              "title": "Razism"
+            },
+            {
+              "lang": "lmo",
+              "title": "Razzismo"
+            },
+            {
+              "lang": "lt",
+              "title": "Rasizmas"
+            },
+            {
+              "lang": "lv",
+              "title": "Rasisms"
+            },
+            {
+              "lang": "mg",
+              "title": "Fanavakavaham-bolon-koditra"
+            },
+            {
+              "lang": "min",
+              "title": "Rasisme"
+            },
+            {
+              "lang": "mk",
+              "title": "Расизам"
+            },
+            {
+              "lang": "ml",
+              "title": "വർണ്ണവിവേചനം"
+            },
+            {
+              "lang": "mn",
+              "title": "Арьсны өнгөөр ялгаварлан гадуурхах үзэл"
+            },
+            {
+              "lang": "mr",
+              "title": "वर्णद्वेष"
+            },
+            {
+              "lang": "ms",
+              "title": "Rasisme"
+            },
+            {
+              "lang": "mwl",
+              "title": "Racismo"
+            },
+            {
+              "lang": "my",
+              "title": "လူမျိုးစွဲဝါဒ"
+            },
+            {
+              "lang": "nds",
+              "title": "Rassismus"
+            },
+            {
+              "lang": "new",
+              "title": "रंगभेद"
+            },
+            {
+              "lang": "nl",
+              "title": "Racisme"
+            },
+            {
+              "lang": "nn",
+              "title": "Rasisme"
+            },
+            {
+              "lang": "nb",
+              "title": "Rasisme"
+            },
+            {
+              "lang": "oc",
+              "title": "Racisme"
+            },
+            {
+              "lang": "om",
+              "title": "Gandummaa"
+            },
+            {
+              "lang": "pa",
+              "title": "ਨਸਲਵਾਦ"
+            },
+            {
+              "lang": "pap",
+              "title": "Racismo"
+            },
+            {
+              "lang": "pl",
+              "title": "Rasizm"
+            },
+            {
+              "lang": "pms",
+              "title": "Rassism"
+            },
+            {
+              "lang": "pnb",
+              "title": "نسل پرستی"
+            },
+            {
+              "lang": "ps",
+              "title": "توکمپالنه"
+            },
+            {
+              "lang": "pt",
+              "title": "Racismo"
+            },
+            {
+              "lang": "qu",
+              "title": "Chawchuri rikuri"
+            },
+            {
+              "lang": "rm",
+              "title": "Rassissem"
+            },
+            {
+              "lang": "ro",
+              "title": "Rasism"
+            },
+            {
+              "lang": "ru",
+              "title": "Расизм"
+            },
+            {
+              "lang": "rue",
+              "title": "Расізм"
+            },
+            {
+              "lang": "sah",
+              "title": "Расизм"
+            },
+            {
+              "lang": "sc",
+              "title": "Ratzismu"
+            },
+            {
+              "lang": "scn",
+              "title": "Razzismu"
+            },
+            {
+              "lang": "sd",
+              "title": "نسل پرستي"
+            },
+            {
+              "lang": "sh",
+              "title": "Rasizam"
+            },
+            {
+              "lang": "si",
+              "title": "ජාතිවාදය"
+            },
+            {
+              "lang": "simple",
+              "title": "Racism"
+            },
+            {
+              "lang": "sk",
+              "title": "Rasizmus"
+            },
+            {
+              "lang": "sl",
+              "title": "Rasizem"
+            },
+            {
+              "lang": "sn",
+              "title": "Rusaruraganda"
+            },
+            {
+              "lang": "so",
+              "title": "Midabtakoor"
+            },
+            {
+              "lang": "sq",
+              "title": "Racizmi"
+            },
+            {
+              "lang": "sr",
+              "title": "Расизам"
+            },
+            {
+              "lang": "sv",
+              "title": "Rasism"
+            },
+            {
+              "lang": "sw",
+              "title": "Ubaguzi wa rangi"
+            },
+            {
+              "lang": "szl",
+              "title": "Rasizm"
+            },
+            {
+              "lang": "ta",
+              "title": "இனவாதம்"
+            },
+            {
+              "lang": "tg",
+              "title": "Нажодпарастӣ"
+            },
+            {
+              "lang": "th",
+              "title": "คตินิยมเชื้อชาติ"
+            },
+            {
+              "lang": "tl",
+              "title": "Rasismo"
+            },
+            {
+              "lang": "tly",
+              "title": "Rasizm"
+            },
+            {
+              "lang": "tr",
+              "title": "Irkçılık"
+            },
+            {
+              "lang": "tt",
+              "title": "Расизм"
+            },
+            {
+              "lang": "tyv",
+              "title": "Расизм"
+            },
+            {
+              "lang": "uk",
+              "title": "Расизм"
+            },
+            {
+              "lang": "ur",
+              "title": "نسل پرستی"
+            },
+            {
+              "lang": "uz",
+              "title": "Irqchilik"
+            },
+            {
+              "lang": "vi",
+              "title": "Phân biệt chủng tộc"
+            },
+            {
+              "lang": "wa",
+              "title": "Raecisse"
+            },
+            {
+              "lang": "war",
+              "title": "Rasismo"
+            },
+            {
+              "lang": "wuu",
+              "title": "种族主义"
+            },
+            {
+              "lang": "xmf",
+              "title": "რასიზმი"
+            },
+            {
+              "lang": "yi",
+              "title": "ראסיזם"
+            },
+            {
+              "lang": "yo",
+              "title": "Ìṣẹlẹ́yàmẹ̀yà"
+            },
+            {
+              "lang": "zh",
+              "title": "种族主义"
+            },
+            {
+              "lang": "nan",
+              "title": "Chéng-cho̍k-chú-gī"
+            },
+            {
+              "lang": "yue",
+              "title": "種族歧視"
+            },
+            {
+              "lang": "zu",
+              "title": "Ukucwasa ngokwebala"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

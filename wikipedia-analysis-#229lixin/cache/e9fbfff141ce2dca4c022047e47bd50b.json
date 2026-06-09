@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:13.731947",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080802183447|1739585",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 339186,
+          "ns": 0,
+          "title": "Пандемія",
+          "revisions": [
+            {
+              "timestamp": "2008-08-02T18:32:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

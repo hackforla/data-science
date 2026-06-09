@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:18.995181",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031216032157|127388",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1474417,
+          "ns": 0,
+          "title": "地球温暖化",
+          "revisions": [
+            {
+              "timestamp": "2003-12-16T03:15:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

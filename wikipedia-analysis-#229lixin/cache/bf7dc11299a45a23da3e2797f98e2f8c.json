@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:15.877592",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050407154927|664589",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 144713,
+          "ns": 0,
+          "title": "Uchodźca",
+          "revisions": [
+            {
+              "timestamp": "2005-04-07T15:47:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

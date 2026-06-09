@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:53.480519",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231217113014|5599090",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1109615,
+          "ns": 0,
+          "title": "خشک سالی",
+          "revisions": [
+            {
+              "timestamp": "2024-01-12T14:50:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

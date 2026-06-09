@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:38.487366",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250821094652|147994105",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 243893,
+          "ns": 0,
+          "title": "Засуха",
+          "revisions": [
+            {
+              "timestamp": "2025-10-19T08:30:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

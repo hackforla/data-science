@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:51:10.836523",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251022124623|89627850",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5383852,
+          "ns": 0,
+          "title": "疫苗猶豫",
+          "revisions": [
+            {
+              "timestamp": "2025-11-27T07:28:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

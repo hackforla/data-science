@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:22.073508",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101227223639|37294761",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3272932,
+          "ns": 0,
+          "title": "Mantenimento della pace",
+          "revisions": [
+            {
+              "timestamp": "2010-12-27T20:49:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

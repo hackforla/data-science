@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:16.277609",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250918225927|77637276",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 144713,
+          "ns": 0,
+          "title": "Uchodźca",
+          "revisions": [
+            {
+              "timestamp": "2025-09-18T23:01:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "cached_at": "2026-01-26T00:22:41.472837",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 276005,
+          "ns": 0,
+          "title": "Asylum seeker",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "طالب لجوء"
+            },
+            {
+              "lang": "az",
+              "title": "Sığınacaq axtaran"
+            },
+            {
+              "lang": "bg",
+              "title": "Търсещ убежище"
+            },
+            {
+              "lang": "bs",
+              "title": "Tražilac azila"
+            },
+            {
+              "lang": "ca",
+              "title": "Asil humanitari"
+            },
+            {
+              "lang": "da",
+              "title": "Asylansøger"
+            },
+            {
+              "lang": "de",
+              "title": "Asylbewerber"
+            },
+            {
+              "lang": "el",
+              "title": "Αιτών άσυλο"
+            },
+            {
+              "lang": "eo",
+              "title": "Azilpetanto"
+            },
+            {
+              "lang": "es",
+              "title": "Asilo humanitario"
+            },
+            {
+              "lang": "fa",
+              "title": "پناهجو"
+            },
+            {
+              "lang": "fi",
+              "title": "Turvapaikanhakija"
+            },
+            {
+              "lang": "fr",
+              "title": "Demandeur d'asile"
+            },
+            {
+              "lang": "fy",
+              "title": "Asylsiker"
+            },
+            {
+              "lang": "ha",
+              "title": "Mai Neman Mafaka"
+            },
+            {
+              "lang": "he",
+              "title": "מבקש מקלט"
+            },
+            {
+              "lang": "is",
+              "title": "Hælisleitandi"
+            },
+            {
+              "lang": "lt",
+              "title": "Prieglobsčio prašytojas"
+            },
+            {
+              "lang": "mk",
+              "title": "Азилант"
+            },
+            {
+              "lang": "nl",
+              "title": "Asielzoeker"
+            },
+            {
+              "lang": "nn",
+              "title": "Asylsøkjar"
+            },
+            {
+              "lang": "nb",
+              "title": "Asylsøker"
+            },
+            {
+              "lang": "ro",
+              "title": "Solicitant de azil"
+            },
+            {
+              "lang": "ru",
+              "title": "Лицо, ищущее убежище"
+            },
+            {
+              "lang": "simple",
+              "title": "Asylum seeker"
+            },
+            {
+              "lang": "sr",
+              "title": "Тражиоци азила"
+            },
+            {
+              "lang": "sv",
+              "title": "Asylsökande"
+            },
+            {
+              "lang": "uk",
+              "title": "Шукачі притулку"
+            },
+            {
+              "lang": "vi",
+              "title": "Người xin tị nạn"
+            },
+            {
+              "lang": "zh",
+              "title": "尋求庇護者"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

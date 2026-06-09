@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:33.327518",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090928150110|39921",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5174,
+          "ns": 0,
+          "title": "लोकतन्त्र",
+          "revisions": [
+            {
+              "timestamp": "2007-08-02T18:44:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

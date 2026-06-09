@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:17.521996",
+  "response": {
+    "continue": {
+      "rvcontinue": "20161206025754|2428937",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 529414,
+          "ns": 0,
+          "title": "দারিদ্র্য",
+          "revisions": [
+            {
+              "timestamp": "2016-12-06T02:53:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

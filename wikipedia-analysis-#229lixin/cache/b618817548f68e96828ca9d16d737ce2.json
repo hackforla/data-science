@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:50.946984",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230724175613|206308588",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15772310,
+          "ns": 0,
+          "title": "Événement météorologique extrême",
+          "revisions": [
+            {
+              "timestamp": "2023-07-24T17:56:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

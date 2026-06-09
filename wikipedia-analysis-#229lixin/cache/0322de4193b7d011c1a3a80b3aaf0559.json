@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:56.376977",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041203200444|223176",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 55628,
+          "ns": 0,
+          "title": "审查制度",
+          "revisions": [
+            {
+              "timestamp": "2004-12-03T20:03:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

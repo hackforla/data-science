@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:17.339785",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250929001629|106642325",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 302928,
+          "ns": 0,
+          "title": "不正選挙",
+          "revisions": [
+            {
+              "timestamp": "2025-09-29T18:40:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

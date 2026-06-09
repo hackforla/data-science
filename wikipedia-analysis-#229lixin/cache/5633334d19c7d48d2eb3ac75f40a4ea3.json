@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:38.173882",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090507223639|3174997",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 586777,
+          "ns": 0,
+          "title": "طقس متطرف",
+          "revisions": [
+            {
+              "timestamp": "2009-05-07T22:32:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:54.441838",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060206103209|163931",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 41179,
+          "ns": 0,
+          "title": "حرية التعبير",
+          "revisions": [
+            {
+              "timestamp": "2006-02-06T10:24:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

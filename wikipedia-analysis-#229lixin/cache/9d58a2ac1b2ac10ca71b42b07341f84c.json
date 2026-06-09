@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:59.656348",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200319142854|27490304",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3476211,
+          "ns": 0,
+          "title": "Бездомність",
+          "revisions": [
+            {
+              "timestamp": "2020-03-19T14:29:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

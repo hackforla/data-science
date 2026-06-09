@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:04.554407",
+  "response": {
+    "continue": {
+      "rvcontinue": "20111224164856|7917273",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1196986,
+          "ns": 0,
+          "title": "انعدام الجنسية",
+          "revisions": [
+            {
+              "timestamp": "2011-12-24T16:25:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

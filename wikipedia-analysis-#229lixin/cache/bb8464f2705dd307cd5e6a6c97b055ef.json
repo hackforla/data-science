@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:00.772929",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140311122731|6077227",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 476200,
+          "ns": 0,
+          "title": "Свобода на пресата",
+          "revisions": [
+            {
+              "timestamp": "2014-03-11T12:27:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

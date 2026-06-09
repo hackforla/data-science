@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:12.990966",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251208110114|72689851",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 351502,
+          "ns": 0,
+          "title": "تصويت (سياسة)",
+          "revisions": [
+            {
+              "timestamp": "2026-01-19T18:51:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

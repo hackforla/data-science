@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:15.029125",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260102232302|262973597",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 69194,
+          "ns": 0,
+          "title": "Malaria",
+          "revisions": [
+            {
+              "timestamp": "2026-01-04T20:30:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:40.847232",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081116154045|1837468",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40033,
+          "ns": 0,
+          "title": "Pandemi",
+          "revisions": [
+            {
+              "timestamp": "2006-01-17T21:37:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

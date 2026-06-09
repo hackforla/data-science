@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:13.546067",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060127213333|203133",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47068,
+          "ns": 0,
+          "title": "Savaş",
+          "revisions": [
+            {
+              "timestamp": "2006-01-27T20:49:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

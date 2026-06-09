@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:14.650157",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060415215928|2789143",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 387963,
+          "ns": 0,
+          "title": "Broglio elettorale",
+          "revisions": [
+            {
+              "timestamp": "2006-04-15T21:37:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

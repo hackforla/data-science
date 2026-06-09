@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:55.448434",
+  "response": {
+    "continue": {
+      "rvcontinue": "20071226204234|2582808",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 266392,
+          "ns": 0,
+          "title": "Cunami",
+          "revisions": [
+            {
+              "timestamp": "2007-12-26T20:36:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

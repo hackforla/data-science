@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:32.363562",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100802201733|322433",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 56345,
+          "ns": 0,
+          "title": "جنگل کی آگ",
+          "revisions": [
+            {
+              "timestamp": "2010-08-02T19:39:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

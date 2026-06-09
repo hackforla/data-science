@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:29.191296",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251124110002|170639020",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 270933,
+          "ns": 0,
+          "title": "Sinhogarismo",
+          "revisions": [
+            {
+              "timestamp": "2025-11-25T05:09:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

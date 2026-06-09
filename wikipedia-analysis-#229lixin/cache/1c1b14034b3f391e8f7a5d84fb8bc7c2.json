@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:33.304214",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200124121525|4479971",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1131137,
+          "ns": 0,
+          "title": "कोविड-19 विश्वमारी",
+          "revisions": [
+            {
+              "timestamp": "2020-01-24T11:48:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

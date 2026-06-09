@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:11.056638",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070513075852|41983",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9003,
+          "ns": 0,
+          "title": "ኤድስ",
+          "revisions": [
+            {
+              "timestamp": "2007-05-13T07:57:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

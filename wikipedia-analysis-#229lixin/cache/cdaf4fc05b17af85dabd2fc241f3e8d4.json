@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:45.997224",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240519131409|37168503",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3823321,
+          "ns": 0,
+          "title": "인도주의적 위기",
+          "revisions": [
+            {
+              "timestamp": "2024-05-19T10:44:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

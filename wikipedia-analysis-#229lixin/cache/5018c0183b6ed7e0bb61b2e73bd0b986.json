@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:21.768890",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120819062809|9296577",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1426792,
+          "ns": 0,
+          "title": "تشرد (علم اجتماع)",
+          "revisions": [
+            {
+              "timestamp": "2012-08-19T06:12:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

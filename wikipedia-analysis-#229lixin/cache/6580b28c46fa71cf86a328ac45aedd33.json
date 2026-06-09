@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:49.177025",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200421235236|56117910",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5358627,
+          "ns": 0,
+          "title": "Vaccinatieweigering",
+          "revisions": [
+            {
+              "timestamp": "2020-04-21T23:52:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

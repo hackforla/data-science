@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:35.642973",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130327110530|327796",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 54298,
+          "ns": 0,
+          "title": "मानव तस्करी",
+          "revisions": [
+            {
+              "timestamp": "2013-03-27T11:05:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

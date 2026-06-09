@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:33.222429",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050319110713|28296",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6113,
+          "ns": 0,
+          "title": "تسونامي",
+          "revisions": [
+            {
+              "timestamp": "2004-12-31T12:28:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

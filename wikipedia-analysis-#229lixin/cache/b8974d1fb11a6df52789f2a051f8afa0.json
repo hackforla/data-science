@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:17.777959",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231106000025|602291",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10991,
+          "ns": 0,
+          "title": "සුනාමි",
+          "revisions": [
+            {
+              "timestamp": "2024-01-31T14:16:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

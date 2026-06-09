@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:11.209996",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260121084635|28876957",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10498,
+          "ns": 0,
+          "title": "Banjir",
+          "revisions": [
+            {
+              "timestamp": "2026-01-22T04:08:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

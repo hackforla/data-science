@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:24.987547",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250919073924|46182934",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 41419,
+          "ns": 0,
+          "title": "Землетрус",
+          "revisions": [
+            {
+              "timestamp": "2025-09-19T07:41:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:03.353198",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051105202958|5214",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1798,
+          "ns": 0,
+          "title": "Ubaguzi wa rangi",
+          "revisions": [
+            {
+              "timestamp": "2005-11-05T20:16:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

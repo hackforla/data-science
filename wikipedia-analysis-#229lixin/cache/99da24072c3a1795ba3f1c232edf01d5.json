@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:46.608300",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250805162225|759980",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3343,
+          "ns": 0,
+          "title": "ප්‍රජාතන්ත්‍රවාදය",
+          "revisions": [
+            {
+              "timestamp": "2025-08-06T03:38:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

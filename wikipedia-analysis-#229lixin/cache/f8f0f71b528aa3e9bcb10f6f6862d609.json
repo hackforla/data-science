@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:45.882181",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090831162805|2229215",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 407855,
+          "ns": 0,
+          "title": "Lụt",
+          "revisions": [
+            {
+              "timestamp": "2009-08-31T14:02:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

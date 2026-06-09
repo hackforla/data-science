@@ -1,0 +1,18 @@
+{
+  "cached_at": "2026-01-26T00:04:08.942527",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 33096132,
+          "ns": 0,
+          "title": "Ebola virus disease"
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

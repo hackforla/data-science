@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:46.770661",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030923140004|2832",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1156,
+          "ns": 0,
+          "title": "Sotarikos",
+          "revisions": [
+            {
+              "timestamp": "2003-09-23T13:53:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:00.532822",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241027183811|68312742",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 386936,
+          "ns": 0,
+          "title": "رقابة",
+          "revisions": [
+            {
+              "timestamp": "2024-10-30T10:32:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

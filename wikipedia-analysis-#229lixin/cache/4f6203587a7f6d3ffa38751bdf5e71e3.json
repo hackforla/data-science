@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:54.454843",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250612145317|73582683",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 26303,
+          "ns": 0,
+          "title": "Tự do ngôn luận",
+          "revisions": [
+            {
+              "timestamp": "2025-11-23T11:51:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

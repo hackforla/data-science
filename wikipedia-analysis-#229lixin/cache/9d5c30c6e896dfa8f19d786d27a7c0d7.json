@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:36.322028",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240612205250|160712985",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 498016,
+          "ns": 0,
+          "title": "Crisis humanitaria",
+          "revisions": [
+            {
+              "timestamp": "2024-08-24T15:11:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

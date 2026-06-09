@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:07.646943",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241121185522|11963579",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 192552,
+          "ns": 0,
+          "title": "ลมฟ้าอากาศสุดโต่ง",
+          "revisions": [
+            {
+              "timestamp": "2024-12-18T18:40:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

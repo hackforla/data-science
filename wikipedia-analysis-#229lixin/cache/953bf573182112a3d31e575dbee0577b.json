@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:20.654912",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060630092847|1413734",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 243810,
+          "ns": 0,
+          "title": "Беженцы",
+          "revisions": [
+            {
+              "timestamp": "2006-06-30T09:26:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

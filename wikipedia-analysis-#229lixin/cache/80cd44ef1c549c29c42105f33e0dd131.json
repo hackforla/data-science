@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:57.002097",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150429024545|1830123",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 421330,
+          "ns": 0,
+          "title": "দাবানল",
+          "revisions": [
+            {
+              "timestamp": "2015-04-29T02:44:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:37.016090",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100831141723|749665",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 215298,
+          "ns": 0,
+          "title": "विश्वमारी",
+          "revisions": [
+            {
+              "timestamp": "2010-08-27T12:56:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:52.406288",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060920185932|235811",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 49991,
+          "ns": 0,
+          "title": "วัณโรค",
+          "revisions": [
+            {
+              "timestamp": "2006-09-20T18:41:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

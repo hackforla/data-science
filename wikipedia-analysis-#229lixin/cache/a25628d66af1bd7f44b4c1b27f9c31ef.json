@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:22.063821",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040620200140|547177",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 88183,
+          "ns": 0,
+          "title": "Travail des enfants",
+          "revisions": [
+            {
+              "timestamp": "2004-06-20T20:00:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

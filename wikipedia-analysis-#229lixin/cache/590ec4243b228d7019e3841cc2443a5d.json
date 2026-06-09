@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:15.407984",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250813134843|88715847",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21889,
+          "ns": 0,
+          "title": "种族主义",
+          "revisions": [
+            {
+              "timestamp": "2025-08-13T13:49:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

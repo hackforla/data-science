@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:16.540446",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250428211706|87032516",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8835293,
+          "ns": 0,
+          "title": "尋求庇護者",
+          "revisions": [
+            {
+              "timestamp": "2025-11-15T10:52:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:09.792160",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220915084856|10294935",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 445822,
+          "ns": 0,
+          "title": "ความยากจน",
+          "revisions": [
+            {
+              "timestamp": "2022-09-15T08:57:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:24.558830",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060814215359|201979",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35019,
+          "ns": 0,
+          "title": "Φτώχεια",
+          "revisions": [
+            {
+              "timestamp": "2006-08-14T21:34:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

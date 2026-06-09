@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:46.443467",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220302193901|66487804",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 82477,
+          "ns": 0,
+          "title": "Uchodźstwo wewnętrzne",
+          "revisions": [
+            {
+              "timestamp": "2025-08-25T12:28:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:07.642952",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240723161934|472954",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 81910,
+          "ns": 0,
+          "title": "Zaɓen shugaban ƙasar Amurka a 2024",
+          "revisions": [
+            {
+              "timestamp": "2024-07-23T16:16:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

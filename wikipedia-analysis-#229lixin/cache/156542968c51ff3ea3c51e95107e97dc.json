@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:55.441498",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060313175231|892167",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 167241,
+          "ns": 0,
+          "title": "Голосование",
+          "revisions": [
+            {
+              "timestamp": "2006-03-13T17:49:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

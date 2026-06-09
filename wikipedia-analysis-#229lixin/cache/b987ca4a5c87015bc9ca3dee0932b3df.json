@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:24.914870",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260109114651|232275762",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 34622,
+          "ns": 0,
+          "title": "Paludisme",
+          "revisions": [
+            {
+              "timestamp": "2026-01-10T20:39:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

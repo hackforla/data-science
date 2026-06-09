@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:28.525122",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080425164024|16888422",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1623647,
+          "ns": 0,
+          "title": "Desplazados internos",
+          "revisions": [
+            {
+              "timestamp": "2008-04-25T16:27:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

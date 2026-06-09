@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:48.901270",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251227002725|58826656",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 91766,
+          "ns": 0,
+          "title": "Människohandel",
+          "revisions": [
+            {
+              "timestamp": "2025-12-27T01:07:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:48.279889",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250625061329|257349964",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 51827,
+          "ns": 0,
+          "title": "Flüchtling",
+          "revisions": [
+            {
+              "timestamp": "2025-08-10T03:51:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:47.205510",
+  "response": {
+    "continue": {
+      "rvcontinue": "20131029142808|7341986",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 732897,
+          "ns": 0,
+          "title": "Asylansøger",
+          "revisions": [
+            {
+              "timestamp": "2024-06-29T10:47:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

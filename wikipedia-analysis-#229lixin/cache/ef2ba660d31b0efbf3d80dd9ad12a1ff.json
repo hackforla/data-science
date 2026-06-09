@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:55.929798",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240228175912|31792353",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2560096,
+          "ns": 0,
+          "title": "İnsani krizler",
+          "revisions": [
+            {
+              "timestamp": "2026-01-24T12:42:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

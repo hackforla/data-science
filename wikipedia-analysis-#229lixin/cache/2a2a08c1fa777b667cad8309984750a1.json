@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:08.262071",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031126071747|40125",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20503,
+          "ns": 0,
+          "title": "Ligestilling",
+          "revisions": [
+            {
+              "timestamp": "2003-11-20T12:34:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

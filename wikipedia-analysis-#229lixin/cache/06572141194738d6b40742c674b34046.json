@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:34.302740",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050714204210|621988",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 71997,
+          "ns": 0,
+          "title": "Seca",
+          "revisions": [
+            {
+              "timestamp": "2005-04-12T18:59:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

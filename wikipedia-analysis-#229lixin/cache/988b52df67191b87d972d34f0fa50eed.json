@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:28.646733",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230206093828|63781976",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5727855,
+          "ns": 0,
+          "title": "Aardbeving Turkije-Syrië 2023",
+          "revisions": [
+            {
+              "timestamp": "2023-02-06T09:29:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

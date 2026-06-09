@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:31.983170",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050411072055|185500",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 52802,
+          "ns": 0,
+          "title": "Folkedrab",
+          "revisions": [
+            {
+              "timestamp": "2005-04-11T06:58:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

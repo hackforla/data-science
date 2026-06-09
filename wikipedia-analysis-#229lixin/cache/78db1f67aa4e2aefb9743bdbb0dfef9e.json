@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:49.935553",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050918103844|195965",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 34401,
+          "ns": 0,
+          "title": "Lidská práva",
+          "revisions": [
+            {
+              "timestamp": "2005-09-04T06:23:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

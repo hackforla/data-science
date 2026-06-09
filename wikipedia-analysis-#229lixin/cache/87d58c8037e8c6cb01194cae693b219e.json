@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:32.785677",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251204204544|36478370",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1037054,
+          "ns": 0,
+          "title": "İnsan göçü",
+          "revisions": [
+            {
+              "timestamp": "2025-12-28T13:43:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

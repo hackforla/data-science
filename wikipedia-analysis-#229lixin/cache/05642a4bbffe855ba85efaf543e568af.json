@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:27.458584",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170729134355|33062",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5923,
+          "ns": 0,
+          "title": "Kanjamau",
+          "revisions": [
+            {
+              "timestamp": "2017-01-27T16:15:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

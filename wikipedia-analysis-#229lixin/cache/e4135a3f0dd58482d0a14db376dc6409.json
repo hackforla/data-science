@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:42.302487",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240920011358|335596",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 60203,
+          "ns": 0,
+          "title": "د ماشوم مزدوري کول",
+          "revisions": [
+            {
+              "timestamp": "2025-08-05T08:12:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

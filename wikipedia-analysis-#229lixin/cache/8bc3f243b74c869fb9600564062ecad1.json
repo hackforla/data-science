@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:11.304289",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250802213356|8368745",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 245628,
+          "ns": 0,
+          "title": "মৃত্যুদণ্ড",
+          "revisions": [
+            {
+              "timestamp": "2025-11-17T16:35:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

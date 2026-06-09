@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:43.861117",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240914141447|141111179",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10078209,
+          "ns": 0,
+          "title": "Crisi umanitaria",
+          "revisions": [
+            {
+              "timestamp": "2025-11-18T10:14:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

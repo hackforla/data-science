@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:34.956280",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110625121740|137768",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 24134,
+          "ns": 0,
+          "title": "लैङ्गिक समानता",
+          "revisions": [
+            {
+              "timestamp": "2011-01-27T21:55:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

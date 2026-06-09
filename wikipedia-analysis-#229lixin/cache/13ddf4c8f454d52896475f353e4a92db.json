@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:06.715245",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180201165443|2888668",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 624610,
+          "ns": 0,
+          "title": "শান্তিরক্ষা",
+          "revisions": [
+            {
+              "timestamp": "2018-02-01T16:53:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:50.933572",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150119080548|223387",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 52004,
+          "ns": 0,
+          "title": "စစ်ပွဲ",
+          "revisions": [
+            {
+              "timestamp": "2015-01-19T07:52:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

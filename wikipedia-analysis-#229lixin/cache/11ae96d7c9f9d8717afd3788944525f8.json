@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:15.930779",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060322134431|2864757",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 454490,
+          "ns": 0,
+          "title": "Migracja ludności",
+          "revisions": [
+            {
+              "timestamp": "2006-03-14T15:02:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:51.211574",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250822120002|106122498",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4993092,
+          "ns": 0,
+          "title": "ボーター・サプレッション",
+          "revisions": [
+            {
+              "timestamp": "2025-12-27T08:17:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

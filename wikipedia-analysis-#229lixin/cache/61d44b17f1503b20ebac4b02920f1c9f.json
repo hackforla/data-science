@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:00.528116",
+  "response": {
+    "continue": {
+      "rvcontinue": "20071212085949|1202336",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 262650,
+          "ns": 0,
+          "title": "الاتجار بالبشر",
+          "revisions": [
+            {
+              "timestamp": "2007-12-12T08:53:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

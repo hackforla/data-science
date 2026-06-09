@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:32.614587",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050729205503|1701665",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 225205,
+          "ns": 0,
+          "title": "Persvrijheid",
+          "revisions": [
+            {
+              "timestamp": "2005-07-29T20:51:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

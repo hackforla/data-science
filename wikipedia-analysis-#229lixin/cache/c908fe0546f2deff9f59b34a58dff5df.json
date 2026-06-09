@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:22.043737",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040703185003|75428",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18142,
+          "ns": 0,
+          "title": "עינויים",
+          "revisions": [
+            {
+              "timestamp": "2004-07-03T18:42:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

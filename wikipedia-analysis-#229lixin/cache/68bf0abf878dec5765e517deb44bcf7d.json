@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:49.245228",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100206113952|368980",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 34159,
+          "ns": 0,
+          "title": "Usawa wa kijinsia",
+          "revisions": [
+            {
+              "timestamp": "2009-12-30T07:40:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

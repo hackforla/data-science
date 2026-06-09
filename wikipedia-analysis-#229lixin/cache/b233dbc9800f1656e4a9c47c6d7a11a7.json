@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:54.199303",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251001105318|36097416",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3637099,
+          "ns": 0,
+          "title": "Toplumsal cinsiyet eşitliği",
+          "revisions": [
+            {
+              "timestamp": "2025-11-19T19:35:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

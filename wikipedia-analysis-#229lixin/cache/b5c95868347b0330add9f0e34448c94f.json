@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:48.853973",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230206035531|75852117",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8271023,
+          "ns": 0,
+          "title": "2023年土耳其-叙利亚地震",
+          "revisions": [
+            {
+              "timestamp": "2023-02-06T03:41:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

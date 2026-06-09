@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:48.594954",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251220175943|71401993",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 24226,
+          "ns": 0,
+          "title": "Eleição",
+          "revisions": [
+            {
+              "timestamp": "2026-01-20T19:13:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:51.740974",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240922233141|28459603",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 89573,
+          "ns": 0,
+          "title": "Дечја радна снага",
+          "revisions": [
+            {
+              "timestamp": "2025-03-29T12:46:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

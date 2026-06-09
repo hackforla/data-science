@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:24.817082",
+  "response": {
+    "continue": {
+      "rvcontinue": "20091210124720|3677866",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 404563,
+          "ns": 0,
+          "title": "Internt fordreven person",
+          "revisions": [
+            {
+              "timestamp": "2009-12-10T12:32:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

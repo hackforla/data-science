@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:26.082534",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240711154004|27283496",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1989795,
+          "ns": 0,
+          "title": "Nemi esélyegyenlőség",
+          "revisions": [
+            {
+              "timestamp": "2024-07-11T15:22:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

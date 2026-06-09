@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:28.229164",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240108155450|16042308",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3035193,
+          "ns": 0,
+          "title": "Alegeri prezidențiale în Statele Unite ale Americii, 2024",
+          "revisions": [
+            {
+              "timestamp": "2024-01-08T15:46:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

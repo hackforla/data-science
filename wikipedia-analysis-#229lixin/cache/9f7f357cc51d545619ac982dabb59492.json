@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:13.394309",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180205085017|13680035",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2536150,
+          "ns": 0,
+          "title": "Kecurangan pemilihan umum",
+          "revisions": [
+            {
+              "timestamp": "2018-02-05T08:14:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

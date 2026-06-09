@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:27.254104",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250513124616|39825136",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 52193,
+          "ns": 0,
+          "title": "표현의 자유",
+          "revisions": [
+            {
+              "timestamp": "2025-05-13T13:04:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

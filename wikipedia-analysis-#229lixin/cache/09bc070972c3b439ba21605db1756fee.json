@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:09.233355",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251029024354|261036037",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 27027,
+          "ns": 0,
+          "title": "Pressefreiheit",
+          "revisions": [
+            {
+              "timestamp": "2025-10-29T02:45:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

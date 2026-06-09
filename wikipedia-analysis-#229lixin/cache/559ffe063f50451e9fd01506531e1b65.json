@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:44.784489",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110814125148|94608",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17756,
+          "ns": 0,
+          "title": "မဲဆန္ဒပေးခြင်း",
+          "revisions": [
+            {
+              "timestamp": "2011-08-14T12:51:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

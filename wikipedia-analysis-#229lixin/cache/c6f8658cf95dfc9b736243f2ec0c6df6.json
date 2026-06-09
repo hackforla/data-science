@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:32.821431",
+  "response": {
+    "continue": {
+      "rvcontinue": "20071206162111|5510554",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 798957,
+          "ns": 0,
+          "title": "Gränskontroll",
+          "revisions": [
+            {
+              "timestamp": "2007-12-06T16:18:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

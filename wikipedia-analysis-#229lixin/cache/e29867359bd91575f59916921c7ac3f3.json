@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:03.887107",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221007083232|516478",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 13464,
+          "ns": 0,
+          "title": "ව්‍යාප්ත වසංගත",
+          "revisions": [
+            {
+              "timestamp": "2022-10-07T08:32:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

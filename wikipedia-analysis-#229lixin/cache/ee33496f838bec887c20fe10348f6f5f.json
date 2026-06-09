@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:32.803361",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251031021732|71116092",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7062026,
+          "ns": 0,
+          "title": "Sismos da Turquia e Síria de 2023",
+          "revisions": [
+            {
+              "timestamp": "2025-11-17T18:07:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

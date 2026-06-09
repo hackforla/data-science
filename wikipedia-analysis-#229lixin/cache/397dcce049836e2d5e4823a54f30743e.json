@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:28.687832",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080113202814|1683874",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 303252,
+          "ns": 0,
+          "title": "Inundație",
+          "revisions": [
+            {
+              "timestamp": "2008-01-13T17:21:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

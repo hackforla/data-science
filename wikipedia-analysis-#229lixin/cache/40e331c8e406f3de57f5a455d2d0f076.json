@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:05.564584",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060713204223|224129",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48608,
+          "ns": 0,
+          "title": "Малярія",
+          "revisions": [
+            {
+              "timestamp": "2006-07-13T20:23:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

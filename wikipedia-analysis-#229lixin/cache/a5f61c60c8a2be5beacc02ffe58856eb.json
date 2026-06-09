@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:51.638215",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250422103150|45168250",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 464209,
+          "ns": 0,
+          "title": "Свобода преси",
+          "revisions": [
+            {
+              "timestamp": "2025-04-22T10:32:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

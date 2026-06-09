@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:36.821050",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221231095146|201271",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40492,
+          "ns": 0,
+          "title": "Yaƙi",
+          "revisions": [
+            {
+              "timestamp": "2022-12-31T09:47:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:34.180625",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230805214047|53785282",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 665613,
+          "ns": 0,
+          "title": "Fredsbevarande insatser",
+          "revisions": [
+            {
+              "timestamp": "2023-11-29T15:17:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

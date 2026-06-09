@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:20.821594",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150628165425|9520968",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1773090,
+          "ns": 0,
+          "title": "Pemeliharaan perdamaian",
+          "revisions": [
+            {
+              "timestamp": "2015-06-28T16:51:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

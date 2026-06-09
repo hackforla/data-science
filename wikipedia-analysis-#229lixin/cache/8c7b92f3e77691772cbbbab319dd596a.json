@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:33.718505",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080518014041|132925",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16435,
+          "ns": 0,
+          "title": "Ugaidi",
+          "revisions": [
+            {
+              "timestamp": "2008-05-18T01:39:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

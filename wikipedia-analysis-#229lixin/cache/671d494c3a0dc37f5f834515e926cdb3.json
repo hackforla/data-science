@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:21.907732",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101223144915|8989121",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 751097,
+          "ns": 0,
+          "title": "Sajtószabadság",
+          "revisions": [
+            {
+              "timestamp": "2010-12-23T14:41:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

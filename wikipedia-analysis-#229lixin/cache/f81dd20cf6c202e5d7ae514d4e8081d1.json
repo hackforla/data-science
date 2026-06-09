@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:57.354625",
+  "response": {
+    "continue": {
+      "rvcontinue": "20141203210923|15227974",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1827722,
+          "ns": 0,
+          "title": "Дитяча праця",
+          "revisions": [
+            {
+              "timestamp": "2014-12-03T20:57:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

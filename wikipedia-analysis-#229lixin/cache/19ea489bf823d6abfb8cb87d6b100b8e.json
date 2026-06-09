@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:30.447808",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041207063401|8204806",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1251700,
+          "ns": 0,
+          "title": "Humanitarian crisis",
+          "revisions": [
+            {
+              "timestamp": "2004-12-07T05:40:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

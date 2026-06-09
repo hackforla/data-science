@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:11.004781",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080722045505|38705",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8042,
+          "ns": 0,
+          "title": "වර්ග සංහාරය",
+          "revisions": [
+            {
+              "timestamp": "2008-07-22T04:28:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

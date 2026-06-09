@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:58.422355",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251008154455|147135865",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9363866,
+          "ns": 0,
+          "title": "Fenomeno meteorologico estremo",
+          "revisions": [
+            {
+              "timestamp": "2025-10-08T15:53:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

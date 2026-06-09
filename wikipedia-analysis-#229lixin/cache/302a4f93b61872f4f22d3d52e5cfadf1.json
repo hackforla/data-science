@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:22.872372",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040218091534|23296",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5973,
+          "ns": 0,
+          "title": "Kuolemanrangaistus",
+          "revisions": [
+            {
+              "timestamp": "2004-02-17T09:16:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

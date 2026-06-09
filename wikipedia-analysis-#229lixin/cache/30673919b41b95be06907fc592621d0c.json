@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:24.972240",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190810043412|26067936",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1742326,
+          "ns": 0,
+          "title": "חוסר אזרחות",
+          "revisions": [
+            {
+              "timestamp": "2019-08-10T04:30:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

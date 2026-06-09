@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:07.275327",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251220165549|42398154",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 842828,
+          "ns": 0,
+          "title": "שרפת יער",
+          "revisions": [
+            {
+              "timestamp": "2025-12-20T16:56:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

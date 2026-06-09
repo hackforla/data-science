@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:10.702374",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050522205233|72932",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20319,
+          "ns": 0,
+          "title": "Volby",
+          "revisions": [
+            {
+              "timestamp": "2005-05-22T20:18:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

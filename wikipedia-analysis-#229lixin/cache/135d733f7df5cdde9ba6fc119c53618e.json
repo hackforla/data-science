@@ -1,0 +1,368 @@
+{
+  "cached_at": "2026-01-26T00:20:38.476521",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 45547,
+          "ns": 0,
+          "title": "Refugee",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "لاجئ"
+            },
+            {
+              "lang": "arc",
+              "title": "ܓܘܣܢܐ"
+            },
+            {
+              "lang": "ast",
+              "title": "Refuxáu"
+            },
+            {
+              "lang": "az",
+              "title": "Qaçqın"
+            },
+            {
+              "lang": "azb",
+              "title": "قاچقین"
+            },
+            {
+              "lang": "be",
+              "title": "Бежанцы"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Бежанцы"
+            },
+            {
+              "lang": "bew",
+              "title": "Orang tetiran"
+            },
+            {
+              "lang": "bg",
+              "title": "Бежанец"
+            },
+            {
+              "lang": "bn",
+              "title": "শরণার্থী"
+            },
+            {
+              "lang": "bs",
+              "title": "Izbjeglica"
+            },
+            {
+              "lang": "ca",
+              "title": "Refugiat"
+            },
+            {
+              "lang": "ckb",
+              "title": "پەنابەر"
+            },
+            {
+              "lang": "cs",
+              "title": "Uprchlík"
+            },
+            {
+              "lang": "csb",
+              "title": "Ùchódnik"
+            },
+            {
+              "lang": "cy",
+              "title": "Ffoadur"
+            },
+            {
+              "lang": "da",
+              "title": "Flygtning"
+            },
+            {
+              "lang": "de",
+              "title": "Flüchtling"
+            },
+            {
+              "lang": "el",
+              "title": "Πρόσφυγας"
+            },
+            {
+              "lang": "eml",
+              "title": "Rifugê"
+            },
+            {
+              "lang": "eo",
+              "title": "Rifuĝinto"
+            },
+            {
+              "lang": "es",
+              "title": "Refugiado"
+            },
+            {
+              "lang": "et",
+              "title": "Pagulane"
+            },
+            {
+              "lang": "eu",
+              "title": "Iheslari"
+            },
+            {
+              "lang": "fa",
+              "title": "پناهنده"
+            },
+            {
+              "lang": "fi",
+              "title": "Pakolainen"
+            },
+            {
+              "lang": "fo",
+              "title": "Flóttafólk"
+            },
+            {
+              "lang": "fr",
+              "title": "Réfugié"
+            },
+            {
+              "lang": "ga",
+              "title": "Dídeanaí"
+            },
+            {
+              "lang": "gl",
+              "title": "Refuxiado"
+            },
+            {
+              "lang": "ha",
+              "title": "Ƴan gudun hijira"
+            },
+            {
+              "lang": "he",
+              "title": "פליט"
+            },
+            {
+              "lang": "hi",
+              "title": "शरणार्थी"
+            },
+            {
+              "lang": "hr",
+              "title": "Izbjeglica"
+            },
+            {
+              "lang": "hu",
+              "title": "Menekült"
+            },
+            {
+              "lang": "hy",
+              "title": "Փախստականներ"
+            },
+            {
+              "lang": "ia",
+              "title": "Refugiato"
+            },
+            {
+              "lang": "id",
+              "title": "Pengungsi"
+            },
+            {
+              "lang": "is",
+              "title": "Flóttamaður"
+            },
+            {
+              "lang": "it",
+              "title": "Rifugiato"
+            },
+            {
+              "lang": "ja",
+              "title": "難民"
+            },
+            {
+              "lang": "kaa",
+              "title": "Qashqınlar"
+            },
+            {
+              "lang": "kk",
+              "title": "Босқын"
+            },
+            {
+              "lang": "km",
+              "title": "ជនភៀសខ្លួន"
+            },
+            {
+              "lang": "ko",
+              "title": "난민"
+            },
+            {
+              "lang": "krc",
+              "title": "Къачхынчыла"
+            },
+            {
+              "lang": "ku",
+              "title": "Penaber"
+            },
+            {
+              "lang": "ky",
+              "title": "Качкын"
+            },
+            {
+              "lang": "li",
+              "title": "Vlöchteling"
+            },
+            {
+              "lang": "lt",
+              "title": "Pabėgėlis"
+            },
+            {
+              "lang": "lv",
+              "title": "Bēgļi"
+            },
+            {
+              "lang": "mk",
+              "title": "Бегалец"
+            },
+            {
+              "lang": "mnw",
+              "title": "ညးလဒဴ"
+            },
+            {
+              "lang": "ms",
+              "title": "Pelarian"
+            },
+            {
+              "lang": "ne",
+              "title": "शरणार्थी"
+            },
+            {
+              "lang": "nl",
+              "title": "Vluchteling"
+            },
+            {
+              "lang": "nn",
+              "title": "Flyktning"
+            },
+            {
+              "lang": "nb",
+              "title": "Flyktning"
+            },
+            {
+              "lang": "oc",
+              "title": "Refugiat"
+            },
+            {
+              "lang": "pap",
+              "title": "Refugiado"
+            },
+            {
+              "lang": "pl",
+              "title": "Uchodźca"
+            },
+            {
+              "lang": "pt",
+              "title": "Refugiado"
+            },
+            {
+              "lang": "qu",
+              "title": "Ayqiq"
+            },
+            {
+              "lang": "ro",
+              "title": "Refugiat"
+            },
+            {
+              "lang": "ru",
+              "title": "Беженцы"
+            },
+            {
+              "lang": "sah",
+              "title": "Куотуу дьоннор"
+            },
+            {
+              "lang": "se",
+              "title": "Báhtareaddji"
+            },
+            {
+              "lang": "sh",
+              "title": "Izbjeglica"
+            },
+            {
+              "lang": "simple",
+              "title": "Refugee"
+            },
+            {
+              "lang": "sk",
+              "title": "Utečenec (osoba)"
+            },
+            {
+              "lang": "sl",
+              "title": "Begunec"
+            },
+            {
+              "lang": "so",
+              "title": "Qaxooti"
+            },
+            {
+              "lang": "sq",
+              "title": "Refugjatët"
+            },
+            {
+              "lang": "sr",
+              "title": "Избеглица"
+            },
+            {
+              "lang": "sv",
+              "title": "Flykting"
+            },
+            {
+              "lang": "sw",
+              "title": "Mkimbizi"
+            },
+            {
+              "lang": "ta",
+              "title": "ஏதிலி"
+            },
+            {
+              "lang": "tg",
+              "title": "Гуреза"
+            },
+            {
+              "lang": "th",
+              "title": "ผู้ลี้ภัย"
+            },
+            {
+              "lang": "tr",
+              "title": "Mülteci"
+            },
+            {
+              "lang": "uk",
+              "title": "Біженці"
+            },
+            {
+              "lang": "ur",
+              "title": "پناہ گزین"
+            },
+            {
+              "lang": "vi",
+              "title": "Tị nạn"
+            },
+            {
+              "lang": "wuu",
+              "title": "难民"
+            },
+            {
+              "lang": "zh",
+              "title": "难民"
+            },
+            {
+              "lang": "nan",
+              "title": "Lān-bîn"
+            },
+            {
+              "lang": "yue",
+              "title": "難民"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

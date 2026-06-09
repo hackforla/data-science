@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:45.562323",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190905084745|474836",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 114270,
+          "ns": 0,
+          "title": "လူမျိုးစွဲဝါဒ",
+          "revisions": [
+            {
+              "timestamp": "2019-09-05T06:22:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

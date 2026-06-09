@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:10.234021",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060130063830|13174754",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1217929,
+          "ns": 0,
+          "title": "Friedenssicherung",
+          "revisions": [
+            {
+              "timestamp": "2006-01-29T20:29:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

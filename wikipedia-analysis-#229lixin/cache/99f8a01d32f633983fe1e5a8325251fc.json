@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:21.456205",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170127161241|32371",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5922,
+          "ns": 0,
+          "title": "Tarin fuka",
+          "revisions": [
+            {
+              "timestamp": "2017-01-27T16:12:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

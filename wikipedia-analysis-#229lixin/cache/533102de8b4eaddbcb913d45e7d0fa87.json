@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:00.353336",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060801153124|652415",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 108348,
+          "ns": 0,
+          "title": "Svoboda projevu",
+          "revisions": [
+            {
+              "timestamp": "2006-07-31T10:51:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

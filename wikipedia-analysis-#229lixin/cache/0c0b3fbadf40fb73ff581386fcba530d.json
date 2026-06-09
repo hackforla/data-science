@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:51.097138",
+  "response": {
+    "continue": {
+      "rvcontinue": "20011008150933|13734",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5065,
+          "ns": 0,
+          "title": "Terrorismus",
+          "revisions": [
+            {
+              "timestamp": "2001-09-23T18:08:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

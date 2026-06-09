@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:07.901865",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060528155232|3454911",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 518230,
+          "ns": 0,
+          "title": "Zbrodnia wojenna",
+          "revisions": [
+            {
+              "timestamp": "2006-05-28T15:50:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

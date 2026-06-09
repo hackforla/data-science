@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:17.198500",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130620195235|94255916",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7091526,
+          "ns": 0,
+          "title": "Contrôle frontalier",
+          "revisions": [
+            {
+              "timestamp": "2013-04-28T16:42:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

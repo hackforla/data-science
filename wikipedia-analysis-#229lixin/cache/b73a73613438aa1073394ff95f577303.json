@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:35.411721",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230704182158|6735447",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 256934,
+          "ns": 0,
+          "title": "যুদ্ধাপরাধ",
+          "revisions": [
+            {
+              "timestamp": "2025-08-02T21:56:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

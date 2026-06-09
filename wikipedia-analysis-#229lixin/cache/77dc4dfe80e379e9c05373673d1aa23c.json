@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:48.142939",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241117101913|11941129",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 872354,
+          "ns": 0,
+          "title": "เสรีภาพสื่อ",
+          "revisions": [
+            {
+              "timestamp": "2025-06-24T18:58:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

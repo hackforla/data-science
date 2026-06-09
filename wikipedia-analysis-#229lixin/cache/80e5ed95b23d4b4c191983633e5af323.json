@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:09.361410",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250316120920|8048494",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 673533,
+          "ns": 0,
+          "title": "শিশুশ্রম",
+          "revisions": [
+            {
+              "timestamp": "2026-01-08T12:37:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

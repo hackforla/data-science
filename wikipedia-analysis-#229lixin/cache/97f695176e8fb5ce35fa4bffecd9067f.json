@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:59.343713",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040729215138|24513",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19163,
+          "ns": 0,
+          "title": "Демокрация",
+          "revisions": [
+            {
+              "timestamp": "2004-07-29T21:40:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:20.116039",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250206181151|253053567",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6677515,
+          "ns": 0,
+          "title": "Fluchtbewegung",
+          "revisions": [
+            {
+              "timestamp": "2025-05-17T06:00:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

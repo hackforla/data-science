@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:59.834489",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060620015641|2129741",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 440505,
+          "ns": 0,
+          "title": "性別平等",
+          "revisions": [
+            {
+              "timestamp": "2006-06-19T07:52:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

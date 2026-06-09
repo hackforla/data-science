@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:00.865940",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040513105434|376904",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 64699,
+          "ns": 0,
+          "title": "戦争犯罪",
+          "revisions": [
+            {
+              "timestamp": "2004-03-14T17:09:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

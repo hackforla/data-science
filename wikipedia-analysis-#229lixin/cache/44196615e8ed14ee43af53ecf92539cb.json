@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:25.866349",
+  "response": {
+    "continue": {
+      "rvcontinue": "20151014103306|31433",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5702,
+          "ns": 0,
+          "title": "Cutar zazzaɓin cizon sauro",
+          "revisions": [
+            {
+              "timestamp": "2015-09-19T08:06:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

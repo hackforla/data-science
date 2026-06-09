@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:38.003340",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251203103929|40945824",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 80548,
+          "ns": 0,
+          "title": "선거",
+          "revisions": [
+            {
+              "timestamp": "2025-12-03T10:40:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

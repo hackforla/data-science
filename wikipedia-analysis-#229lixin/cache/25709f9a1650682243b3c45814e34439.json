@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:21.211822",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240806000545|1238279",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1602,
+          "ns": 0,
+          "title": "मानव अधिकार",
+          "revisions": [
+            {
+              "timestamp": "2025-08-25T13:20:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:52.307902",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040807142116|121302",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35744,
+          "ns": 0,
+          "title": "Menneskerettighederne",
+          "revisions": [
+            {
+              "timestamp": "2004-08-07T14:06:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:54.219876",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041123165704|79863",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9409,
+          "ns": 0,
+          "title": "백신",
+          "revisions": [
+            {
+              "timestamp": "2004-11-23T16:55:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

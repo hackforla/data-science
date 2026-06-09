@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:39.207438",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260101153406|28664101",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 143123,
+          "ns": 0,
+          "title": "Szegénység",
+          "revisions": [
+            {
+              "timestamp": "2026-01-02T00:23:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

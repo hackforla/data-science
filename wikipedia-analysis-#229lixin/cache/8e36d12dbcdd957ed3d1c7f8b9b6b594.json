@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:37.129621",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030323081115|12914",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4980,
+          "ns": 0,
+          "title": "死刑",
+          "revisions": [
+            {
+              "timestamp": "2003-03-23T08:09:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

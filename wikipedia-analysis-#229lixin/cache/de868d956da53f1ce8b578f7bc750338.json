@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:37.875230",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030918174649|90998",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17287,
+          "ns": 0,
+          "title": "差別",
+          "revisions": [
+            {
+              "timestamp": "2003-09-18T17:12:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

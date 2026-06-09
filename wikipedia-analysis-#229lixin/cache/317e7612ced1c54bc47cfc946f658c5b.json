@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:20.095183",
+  "response": {
+    "continue": {
+      "rvcontinue": "20181116073646|9735114",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 50362,
+          "ns": 0,
+          "title": "Afstemning",
+          "revisions": [
+            {
+              "timestamp": "2020-05-31T16:53:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

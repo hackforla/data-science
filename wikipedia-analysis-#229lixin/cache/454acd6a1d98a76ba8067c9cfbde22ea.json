@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:26.381120",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240424143156|6196564",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2955,
+          "ns": 0,
+          "title": "زلزلہ",
+          "revisions": [
+            {
+              "timestamp": "2025-02-02T10:33:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

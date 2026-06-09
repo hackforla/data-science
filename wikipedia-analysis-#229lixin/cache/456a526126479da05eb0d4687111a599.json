@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:47.576405",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060124230826|397098",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 54122,
+          "ns": 0,
+          "title": "Védőoltás",
+          "revisions": [
+            {
+              "timestamp": "2006-01-24T22:39:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

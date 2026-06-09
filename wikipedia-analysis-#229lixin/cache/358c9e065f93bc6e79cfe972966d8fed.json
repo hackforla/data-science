@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:11.321052",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080824202520|1423200",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 250157,
+          "ns": 0,
+          "title": "آزادی مطبوعات",
+          "revisions": [
+            {
+              "timestamp": "2008-08-24T20:10:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:47.866000",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240530053226|322988",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 61882,
+          "ns": 0,
+          "title": "د مرګ سزا (اعدام)",
+          "revisions": [
+            {
+              "timestamp": "2022-06-07T12:41:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

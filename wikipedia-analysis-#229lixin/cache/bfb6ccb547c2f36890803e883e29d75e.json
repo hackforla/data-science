@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:14.999437",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251011192125|11320928",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 71925,
+          "ns": 0,
+          "title": "Φυματίωση",
+          "revisions": [
+            {
+              "timestamp": "2025-10-31T19:47:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

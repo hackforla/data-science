@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:41.241549",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230811141628|802837",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9465,
+          "ns": 0,
+          "title": "ငှက်ဖျားရောဂါ",
+          "revisions": [
+            {
+              "timestamp": "2023-08-12T10:46:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

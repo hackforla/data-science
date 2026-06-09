@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:47.674223",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250904151031|9077214",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 57255,
+          "ns": 0,
+          "title": "انسانی حقوق",
+          "revisions": [
+            {
+              "timestamp": "2025-09-04T18:23:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

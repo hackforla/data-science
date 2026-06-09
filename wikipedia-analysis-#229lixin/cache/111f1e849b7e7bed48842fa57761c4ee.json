@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:18.918088",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050415114456|12349509",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1742315,
+          "ns": 0,
+          "title": "Vaccine hesitancy",
+          "revisions": [
+            {
+              "timestamp": "2005-04-15T01:36:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

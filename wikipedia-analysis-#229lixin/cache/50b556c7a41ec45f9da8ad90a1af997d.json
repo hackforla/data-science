@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:00.192138",
+  "response": {
+    "continue": {
+      "rvcontinue": "20091217154023|42826",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8820,
+          "ns": 0,
+          "title": "भुईँचालो",
+          "revisions": [
+            {
+              "timestamp": "2009-12-17T15:33:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

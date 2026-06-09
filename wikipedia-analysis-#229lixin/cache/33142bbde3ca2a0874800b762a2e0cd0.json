@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:54.096777",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251207203627|148378702",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2804689,
+          "ns": 0,
+          "title": "Terremoto",
+          "revisions": [
+            {
+              "timestamp": "2026-01-12T17:45:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

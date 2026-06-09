@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:13.119700",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251225100812|74619252",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 62952,
+          "ns": 0,
+          "title": "Phân biệt chủng tộc",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T14:04:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:56.043969",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100122175434|137815",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12200,
+          "ns": 0,
+          "title": "ዴሞክራሲ",
+          "revisions": [
+            {
+              "timestamp": "2010-01-17T15:16:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

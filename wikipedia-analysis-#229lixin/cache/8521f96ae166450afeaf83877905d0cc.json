@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:20.984660",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250806122025|40418093",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2871953,
+          "ns": 0,
+          "title": "2024년 미국 대통령 선거",
+          "revisions": [
+            {
+              "timestamp": "2025-10-25T00:48:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

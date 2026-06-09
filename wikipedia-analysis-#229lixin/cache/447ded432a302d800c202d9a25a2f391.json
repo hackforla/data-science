@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:17.805944",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250721081424|57775620",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 530591,
+          "ns": 0,
+          "title": "Brott mot krigets lagar",
+          "revisions": [
+            {
+              "timestamp": "2025-10-20T18:11:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

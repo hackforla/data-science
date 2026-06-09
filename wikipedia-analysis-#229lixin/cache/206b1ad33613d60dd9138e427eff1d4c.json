@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:44.356505",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190409051039|9418420",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 719774,
+          "ns": 0,
+          "title": "Търсещ убежище",
+          "revisions": [
+            {
+              "timestamp": "2019-04-09T05:07:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

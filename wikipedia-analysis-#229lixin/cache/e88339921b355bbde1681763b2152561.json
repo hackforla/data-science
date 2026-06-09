@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:55.181548",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090529134033|58396",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10518,
+          "ns": 0,
+          "title": "මැලේරියාව",
+          "revisions": [
+            {
+              "timestamp": "2009-01-16T12:32:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

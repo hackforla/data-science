@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:56.097186",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250713223619|12077586",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 253460,
+          "ns": 0,
+          "title": "Klimaændring",
+          "revisions": [
+            {
+              "timestamp": "2025-07-20T21:52:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

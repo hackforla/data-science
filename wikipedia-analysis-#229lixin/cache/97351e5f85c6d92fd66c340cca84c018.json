@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:20.945514",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241030205148|68364162",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3462988,
+          "ns": 0,
+          "title": "نزوح داخلي",
+          "revisions": [
+            {
+              "timestamp": "2025-07-01T19:55:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

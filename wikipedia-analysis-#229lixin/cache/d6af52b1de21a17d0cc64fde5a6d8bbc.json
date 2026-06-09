@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:22.033032",
+  "response": {
+    "continue": {
+      "rvcontinue": "20201203161504|4727358",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 995672,
+          "ns": 0,
+          "title": "টিকা গ্রহণে অনীহা",
+          "revisions": [
+            {
+              "timestamp": "2020-12-03T16:14:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:01.728844",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030627053101|69418",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4410461,
+          "ns": 0,
+          "title": "Inondation",
+          "revisions": [
+            {
+              "timestamp": "2003-06-27T04:55:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

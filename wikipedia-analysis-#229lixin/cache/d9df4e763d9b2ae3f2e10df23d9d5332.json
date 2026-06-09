@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:39.798624",
+  "response": {
+    "continue": {
+      "rvcontinue": "20160605135053|191217",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10290,
+          "ns": 0,
+          "title": "نری رنځ",
+          "revisions": [
+            {
+              "timestamp": "2025-03-12T04:45:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:29.536870",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060105022540|231926",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47217,
+          "ns": 0,
+          "title": "검열",
+          "revisions": [
+            {
+              "timestamp": "2006-01-05T01:55:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

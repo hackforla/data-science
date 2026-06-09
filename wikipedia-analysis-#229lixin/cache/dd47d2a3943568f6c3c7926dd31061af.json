@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:03.368430",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250915141650|72038820",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6676734,
+          "ns": 0,
+          "title": "رقابة حدودية",
+          "revisions": [
+            {
+              "timestamp": "2025-12-11T20:44:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

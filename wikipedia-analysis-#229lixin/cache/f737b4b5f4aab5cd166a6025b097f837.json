@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:49.043816",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030805165520|89149",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 24810,
+          "ns": 0,
+          "title": "Crime de guerre",
+          "revisions": [
+            {
+              "timestamp": "2003-08-05T16:52:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:18.179458",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130202102125|10128706",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 904016,
+          "ns": 0,
+          "title": "부정 선거",
+          "revisions": [
+            {
+              "timestamp": "2013-01-28T16:11:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

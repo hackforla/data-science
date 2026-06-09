@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:53.059091",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200205114854|22900834",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4121385,
+          "ns": 0,
+          "title": "Пандемија ковида 19",
+          "revisions": [
+            {
+              "timestamp": "2020-02-05T11:40:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

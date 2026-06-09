@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:48.621534",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060826161742|471043",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 77198,
+          "ns": 0,
+          "title": "전쟁",
+          "revisions": [
+            {
+              "timestamp": "2006-08-26T13:12:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

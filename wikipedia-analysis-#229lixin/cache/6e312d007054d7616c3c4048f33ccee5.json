@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:05.839989",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250224074010|26960745",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 143329,
+          "ns": 0,
+          "title": "Pengungsi",
+          "revisions": [
+            {
+              "timestamp": "2025-10-17T09:29:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

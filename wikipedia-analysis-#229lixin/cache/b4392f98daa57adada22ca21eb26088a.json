@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:21.397344",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251130071655|36460123",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 81386,
+          "ns": 0,
+          "title": "Savaş suçu",
+          "revisions": [
+            {
+              "timestamp": "2025-11-30T07:24:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

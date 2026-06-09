@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:15.229629",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080612172104|1780507",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 348915,
+          "ns": 0,
+          "title": "جائحة",
+          "revisions": [
+            {
+              "timestamp": "2008-06-12T16:07:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

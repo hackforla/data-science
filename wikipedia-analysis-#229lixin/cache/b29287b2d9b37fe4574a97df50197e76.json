@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:36.633927",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260109181214|36626074",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16553,
+          "ns": 0,
+          "title": "Dünya Sağlık Örgütü",
+          "revisions": [
+            {
+              "timestamp": "2026-01-17T02:24:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

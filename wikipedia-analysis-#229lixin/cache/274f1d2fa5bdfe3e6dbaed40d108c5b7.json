@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:08.885734",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230318044641|15518174",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 215366,
+          "ns": 0,
+          "title": "Genocid",
+          "revisions": [
+            {
+              "timestamp": "2025-07-16T04:09:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

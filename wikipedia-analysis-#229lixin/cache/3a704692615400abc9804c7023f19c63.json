@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:52.243807",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020611054318|91238",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 56106,
+          "ns": 0,
+          "title": "Wildfire",
+          "revisions": [
+            {
+              "timestamp": "2002-06-11T05:41:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

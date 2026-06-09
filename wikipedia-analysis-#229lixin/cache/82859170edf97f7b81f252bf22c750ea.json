@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:25.463774",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060629165252|3667956",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 495293,
+          "ns": 0,
+          "title": "Libertà di stampa",
+          "revisions": [
+            {
+              "timestamp": "2006-06-29T16:51:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

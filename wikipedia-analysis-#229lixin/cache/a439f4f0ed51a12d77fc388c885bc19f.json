@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:58.361337",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090131180917|9189317",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 968422,
+          "ns": 0,
+          "title": "酷刑",
+          "revisions": [
+            {
+              "timestamp": "2009-01-31T14:34:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

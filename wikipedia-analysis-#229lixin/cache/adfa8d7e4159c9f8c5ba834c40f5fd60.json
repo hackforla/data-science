@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:47.769653",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251222054329|107696480",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1508,
+          "ns": 0,
+          "title": "戦争",
+          "revisions": [
+            {
+              "timestamp": "2025-12-23T12:00:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:47.517710",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041027192037|567185",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 97930,
+          "ns": 0,
+          "title": "Dakloosheid",
+          "revisions": [
+            {
+              "timestamp": "2004-10-27T19:19:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

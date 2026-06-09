@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:57.290609",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251210124720|43165077",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9854,
+          "ns": 0,
+          "title": "تروریسم",
+          "revisions": [
+            {
+              "timestamp": "2025-12-10T12:47:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:18.760424",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240815100258|27368063",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1900248,
+          "ns": 0,
+          "title": "2023-as törökországi és szíriai földrengések",
+          "revisions": [
+            {
+              "timestamp": "2024-08-15T10:04:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

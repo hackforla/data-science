@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:24.948696",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260104124500|78659589",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10021,
+          "ns": 0,
+          "title": "Prawa człowieka",
+          "revisions": [
+            {
+              "timestamp": "2026-01-04T12:45:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

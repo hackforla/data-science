@@ -1,0 +1,28 @@
+{
+  "cached_at": "2026-01-26T00:20:32.725402",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 47706753,
+          "ns": 0,
+          "title": "Migrant crisis",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "أزمة المهاجرين"
+            },
+            {
+              "lang": "ko",
+              "title": "이민자 위기"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

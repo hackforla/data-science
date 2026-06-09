@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:43.540184",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041223135551|1277690",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1842500,
+          "ns": 0,
+          "title": "貧困",
+          "revisions": [
+            {
+              "timestamp": "2004-12-23T09:52:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

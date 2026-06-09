@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:55.496260",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210605182616|10785909",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1065331,
+          "ns": 0,
+          "title": "Præsidentvalget i USA 2024",
+          "revisions": [
+            {
+              "timestamp": "2021-06-05T18:22:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

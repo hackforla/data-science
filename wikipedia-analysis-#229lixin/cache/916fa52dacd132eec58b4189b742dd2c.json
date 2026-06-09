@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:16.824892",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060720222934|717550",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 85903,
+          "ns": 0,
+          "title": "Aszály",
+          "revisions": [
+            {
+              "timestamp": "2006-07-20T22:28:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:30.446118",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040805124908|674944",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 103595,
+          "ns": 0,
+          "title": "Vote",
+          "revisions": [
+            {
+              "timestamp": "2004-08-05T12:43:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

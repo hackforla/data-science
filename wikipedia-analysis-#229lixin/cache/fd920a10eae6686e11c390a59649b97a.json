@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:16.580101",
+  "response": {
+    "continue": {
+      "rvcontinue": "20160402234553|713261832",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47842317,
+          "ns": 0,
+          "title": "Refugee crisis",
+          "revisions": [
+            {
+              "timestamp": "2015-09-16T22:12:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

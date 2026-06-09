@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:37.064818",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241219102622|68597772",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 749826,
+          "ns": 0,
+          "title": "Staatloosheid",
+          "revisions": [
+            {
+              "timestamp": "2025-07-29T17:51:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

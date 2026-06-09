@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:46.540584",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241206064323|341690",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 57948,
+          "ns": 0,
+          "title": "کوويډ-۱۹ وبا",
+          "revisions": [
+            {
+              "timestamp": "2024-12-10T10:47:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

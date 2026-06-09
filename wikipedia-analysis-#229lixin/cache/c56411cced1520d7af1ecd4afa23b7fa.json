@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:51.724363",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241128183552|547653",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 22406,
+          "ns": 0,
+          "title": "Laifin Yaƙi",
+          "revisions": [
+            {
+              "timestamp": "2025-05-21T04:09:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:13.623886",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041015141119|136909",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17348,
+          "ns": 0,
+          "title": "Lehdistönvapaus",
+          "revisions": [
+            {
+              "timestamp": "2004-09-10T15:55:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

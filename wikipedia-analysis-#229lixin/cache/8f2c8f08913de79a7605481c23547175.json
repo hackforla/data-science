@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:55.753873",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220803151430|6021143",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1164874,
+          "ns": 0,
+          "title": "নির্বাচনি জালিয়াতি",
+          "revisions": [
+            {
+              "timestamp": "2022-08-03T15:12:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

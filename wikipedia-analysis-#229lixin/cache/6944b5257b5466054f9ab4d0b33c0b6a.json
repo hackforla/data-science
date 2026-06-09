@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:20.960302",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030708140256|197966",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 43259,
+          "ns": 0,
+          "title": "Abstimmung",
+          "revisions": [
+            {
+              "timestamp": "2003-07-08T07:11:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

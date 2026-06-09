@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:21.408120",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220129124007|31413349",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3152671,
+          "ns": 0,
+          "title": "지구 온난화",
+          "revisions": [
+            {
+              "timestamp": "2022-01-29T12:32:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

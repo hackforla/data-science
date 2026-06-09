@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:34.248100",
+  "response": {
+    "continue": {
+      "rvcontinue": "20021103215148|39837",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12078,
+          "ns": 0,
+          "title": "Völkermord",
+          "revisions": [
+            {
+              "timestamp": "2002-11-03T21:04:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "cached_at": "2026-01-26T00:16:59.758334",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 14230,
+          "ns": 0,
+          "title": "Hurricane",
+          "langlinks": [
+            {
+              "lang": "bg",
+              "title": "Ураган"
+            },
+            {
+              "lang": "cs",
+              "title": "Orkán"
+            },
+            {
+              "lang": "da",
+              "title": "Orkan"
+            },
+            {
+              "lang": "de",
+              "title": "Hurrikan"
+            },
+            {
+              "lang": "dsb",
+              "title": "Orkan"
+            },
+            {
+              "lang": "et",
+              "title": "Orkaan (tuul)"
+            },
+            {
+              "lang": "fr",
+              "title": "Ouragan"
+            },
+            {
+              "lang": "fy",
+              "title": "Orkaan"
+            },
+            {
+              "lang": "ga",
+              "title": "Spéirling"
+            },
+            {
+              "lang": "hsb",
+              "title": "Orkan"
+            },
+            {
+              "lang": "io",
+              "title": "Uragano"
+            },
+            {
+              "lang": "ja",
+              "title": "ハリケーン"
+            },
+            {
+              "lang": "ko",
+              "title": "허리케인"
+            },
+            {
+              "lang": "li",
+              "title": "Orkaan"
+            },
+            {
+              "lang": "ms",
+              "title": "Hurikan"
+            },
+            {
+              "lang": "nl",
+              "title": "Orkaan"
+            },
+            {
+              "lang": "nn",
+              "title": "Orkan"
+            },
+            {
+              "lang": "nb",
+              "title": "Orkan"
+            },
+            {
+              "lang": "pap",
+              "title": "Horcan"
+            },
+            {
+              "lang": "pl",
+              "title": "Huragan"
+            },
+            {
+              "lang": "ro",
+              "title": "Uragan"
+            },
+            {
+              "lang": "simple",
+              "title": "Hurricane"
+            },
+            {
+              "lang": "sk",
+              "title": "Hurikán"
+            },
+            {
+              "lang": "sq",
+              "title": "Uragani"
+            },
+            {
+              "lang": "sv",
+              "title": "Orkanstyrka"
+            },
+            {
+              "lang": "tok",
+              "title": "sike telo suli"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

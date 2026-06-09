@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:32.215371",
+  "response": {
+    "continue": {
+      "rvcontinue": "20160402233207|713260285",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47706753,
+          "ns": 0,
+          "title": "Migrant crisis",
+          "revisions": [
+            {
+              "timestamp": "2015-09-03T07:24:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

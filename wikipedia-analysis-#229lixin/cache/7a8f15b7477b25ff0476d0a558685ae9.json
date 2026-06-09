@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:26.810924",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061212050007|365889",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 61415,
+          "ns": 0,
+          "title": "نژادپرستی",
+          "revisions": [
+            {
+              "timestamp": "2006-12-12T04:59:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

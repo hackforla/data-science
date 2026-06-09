@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:28.593824",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070625221546|9510235",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1201090,
+          "ns": 0,
+          "title": "Tratta di esseri umani",
+          "revisions": [
+            {
+              "timestamp": "2007-06-25T22:15:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

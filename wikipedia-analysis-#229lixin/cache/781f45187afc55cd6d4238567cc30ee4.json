@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:47.500928",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050130165055|17878",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11461,
+          "ns": 0,
+          "title": "Демократија",
+          "revisions": [
+            {
+              "timestamp": "2005-01-30T16:41:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

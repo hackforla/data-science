@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:43.728099",
+  "response": {
+    "continue": {
+      "rvcontinue": "20191004141050|38903113",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6598033,
+          "ns": 0,
+          "title": "قمع المقترعين",
+          "revisions": [
+            {
+              "timestamp": "2019-10-04T14:10:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

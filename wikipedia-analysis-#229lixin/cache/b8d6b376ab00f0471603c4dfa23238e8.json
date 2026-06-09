@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:41.292895",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251213010342|12713139",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 54924,
+          "ns": 0,
+          "title": "ภาวะโลกร้อน",
+          "revisions": [
+            {
+              "timestamp": "2026-01-09T06:50:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

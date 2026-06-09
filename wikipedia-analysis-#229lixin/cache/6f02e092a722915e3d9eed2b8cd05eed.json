@@ -1,0 +1,816 @@
+{
+  "cached_at": "2026-01-26T00:17:22.923831",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 10106,
+          "ns": 0,
+          "title": "Earthquake",
+          "langlinks": [
+            {
+              "lang": "ace",
+              "title": "Geumpa bumoë"
+            },
+            {
+              "lang": "af",
+              "title": "Aardbewing"
+            },
+            {
+              "lang": "gsw",
+              "title": "Erdbeben"
+            },
+            {
+              "lang": "am",
+              "title": "የመሬት መንቀጥቀጥ"
+            },
+            {
+              "lang": "an",
+              "title": "Tierratremo"
+            },
+            {
+              "lang": "ang",
+              "title": "Eorþbeofung"
+            },
+            {
+              "lang": "ann",
+              "title": "Sikisik-ijọn̄"
+            },
+            {
+              "lang": "anp",
+              "title": "भूकंप"
+            },
+            {
+              "lang": "ar",
+              "title": "زلزال"
+            },
+            {
+              "lang": "ary",
+              "title": "زلزال"
+            },
+            {
+              "lang": "as",
+              "title": "ভূমিকম্প"
+            },
+            {
+              "lang": "ast",
+              "title": "Terremotu"
+            },
+            {
+              "lang": "awa",
+              "title": "भूकम्प"
+            },
+            {
+              "lang": "ay",
+              "title": "Uraq khathati"
+            },
+            {
+              "lang": "az",
+              "title": "Zəlzələ"
+            },
+            {
+              "lang": "azb",
+              "title": "زلزله"
+            },
+            {
+              "lang": "ba",
+              "title": "Ер тетрәү"
+            },
+            {
+              "lang": "ban",
+              "title": "Linuh"
+            },
+            {
+              "lang": "bar",
+              "title": "Eadbebm"
+            },
+            {
+              "lang": "sgs",
+              "title": "Žemės kostiejėms"
+            },
+            {
+              "lang": "bcl",
+              "title": "Linog"
+            },
+            {
+              "lang": "be",
+              "title": "Землетрасенне"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Землятрус"
+            },
+            {
+              "lang": "bew",
+              "title": "Lindu"
+            },
+            {
+              "lang": "bg",
+              "title": "Земетресение"
+            },
+            {
+              "lang": "bh",
+              "title": "भुँइडोल"
+            },
+            {
+              "lang": "bjn",
+              "title": "Lindu"
+            },
+            {
+              "lang": "bn",
+              "title": "ভূমিকম্প"
+            },
+            {
+              "lang": "br",
+              "title": "Kren-douar"
+            },
+            {
+              "lang": "bs",
+              "title": "Zemljotres"
+            },
+            {
+              "lang": "bxr",
+              "title": "Газар хүдэлэлгэ"
+            },
+            {
+              "lang": "ca",
+              "title": "Terratrèmol"
+            },
+            {
+              "lang": "cdo",
+              "title": "Dê-cīng"
+            },
+            {
+              "lang": "ceb",
+              "title": "Linog"
+            },
+            {
+              "lang": "chr",
+              "title": "ᎦᏙ ᎠᎵᏖᎸᎮᏍᎬ"
+            },
+            {
+              "lang": "ckb",
+              "title": "بوومەلەرزە"
+            },
+            {
+              "lang": "co",
+              "title": "Terramotu"
+            },
+            {
+              "lang": "cs",
+              "title": "Zemětřesení"
+            },
+            {
+              "lang": "cv",
+              "title": "Çĕр чĕтрени"
+            },
+            {
+              "lang": "cy",
+              "title": "Daeargryn"
+            },
+            {
+              "lang": "da",
+              "title": "Jordskælv"
+            },
+            {
+              "lang": "dag",
+              "title": "Tiŋgbandamli"
+            },
+            {
+              "lang": "de",
+              "title": "Erdbeben"
+            },
+            {
+              "lang": "diq",
+              "title": "Erdlerz"
+            },
+            {
+              "lang": "dty",
+              "title": "भूकम्प"
+            },
+            {
+              "lang": "el",
+              "title": "Σεισμός"
+            },
+            {
+              "lang": "eml",
+              "title": "Taramòt"
+            },
+            {
+              "lang": "eo",
+              "title": "Tertremo"
+            },
+            {
+              "lang": "es",
+              "title": "Terremoto"
+            },
+            {
+              "lang": "et",
+              "title": "Maavärin"
+            },
+            {
+              "lang": "eu",
+              "title": "Lurrikara"
+            },
+            {
+              "lang": "ext",
+              "title": "Terremotu"
+            },
+            {
+              "lang": "fa",
+              "title": "زمین‌لرزه"
+            },
+            {
+              "lang": "fi",
+              "title": "Maanjäristys"
+            },
+            {
+              "lang": "vro",
+              "title": "Maavärrin"
+            },
+            {
+              "lang": "fj",
+              "title": "Uneune"
+            },
+            {
+              "lang": "fo",
+              "title": "Jarðskjálvti"
+            },
+            {
+              "lang": "fr",
+              "title": "Séisme"
+            },
+            {
+              "lang": "frr",
+              "title": "Eerdbeewrin"
+            },
+            {
+              "lang": "fur",
+              "title": "Taramot"
+            },
+            {
+              "lang": "fy",
+              "title": "Ierdbeving"
+            },
+            {
+              "lang": "ga",
+              "title": "Crith talún"
+            },
+            {
+              "lang": "gan",
+              "title": "地震"
+            },
+            {
+              "lang": "gcr",
+              "title": "Séyism"
+            },
+            {
+              "lang": "gd",
+              "title": "Crith-thalmhainn"
+            },
+            {
+              "lang": "gl",
+              "title": "Terremoto"
+            },
+            {
+              "lang": "gn",
+              "title": "Yvyryrýi"
+            },
+            {
+              "lang": "gor",
+              "title": "Liluhu"
+            },
+            {
+              "lang": "gu",
+              "title": "ધરતીકંપ"
+            },
+            {
+              "lang": "hak",
+              "title": "Thi-thûng"
+            },
+            {
+              "lang": "he",
+              "title": "רעידת אדמה"
+            },
+            {
+              "lang": "hi",
+              "title": "भूकम्प"
+            },
+            {
+              "lang": "hif",
+              "title": "Bhukamp"
+            },
+            {
+              "lang": "hr",
+              "title": "Potres"
+            },
+            {
+              "lang": "hsb",
+              "title": "Zemjerženje"
+            },
+            {
+              "lang": "ht",
+              "title": "Tranblemanntè"
+            },
+            {
+              "lang": "hu",
+              "title": "Földrengés"
+            },
+            {
+              "lang": "hy",
+              "title": "Երկրաշարժ"
+            },
+            {
+              "lang": "hyw",
+              "title": "Երկրաշարժ"
+            },
+            {
+              "lang": "ia",
+              "title": "Seismo"
+            },
+            {
+              "lang": "iba",
+              "title": "Tanah berenyang"
+            },
+            {
+              "lang": "id",
+              "title": "Gempa bumi"
+            },
+            {
+              "lang": "ig",
+              "title": "Ala ọma jijiji"
+            },
+            {
+              "lang": "ilo",
+              "title": "Gingined"
+            },
+            {
+              "lang": "io",
+              "title": "Ter-tremo"
+            },
+            {
+              "lang": "is",
+              "title": "Jarðskjálfti"
+            },
+            {
+              "lang": "it",
+              "title": "Terremoto"
+            },
+            {
+              "lang": "iu",
+              "title": "ᓴᔪᑉᐱᓛᕗᖅ"
+            },
+            {
+              "lang": "ja",
+              "title": "地震"
+            },
+            {
+              "lang": "jam",
+              "title": "Oertkwiek"
+            },
+            {
+              "lang": "jv",
+              "title": "Lindhu"
+            },
+            {
+              "lang": "ka",
+              "title": "მიწისძვრა"
+            },
+            {
+              "lang": "kaa",
+              "title": "Jer silkiniw"
+            },
+            {
+              "lang": "kab",
+              "title": "Zenzla"
+            },
+            {
+              "lang": "kbp",
+              "title": "Tɛtʋ n̄amsʋʋ"
+            },
+            {
+              "lang": "kk",
+              "title": "Жер сілкіну"
+            },
+            {
+              "lang": "kn",
+              "title": "ಭೂಕಂಪ"
+            },
+            {
+              "lang": "ko",
+              "title": "지진"
+            },
+            {
+              "lang": "krc",
+              "title": "Джер тебрениу"
+            },
+            {
+              "lang": "ks",
+              "title": "بٕنیُل"
+            },
+            {
+              "lang": "ksh",
+              "title": "Äädbevve"
+            },
+            {
+              "lang": "ku",
+              "title": "Erdhej"
+            },
+            {
+              "lang": "ky",
+              "title": "Жер титирөө"
+            },
+            {
+              "lang": "la",
+              "title": "Terrae motus"
+            },
+            {
+              "lang": "lb",
+              "title": "Äerdbiewen"
+            },
+            {
+              "lang": "lez",
+              "title": "Чилин зурзунар"
+            },
+            {
+              "lang": "li",
+              "title": "Eerdsjók"
+            },
+            {
+              "lang": "lmo",
+              "title": "Terremot"
+            },
+            {
+              "lang": "ln",
+              "title": "Moningí"
+            },
+            {
+              "lang": "lo",
+              "title": "ແຜ່ນດິນໄຫວ"
+            },
+            {
+              "lang": "lt",
+              "title": "Žemės drebėjimas"
+            },
+            {
+              "lang": "lv",
+              "title": "Zemestrīce"
+            },
+            {
+              "lang": "mad",
+              "title": "Lènḍhu"
+            },
+            {
+              "lang": "map-bms",
+              "title": "Lindu"
+            },
+            {
+              "lang": "mdf",
+              "title": "Модань тарнамась"
+            },
+            {
+              "lang": "mk",
+              "title": "Земјотрес"
+            },
+            {
+              "lang": "ml",
+              "title": "ഭൂകമ്പം"
+            },
+            {
+              "lang": "mn",
+              "title": "Газар хөдлөлт"
+            },
+            {
+              "lang": "mnw",
+              "title": "ကသဳတိ"
+            },
+            {
+              "lang": "mr",
+              "title": "भूकंप"
+            },
+            {
+              "lang": "ms",
+              "title": "Gempa bumi"
+            },
+            {
+              "lang": "mwl",
+              "title": "Sismo"
+            },
+            {
+              "lang": "my",
+              "title": "ငလျင်"
+            },
+            {
+              "lang": "mzn",
+              "title": "بنه شنش"
+            },
+            {
+              "lang": "nah",
+              "title": "Tlālolīniliztli"
+            },
+            {
+              "lang": "nap",
+              "title": "Tarramute"
+            },
+            {
+              "lang": "nds",
+              "title": "Eerdbeven"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Eardbewing"
+            },
+            {
+              "lang": "ne",
+              "title": "भुईँचालो"
+            },
+            {
+              "lang": "new",
+              "title": "भुखा"
+            },
+            {
+              "lang": "nl",
+              "title": "Aardbeving"
+            },
+            {
+              "lang": "nn",
+              "title": "Jordskjelv"
+            },
+            {
+              "lang": "nb",
+              "title": "Jordskjelv"
+            },
+            {
+              "lang": "nv",
+              "title": "Kéyah haʼdéísná"
+            },
+            {
+              "lang": "oc",
+              "title": "Tèrratrem"
+            },
+            {
+              "lang": "om",
+              "title": "Hollannaa lafaa"
+            },
+            {
+              "lang": "or",
+              "title": "ଭୂମିକମ୍ପ"
+            },
+            {
+              "lang": "pa",
+              "title": "ਭੁਚਾਲ"
+            },
+            {
+              "lang": "pap",
+              "title": "Teremoto"
+            },
+            {
+              "lang": "pcd",
+              "title": "Trannerie d'tère"
+            },
+            {
+              "lang": "pl",
+              "title": "Trzęsienie ziemi"
+            },
+            {
+              "lang": "pms",
+              "title": "Teramòt"
+            },
+            {
+              "lang": "pnb",
+              "title": "بھونچال"
+            },
+            {
+              "lang": "ps",
+              "title": "رېږدله"
+            },
+            {
+              "lang": "pt",
+              "title": "Sismo"
+            },
+            {
+              "lang": "qu",
+              "title": "Pacha kuyuy"
+            },
+            {
+              "lang": "rm",
+              "title": "Terratrembel"
+            },
+            {
+              "lang": "ro",
+              "title": "Cutremur"
+            },
+            {
+              "lang": "ru",
+              "title": "Землетрясение"
+            },
+            {
+              "lang": "rue",
+              "title": "Землетрясїня"
+            },
+            {
+              "lang": "rw",
+              "title": "Umutingito"
+            },
+            {
+              "lang": "sa",
+              "title": "भूकम्पः"
+            },
+            {
+              "lang": "sah",
+              "title": "Сир хамсааһына"
+            },
+            {
+              "lang": "sc",
+              "title": "Terremotu"
+            },
+            {
+              "lang": "scn",
+              "title": "Tirrimotu"
+            },
+            {
+              "lang": "sh",
+              "title": "Potres"
+            },
+            {
+              "lang": "si",
+              "title": "භූචලන"
+            },
+            {
+              "lang": "simple",
+              "title": "Earthquake"
+            },
+            {
+              "lang": "sk",
+              "title": "Zemetrasenie"
+            },
+            {
+              "lang": "sl",
+              "title": "Potres"
+            },
+            {
+              "lang": "sn",
+              "title": "Kundengenyeka kwenyika"
+            },
+            {
+              "lang": "so",
+              "title": "Dhulgariir"
+            },
+            {
+              "lang": "sq",
+              "title": "Tërmeti"
+            },
+            {
+              "lang": "sr",
+              "title": "Земљотрес"
+            },
+            {
+              "lang": "srn",
+              "title": "Grontapubeyfi"
+            },
+            {
+              "lang": "su",
+              "title": "Lini"
+            },
+            {
+              "lang": "sv",
+              "title": "Jordbävning"
+            },
+            {
+              "lang": "sw",
+              "title": "Tetemeko la ardhi"
+            },
+            {
+              "lang": "syl",
+              "title": "ꠜꠁꠍꠣꠟ"
+            },
+            {
+              "lang": "szl",
+              "title": "Trzyńśyńy źymje"
+            },
+            {
+              "lang": "szy",
+              "title": "ninel"
+            },
+            {
+              "lang": "ta",
+              "title": "நிலநடுக்கம்"
+            },
+            {
+              "lang": "te",
+              "title": "భూకంపం"
+            },
+            {
+              "lang": "tg",
+              "title": "Заминларза"
+            },
+            {
+              "lang": "th",
+              "title": "แผ่นดินไหว"
+            },
+            {
+              "lang": "tl",
+              "title": "Lindol"
+            },
+            {
+              "lang": "tly",
+              "title": "Buməlarzə"
+            },
+            {
+              "lang": "tok",
+              "title": "pakala ma"
+            },
+            {
+              "lang": "tr",
+              "title": "Deprem"
+            },
+            {
+              "lang": "tt",
+              "title": "Җир тетрәү"
+            },
+            {
+              "lang": "ug",
+              "title": "يەر تەۋرەش"
+            },
+            {
+              "lang": "uk",
+              "title": "Землетрус"
+            },
+            {
+              "lang": "ur",
+              "title": "زلزلہ"
+            },
+            {
+              "lang": "uz",
+              "title": "Zilzila"
+            },
+            {
+              "lang": "vec",
+              "title": "Teramoto"
+            },
+            {
+              "lang": "vep",
+              "title": "Manrehkaiduz"
+            },
+            {
+              "lang": "vi",
+              "title": "Động đất"
+            },
+            {
+              "lang": "vls",
+              "title": "Eirdbevienge"
+            },
+            {
+              "lang": "wa",
+              "title": "Hosmint d' tere"
+            },
+            {
+              "lang": "war",
+              "title": "Linog"
+            },
+            {
+              "lang": "wuu",
+              "title": "地震"
+            },
+            {
+              "lang": "xh",
+              "title": "Inyikima"
+            },
+            {
+              "lang": "xmf",
+              "title": "დიხაშნწალუა"
+            },
+            {
+              "lang": "yi",
+              "title": "ערדציטערניש"
+            },
+            {
+              "lang": "za",
+              "title": "Deihdoengh"
+            },
+            {
+              "lang": "zh",
+              "title": "地震"
+            },
+            {
+              "lang": "lzh",
+              "title": "地震"
+            },
+            {
+              "lang": "nan",
+              "title": "Tē-tāng"
+            },
+            {
+              "lang": "yue",
+              "title": "地震"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:39.241937",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221213044339|770057",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9660,
+          "ns": 0,
+          "title": "ရွေးကောက်ပွဲ",
+          "revisions": [
+            {
+              "timestamp": "2023-10-15T01:25:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

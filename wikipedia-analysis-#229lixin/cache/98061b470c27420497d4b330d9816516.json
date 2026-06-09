@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:32.200371",
+  "response": {
+    "continue": {
+      "rvcontinue": "20211114131012|720099",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9752,
+          "ns": 0,
+          "title": "ဆင်ဆာပြုလုပ်ခြင်း",
+          "revisions": [
+            {
+              "timestamp": "2024-07-25T02:57:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

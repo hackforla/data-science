@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:09.257052",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040115142012|9447",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5103,
+          "ns": 0,
+          "title": "Cutremur",
+          "revisions": [
+            {
+              "timestamp": "2004-01-15T14:19:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

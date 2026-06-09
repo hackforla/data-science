@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:57.120838",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110105105238|60950155",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5204312,
+          "ns": 0,
+          "title": "Demandeur d'asile",
+          "revisions": [
+            {
+              "timestamp": "2011-01-05T10:16:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

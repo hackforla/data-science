@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:42.066048",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120620175642|1177768",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 274165,
+          "ns": 0,
+          "title": "শরণার্থী",
+          "revisions": [
+            {
+              "timestamp": "2012-06-20T17:31:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

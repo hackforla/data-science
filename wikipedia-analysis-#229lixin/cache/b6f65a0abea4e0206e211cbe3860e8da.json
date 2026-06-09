@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:07.312378",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030425021838|33540",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7066,
+          "ns": 0,
+          "title": "世界保健機関",
+          "revisions": [
+            {
+              "timestamp": "2003-04-21T02:36:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

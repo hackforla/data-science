@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:44.149971",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251014191316|229765393",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5728,
+          "ns": 0,
+          "title": "Séisme",
+          "revisions": [
+            {
+              "timestamp": "2025-10-14T19:15:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

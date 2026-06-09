@@ -1,0 +1,352 @@
+{
+  "cached_at": "2026-01-26T00:21:39.775815",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 221773,
+          "ns": 0,
+          "title": "Human migration",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Menslike migrasie"
+            },
+            {
+              "lang": "gsw",
+              "title": "Migration"
+            },
+            {
+              "lang": "ar",
+              "title": "هجرة بشرية"
+            },
+            {
+              "lang": "as",
+              "title": "জনপ্ৰব্ৰজন"
+            },
+            {
+              "lang": "ast",
+              "title": "Migración humana"
+            },
+            {
+              "lang": "awa",
+              "title": "प्रवास"
+            },
+            {
+              "lang": "az",
+              "title": "Miqrasiya"
+            },
+            {
+              "lang": "ba",
+              "title": "Халыҡтың миграцияһы"
+            },
+            {
+              "lang": "be",
+              "title": "Міграцыя насельніцтва"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Перасяленьне"
+            },
+            {
+              "lang": "bg",
+              "title": "Миграция на населението"
+            },
+            {
+              "lang": "br",
+              "title": "Divroañ"
+            },
+            {
+              "lang": "bs",
+              "title": "Migracija stanovništva"
+            },
+            {
+              "lang": "ca",
+              "title": "Migració humana"
+            },
+            {
+              "lang": "cs",
+              "title": "Lidská migrace"
+            },
+            {
+              "lang": "csb",
+              "title": "Migracja lëdzy"
+            },
+            {
+              "lang": "cy",
+              "title": "Mudo dynol"
+            },
+            {
+              "lang": "de",
+              "title": "Migration"
+            },
+            {
+              "lang": "el",
+              "title": "Μεταναστευτικές ροές"
+            },
+            {
+              "lang": "eo",
+              "title": "Migrado"
+            },
+            {
+              "lang": "es",
+              "title": "Migración humana"
+            },
+            {
+              "lang": "et",
+              "title": "Ränne"
+            },
+            {
+              "lang": "eu",
+              "title": "Giza migrazio"
+            },
+            {
+              "lang": "fa",
+              "title": "مهاجرت انسان"
+            },
+            {
+              "lang": "fi",
+              "title": "Muuttoliike"
+            },
+            {
+              "lang": "fr",
+              "title": "Migration humaine"
+            },
+            {
+              "lang": "fy",
+              "title": "Minsklike migraasje"
+            },
+            {
+              "lang": "gl",
+              "title": "Migración humana"
+            },
+            {
+              "lang": "gn",
+              "title": "Yvypóra jeva"
+            },
+            {
+              "lang": "he",
+              "title": "נדידת עמים"
+            },
+            {
+              "lang": "hi",
+              "title": "मानव प्रवास"
+            },
+            {
+              "lang": "hu",
+              "title": "Vándorlás"
+            },
+            {
+              "lang": "hy",
+              "title": "Բնակչության միգրացիա"
+            },
+            {
+              "lang": "ia",
+              "title": "Migration human"
+            },
+            {
+              "lang": "id",
+              "title": "Migrasi manusia"
+            },
+            {
+              "lang": "io",
+              "title": "Migrado"
+            },
+            {
+              "lang": "is",
+              "title": "Fólksflutningar"
+            },
+            {
+              "lang": "it",
+              "title": "Migrazione umana"
+            },
+            {
+              "lang": "ja",
+              "title": "人口移動"
+            },
+            {
+              "lang": "jv",
+              "title": "Migrasi"
+            },
+            {
+              "lang": "ka",
+              "title": "მიგრაცია"
+            },
+            {
+              "lang": "kk",
+              "title": "Миграция"
+            },
+            {
+              "lang": "ko",
+              "title": "인구이동"
+            },
+            {
+              "lang": "la",
+              "title": "Migratio"
+            },
+            {
+              "lang": "lb",
+              "title": "Migratioun"
+            },
+            {
+              "lang": "li",
+              "title": "Migratie"
+            },
+            {
+              "lang": "lv",
+              "title": "Iedzīvotāju migrācija"
+            },
+            {
+              "lang": "mk",
+              "title": "Преселба на населението"
+            },
+            {
+              "lang": "mn",
+              "title": "Хүн амын шилжих хөдөлгөөн"
+            },
+            {
+              "lang": "ms",
+              "title": "Penghijrahan"
+            },
+            {
+              "lang": "my",
+              "title": "ပြောင်းရွှေ့နေထိုင်ခြင်း"
+            },
+            {
+              "lang": "ne",
+              "title": "बसाइँ सराई"
+            },
+            {
+              "lang": "new",
+              "title": "थाय्-बाय् हिलाः"
+            },
+            {
+              "lang": "nl",
+              "title": "Menselijke migratie"
+            },
+            {
+              "lang": "nb",
+              "title": "Migrasjon"
+            },
+            {
+              "lang": "oc",
+              "title": "Migracion umana"
+            },
+            {
+              "lang": "pa",
+              "title": "ਮਨੁੱਖੀ ਪਰਵਾਸ"
+            },
+            {
+              "lang": "pl",
+              "title": "Migracja ludności"
+            },
+            {
+              "lang": "ps",
+              "title": "انساني کډوالي"
+            },
+            {
+              "lang": "pt",
+              "title": "Migração humana"
+            },
+            {
+              "lang": "qu",
+              "title": "Runakunap astaynin"
+            },
+            {
+              "lang": "ro",
+              "title": "Migrație umană"
+            },
+            {
+              "lang": "ru",
+              "title": "Миграция населения"
+            },
+            {
+              "lang": "rw",
+              "title": "Kwimuka kwabantu"
+            },
+            {
+              "lang": "sh",
+              "title": "Migracija"
+            },
+            {
+              "lang": "simple",
+              "title": "Human migration"
+            },
+            {
+              "lang": "sk",
+              "title": "Migrácia (sociológia)"
+            },
+            {
+              "lang": "sl",
+              "title": "Migracija ljudi"
+            },
+            {
+              "lang": "sr",
+              "title": "Миграција становништва"
+            },
+            {
+              "lang": "sv",
+              "title": "Mänsklig migration"
+            },
+            {
+              "lang": "sw",
+              "title": "Uhamiaji wa binadamu"
+            },
+            {
+              "lang": "tg",
+              "title": "Муҳоҷирати инсон"
+            },
+            {
+              "lang": "th",
+              "title": "การย้ายถิ่นของมนุษย์"
+            },
+            {
+              "lang": "tr",
+              "title": "İnsan göçü"
+            },
+            {
+              "lang": "uk",
+              "title": "Міграція населення"
+            },
+            {
+              "lang": "uz",
+              "title": "Aholi migratsiyasi"
+            },
+            {
+              "lang": "vi",
+              "title": "Di dân"
+            },
+            {
+              "lang": "wa",
+              "title": "Bagance"
+            },
+            {
+              "lang": "wuu",
+              "title": "人口迁徙"
+            },
+            {
+              "lang": "xmf",
+              "title": "მიგრაცია"
+            },
+            {
+              "lang": "zh",
+              "title": "人口遷徙"
+            },
+            {
+              "lang": "nan",
+              "title": "Jîn-kháu soá-tāng"
+            },
+            {
+              "lang": "yue",
+              "title": "人類遷徙"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

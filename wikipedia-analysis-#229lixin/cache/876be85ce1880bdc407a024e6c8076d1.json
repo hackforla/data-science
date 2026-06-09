@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:40.879610",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220822133344|512291",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20672,
+          "ns": 0,
+          "title": "නියඟය",
+          "revisions": [
+            {
+              "timestamp": "2024-10-21T18:16:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

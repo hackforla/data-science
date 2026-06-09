@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:10.135633",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041001222256|839728",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 94451,
+          "ns": 0,
+          "title": "ハリケーン",
+          "revisions": [
+            {
+              "timestamp": "2004-05-31T23:52:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

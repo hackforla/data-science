@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:04.289411",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120220012251|8159562",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 768030,
+          "ns": 0,
+          "title": "Svoboda tisku",
+          "revisions": [
+            {
+              "timestamp": "2012-02-05T10:33:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

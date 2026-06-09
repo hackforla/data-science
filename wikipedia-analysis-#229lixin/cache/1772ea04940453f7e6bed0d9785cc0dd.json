@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:00.971028",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040215115023|60133",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 24137,
+          "ns": 0,
+          "title": "Global opvarmning",
+          "revisions": [
+            {
+              "timestamp": "2004-01-31T21:49:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

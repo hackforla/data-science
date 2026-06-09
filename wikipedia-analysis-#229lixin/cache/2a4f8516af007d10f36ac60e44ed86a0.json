@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:25.583070",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250110093913|56649140",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5783,
+          "ns": 0,
+          "title": "Flykting",
+          "revisions": [
+            {
+              "timestamp": "2025-08-16T00:31:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

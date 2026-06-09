@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:56.764915",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241020085244|16575757",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3131928,
+          "ns": 0,
+          "title": "Controversa vaccinărilor",
+          "revisions": [
+            {
+              "timestamp": "2024-11-08T05:48:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

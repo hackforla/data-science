@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:11.392388",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220210153554|9920932",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 174197,
+          "ns": 0,
+          "title": "โรคระบาดทั่ว",
+          "revisions": [
+            {
+              "timestamp": "2022-02-10T16:31:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

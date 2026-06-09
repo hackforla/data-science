@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:02.116872",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260107081044|107913817",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18508,
+          "ns": 0,
+          "title": "津波",
+          "revisions": [
+            {
+              "timestamp": "2026-01-07T09:35:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

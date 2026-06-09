@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:50.597189",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020730170718|180",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 64,
+          "ns": 0,
+          "title": "Armoede",
+          "revisions": [
+            {
+              "timestamp": "2002-04-15T17:23:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

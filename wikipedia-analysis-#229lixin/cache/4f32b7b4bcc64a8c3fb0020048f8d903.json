@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:59.645377",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180615004003|3492425",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 780846,
+          "ns": 0,
+          "title": "بچہ مزدوری",
+          "revisions": [
+            {
+              "timestamp": "2018-06-15T00:37:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

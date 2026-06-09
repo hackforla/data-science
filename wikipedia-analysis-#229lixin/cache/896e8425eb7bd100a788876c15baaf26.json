@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:08.231111",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100114142059|572561",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 183401,
+          "ns": 0,
+          "title": "दावानल",
+          "revisions": [
+            {
+              "timestamp": "2010-01-14T14:20:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:38.052145",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031221135202|17933",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4819,
+          "ns": 0,
+          "title": "מלחמה",
+          "revisions": [
+            {
+              "timestamp": "2003-12-21T13:49:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

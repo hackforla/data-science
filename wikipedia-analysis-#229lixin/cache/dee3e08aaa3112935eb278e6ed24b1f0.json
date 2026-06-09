@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:13.635698",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110208184416|4035901",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 666696,
+          "ns": 0,
+          "title": "Perubahan iklim",
+          "revisions": [
+            {
+              "timestamp": "2007-11-21T03:25:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

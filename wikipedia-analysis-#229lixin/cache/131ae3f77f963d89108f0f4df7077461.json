@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:17.394698",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061021175721|5228553",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 589540,
+          "ns": 0,
+          "title": "Apátrida",
+          "revisions": [
+            {
+              "timestamp": "2006-10-21T17:56:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

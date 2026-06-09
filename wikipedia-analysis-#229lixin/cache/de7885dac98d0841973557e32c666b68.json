@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:04.363385",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110924062258|99836",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15951,
+          "ns": 0,
+          "title": "စစ်ရာဇဝတ်မှု",
+          "revisions": [
+            {
+              "timestamp": "2011-06-01T04:15:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

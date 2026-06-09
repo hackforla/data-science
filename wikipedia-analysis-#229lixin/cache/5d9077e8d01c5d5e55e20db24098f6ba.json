@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:43.911268",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260119190027|151255882",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 43509,
+          "ns": 0,
+          "title": "Туберкулёз",
+          "revisions": [
+            {
+              "timestamp": "2026-01-19T19:02:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

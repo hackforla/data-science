@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:05.579971",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080507064224|1110270",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 156720,
+          "ns": 0,
+          "title": "คตินิยมเชื้อชาติ",
+          "revisions": [
+            {
+              "timestamp": "2008-04-02T14:58:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

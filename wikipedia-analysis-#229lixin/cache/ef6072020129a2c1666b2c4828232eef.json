@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:44.249823",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031119032046|24001",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7439,
+          "ns": 0,
+          "title": "恐怖主义",
+          "revisions": [
+            {
+              "timestamp": "2003-11-18T17:22:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

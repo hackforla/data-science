@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:27.773982",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251215115750|74590945",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5578,
+          "ns": 0,
+          "title": "Động đất",
+          "revisions": [
+            {
+              "timestamp": "2025-12-15T12:02:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:33.321244",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100825095041|43193",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9459,
+          "ns": 0,
+          "title": "လူကုန်ကူးခြင်း",
+          "revisions": [
+            {
+              "timestamp": "2010-08-25T09:47:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

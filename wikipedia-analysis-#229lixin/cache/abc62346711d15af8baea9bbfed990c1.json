@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:12.085387",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250907141742|228780645",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 34415,
+          "ns": 0,
+          "title": "Sécheresse",
+          "revisions": [
+            {
+              "timestamp": "2025-09-07T14:28:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

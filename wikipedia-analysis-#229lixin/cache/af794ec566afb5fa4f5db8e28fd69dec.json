@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:49.413974",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060418180542|2919554",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 355359,
+          "ns": 0,
+          "title": "Migración humana",
+          "revisions": [
+            {
+              "timestamp": "2006-04-18T17:57:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

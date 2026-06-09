@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:08.900938",
+  "response": {
+    "continue": {
+      "rvcontinue": "20151003230319|22141503",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 196364,
+          "ns": 0,
+          "title": "Đầu phiếu",
+          "revisions": [
+            {
+              "timestamp": "2016-12-22T03:33:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

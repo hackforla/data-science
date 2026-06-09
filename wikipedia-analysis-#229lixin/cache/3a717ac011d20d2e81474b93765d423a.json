@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:15.045113",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251007230437|260407589",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 152863,
+          "ns": 0,
+          "title": "Staatenloser",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T15:04:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

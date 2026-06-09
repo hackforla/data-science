@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:29.537889",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070614200456|1779522",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 186117,
+          "ns": 0,
+          "title": "Választás",
+          "revisions": [
+            {
+              "timestamp": "2007-06-13T20:46:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

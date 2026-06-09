@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:04.364274",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200102034508|57527734",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6861061,
+          "ns": 0,
+          "title": "2019冠状病毒病疫情",
+          "revisions": [
+            {
+              "timestamp": "2020-01-02T03:42:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:54.057754",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250419140021|41631281",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 260216,
+          "ns": 0,
+          "title": "پناهنده",
+          "revisions": [
+            {
+              "timestamp": "2025-07-19T21:48:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

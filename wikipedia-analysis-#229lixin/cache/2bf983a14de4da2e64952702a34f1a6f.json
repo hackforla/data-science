@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:35.473936",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060503133104|135646",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 26342,
+          "ns": 0,
+          "title": "Γενοκτονία",
+          "revisions": [
+            {
+              "timestamp": "2006-05-03T13:26:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

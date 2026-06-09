@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:11.259571",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260102095925|23753530",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 39866,
+          "ns": 0,
+          "title": "Sananvapaus",
+          "revisions": [
+            {
+              "timestamp": "2026-01-03T18:36:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

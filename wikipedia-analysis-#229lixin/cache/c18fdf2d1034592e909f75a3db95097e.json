@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:37.450975",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170120044531|12155950",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2039930,
+          "ns": 0,
+          "title": "Pengungsi internal",
+          "revisions": [
+            {
+              "timestamp": "2016-03-15T01:20:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

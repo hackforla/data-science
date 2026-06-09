@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:23.469328",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230206034232|93737775",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4731994,
+          "ns": 0,
+          "title": "トルコ・シリア地震",
+          "revisions": [
+            {
+              "timestamp": "2023-02-06T03:23:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

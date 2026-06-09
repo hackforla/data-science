@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:51:04.591096",
+  "response": {
+    "continue": {
+      "rvcontinue": "20201206152553|24330446",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2859060,
+          "ns": 0,
+          "title": "Aşı karşıtlığı",
+          "revisions": [
+            {
+              "timestamp": "2020-12-06T15:24:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

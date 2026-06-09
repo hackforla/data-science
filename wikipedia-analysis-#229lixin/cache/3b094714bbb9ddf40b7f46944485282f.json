@@ -1,0 +1,452 @@
+{
+  "cached_at": "2026-01-26T00:15:51.202134",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 37335,
+          "ns": 0,
+          "title": "Drought",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Droogte"
+            },
+            {
+              "lang": "ar",
+              "title": "قحط"
+            },
+            {
+              "lang": "ast",
+              "title": "Seca"
+            },
+            {
+              "lang": "ay",
+              "title": "Awti pacha"
+            },
+            {
+              "lang": "az",
+              "title": "Quraqlıq"
+            },
+            {
+              "lang": "azb",
+              "title": "قوراقلیق"
+            },
+            {
+              "lang": "ba",
+              "title": "Ҡоролоҡ"
+            },
+            {
+              "lang": "bcl",
+              "title": "Tag-alang"
+            },
+            {
+              "lang": "be",
+              "title": "Засуха"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Сухмень"
+            },
+            {
+              "lang": "bg",
+              "title": "Засушаване"
+            },
+            {
+              "lang": "bh",
+              "title": "सूखा"
+            },
+            {
+              "lang": "bn",
+              "title": "খরা"
+            },
+            {
+              "lang": "bs",
+              "title": "Suša"
+            },
+            {
+              "lang": "ca",
+              "title": "Sequera"
+            },
+            {
+              "lang": "ceb",
+              "title": "Hulaw"
+            },
+            {
+              "lang": "ckb",
+              "title": "وشکەساڵی"
+            },
+            {
+              "lang": "cs",
+              "title": "Sucho"
+            },
+            {
+              "lang": "cv",
+              "title": "Хăрă"
+            },
+            {
+              "lang": "da",
+              "title": "Tørke"
+            },
+            {
+              "lang": "de",
+              "title": "Dürre"
+            },
+            {
+              "lang": "el",
+              "title": "Ξηρασία"
+            },
+            {
+              "lang": "eo",
+              "title": "Trosekeco"
+            },
+            {
+              "lang": "es",
+              "title": "Sequía"
+            },
+            {
+              "lang": "et",
+              "title": "Põud"
+            },
+            {
+              "lang": "eu",
+              "title": "Lehorte"
+            },
+            {
+              "lang": "fa",
+              "title": "خشکسالی"
+            },
+            {
+              "lang": "fi",
+              "title": "Kuivuuskausi"
+            },
+            {
+              "lang": "vro",
+              "title": "Põud"
+            },
+            {
+              "lang": "fr",
+              "title": "Sécheresse"
+            },
+            {
+              "lang": "fy",
+              "title": "Drûchte"
+            },
+            {
+              "lang": "ga",
+              "title": "Triomach"
+            },
+            {
+              "lang": "gan",
+              "title": "乾旱"
+            },
+            {
+              "lang": "gl",
+              "title": "Seca"
+            },
+            {
+              "lang": "gn",
+              "title": "Kyve'ỹ"
+            },
+            {
+              "lang": "gu",
+              "title": "દુકાળ"
+            },
+            {
+              "lang": "he",
+              "title": "בצורת"
+            },
+            {
+              "lang": "hi",
+              "title": "सूखा"
+            },
+            {
+              "lang": "hr",
+              "title": "Suša"
+            },
+            {
+              "lang": "ht",
+              "title": "Sechrès"
+            },
+            {
+              "lang": "hu",
+              "title": "Aszály"
+            },
+            {
+              "lang": "hy",
+              "title": "Երաշտ"
+            },
+            {
+              "lang": "ia",
+              "title": "Siccitate"
+            },
+            {
+              "lang": "id",
+              "title": "Kekeringan"
+            },
+            {
+              "lang": "is",
+              "title": "Þurrkar"
+            },
+            {
+              "lang": "it",
+              "title": "Siccità"
+            },
+            {
+              "lang": "ja",
+              "title": "旱魃"
+            },
+            {
+              "lang": "ka",
+              "title": "გვალვა"
+            },
+            {
+              "lang": "kab",
+              "title": "Anaɣur"
+            },
+            {
+              "lang": "kbd",
+              "title": "Уэгъу"
+            },
+            {
+              "lang": "kk",
+              "title": "Қуаңшылық"
+            },
+            {
+              "lang": "kn",
+              "title": "ಬರ"
+            },
+            {
+              "lang": "ko",
+              "title": "가뭄"
+            },
+            {
+              "lang": "ky",
+              "title": "Кургакчылык"
+            },
+            {
+              "lang": "la",
+              "title": "Siccitas"
+            },
+            {
+              "lang": "lo",
+              "title": "ໄພແຫ້ງແລ້ງ"
+            },
+            {
+              "lang": "lt",
+              "title": "Sausra"
+            },
+            {
+              "lang": "lv",
+              "title": "Sausums"
+            },
+            {
+              "lang": "mg",
+              "title": "Haintany"
+            },
+            {
+              "lang": "mk",
+              "title": "Суша"
+            },
+            {
+              "lang": "ml",
+              "title": "വരൾച്ച"
+            },
+            {
+              "lang": "mr",
+              "title": "दुष्काळ"
+            },
+            {
+              "lang": "ms",
+              "title": "Kemarau"
+            },
+            {
+              "lang": "mwl",
+              "title": "Seca"
+            },
+            {
+              "lang": "ne",
+              "title": "खडेरी"
+            },
+            {
+              "lang": "nl",
+              "title": "Droogte"
+            },
+            {
+              "lang": "nn",
+              "title": "Tørke"
+            },
+            {
+              "lang": "nb",
+              "title": "Tørke"
+            },
+            {
+              "lang": "nso",
+              "title": "Komelelo"
+            },
+            {
+              "lang": "oc",
+              "title": "Secada"
+            },
+            {
+              "lang": "pa",
+              "title": "ਸੋਕਾ"
+            },
+            {
+              "lang": "pag",
+              "title": "KAMAGAAN"
+            },
+            {
+              "lang": "pam",
+              "title": "Lawi"
+            },
+            {
+              "lang": "pl",
+              "title": "Susza"
+            },
+            {
+              "lang": "ps",
+              "title": "وچکالي"
+            },
+            {
+              "lang": "pt",
+              "title": "Seca"
+            },
+            {
+              "lang": "qu",
+              "title": "Ch'akiy"
+            },
+            {
+              "lang": "ro",
+              "title": "Secetă"
+            },
+            {
+              "lang": "rup",
+              "title": "Seațitâ"
+            },
+            {
+              "lang": "ru",
+              "title": "Засуха"
+            },
+            {
+              "lang": "sah",
+              "title": "Кураан"
+            },
+            {
+              "lang": "sh",
+              "title": "Suša"
+            },
+            {
+              "lang": "si",
+              "title": "නියඟය"
+            },
+            {
+              "lang": "simple",
+              "title": "Drought"
+            },
+            {
+              "lang": "sl",
+              "title": "Suša"
+            },
+            {
+              "lang": "sn",
+              "title": "Shangwa"
+            },
+            {
+              "lang": "so",
+              "title": "Abaar"
+            },
+            {
+              "lang": "sq",
+              "title": "Thatësira"
+            },
+            {
+              "lang": "sr",
+              "title": "Суша"
+            },
+            {
+              "lang": "sv",
+              "title": "Torka"
+            },
+            {
+              "lang": "sw",
+              "title": "Ukame"
+            },
+            {
+              "lang": "szy",
+              "title": "kakelalan"
+            },
+            {
+              "lang": "ta",
+              "title": "வறட்சி"
+            },
+            {
+              "lang": "tay",
+              "title": "mtkzyay"
+            },
+            {
+              "lang": "te",
+              "title": "అనావృష్టి"
+            },
+            {
+              "lang": "th",
+              "title": "ภัยแล้ง"
+            },
+            {
+              "lang": "tl",
+              "title": "Tagtuyot"
+            },
+            {
+              "lang": "tr",
+              "title": "Kuraklık"
+            },
+            {
+              "lang": "uk",
+              "title": "Посуха"
+            },
+            {
+              "lang": "ur",
+              "title": "خشک سالی"
+            },
+            {
+              "lang": "uz",
+              "title": "Qurgʻoqchilik"
+            },
+            {
+              "lang": "vi",
+              "title": "Hạn hán"
+            },
+            {
+              "lang": "wuu",
+              "title": "干旱"
+            },
+            {
+              "lang": "xmf",
+              "title": "გოლოფა"
+            },
+            {
+              "lang": "yi",
+              "title": "טרוקעניש"
+            },
+            {
+              "lang": "zh",
+              "title": "干旱"
+            },
+            {
+              "lang": "nan",
+              "title": "Khòng-hān"
+            },
+            {
+              "lang": "yue",
+              "title": "乾旱"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

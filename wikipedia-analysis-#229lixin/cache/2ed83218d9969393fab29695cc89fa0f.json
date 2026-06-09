@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:08.695894",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050414190405|38096",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14148,
+          "ns": 0,
+          "title": "세계보건기구",
+          "revisions": [
+            {
+              "timestamp": "2005-04-14T18:59:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

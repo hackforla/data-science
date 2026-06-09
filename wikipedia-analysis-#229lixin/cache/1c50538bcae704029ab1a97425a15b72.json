@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:44.227858",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241103122003|339546",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2026,
+          "ns": 0,
+          "title": "اېډز",
+          "revisions": [
+            {
+              "timestamp": "2024-11-03T12:20:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

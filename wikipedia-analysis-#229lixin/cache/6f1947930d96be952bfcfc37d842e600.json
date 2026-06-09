@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:01.246930",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050923192608|279049",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 62447,
+          "ns": 0,
+          "title": "Ураган",
+          "revisions": [
+            {
+              "timestamp": "2005-09-23T19:22:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

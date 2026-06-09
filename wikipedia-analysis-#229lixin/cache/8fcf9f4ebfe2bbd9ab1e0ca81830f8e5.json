@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:49.750413",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250914062208|1316580",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 68935,
+          "ns": 0,
+          "title": "गरिबी",
+          "revisions": [
+            {
+              "timestamp": "2025-09-28T09:43:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

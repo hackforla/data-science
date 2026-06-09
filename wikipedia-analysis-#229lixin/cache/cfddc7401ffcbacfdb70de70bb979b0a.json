@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:41.476284",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241113041522|22807232",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 71630,
+          "ns": 0,
+          "title": "Rokote",
+          "revisions": [
+            {
+              "timestamp": "2025-04-28T11:07:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

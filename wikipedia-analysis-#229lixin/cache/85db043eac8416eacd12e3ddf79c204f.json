@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:27.595653",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180207104158|13684605",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2156870,
+          "ns": 0,
+          "title": "Kesetaraan gender",
+          "revisions": [
+            {
+              "timestamp": "2016-12-08T09:45:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

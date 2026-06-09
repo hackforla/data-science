@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:45.102102",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031227122804|16895",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5158,
+          "ns": 0,
+          "title": "רעידת אדמה",
+          "revisions": [
+            {
+              "timestamp": "2003-12-27T12:25:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

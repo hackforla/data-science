@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:41.437663",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251107051953|30517145",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 524457,
+          "ns": 0,
+          "title": "Слобода говора",
+          "revisions": [
+            {
+              "timestamp": "2025-11-26T14:57:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

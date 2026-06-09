@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:45.752519",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251023094549|70060225",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9890,
+          "ns": 0,
+          "title": "Doodstraf",
+          "revisions": [
+            {
+              "timestamp": "2025-11-29T22:09:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

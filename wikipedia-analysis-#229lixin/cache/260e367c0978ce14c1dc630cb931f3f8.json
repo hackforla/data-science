@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:04.392547",
+  "response": {
+    "continue": {
+      "rvcontinue": "20141014204620|14208121",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2339997,
+          "ns": 0,
+          "title": "حفظ السلام",
+          "revisions": [
+            {
+              "timestamp": "2014-10-14T20:44:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

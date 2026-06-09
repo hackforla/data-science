@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:34.860684",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090909104723|44655349",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4078458,
+          "ns": 0,
+          "title": "Controverse sur la vaccination",
+          "revisions": [
+            {
+              "timestamp": "2009-09-09T10:43:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

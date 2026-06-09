@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:13.781139",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060818153135|1706662",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 278735,
+          "ns": 0,
+          "title": "Военное преступление",
+          "revisions": [
+            {
+              "timestamp": "2006-08-17T12:42:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

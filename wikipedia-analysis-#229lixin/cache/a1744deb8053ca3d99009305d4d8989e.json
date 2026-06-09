@@ -1,0 +1,644 @@
+{
+  "cached_at": "2026-01-26T00:18:31.706402",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 31161,
+          "ns": 0,
+          "title": "Tsunami",
+          "langlinks": [
+            {
+              "lang": "ace",
+              "title": "Ië beuna"
+            },
+            {
+              "lang": "af",
+              "title": "Tsoenami"
+            },
+            {
+              "lang": "gsw",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "an",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "anp",
+              "title": "त्सूनामी"
+            },
+            {
+              "lang": "ar",
+              "title": "تسونامي"
+            },
+            {
+              "lang": "ary",
+              "title": "تسونامي"
+            },
+            {
+              "lang": "as",
+              "title": "ছুনামি"
+            },
+            {
+              "lang": "ast",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "az",
+              "title": "Sunami"
+            },
+            {
+              "lang": "azb",
+              "title": "تسونامی"
+            },
+            {
+              "lang": "ba",
+              "title": "Цунами"
+            },
+            {
+              "lang": "ban",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "bar",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "sgs",
+              "title": "Cunamis"
+            },
+            {
+              "lang": "bcl",
+              "title": "Dolnop"
+            },
+            {
+              "lang": "be",
+              "title": "Цунамі"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Цунамі"
+            },
+            {
+              "lang": "bg",
+              "title": "Цунами"
+            },
+            {
+              "lang": "bh",
+              "title": "सुनामी"
+            },
+            {
+              "lang": "bjn",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "bn",
+              "title": "সুনামি"
+            },
+            {
+              "lang": "br",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "bs",
+              "title": "Cunami"
+            },
+            {
+              "lang": "ca",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "cdo",
+              "title": "Hāi-lâung"
+            },
+            {
+              "lang": "ckb",
+              "title": "تسۆنامی"
+            },
+            {
+              "lang": "cs",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "cv",
+              "title": "Цунами"
+            },
+            {
+              "lang": "cy",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "da",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "de",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "diq",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "dty",
+              "title": "सुनामी"
+            },
+            {
+              "lang": "el",
+              "title": "Τσουνάμι"
+            },
+            {
+              "lang": "eo",
+              "title": "Cunamo"
+            },
+            {
+              "lang": "es",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "et",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "eu",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "fa",
+              "title": "سونامی"
+            },
+            {
+              "lang": "fi",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "vro",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "fo",
+              "title": "Flóðaldur"
+            },
+            {
+              "lang": "fr",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "frr",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "fy",
+              "title": "Tsûnamy"
+            },
+            {
+              "lang": "ga",
+              "title": "Súnámaí"
+            },
+            {
+              "lang": "gan",
+              "title": "海嘯"
+            },
+            {
+              "lang": "gd",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "gl",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "gn",
+              "title": "Sunámi"
+            },
+            {
+              "lang": "gu",
+              "title": "સુનામી"
+            },
+            {
+              "lang": "hak",
+              "title": "Hói-siau"
+            },
+            {
+              "lang": "he",
+              "title": "צונמי"
+            },
+            {
+              "lang": "hi",
+              "title": "सूनामी"
+            },
+            {
+              "lang": "hif",
+              "title": "Jwaarr bhaata"
+            },
+            {
+              "lang": "hr",
+              "title": "Cunami"
+            },
+            {
+              "lang": "ht",
+              "title": "Radmare"
+            },
+            {
+              "lang": "hu",
+              "title": "Cunami"
+            },
+            {
+              "lang": "hy",
+              "title": "Ցունամի"
+            },
+            {
+              "lang": "ia",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "iba",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "id",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "ilo",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "io",
+              "title": "Ondego"
+            },
+            {
+              "lang": "is",
+              "title": "Flóðbylgja"
+            },
+            {
+              "lang": "it",
+              "title": "Maremoto"
+            },
+            {
+              "lang": "ja",
+              "title": "津波"
+            },
+            {
+              "lang": "jv",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "ka",
+              "title": "ცუნამი"
+            },
+            {
+              "lang": "kab",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "kbp",
+              "title": "Cunaami"
+            },
+            {
+              "lang": "ki",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "kk",
+              "title": "Цунами"
+            },
+            {
+              "lang": "kn",
+              "title": "ಸುನಾಮಿ"
+            },
+            {
+              "lang": "ko",
+              "title": "지진해일"
+            },
+            {
+              "lang": "ks",
+              "title": "سُنامی"
+            },
+            {
+              "lang": "ku",
+              "title": "Tsunamî"
+            },
+            {
+              "lang": "ky",
+              "title": "Цунами"
+            },
+            {
+              "lang": "la",
+              "title": "Megacyma"
+            },
+            {
+              "lang": "lb",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "li",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "lmo",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "lo",
+              "title": "ຊູນາມິ"
+            },
+            {
+              "lang": "lt",
+              "title": "Cunamis"
+            },
+            {
+              "lang": "lv",
+              "title": "Cunami"
+            },
+            {
+              "lang": "map-bms",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "min",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "mk",
+              "title": "Цунами"
+            },
+            {
+              "lang": "ml",
+              "title": "സുനാമി"
+            },
+            {
+              "lang": "mn",
+              "title": "Цунами"
+            },
+            {
+              "lang": "mr",
+              "title": "त्सुनामी"
+            },
+            {
+              "lang": "mrj",
+              "title": "Цунами"
+            },
+            {
+              "lang": "ms",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "my",
+              "title": "ဆူနာမီ"
+            },
+            {
+              "lang": "nds",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Vleuigolve"
+            },
+            {
+              "lang": "ne",
+              "title": "सुनामी"
+            },
+            {
+              "lang": "new",
+              "title": "शुनामी"
+            },
+            {
+              "lang": "nia",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "nl",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "nn",
+              "title": "Flodbølgje"
+            },
+            {
+              "lang": "nb",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "nv",
+              "title": "Tó nitéél nitságoʼ atságáá"
+            },
+            {
+              "lang": "oc",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "om",
+              "title": "Tsunamis"
+            },
+            {
+              "lang": "or",
+              "title": "ସୁନାମି"
+            },
+            {
+              "lang": "pa",
+              "title": "ਸੁਨਾਮੀ"
+            },
+            {
+              "lang": "pap",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "pl",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "pms",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "pnb",
+              "title": "سونامی"
+            },
+            {
+              "lang": "pt",
+              "title": "Tsunâmi"
+            },
+            {
+              "lang": "ro",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "ru",
+              "title": "Цунами"
+            },
+            {
+              "lang": "rue",
+              "title": "Цунамі"
+            },
+            {
+              "lang": "sa",
+              "title": "सुनामी"
+            },
+            {
+              "lang": "sah",
+              "title": "Цунами"
+            },
+            {
+              "lang": "sat",
+              "title": "ᱥᱩᱱᱟᱢᱤ"
+            },
+            {
+              "lang": "scn",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "sco",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "sd",
+              "title": "سونامي"
+            },
+            {
+              "lang": "sh",
+              "title": "Cunami"
+            },
+            {
+              "lang": "si",
+              "title": "සුනාමි"
+            },
+            {
+              "lang": "simple",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "sk",
+              "title": "Cunami"
+            },
+            {
+              "lang": "sl",
+              "title": "Cunami"
+            },
+            {
+              "lang": "sn",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "so",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "sq",
+              "title": "Cunami"
+            },
+            {
+              "lang": "sr",
+              "title": "Цунами"
+            },
+            {
+              "lang": "su",
+              "title": "Sunami"
+            },
+            {
+              "lang": "sv",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "sw",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "szy",
+              "title": "pabalad"
+            },
+            {
+              "lang": "ta",
+              "title": "ஆழிப்பேரலை"
+            },
+            {
+              "lang": "te",
+              "title": "సునామి"
+            },
+            {
+              "lang": "th",
+              "title": "สึนามิ"
+            },
+            {
+              "lang": "tl",
+              "title": "Sunami"
+            },
+            {
+              "lang": "tr",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "tt",
+              "title": "Цунами"
+            },
+            {
+              "lang": "uk",
+              "title": "Цунамі"
+            },
+            {
+              "lang": "ur",
+              "title": "سونامی"
+            },
+            {
+              "lang": "uz",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "vec",
+              "title": "Tsunami"
+            },
+            {
+              "lang": "vep",
+              "title": "Cunami"
+            },
+            {
+              "lang": "vi",
+              "title": "Sóng thần"
+            },
+            {
+              "lang": "war",
+              "title": "Humatol"
+            },
+            {
+              "lang": "wuu",
+              "title": "海嘯"
+            },
+            {
+              "lang": "xmf",
+              "title": "ცუნამი"
+            },
+            {
+              "lang": "yi",
+              "title": "צונאמי"
+            },
+            {
+              "lang": "za",
+              "title": "Haij Rongx"
+            },
+            {
+              "lang": "zh",
+              "title": "海啸"
+            },
+            {
+              "lang": "lzh",
+              "title": "濤瀾"
+            },
+            {
+              "lang": "nan",
+              "title": "Hái-tiòng"
+            },
+            {
+              "lang": "yue",
+              "title": "海嘯"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:39.889403",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260117225218|41214417",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5321,
+          "ns": 0,
+          "title": "말라리아",
+          "revisions": [
+            {
+              "timestamp": "2026-01-19T06:06:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

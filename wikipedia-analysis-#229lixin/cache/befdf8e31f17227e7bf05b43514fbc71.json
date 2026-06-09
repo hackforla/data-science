@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:13:55.610064",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060514104403|458348",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 88550,
+          "ns": 0,
+          "title": "Горски пожар",
+          "revisions": [
+            {
+              "timestamp": "2006-05-01T08:29:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

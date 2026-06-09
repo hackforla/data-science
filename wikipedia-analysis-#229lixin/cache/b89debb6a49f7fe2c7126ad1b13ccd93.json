@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:46.147874",
+  "response": {
+    "continue": {
+      "rvcontinue": "20011201041441|333257775",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5042951,
+          "ns": 0,
+          "title": "Climate change",
+          "revisions": [
+            {
+              "timestamp": "2001-10-30T17:25:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

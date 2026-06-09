@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:23.783950",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130712043125|11129951",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 968308,
+          "ns": 0,
+          "title": "출입국관리",
+          "revisions": [
+            {
+              "timestamp": "2013-07-12T04:23:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

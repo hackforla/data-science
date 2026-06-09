@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:41.213998",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251022010251|28479923",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1945464,
+          "ns": 0,
+          "title": "Oltásellenesség",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T11:46:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

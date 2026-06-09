@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:34.344858",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230125124120|290674",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12016,
+          "ns": 0,
+          "title": "د وينا ازادي",
+          "revisions": [
+            {
+              "timestamp": "2023-05-22T13:12:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

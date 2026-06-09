@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:40.892653",
+  "response": {
+    "continue": {
+      "rvcontinue": "20131227205207|8260178",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1220255,
+          "ns": 0,
+          "title": "Apatrid",
+          "revisions": [
+            {
+              "timestamp": "2013-12-27T20:39:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:28.317738",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190826054114|3626532",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 775162,
+          "ns": 0,
+          "title": "জাতিনিধন",
+          "revisions": [
+            {
+              "timestamp": "2019-08-25T18:46:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

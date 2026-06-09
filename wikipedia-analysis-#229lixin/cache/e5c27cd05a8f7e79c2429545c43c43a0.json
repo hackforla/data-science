@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:12.481147",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240224231442|71168542",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11650240,
+          "ns": 0,
+          "title": "Thời tiết cực đoan",
+          "revisions": [
+            {
+              "timestamp": "2024-12-04T21:12:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

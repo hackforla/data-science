@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:19.814473",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260108165237|42504832",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 185020,
+          "ns": 0,
+          "title": "חופש העיתונות",
+          "revisions": [
+            {
+              "timestamp": "2026-01-08T16:56:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

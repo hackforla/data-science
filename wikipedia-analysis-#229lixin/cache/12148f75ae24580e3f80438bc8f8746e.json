@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:59.453783",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250316163547|8049019",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 615954,
+          "ns": 0,
+          "title": "বাকস্বাধীনতা",
+          "revisions": [
+            {
+              "timestamp": "2025-08-02T07:28:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

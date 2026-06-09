@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:18.763933",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060114213516|316622",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 58570,
+          "ns": 0,
+          "title": "Chudoba",
+          "revisions": [
+            {
+              "timestamp": "2006-01-13T15:23:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

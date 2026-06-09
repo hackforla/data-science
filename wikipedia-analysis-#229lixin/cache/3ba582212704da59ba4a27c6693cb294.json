@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:01.748530",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090929041300|2294534",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 416130,
+          "ns": 0,
+          "title": "Vô gia cư",
+          "revisions": [
+            {
+              "timestamp": "2009-09-29T03:59:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

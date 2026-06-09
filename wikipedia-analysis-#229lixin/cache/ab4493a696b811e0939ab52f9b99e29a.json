@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:56.430232",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220110180506|275888",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 59040,
+          "ns": 0,
+          "title": "وبا یا ټولنیونه",
+          "revisions": [
+            {
+              "timestamp": "2024-05-21T02:46:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

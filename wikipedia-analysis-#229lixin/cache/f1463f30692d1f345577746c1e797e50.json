@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:09.242551",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070629114045|3084058",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 374242,
+          "ns": 0,
+          "title": "Kuivuuskausi",
+          "revisions": [
+            {
+              "timestamp": "2007-06-29T11:39:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

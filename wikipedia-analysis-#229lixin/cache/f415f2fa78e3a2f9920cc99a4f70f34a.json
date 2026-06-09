@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:10.902282",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251214125032|25515374",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 402706,
+          "ns": 0,
+          "title": "Tuberkulóza",
+          "revisions": [
+            {
+              "timestamp": "2026-01-17T15:27:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

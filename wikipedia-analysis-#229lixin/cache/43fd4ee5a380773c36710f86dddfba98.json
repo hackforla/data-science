@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:58.516865",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100523032421|95265",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20791,
+          "ns": 0,
+          "title": "ජාතිවාදය",
+          "revisions": [
+            {
+              "timestamp": "2010-05-05T14:39:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

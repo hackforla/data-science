@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:46.528704",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041228194813|8954",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3719,
+          "ns": 0,
+          "title": "سونامی",
+          "revisions": [
+            {
+              "timestamp": "2004-12-28T17:20:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

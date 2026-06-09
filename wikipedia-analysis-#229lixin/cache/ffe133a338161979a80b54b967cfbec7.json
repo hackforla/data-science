@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:41.062446",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060305151920|119521",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 28602,
+          "ns": 0,
+          "title": "สิทธิมนุษยชน",
+          "revisions": [
+            {
+              "timestamp": "2006-03-05T12:04:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

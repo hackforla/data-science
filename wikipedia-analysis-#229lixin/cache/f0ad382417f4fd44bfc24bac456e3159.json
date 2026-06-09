@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:37.611902",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250319111434|11017527",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 45388,
+          "ns": 0,
+          "title": "Σεισμός",
+          "revisions": [
+            {
+              "timestamp": "2025-03-19T12:58:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

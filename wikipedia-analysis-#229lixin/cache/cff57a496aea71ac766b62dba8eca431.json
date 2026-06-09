@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:27.981992",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120509070503|31132939",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2640019,
+          "ns": 0,
+          "title": "Utrzymywanie pokoju",
+          "revisions": [
+            {
+              "timestamp": "2012-05-09T06:47:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

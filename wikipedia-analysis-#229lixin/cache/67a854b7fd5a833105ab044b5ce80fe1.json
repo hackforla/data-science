@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:17.294319",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060309175319|2524338",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 319159,
+          "ns": 0,
+          "title": "Explotación infantil",
+          "revisions": [
+            {
+              "timestamp": "2006-03-09T17:52:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

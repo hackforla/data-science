@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:41.932182",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251123115625|28612172",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 66338,
+          "ns": 0,
+          "title": "Tunawisma",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T02:31:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

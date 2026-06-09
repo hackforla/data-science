@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:13.895353",
+  "response": {
+    "continue": {
+      "rvcontinue": "20211211143033|1047677",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16635,
+          "ns": 0,
+          "title": "विश्व स्वास्थ्य सङ्गठन",
+          "revisions": [
+            {
+              "timestamp": "2024-10-25T07:44:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

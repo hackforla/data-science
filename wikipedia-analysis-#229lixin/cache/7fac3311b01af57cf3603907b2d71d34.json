@@ -1,0 +1,20 @@
+{
+  "cached_at": "2026-01-26T00:11:29.373821",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 58593,
+          "ns": 0,
+          "title": "اقلیمي بدلون",
+          "revisions": [
+            {
+              "timestamp": "2021-12-15T12:33:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

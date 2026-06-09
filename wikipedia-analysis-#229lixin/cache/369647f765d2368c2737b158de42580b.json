@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:51:09.579144",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251024110725|74300859",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14364442,
+          "ns": 0,
+          "title": "Tranh cãi về vắc xin",
+          "revisions": [
+            {
+              "timestamp": "2025-12-01T21:35:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

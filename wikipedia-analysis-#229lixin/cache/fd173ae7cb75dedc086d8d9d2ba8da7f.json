@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:37.278984",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031128000616|119976",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20327,
+          "ns": 0,
+          "title": "Mänskliga rättigheter",
+          "revisions": [
+            {
+              "timestamp": "2003-10-10T16:17:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

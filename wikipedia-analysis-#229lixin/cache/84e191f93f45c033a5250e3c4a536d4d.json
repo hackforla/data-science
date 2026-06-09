@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:40.523749",
+  "response": {
+    "continue": {
+      "rvcontinue": "20130817020334|305796",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 42233,
+          "ns": 0,
+          "title": "ጎርፍ",
+          "revisions": [
+            {
+              "timestamp": "2013-08-17T00:37:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

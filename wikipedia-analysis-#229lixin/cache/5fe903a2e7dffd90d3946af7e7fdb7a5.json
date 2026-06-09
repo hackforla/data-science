@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:59.978983",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060405130407|979817",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 180535,
+          "ns": 0,
+          "title": "Бедность",
+          "revisions": [
+            {
+              "timestamp": "2006-04-05T13:01:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

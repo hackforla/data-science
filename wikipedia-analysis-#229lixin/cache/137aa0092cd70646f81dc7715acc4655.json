@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:44.171903",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260124011302|91228151",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1348,
+          "ns": 0,
+          "title": "世界卫生组织",
+          "revisions": [
+            {
+              "timestamp": "2026-01-24T01:20:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

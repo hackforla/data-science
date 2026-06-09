@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:03.589625",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250804121352|88586465",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 449130,
+          "ns": 0,
+          "title": "童工",
+          "revisions": [
+            {
+              "timestamp": "2025-12-11T02:31:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

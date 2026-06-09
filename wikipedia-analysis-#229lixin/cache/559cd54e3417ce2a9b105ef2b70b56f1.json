@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:24.708208",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240628090158|11802154",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1040488,
+          "ns": 0,
+          "title": "Vaccineskepsis",
+          "revisions": [
+            {
+              "timestamp": "2025-08-18T21:32:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

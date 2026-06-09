@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:34.274961",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230129035609|60848472",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8926935,
+          "ns": 0,
+          "title": "أزمة المهاجرين",
+          "revisions": [
+            {
+              "timestamp": "2024-09-12T13:01:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

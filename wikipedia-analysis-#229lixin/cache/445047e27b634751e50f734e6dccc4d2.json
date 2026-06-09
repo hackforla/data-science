@@ -1,0 +1,584 @@
+{
+  "cached_at": "2026-01-26T00:34:05.953410",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 5902,
+          "ns": 0,
+          "title": "Capital punishment",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Doodstraf"
+            },
+            {
+              "lang": "gsw",
+              "title": "Todesstrafe"
+            },
+            {
+              "lang": "an",
+              "title": "Pena de muerte"
+            },
+            {
+              "lang": "anp",
+              "title": "मृत्युदंड"
+            },
+            {
+              "lang": "ar",
+              "title": "عقوبة الإعدام"
+            },
+            {
+              "lang": "ary",
+              "title": "إعدام"
+            },
+            {
+              "lang": "arz",
+              "title": "اعدام"
+            },
+            {
+              "lang": "as",
+              "title": "মৃত্যুদণ্ড"
+            },
+            {
+              "lang": "ast",
+              "title": "Pena de muerte"
+            },
+            {
+              "lang": "az",
+              "title": "Ölüm cəzası"
+            },
+            {
+              "lang": "azb",
+              "title": "اؤلوم حؤکمو"
+            },
+            {
+              "lang": "ba",
+              "title": "Үлем язаһы"
+            },
+            {
+              "lang": "ban",
+              "title": "Danda pati"
+            },
+            {
+              "lang": "sgs",
+              "title": "Smertėis bausmie"
+            },
+            {
+              "lang": "be",
+              "title": "Смяротнае пакаранне"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Сьмяротная кара"
+            },
+            {
+              "lang": "bg",
+              "title": "Смъртно наказание"
+            },
+            {
+              "lang": "bn",
+              "title": "মৃত্যুদণ্ড"
+            },
+            {
+              "lang": "br",
+              "title": "Kastiz ar marv"
+            },
+            {
+              "lang": "bs",
+              "title": "Smrtna kazna"
+            },
+            {
+              "lang": "btm",
+              "title": "Ukuman mate"
+            },
+            {
+              "lang": "bxr",
+              "title": "Толгойн сааза"
+            },
+            {
+              "lang": "ca",
+              "title": "Pena de mort"
+            },
+            {
+              "lang": "cdo",
+              "title": "Sṳ̄-hìng"
+            },
+            {
+              "lang": "ce",
+              "title": "Вен кхиэл"
+            },
+            {
+              "lang": "ckb",
+              "title": "سزای مەرگ"
+            },
+            {
+              "lang": "cs",
+              "title": "Trest smrti"
+            },
+            {
+              "lang": "cv",
+              "title": "Пурнăçран уйăрасси"
+            },
+            {
+              "lang": "cy",
+              "title": "Y gosb eithaf"
+            },
+            {
+              "lang": "da",
+              "title": "Dødsstraf"
+            },
+            {
+              "lang": "de",
+              "title": "Todesstrafe"
+            },
+            {
+              "lang": "diq",
+              "title": "İdam"
+            },
+            {
+              "lang": "el",
+              "title": "Θανατική ποινή"
+            },
+            {
+              "lang": "eo",
+              "title": "Mortpuno"
+            },
+            {
+              "lang": "es",
+              "title": "Pena de muerte"
+            },
+            {
+              "lang": "et",
+              "title": "Surmanuhtlus"
+            },
+            {
+              "lang": "eu",
+              "title": "Heriotza zigor"
+            },
+            {
+              "lang": "ext",
+              "title": "Pena de Muerti"
+            },
+            {
+              "lang": "fa",
+              "title": "اعدام"
+            },
+            {
+              "lang": "fi",
+              "title": "Kuolemanrangaistus"
+            },
+            {
+              "lang": "vro",
+              "title": "Surmanuhklus"
+            },
+            {
+              "lang": "fo",
+              "title": "Deyðarevsing"
+            },
+            {
+              "lang": "fr",
+              "title": "Peine de mort"
+            },
+            {
+              "lang": "fy",
+              "title": "Deastraf"
+            },
+            {
+              "lang": "ga",
+              "title": "Pionós an bháis"
+            },
+            {
+              "lang": "gcr",
+              "title": "Penn di lanmo"
+            },
+            {
+              "lang": "gl",
+              "title": "Pena de morte"
+            },
+            {
+              "lang": "gn",
+              "title": "Tembiapo vaikuére ñemano"
+            },
+            {
+              "lang": "ha",
+              "title": "Hukuncin Kisa"
+            },
+            {
+              "lang": "he",
+              "title": "עונש מוות"
+            },
+            {
+              "lang": "hi",
+              "title": "मृत्युदंड"
+            },
+            {
+              "lang": "hif",
+              "title": "Capital punishment"
+            },
+            {
+              "lang": "hr",
+              "title": "Smrtna kazna"
+            },
+            {
+              "lang": "ht",
+              "title": "Pinisyon lanmò"
+            },
+            {
+              "lang": "hu",
+              "title": "Halálbüntetés"
+            },
+            {
+              "lang": "hy",
+              "title": "Մահապատիժ"
+            },
+            {
+              "lang": "id",
+              "title": "Hukuman mati"
+            },
+            {
+              "lang": "ilo",
+              "title": "Dusa iti patay"
+            },
+            {
+              "lang": "io",
+              "title": "Mortopuniso"
+            },
+            {
+              "lang": "is",
+              "title": "Dauðarefsing"
+            },
+            {
+              "lang": "it",
+              "title": "Pena di morte"
+            },
+            {
+              "lang": "ja",
+              "title": "死刑"
+            },
+            {
+              "lang": "jam",
+              "title": "Kiapital ponishment"
+            },
+            {
+              "lang": "ka",
+              "title": "სიკვდილით დასჯა"
+            },
+            {
+              "lang": "kaa",
+              "title": "Ólim jazası"
+            },
+            {
+              "lang": "kbp",
+              "title": "Peine capitale"
+            },
+            {
+              "lang": "kk",
+              "title": "Өлім жазасы"
+            },
+            {
+              "lang": "kn",
+              "title": "ಮರಣದಂಡನೆ"
+            },
+            {
+              "lang": "ko",
+              "title": "사형"
+            },
+            {
+              "lang": "krc",
+              "title": "Асмакъ"
+            },
+            {
+              "lang": "ku",
+              "title": "Cezayê mirinê"
+            },
+            {
+              "lang": "ky",
+              "title": "Өлүм жазасы"
+            },
+            {
+              "lang": "la",
+              "title": "Poena capitalis"
+            },
+            {
+              "lang": "lb",
+              "title": "Doudesstrof"
+            },
+            {
+              "lang": "li",
+              "title": "Doeadstraof"
+            },
+            {
+              "lang": "lmo",
+              "title": "Pena de mort"
+            },
+            {
+              "lang": "lt",
+              "title": "Mirties bausmė"
+            },
+            {
+              "lang": "lv",
+              "title": "Nāvessods"
+            },
+            {
+              "lang": "min",
+              "title": "Hukuman mati"
+            },
+            {
+              "lang": "mk",
+              "title": "Смртна казна"
+            },
+            {
+              "lang": "ml",
+              "title": "വധശിക്ഷ"
+            },
+            {
+              "lang": "mn",
+              "title": "Цаазаар авах ял"
+            },
+            {
+              "lang": "mr",
+              "title": "मृत्युदंड"
+            },
+            {
+              "lang": "ms",
+              "title": "Hukuman mati"
+            },
+            {
+              "lang": "my",
+              "title": "သေဒဏ်"
+            },
+            {
+              "lang": "nds",
+              "title": "Doodsstrafe"
+            },
+            {
+              "lang": "ne",
+              "title": "मृत्युदण्ड"
+            },
+            {
+              "lang": "nl",
+              "title": "Doodstraf"
+            },
+            {
+              "lang": "nn",
+              "title": "Dødsstraff"
+            },
+            {
+              "lang": "nb",
+              "title": "Dødsstraff"
+            },
+            {
+              "lang": "oc",
+              "title": "Pena de mòrt"
+            },
+            {
+              "lang": "os",
+              "title": "Мæлæтæй æфхæрд"
+            },
+            {
+              "lang": "pa",
+              "title": "ਮੌਤ ਦੀ ਸਜ਼ਾ"
+            },
+            {
+              "lang": "pap",
+              "title": "Pena di morto"
+            },
+            {
+              "lang": "pl",
+              "title": "Kara śmierci"
+            },
+            {
+              "lang": "pms",
+              "title": "Pen-a ëd mòrt"
+            },
+            {
+              "lang": "pnb",
+              "title": "سزائے موت"
+            },
+            {
+              "lang": "ps",
+              "title": "د مرګ سزا (اعدام)"
+            },
+            {
+              "lang": "pt",
+              "title": "Pena de morte"
+            },
+            {
+              "lang": "qu",
+              "title": "Wañuy wanay"
+            },
+            {
+              "lang": "ro",
+              "title": "Pedeapsa cu moartea"
+            },
+            {
+              "lang": "ru",
+              "title": "Смертная казнь"
+            },
+            {
+              "lang": "rue",
+              "title": "Смертна кара"
+            },
+            {
+              "lang": "sah",
+              "title": "Суутунан өлөрүү"
+            },
+            {
+              "lang": "sc",
+              "title": "Pena de morte"
+            },
+            {
+              "lang": "scn",
+              "title": "Pena di morti"
+            },
+            {
+              "lang": "sco",
+              "title": "Caipital puinishment"
+            },
+            {
+              "lang": "sh",
+              "title": "Smrtna kazna"
+            },
+            {
+              "lang": "si",
+              "title": "මරණ දණ්ඩනය"
+            },
+            {
+              "lang": "simple",
+              "title": "Death penalty"
+            },
+            {
+              "lang": "sk",
+              "title": "Trest smrti"
+            },
+            {
+              "lang": "sl",
+              "title": "Smrtna kazen"
+            },
+            {
+              "lang": "so",
+              "title": "Ciqaab dilka"
+            },
+            {
+              "lang": "sq",
+              "title": "Dënimi me vdekje"
+            },
+            {
+              "lang": "sr",
+              "title": "Смртна казна"
+            },
+            {
+              "lang": "sv",
+              "title": "Dödsstraff"
+            },
+            {
+              "lang": "sw",
+              "title": "Adhabu ya kifo"
+            },
+            {
+              "lang": "ta",
+              "title": "மரணதண்டனை"
+            },
+            {
+              "lang": "te",
+              "title": "మరణశిక్ష"
+            },
+            {
+              "lang": "tg",
+              "title": "Эъдом"
+            },
+            {
+              "lang": "th",
+              "title": "โทษประหารชีวิต"
+            },
+            {
+              "lang": "tl",
+              "title": "Parusang kamatayan"
+            },
+            {
+              "lang": "tly",
+              "title": "Marde čəzo"
+            },
+            {
+              "lang": "tok",
+              "title": "moli tan lipu lawa"
+            },
+            {
+              "lang": "tr",
+              "title": "Ölüm cezası"
+            },
+            {
+              "lang": "tt",
+              "title": "Үлем җәзасы"
+            },
+            {
+              "lang": "uk",
+              "title": "Смертна кара"
+            },
+            {
+              "lang": "ur",
+              "title": "سزائے موت"
+            },
+            {
+              "lang": "uz",
+              "title": "Oʻlim jazosi"
+            },
+            {
+              "lang": "vec",
+              "title": "Pena de morte"
+            },
+            {
+              "lang": "vi",
+              "title": "Tử hình"
+            },
+            {
+              "lang": "vls",
+              "title": "Dôodstraffe"
+            },
+            {
+              "lang": "war",
+              "title": "Pagsirot hin kamatayon"
+            },
+            {
+              "lang": "wuu",
+              "title": "死刑"
+            },
+            {
+              "lang": "xal",
+              "title": "Толһан цааҗ"
+            },
+            {
+              "lang": "xmf",
+              "title": "ღურათ საჯება"
+            },
+            {
+              "lang": "yi",
+              "title": "טויטשטראף"
+            },
+            {
+              "lang": "zh",
+              "title": "死刑"
+            },
+            {
+              "lang": "lzh",
+              "title": "死刑"
+            },
+            {
+              "lang": "nan",
+              "title": "Sí-hêng"
+            },
+            {
+              "lang": "yue",
+              "title": "死刑"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

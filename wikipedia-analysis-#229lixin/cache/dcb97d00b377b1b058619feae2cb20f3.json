@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:30.577037",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251212141723|46943015",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2720437,
+          "ns": 0,
+          "title": "Рух біженців",
+          "revisions": [
+            {
+              "timestamp": "2025-12-21T01:45:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

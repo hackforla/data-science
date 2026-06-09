@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:01.974160",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251116234702|17270644",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21814,
+          "ns": 0,
+          "title": "Război",
+          "revisions": [
+            {
+              "timestamp": "2025-12-01T10:50:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

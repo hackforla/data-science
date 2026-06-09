@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:21.102221",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250924130148|12559618",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4100,
+          "ns": 0,
+          "title": "แผ่นดินไหว",
+          "revisions": [
+            {
+              "timestamp": "2025-10-28T13:11:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

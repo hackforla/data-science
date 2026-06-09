@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:30.912911",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041228214514|30032",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9735,
+          "ns": 0,
+          "title": "Zemětřesení",
+          "revisions": [
+            {
+              "timestamp": "2004-12-28T18:02:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
