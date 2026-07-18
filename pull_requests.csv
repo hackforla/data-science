@@ -1,0 +1,1326 @@
+PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers,Linked Issues,Has Issues
+208,"Adding Cleaning script version3",,"mru-hub","open",,,"","","salice",", , 208","false"
+205,"Added data loading and cleaning Jupyter notebook","- Initial implementation of data loading/ saving and cleaning.
+- Improvements planned for future versions.","mru-hub","closed",,,"","","",", , 205","false"
+201,"feat:  City of Los Angeles Evictions #179","This commit introduces basic EDA on the LA evictions data, It introduces explode/splitting of Just Cause column for effective analysis
+
+starting #179 ","rahul897","open",,,"","","",", , 201","false"
+199,"177 create 311 data csv files that can be accessed through a jupyter notebook","Cleaning rules document  from the 311-data","mru-hub","closed",,,"","","salice",", , 199","false"
+197,"N2020h issues to csv",,"n2020h","open",,,"","n2020h","",", , 197","false"
+196,"186 Adding Crime Data",,"dolla24","closed",,,"","dolla24","",", , 196","false"
+195,"fix name of image to work with Windows",,"salice","closed",,,"","","",", , 195","false"
+192,"Create issues-to-csv.yml","testing feature branch with draft pull request","n2020h","closed",,,"","","",", , 192","false"
+188,"Moving Workshop-Feedback_Bigram_Analysis.ipynb from access-the-data repo","Partially fixes https://github.com/hackforla/website/issues/6139
+
+### What changes did you make?
+- Adding Workshop-Feedback_Bigram_Analysis.ipynb from access-the-data repo (commit: https://github.com/hackforla/access-the-data/commit/62609601277509b0473bbf8f6dbf1ef735430c84) to this repo
+
+### Why did you make the changes?
+- Requested by Bonnie per [this comment](https://github.com/hackforla/website/issues/5127#issuecomment-1776306588)
+- AJ Price, Access the Data's PM, didn't want Jupyter Notebook to show up as a Language for the project, so Bonnie recommended moving the Workshop-Feedback_Bigram_Analysis.ipynb file to the Data Science repo.
+
+### Additional Notes
+- I recommend using rebase merging to preserve who authored the file.
+- To see examples of the commit history of the various methods of merging, see these branches in my forked repo:
+  - [Using rebase & merge](https://github.com/JessicaLucindaCheng/data-science/commits/rebase-merge): Recommended
+  - [Using merge commit](https://github.com/JessicaLucindaCheng/data-science/commits/merge-commit): Okay but results in 2 commits
+  - [Using squash & merge](https://github.com/JessicaLucindaCheng/data-science/commits/squash-merge): Not recommended because it doesn't preserve author's credit","JessicaLucindaCheng","closed",,,"","","","5127, 2607, 6139, 296, , , 188","false"
+187,"Moving Workshop-Feedback_Bigram_Analysis.ipynb from access-the-data repo","Fixes N/A - 
+
+### What changes did you make?
+- Adding Workshop-Feedback_Bigram_Analysis.ipynb from access-the-data repo (commit: https://github.com/hackforla/access-the-data/commit/62609601277509b0473bbf8f6dbf1ef735430c84) to this repo
+
+### Why did you make the changes?
+- Requested by Bonnie per [this comment](https://github.com/hackforla/website/issues/5127#issuecomment-1776306588)
+- AJ Price, Access the Data's PM, didn't want Jupyter Notebook to show up as a Language for the project, so Bonnie recommended moving the Workshop-Feedback_Bigram_Analysis.ipynb file to the Data Science repo.
+
+### Additional Notes
+- I recommend using rebase merging to preserve who authored the file.
+- To see examples of the commit history of the various methods of merging, see these branches in my forked repo:
+  - [Using rebase & merge](https://github.com/JessicaLucindaCheng/data-science/commits/rebase-merge): Recommended
+  - [Using merge commit](https://github.com/JessicaLucindaCheng/data-science/commits/merge-commit): Okay but results in 2 commits
+  - [Using squash & merge](https://github.com/JessicaLucindaCheng/data-science/commits/squash-merge): Not recommended because it doesn't preserve author's credit","JessicaLucindaCheng","closed",,,"","","",", , 187","false"
+186,"Lalla la crime analysis 2",,"Lalla22","open",,,"","","salice",", , 186","false"
+185,"Create README.md",,"Lalla22","closed",,,"","","",", , 185","false"
+184,"git c",,"Lalla22","closed",,,"","","",", , 184","false"
+176,"build(deps): bump cryptography from 3.3.2 to 39.0.1 in /311-data/mapillarywrapper","Bumps [cryptography](https://github.com/pyca/cryptography) from 3.3.2 to 39.0.1.
+<details>
+<summary>Changelog</summary>
+<p><em>Sourced from <a href=""https://github.com/pyca/cryptography/blob/main/CHANGELOG.rst"">cryptography's changelog</a>.</em></p>
+<blockquote>
+<p>39.0.1 - 2023-02-07</p>
+<pre><code>
+* **SECURITY ISSUE** - Fixed a bug where ``Cipher.update_into`` accepted Python
+  buffer protocol objects, but allowed immutable buffers. **CVE-2023-23931**
+* Updated Windows, macOS, and Linux wheels to be compiled with OpenSSL 3.0.8.
+<p>.. _v39-0-0:</p>
+<p>39.0.0 - 2023-01-01
+</code></pre></p>
+<ul>
+<li><strong>BACKWARDS INCOMPATIBLE:</strong> Support for OpenSSL 1.1.0 has been removed.
+Users on older version of OpenSSL will need to upgrade.</li>
+<li><strong>BACKWARDS INCOMPATIBLE:</strong> Dropped support for LibreSSL &lt; 3.5. The new
+minimum LibreSSL version is 3.5.0. Going forward our policy is to support
+versions of LibreSSL that are available in versions of OpenBSD that are
+still receiving security support.</li>
+<li><strong>BACKWARDS INCOMPATIBLE:</strong> Removed the <code>encode_point</code> and
+<code>from_encoded_point</code> methods on
+:class:<code>~cryptography.hazmat.primitives.asymmetric.ec.EllipticCurvePublicNumbers</code>,
+which had been deprecated for several years.
+:meth:<code>~cryptography.hazmat.primitives.asymmetric.ec.EllipticCurvePublicKey.public_bytes</code>
+and
+:meth:<code>~cryptography.hazmat.primitives.asymmetric.ec.EllipticCurvePublicKey.from_encoded_point</code>
+should be used instead.</li>
+<li><strong>BACKWARDS INCOMPATIBLE:</strong> Support for using MD5 or SHA1 in
+:class:<code>~cryptography.x509.CertificateBuilder</code>, other X.509 builders, and
+PKCS7 has been removed.</li>
+<li><strong>BACKWARDS INCOMPATIBLE:</strong> Dropped support for macOS 10.10 and 10.11, macOS
+users must upgrade to 10.12 or newer.</li>
+<li><strong>ANNOUNCEMENT:</strong> The next version of <code>cryptography</code> (40.0) will change
+the way we link OpenSSL. This will only impact users who build
+<code>cryptography</code> from source (i.e., not from a <code>wheel</code>), and specify their
+own version of OpenSSL. For those users, the <code>CFLAGS</code>, <code>LDFLAGS</code>,
+<code>INCLUDE</code>, <code>LIB</code>, and <code>CRYPTOGRAPHY_SUPPRESS_LINK_FLAGS</code> environment
+variables will no longer be respected. Instead, users will need to
+configure their builds <code>as documented here</code>_.</li>
+<li>Added support for
+:ref:<code>disabling the legacy provider in OpenSSL 3.0.x&lt;legacy-provider&gt;</code>.</li>
+<li>Added support for disabling RSA key validation checks when loading RSA
+keys via
+:func:<code>~cryptography.hazmat.primitives.serialization.load_pem_private_key</code>,
+:func:<code>~cryptography.hazmat.primitives.serialization.load_der_private_key</code>,
+and
+:meth:<code>~cryptography.hazmat.primitives.asymmetric.rsa.RSAPrivateNumbers.private_key</code>.
+This speeds up key loading but is :term:<code>unsafe</code> if you are loading potentially
+attacker supplied keys.</li>
+<li>Significantly improved performance for
+:class:<code>~cryptography.hazmat.primitives.ciphers.aead.ChaCha20Poly1305</code></li>
+</ul>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/pyca/cryptography/commit/d6951dca25de45abd52da51b608055371fbcde4e""><code>d6951dc</code></a> changelog + security fix backport (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/8231"">#8231</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/138da90c8450446b19619e3faa77b9da54c34be3""><code>138da90</code></a> workaround scapy bug in downstream tests (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/8218"">#8218</a>) (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/8228"">#8228</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/69527bc79095c9646d7e839121f0783477892ecc""><code>69527bc</code></a> bookworm is py311 now (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/8200"">#8200</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/111deefb659b8d73c56d3ce89458f2df973d60e4""><code>111deef</code></a> backport main branch CI to 39.0.x (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/8153"">#8153</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/338a65a7df74e189f6b5d1d3a6315ffa911b21c2""><code>338a65a</code></a> 39.0.0 version bump (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/7954"">#7954</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/84a3cd7abb16f594d8c315e8aedb4be02583bf6a""><code>84a3cd7</code></a> automatically download and upload circleci wheels (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/7949"">#7949</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/525c0b3d5d89eab7f953be5de5d2b75da1c816f8""><code>525c0b3</code></a> Type annotate release.py (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/7951"">#7951</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/46d2a94d1b574abf5b9e88f84fa7400a138c4edb""><code>46d2a94</code></a> Use the latest 3.10 release when wheel building (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/7953"">#7953</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/f150dc15582c05b1b94cf08ed3b1fbc9c4f52267""><code>f150dc1</code></a> fix CI to work with ubuntu 22.04 (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/7950"">#7950</a>)</li>
+<li><a href=""https://github.com/pyca/cryptography/commit/8867724b2b6db528d2900414ef86c122a1f5602a""><code>8867724</code></a> fix README for python3 (<a href=""https://github-redirect.dependabot.com/pyca/cryptography/issues/7947"">#7947</a>)</li>
+<li>Additional commits viewable in <a href=""https://github.com/pyca/cryptography/compare/3.3.2...39.0.1"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=cryptography&package-manager=pip&previous-version=3.3.2&new-version=39.0.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","open",,,"dependencies","","",", , 176","false"
+175,"build(deps): bump certifi from 2021.5.30 to 2022.12.7 in /LAANE","Bumps [certifi](https://github.com/certifi/python-certifi) from 2021.5.30 to 2022.12.7.
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/certifi/python-certifi/commit/9e9e840925d7b8e76c76fdac1fab7e6e88c1c3b8""><code>9e9e840</code></a> 2022.12.07</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/b81bdb269f1edb791bcd4ec8a9d0c053758f961a""><code>b81bdb2</code></a> 2022.09.24</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/939a28ffc57b1613770f572b584745c7b6d43e7d""><code>939a28f</code></a> 2022.09.14</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/aca828a78e73235a513dff9ebc181a47ef7dbf7b""><code>aca828a</code></a> 2022.06.15.2</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/de0eae12a6d5794a4c1e33052af6717707ce1fcc""><code>de0eae1</code></a> Only use importlib.resources's new files() / Traversable API on Python ≥3.11 ...</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/b8eb5e9af9143b22b7f651942b393e369ed4c52a""><code>b8eb5e9</code></a> 2022.06.15.1</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/47fb7ab715965684e035292d2ad3386aabdc4d25""><code>47fb7ab</code></a> Fix deprecation warning on Python 3.11 (<a href=""https://github-redirect.dependabot.com/certifi/python-certifi/issues/199"">#199</a>)</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/b0b48e059995f455ac1e79b3ad373ad4ef355516""><code>b0b48e0</code></a> fixes <a href=""https://github-redirect.dependabot.com/certifi/python-certifi/issues/198"">#198</a> -- update link in license</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/9d514b4cad79357071c89d7dc4dc1b4df72bb997""><code>9d514b4</code></a> 2022.06.15</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/4151e8849481f396537c34812068e89b32731e52""><code>4151e88</code></a> Add py.typed to MANIFEST.in to package in sdist (<a href=""https://github-redirect.dependabot.com/certifi/python-certifi/issues/196"">#196</a>)</li>
+<li>Additional commits viewable in <a href=""https://github.com/certifi/python-certifi/compare/2021.05.30...2022.12.07"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=certifi&package-manager=pip&previous-version=2021.5.30&new-version=2022.12.7)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","open",,,"dependencies","","",", , 175","false"
+174,"build(deps): bump certifi from 2020.6.20 to 2022.12.7 in /311-data/mapillarywrapper","Bumps [certifi](https://github.com/certifi/python-certifi) from 2020.6.20 to 2022.12.7.
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/certifi/python-certifi/commit/9e9e840925d7b8e76c76fdac1fab7e6e88c1c3b8""><code>9e9e840</code></a> 2022.12.07</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/b81bdb269f1edb791bcd4ec8a9d0c053758f961a""><code>b81bdb2</code></a> 2022.09.24</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/939a28ffc57b1613770f572b584745c7b6d43e7d""><code>939a28f</code></a> 2022.09.14</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/aca828a78e73235a513dff9ebc181a47ef7dbf7b""><code>aca828a</code></a> 2022.06.15.2</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/de0eae12a6d5794a4c1e33052af6717707ce1fcc""><code>de0eae1</code></a> Only use importlib.resources's new files() / Traversable API on Python ≥3.11 ...</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/b8eb5e9af9143b22b7f651942b393e369ed4c52a""><code>b8eb5e9</code></a> 2022.06.15.1</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/47fb7ab715965684e035292d2ad3386aabdc4d25""><code>47fb7ab</code></a> Fix deprecation warning on Python 3.11 (<a href=""https://github-redirect.dependabot.com/certifi/python-certifi/issues/199"">#199</a>)</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/b0b48e059995f455ac1e79b3ad373ad4ef355516""><code>b0b48e0</code></a> fixes <a href=""https://github-redirect.dependabot.com/certifi/python-certifi/issues/198"">#198</a> -- update link in license</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/9d514b4cad79357071c89d7dc4dc1b4df72bb997""><code>9d514b4</code></a> 2022.06.15</li>
+<li><a href=""https://github.com/certifi/python-certifi/commit/4151e8849481f396537c34812068e89b32731e52""><code>4151e88</code></a> Add py.typed to MANIFEST.in to package in sdist (<a href=""https://github-redirect.dependabot.com/certifi/python-certifi/issues/196"">#196</a>)</li>
+<li>Additional commits viewable in <a href=""https://github.com/certifi/python-certifi/compare/2020.06.20...2022.12.07"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=certifi&package-manager=pip&previous-version=2020.6.20&new-version=2022.12.7)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","open",,,"dependencies","","",", , 174","false"
+173,"build(deps): bump nbconvert from 5.6.1 to 6.5.1 in /311-data/mapillarywrapper","Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 5.6.1 to 6.5.1.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/jupyter/nbconvert/releases"">nbconvert's releases</a>.</em></p>
+<blockquote>
+<h2>Release 6.5.1</h2>
+<p>No release notes provided.</p>
+<h2>6.5.0</h2>
+<h2>What's Changed</h2>
+<ul>
+<li>Drop dependency on testpath. by <a href=""https://github.com/anntzer""><code>@​anntzer</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1723"">jupyter/nbconvert#1723</a></li>
+<li>Adopt pre-commit by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1744"">jupyter/nbconvert#1744</a></li>
+<li>Add pytest settings and handle warnings by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1745"">jupyter/nbconvert#1745</a></li>
+<li>Apply Autoformatters by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1746"">jupyter/nbconvert#1746</a></li>
+<li>Add git-blame-ignore-revs by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1748"">jupyter/nbconvert#1748</a></li>
+<li>Update flake8 config by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1749"">jupyter/nbconvert#1749</a></li>
+<li>support bleach 5, add packaging and tinycss2 dependencies by <a href=""https://github.com/bollwyvl""><code>@​bollwyvl</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1755"">jupyter/nbconvert#1755</a></li>
+<li>[pre-commit.ci] pre-commit autoupdate by <a href=""https://github.com/pre-commit-ci""><code>@​pre-commit-ci</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1752"">jupyter/nbconvert#1752</a></li>
+<li>update cli example by <a href=""https://github.com/leahecole""><code>@​leahecole</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1753"">jupyter/nbconvert#1753</a></li>
+<li>Clean up pre-commit by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1757"">jupyter/nbconvert#1757</a></li>
+<li>Clean up workflows by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1750"">jupyter/nbconvert#1750</a></li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a href=""https://github.com/pre-commit-ci""><code>@​pre-commit-ci</code></a> made their first contribution in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1752"">jupyter/nbconvert#1752</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a href=""https://github.com/jupyter/nbconvert/compare/6.4.5...6.5"">https://github.com/jupyter/nbconvert/compare/6.4.5...6.5</a></p>
+<h2>6.4.3</h2>
+<h2>What's Changed</h2>
+<ul>
+<li>Add section to <code>customizing</code> showing how to use template inheritance by <a href=""https://github.com/stefanv""><code>@​stefanv</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1719"">jupyter/nbconvert#1719</a></li>
+<li>Remove ipython genutils by <a href=""https://github.com/rgs258""><code>@​rgs258</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1727"">jupyter/nbconvert#1727</a></li>
+<li>Update changelog for 6.4.3 by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1728"">jupyter/nbconvert#1728</a></li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a href=""https://github.com/stefanv""><code>@​stefanv</code></a> made their first contribution in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1719"">jupyter/nbconvert#1719</a></li>
+<li><a href=""https://github.com/rgs258""><code>@​rgs258</code></a> made their first contribution in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1727"">jupyter/nbconvert#1727</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a href=""https://github.com/jupyter/nbconvert/compare/6.4.2...6.4.3"">https://github.com/jupyter/nbconvert/compare/6.4.2...6.4.3</a></p>
+<h2>6.4.0</h2>
+<h2>What's Changed</h2>
+<ul>
+<li>Optionally speed up validation by <a href=""https://github.com/gwincr11""><code>@​gwincr11</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1672"">jupyter/nbconvert#1672</a></li>
+<li>Adding missing div compared to JupyterLab DOM structure by <a href=""https://github.com/SylvainCorlay""><code>@​SylvainCorlay</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1678"">jupyter/nbconvert#1678</a></li>
+<li>Allow passing extra args to code highlighter by <a href=""https://github.com/yuvipanda""><code>@​yuvipanda</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1683"">jupyter/nbconvert#1683</a></li>
+<li>Prevent page breaks in outputs when printing by <a href=""https://github.com/SylvainCorlay""><code>@​SylvainCorlay</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1679"">jupyter/nbconvert#1679</a></li>
+<li>Add collapsers to template by <a href=""https://github.com/SylvainCorlay""><code>@​SylvainCorlay</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1689"">jupyter/nbconvert#1689</a></li>
+<li>Fix recent pandoc latex tables by adding calc and array (<a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1536"">#1536</a>, <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1566"">#1566</a>) by <a href=""https://github.com/cgevans""><code>@​cgevans</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1686"">jupyter/nbconvert#1686</a></li>
+<li>Add an invalid notebook error by <a href=""https://github.com/gwincr11""><code>@​gwincr11</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1675"">jupyter/nbconvert#1675</a></li>
+<li>Fix typos in execute.py by <a href=""https://github.com/TylerAnderson22""><code>@​TylerAnderson22</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1692"">jupyter/nbconvert#1692</a></li>
+<li>Modernize latex greek math handling (partially fixes <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1673"">#1673</a>) by <a href=""https://github.com/cgevans""><code>@​cgevans</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1687"">jupyter/nbconvert#1687</a></li>
+<li>Fix use of deprecated API and update test matrix by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1696"">jupyter/nbconvert#1696</a></li>
+<li>Update nbconvert_library.ipynb by <a href=""https://github.com/letterphile""><code>@​letterphile</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1695"">jupyter/nbconvert#1695</a></li>
+<li>Changelog for 6.4 by <a href=""https://github.com/blink1073""><code>@​blink1073</code></a> in <a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/pull/1697"">jupyter/nbconvert#1697</a></li>
+</ul>
+<h2>New Contributors</h2>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/7471b75a506b2fec776613e50e4f2234b97f3c8e""><code>7471b75</code></a> Release 6.5.1</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/c1943e0e9fd0ad6abd7d8dae380474cca4b04a31""><code>c1943e0</code></a> Fix pre-commit</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/8685e9378086e8d82a0df92505fe386095f929ad""><code>8685e93</code></a> Fix tests</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/0abf2906bc6c7170c8d70bc0df6995d21c5aeaf1""><code>0abf290</code></a> Run black and prettier</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/418d545ae596d95f5ea82d141c68fd1abc99f1a6""><code>418d545</code></a> Run test on 6.x branch</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/bef65d7ab2a469b01e4aa25f44c0f20326f7c7c5""><code>bef65d7</code></a> Convert input to string prior to escape HTML</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/0818628718c4a5d3ddd671fbd4881bf176e7d6e2""><code>0818628</code></a> Check input type before escaping</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/b206470f9ecd71b006a37dd1298dd3d9e3dd46dd""><code>b206470</code></a> GHSL-2021-1017, GHSL-2021-1020, GHSL-2021-1021</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/a03cbb8a8d04d47aefec51e7b1b816045682aed5""><code>a03cbb8</code></a> GHSL-2021-1026, GHSL-2021-1025</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/48fe71eb3335caf4e03166e56e0d16efcfbeaf44""><code>48fe71e</code></a> GHSL-2021-1024</li>
+<li>Additional commits viewable in <a href=""https://github.com/jupyter/nbconvert/compare/5.6.1...6.5.1"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=nbconvert&package-manager=pip&previous-version=5.6.1&new-version=6.5.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","open",,,"dependencies","","","172, , , 173","false"
+172,"build(deps): bump nbconvert from 5.6.1 to 6.3.0 in /311-data/mapillarywrapper","Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 5.6.1 to 6.3.0.
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/cefe0bfe303e5e9e194c393cb9280c64a77b8219""><code>cefe0bf</code></a> Release 6.3.0</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/a534fb901ff83e0b0c0c082ff47f3de01dc651b1""><code>a534fb9</code></a> Release 6.3.0b0</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/87920c5a47c8ae99600be6c9b9b909ba440adce9""><code>87920c5</code></a> Add changelog for 6.3.0 (<a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1669"">#1669</a>)</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/dd6d9c7d36d0a09db647a8fc993f7330388a1e48""><code>dd6d9c7</code></a> add slide numbering (<a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1654"">#1654</a>)</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/5d2c5e2b79534c11678b73e707feb74d7827a557""><code>5d2c5e2</code></a> Update state filter (<a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1664"">#1664</a>)</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/11ea5931f71fdaaaad8958f634132f45476bf006""><code>11ea593</code></a> fix: avoid closing the script tag early by escaping a forward slash (<a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1665"">#1665</a>)</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/968c5fbabaf99f83d64720a1a6e90969052e978c""><code>968c5fb</code></a> Fix HTML templates mentioned in help docs (<a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1653"">#1653</a>)</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/35c4d07eb7060b505412c0ad83886176fe8409fe""><code>35c4d07</code></a> Add a new output filter that excludes widgets if there is no state (<a href=""https://github-redirect.dependabot.com/jupyter/nbconvert/issues/1643"">#1643</a>)</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/c663c75339709c0e1c051d684dba0cf10fa9083e""><code>c663c75</code></a> 6.2.0</li>
+<li><a href=""https://github.com/jupyter/nbconvert/commit/fd1dd15b63bfd898c21c90b78165c4c00c448896""><code>fd1dd15</code></a> 6.2.0rc2</li>
+<li>Additional commits viewable in <a href=""https://github.com/jupyter/nbconvert/compare/5.6.1...6.3.0"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=nbconvert&package-manager=pip&previous-version=5.6.1&new-version=6.3.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","closed",,,"dependencies","","",", , 172","false"
+171,"build(deps): bump mistune from 0.8.4 to 2.0.3 in /311-data/mapillarywrapper","Bumps [mistune](https://github.com/lepture/mistune) from 0.8.4 to 2.0.3.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/lepture/mistune/releases"">mistune's releases</a>.</em></p>
+<blockquote>
+<h2>Version 2.0.2</h2>
+<p>Fix <code>escape_url </code> via <a href=""https://github-redirect.dependabot.com/lepture/mistune/pull/295"">lepture/mistune#295</a></p>
+<h2>Version 2.0.1</h2>
+<p>Fix XSS for image link syntax.</p>
+<h2>Version 2.0.0</h2>
+<p>First release of Mistune v2.</p>
+<h2>Version 2.0.0 RC1</h2>
+<p>In this release, we have a <strong>Security Fix</strong> for harmful links.</p>
+<h2>Version 2.0.0 Alpha 1</h2>
+<p>This is the first release of v2. An alpha version for users to have a preview of the new mistune.</p>
+</blockquote>
+</details>
+<details>
+<summary>Changelog</summary>
+<p><em>Sourced from <a href=""https://github.com/lepture/mistune/blob/master/docs/changes.rst"">mistune's changelog</a>.</em></p>
+<blockquote>
+<h2>Changelog</h2>
+<p>Here is the full history of mistune v2.</p>
+<p>Version 2.0.4</p>
+<pre><code>
+Released on Jul 15, 2022
+<ul>
+<li>Fix <code>url</code> plugin in <code>&amp;lt;a&amp;gt;</code> tag</li>
+<li>Fix <code>*</code> formatting</li>
+</ul>
+<p>Version 2.0.3
+</code></pre></p>
+<p>Released on Jun 27, 2022</p>
+<ul>
+<li>Fix <code>table</code> plugin</li>
+<li>Security fix for CVE-2022-34749</li>
+</ul>
+<p>Version 2.0.2</p>
+<pre><code>
+Released on Jan 14, 2022
+<p>Fix <code>escape_url</code></p>
+<p>Version 2.0.1
+</code></pre></p>
+<p>Released on Dec 30, 2021</p>
+<p>XSS fix for image link syntax.</p>
+<p>Version 2.0.0</p>
+<pre><code>
+Released on Dec 5, 2021
+<p>This is the first non-alpha release of mistune v2.</p>
+<p>Version 2.0.0rc1
+</code></pre></p>
+<p>Released on Feb 16, 2021</p>
+<p>Version 2.0.0a6</p>
+<pre><code>
+&lt;/tr&gt;&lt;/table&gt; 
+</code></pre>
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/lepture/mistune/commit/3f422f1e84edae0f39756c45be453ecde534b755""><code>3f422f1</code></a> Version bump 2.0.3</li>
+<li><a href=""https://github.com/lepture/mistune/commit/a6d43215132fe4f3d93f8d7e90ba83b16a0838b2""><code>a6d4321</code></a> Fix asteris emphasis regex CVE-2022-34749</li>
+<li><a href=""https://github.com/lepture/mistune/commit/5638e460459cb59ceb20e4ce4716c802d4d73c53""><code>5638e46</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/lepture/mistune/issues/307"">#307</a> from jieter/patch-1</li>
+<li><a href=""https://github.com/lepture/mistune/commit/0eba47196a81453bafe1f2492748a87475063dff""><code>0eba471</code></a> Fix typo in guide.rst</li>
+<li><a href=""https://github.com/lepture/mistune/commit/61e9337884e20f9f8fdc0b7788d319afdd259729""><code>61e9337</code></a> Fix table plugin</li>
+<li><a href=""https://github.com/lepture/mistune/commit/76dec68c4514c2612ef9263b49c6ec7f4d77bd14""><code>76dec68</code></a> Add documentation for renderer heading when TOC enabled</li>
+<li><a href=""https://github.com/lepture/mistune/commit/799cd118cc5e664b72e98410ce1b68645f1a38c0""><code>799cd11</code></a> Version bump 2.0.2</li>
+<li><a href=""https://github.com/lepture/mistune/commit/babb0cfa57a983ead615286a2b7c8f6885c46721""><code>babb0cf</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/lepture/mistune/issues/295"">#295</a> from dairiki/bug.escape_url</li>
+<li><a href=""https://github.com/lepture/mistune/commit/fc2cd53d7698e432ab5b250ffac53458263a49e2""><code>fc2cd53</code></a> Make mistune.util.escape_url less aggressive</li>
+<li><a href=""https://github.com/lepture/mistune/commit/3e8d35215120ac82176f300dd5e20c0bea5464ea""><code>3e8d352</code></a> Version bump 2.0.1</li>
+<li>Additional commits viewable in <a href=""https://github.com/lepture/mistune/compare/v0.8.4...v2.0.3"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=mistune&package-manager=pip&previous-version=0.8.4&new-version=2.0.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","open",,,"dependencies","","",", , 171","false"
+168,"Updating label analysis jupyter notebook with co-occurrence analysis",,"rbianchetti","open",,,"","","",", , 168","false"
+167,"Merge pull request #164 from hackforla/160-survey-repo-labels","A python script that gets all the labels used in open issues across a…","codemamma","open",,,"","","",", , 167","false"
+166,"build(deps): bump numpy from 1.21.2 to 1.22.0 in /LAANE","Bumps [numpy](https://github.com/numpy/numpy) from 1.21.2 to 1.22.0.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/numpy/numpy/releases"">numpy's releases</a>.</em></p>
+<blockquote>
+<h2>v1.22.0</h2>
+<h1>NumPy 1.22.0 Release Notes</h1>
+<p>NumPy 1.22.0 is a big release featuring the work of 153 contributors
+spread over 609 pull requests. There have been many improvements,
+highlights are:</p>
+<ul>
+<li>Annotations of the main namespace are essentially complete. Upstream
+is a moving target, so there will likely be further improvements,
+but the major work is done. This is probably the most user visible
+enhancement in this release.</li>
+<li>A preliminary version of the proposed Array-API is provided. This is
+a step in creating a standard collection of functions that can be
+used across application such as CuPy and JAX.</li>
+<li>NumPy now has a DLPack backend. DLPack provides a common interchange
+format for array (tensor) data.</li>
+<li>New methods for <code>quantile</code>, <code>percentile</code>, and related functions. The
+new methods provide a complete set of the methods commonly found in
+the literature.</li>
+<li>A new configurable allocator for use by downstream projects.</li>
+</ul>
+<p>These are in addition to the ongoing work to provide SIMD support for
+commonly used functions, improvements to F2PY, and better documentation.</p>
+<p>The Python versions supported in this release are 3.8-3.10, Python 3.7
+has been dropped. Note that 32 bit wheels are only provided for Python
+3.8 and 3.9 on Windows, all other wheels are 64 bits on account of
+Ubuntu, Fedora, and other Linux distributions dropping 32 bit support.
+All 64 bit wheels are also linked with 64 bit integer OpenBLAS, which should fix
+the occasional problems encountered by folks using truly huge arrays.</p>
+<h2>Expired deprecations</h2>
+<h3>Deprecated numeric style dtype strings have been removed</h3>
+<p>Using the strings <code>&quot;Bytes0&quot;</code>, <code>&quot;Datetime64&quot;</code>, <code>&quot;Str0&quot;</code>, <code>&quot;Uint32&quot;</code>,
+and <code>&quot;Uint64&quot;</code> as a dtype will now raise a <code>TypeError</code>.</p>
+<p>(<a href=""https://github-redirect.dependabot.com/numpy/numpy/pull/19539"">gh-19539</a>)</p>
+<h3>Expired deprecations for <code>loads</code>, <code>ndfromtxt</code>, and <code>mafromtxt</code> in npyio</h3>
+<p><code>numpy.loads</code> was deprecated in v1.15, with the recommendation that
+users use <code>pickle.loads</code> instead. <code>ndfromtxt</code> and <code>mafromtxt</code> were both
+deprecated in v1.17 - users should use <code>numpy.genfromtxt</code> instead with
+the appropriate value for the <code>usemask</code> parameter.</p>
+<p>(<a href=""https://github-redirect.dependabot.com/numpy/numpy/pull/19615"">gh-19615</a>)</p>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/numpy/numpy/commit/4adc87dff15a247e417d50f10cc4def8e1c17a03""><code>4adc87d</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/20685"">#20685</a> from charris/prepare-for-1.22.0-release</li>
+<li><a href=""https://github.com/numpy/numpy/commit/fd66547557f57c430d41be2fc0764f74a62e8ccf""><code>fd66547</code></a> REL: Prepare for the NumPy 1.22.0 release.</li>
+<li><a href=""https://github.com/numpy/numpy/commit/125304b035effcd82e366e601b102e7347eaa9ba""><code>125304b</code></a> wip</li>
+<li><a href=""https://github.com/numpy/numpy/commit/c283859128b1a4b57014581570a23ed7950a24ea""><code>c283859</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/20682"">#20682</a> from charris/backport-20416</li>
+<li><a href=""https://github.com/numpy/numpy/commit/5399c03d4a069fe81a1616be0184c9749d7271ee""><code>5399c03</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/20681"">#20681</a> from charris/backport-20954</li>
+<li><a href=""https://github.com/numpy/numpy/commit/f9c45f8ebf31340b1a5a0371bfca25afcfc4794e""><code>f9c45f8</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/20680"">#20680</a> from charris/backport-20663</li>
+<li><a href=""https://github.com/numpy/numpy/commit/794b36f7e1bf2a8c42774ab0db86a74bd32f674b""><code>794b36f</code></a> Update armccompiler.py</li>
+<li><a href=""https://github.com/numpy/numpy/commit/d93b14e3d7abaa1d837825e51671f817788e120f""><code>d93b14e</code></a> Update test_public_api.py</li>
+<li><a href=""https://github.com/numpy/numpy/commit/7662c0789cc6a70d5ad4d950ee2e95f3afef7df6""><code>7662c07</code></a> Update <strong>init</strong>.py</li>
+<li><a href=""https://github.com/numpy/numpy/commit/311ab52488a7d096ac3bc4c2de0fdae17ecd13ef""><code>311ab52</code></a> Update armccompiler.py</li>
+<li>Additional commits viewable in <a href=""https://github.com/numpy/numpy/compare/v1.21.2...v1.22.0"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=numpy&package-manager=pip&previous-version=1.21.2&new-version=1.22.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","open",,,"dependencies","","",", , 166","false"
+165,"build(deps): bump numpy from 1.18.5 to 1.22.0 in /311-data/mapillarywrapper","Bumps [numpy](https://github.com/numpy/numpy) from 1.18.5 to 1.22.0.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/numpy/numpy/releases"">numpy's releases</a>.</em></p>
+<blockquote>
+<h2>v1.22.0</h2>
+<h1>NumPy 1.22.0 Release Notes</h1>
+<p>NumPy 1.22.0 is a big release featuring the work of 153 contributors
+spread over 609 pull requests. There have been many improvements,
+highlights are:</p>
+<ul>
+<li>Annotations of the main namespace are essentially complete. Upstream
+is a moving target, so there will likely be further improvements,
+but the major work is done. This is probably the most user visible
+enhancement in this release.</li>
+<li>A preliminary version of the proposed Array-API is provided. This is
+a step in creating a standard collection of functions that can be
+used across application such as CuPy and JAX.</li>
+<li>NumPy now has a DLPack backend. DLPack provides a common interchange
+format for array (tensor) data.</li>
+<li>New methods for <code>quantile</code>, <code>percentile</code>, and related functions. The
+new methods provide a complete set of the methods commonly found in
+the literature.</li>
+<li>A new configurable allocator for use by downstream projects.</li>
+</ul>
+<p>These are in addition to the ongoing work to provide SIMD support for
+commonly used functions, improvements to F2PY, and better documentation.</p>
+<p>The Python versions supported in this release are 3.8-3.10, Python 3.7
+has been dropped. Note that 32 bit wheels are only provided for Python
+3.8 and 3.9 on Windows, all other wheels are 64 bits on account of
+Ubuntu, Fedora, and other Linux distributions dropping 32 bit support.
+All 64 bit wheels are also linked with 64 bit integer OpenBLAS, which should fix
+the occasional problems encountered by folks using truly huge arrays.</p>
+<h2>Expired deprecations</h2>
+<h3>Deprecated numeric style dtype strings have been removed</h3>
+<p>Using the strings <code>&quot;Bytes0&quot;</code>, <code>&quot;Datetime64&quot;</code>, <code>&quot;Str0&quot;</code>, <code>&quot;Uint32&quot;</code>,
+and <code>&quot;Uint64&quot;</code> as a dtype will now raise a <code>TypeError</code>.</p>
+<p>(<a href=""https://github-redirect.dependabot.com/numpy/numpy/pull/19539"">gh-19539</a>)</p>
+<h3>Expired deprecations for <code>loads</code>, <code>ndfromtxt</code>, and <code>mafromtxt</code> in npyio</h3>
+<p><code>numpy.loads</code> was deprecated in v1.15, with the recommendation that
+users use <code>pickle.loads</code> instead. <code>ndfromtxt</code> and <code>mafromtxt</code> were both
+deprecated in v1.17 - users should use <code>numpy.genfromtxt</code> instead with
+the appropriate value for the <code>usemask</code> parameter.</p>
+<p>(<a href=""https://github-redirect.dependabot.com/numpy/numpy/pull/19615"">gh-19615</a>)</p>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/numpy/numpy/commit/4adc87dff15a247e417d50f10cc4def8e1c17a03""><code>4adc87d</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/20685"">#20685</a> from charris/prepare-for-1.22.0-release</li>
+<li><a href=""https://github.com/numpy/numpy/commit/fd66547557f57c430d41be2fc0764f74a62e8ccf""><code>fd66547</code></a> REL: Prepare for the NumPy 1.22.0 release.</li>
+<li><a href=""https://github.com/numpy/numpy/commit/125304b035effcd82e366e601b102e7347eaa9ba""><code>125304b</code></a> wip</li>
+<li><a href=""https://github.com/numpy/numpy/commit/c283859128b1a4b57014581570a23ed7950a24ea""><code>c283859</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/20682"">#20682</a> from charris/backport-20416</li>
+<li><a href=""https://github.com/numpy/numpy/commit/5399c03d4a069fe81a1616be0184c9749d7271ee""><code>5399c03</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/20681"">#20681</a> from charris/backport-20954</li>
+<li><a href=""https://github.com/numpy/numpy/commit/f9c45f8ebf31340b1a5a0371bfca25afcfc4794e""><code>f9c45f8</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/20680"">#20680</a> from charris/backport-20663</li>
+<li><a href=""https://github.com/numpy/numpy/commit/794b36f7e1bf2a8c42774ab0db86a74bd32f674b""><code>794b36f</code></a> Update armccompiler.py</li>
+<li><a href=""https://github.com/numpy/numpy/commit/d93b14e3d7abaa1d837825e51671f817788e120f""><code>d93b14e</code></a> Update test_public_api.py</li>
+<li><a href=""https://github.com/numpy/numpy/commit/7662c0789cc6a70d5ad4d950ee2e95f3afef7df6""><code>7662c07</code></a> Update <strong>init</strong>.py</li>
+<li><a href=""https://github.com/numpy/numpy/commit/311ab52488a7d096ac3bc4c2de0fdae17ecd13ef""><code>311ab52</code></a> Update armccompiler.py</li>
+<li>Additional commits viewable in <a href=""https://github.com/numpy/numpy/compare/v1.18.5...v1.22.0"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=numpy&package-manager=pip&previous-version=1.18.5&new-version=1.22.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","open",,,"dependencies","","","142, , , 165","false"
+164,"A python script that gets all the labels used in open issues across a…","…n organization(s) via GitHub API","rbianchetti","closed",,,"","","","26, , , 164","false"
+159,"Linking latest pedestrian safety report presentation","This replaces a previous powerpoint presentation stored in the repo with links to the current report and presentation saved in Hack for LA's shared google drive.","henrykaplan","open",,,"","","akhaleghi",", , 159","false"
+158,"Data Science logo links and image files","The latest version of the Hack for LA data science logo is being worked on in Google Drive. I've updated the directory in the git repo with links to the latest and with png and svg versions of the latest logo files.","henrykaplan","closed",,,"","","akhaleghi","140, , , 158","false"
+142,"build(deps): bump numpy from 1.18.5 to 1.21.0 in /311-data/mapillarywrapper","Bumps [numpy](https://github.com/numpy/numpy) from 1.18.5 to 1.21.0.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/numpy/numpy/releases"">numpy's releases</a>.</em></p>
+<blockquote>
+<h2>v1.21.0</h2>
+<h1>NumPy 1.21.0 Release Notes</h1>
+<p>The NumPy 1.21.0 release highlights are</p>
+<ul>
+<li>continued SIMD work covering more functions and platforms,</li>
+<li>initial work on the new dtype infrastructure and casting,</li>
+<li>universal2 wheels for Python 3.8 and Python 3.9 on Mac,</li>
+<li>improved documentation,</li>
+<li>improved annotations,</li>
+<li>new <code>PCG64DXSM</code> bitgenerator for random numbers.</li>
+</ul>
+<p>In addition there are the usual large number of bug fixes and other
+improvements.</p>
+<p>The Python versions supported for this release are 3.7-3.9. Official
+support for Python 3.10 will be added when it is released.</p>
+<p>:warning:  Warning: there are unresolved problems compiling NumPy 1.21.0 with gcc-11.1 .</p>
+<ul>
+<li>Optimization level <code>-O3</code> results in many wrong warnings when running the tests.</li>
+<li>On some hardware NumPy will hang in an infinite loop.</li>
+</ul>
+<h2>New functions</h2>
+<h3>Add PCG64DXSM BitGenerator</h3>
+<p>Uses of the PCG64 BitGenerator in a massively-parallel context have
+been shown to have statistical weaknesses that were not apparent at the
+first release in numpy 1.17. Most users will never observe this weakness
+and are safe to continue to use PCG64. We have introduced a new
+PCG64DXSM BitGenerator that will eventually become the new default
+BitGenerator implementation used by <code>default_rng</code> in future releases.
+PCG64DXSM solves the statistical weakness while preserving the
+performance and the features of PCG64.</p>
+<p>See <code>upgrading-pcg64</code> for more details.</p>
+<p>(<a href=""https://github-redirect.dependabot.com/numpy/numpy/pull/18906"">gh-18906</a>)</p>
+<h2>Expired deprecations</h2>
+<ul>
+<li>The <code>shape</code> argument <code>numpy.unravel_index</code> cannot be
+passed as <code>dims</code> keyword argument anymore. (Was deprecated in NumPy
+1.16.)</li>
+</ul>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/numpy/numpy/commit/b235f9e701e14ed6f6f6dcba885f7986a833743f""><code>b235f9e</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/19283"">#19283</a> from charris/prepare-1.21.0-release</li>
+<li><a href=""https://github.com/numpy/numpy/commit/34aebc2824cf8c2bdbe19040b82f98f18557c8ba""><code>34aebc2</code></a> MAINT: Update 1.21.0-notes.rst</li>
+<li><a href=""https://github.com/numpy/numpy/commit/493b64bfe9c5396498325b87e5e80e1917555c41""><code>493b64b</code></a> MAINT: Update 1.21.0-changelog.rst</li>
+<li><a href=""https://github.com/numpy/numpy/commit/07d7e72ab6880c05b5fdd98482cf88982e778393""><code>07d7e72</code></a> MAINT: Remove accidentally created directory.</li>
+<li><a href=""https://github.com/numpy/numpy/commit/032fca5e2e9749b152ec56153f476e05efdff287""><code>032fca5</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/19280"">#19280</a> from charris/backport-19277</li>
+<li><a href=""https://github.com/numpy/numpy/commit/7d25b81025a50cc0368f5727c65e875ca769469a""><code>7d25b81</code></a> BUG: Fix refcount leak in ResultType</li>
+<li><a href=""https://github.com/numpy/numpy/commit/fa5754e8c159a37fcd9345df261cf82821088ea0""><code>fa5754e</code></a> BUG: Add missing DECREF in new path</li>
+<li><a href=""https://github.com/numpy/numpy/commit/61127bb4d46d523b699da1b63abaa5035670da27""><code>61127bb</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/19268"">#19268</a> from charris/backport-19264</li>
+<li><a href=""https://github.com/numpy/numpy/commit/143d45fff3ed9e051bdeef7bdb4df38025ea7d1c""><code>143d45f</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/numpy/numpy/issues/19269"">#19269</a> from charris/backport-19228</li>
+<li><a href=""https://github.com/numpy/numpy/commit/d80e4738f781a1d206bbc04a2e863299e5f2e104""><code>d80e473</code></a> BUG: Removed typing for == and != in dtypes</li>
+<li>Additional commits viewable in <a href=""https://github.com/numpy/numpy/compare/v1.18.5...v1.21.0"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=numpy&package-manager=pip&previous-version=1.18.5&new-version=1.21.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","closed",,,"dependencies","","",", , 142","false"
+139,"Removed spaces from all filenames in pedestrian data directory","Changed filenames of all output files and graphics. No changes to file contents — these are final graphics and reports, and aren't aren't referenced by file path anywhere.","henrykaplan","closed",,,"","","",", , 139","false"
+132,"Pedestrian safety","Added readme documentation for downloading and organizing data, running Jupyter notebooks, and reorganized analysis files.","henrykaplan","closed",,,"","","",", , 132","false"
+123,"Create a new issue template for epics",,"akhaleghi","closed",,,"","","","120, , , 123","false"
+122,"Pedestrian safety draft visualizations and presentation","Further simplified and clarified maps and traffic accident charts, added these new charts and related discussion to the presentation file.","henrykaplan","closed",,,"","","AlbertUlysses",", , 122","false"
+117,"Pedestrian safety","- Add optional parameter to mapillary wrapper client to allow data requests of recent data only, to quickly update existing datasets.
+- Better maps and visualizations.
+- Use DBScan clustering algorithm to find clusters of traffic accidents (simplest way to roughly group accidents at specific intersections, as the accident data is mostly based around intersections).
+- Updated report ppt for August 5 presentation to data science group","henrykaplan","closed",,,"","","",", , 117","false"
+116,"webscraping folder initial commit","[Edited]
+
+This PR is a stand alone folder added to the 311-data folder. It contains a webscraping script for the tech stacks of each NC survey. See issue [44](https://github.com/hackforla/data-science/issues/44). The readme contains a link to the google sheets table of the tech used for each website.","rajindermavi","closed",,,"","","",", , 116","false"
+115,"docs","updated readme to include sample queries that LAANE is interested in doing against the database","AlbertUlysses","closed",,,"","","",", , 115","false"
+114,"docs","Update README/todos","AlbertUlysses","closed",,,"","","",", , 114","false"
+113,"docs","Updated misc docs","AlbertUlysses","closed",,,"","","",", , 113","false"
+112,"build(deps): bump urllib3 from 1.24.3 to 1.26.5 in /LAANE","Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.24.3 to 1.26.5.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/urllib3/urllib3/releases"">urllib3's releases</a>.</em></p>
+<blockquote>
+<h2>1.26.5</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>Fixed deprecation warnings emitted in Python 3.10.</li>
+<li>Updated vendored <code>six</code> library to 1.16.0.</li>
+<li>Improved performance of URL parser when splitting the authority component.</li>
+</ul>
+<p><strong>If you or your organization rely on urllib3 consider supporting us via <a href=""https://github.com/sponsors/urllib3"">GitHub Sponsors</a></strong></p>
+<h2>1.26.4</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>Changed behavior of the default <code>SSLContext</code> when connecting to HTTPS proxy during HTTPS requests. The default <code>SSLContext</code> now sets <code>check_hostname=True</code>.</li>
+</ul>
+<p><strong>If you or your organization rely on urllib3 consider supporting us via <a href=""https://github.com/sponsors/urllib3"">GitHub Sponsors</a></strong></p>
+<h2>1.26.3</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>
+<p>Fixed bytes and string comparison issue with headers (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2141"">#2141</a>)</p>
+</li>
+<li>
+<p>Changed <code>ProxySchemeUnknown</code> error message to be more actionable if the user supplies a proxy URL without a scheme (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2107"">#2107</a>)</p>
+</li>
+</ul>
+<p><strong>If you or your organization rely on urllib3 consider supporting us via <a href=""https://github.com/sponsors/urllib3"">GitHub Sponsors</a></strong></p>
+<h2>1.26.2</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>Fixed an issue where <code>wrap_socket</code> and <code>CERT_REQUIRED</code> wouldn't be imported properly on Python 2.7.8 and earlier (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2052"">#2052</a>)</li>
+</ul>
+<h2>1.26.1</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>Fixed an issue where two <code>User-Agent</code> headers would be sent if a <code>User-Agent</code> header key is passed as <code>bytes</code> (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2047"">#2047</a>)</li>
+</ul>
+<h2>1.26.0</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>
+<p>Added support for HTTPS proxies contacting HTTPS servers (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/1923"">#1923</a>, Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/1806"">#1806</a>)</p>
+</li>
+<li>
+<p>Deprecated negotiating TLSv1 and TLSv1.1 by default. Users that
+still wish to use TLS earlier than 1.2 without a deprecation warning
+should opt-in explicitly by setting <code>ssl_version=ssl.PROTOCOL_TLSv1_1</code> (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2002"">#2002</a>)
+<strong>Starting in urllib3 v2.0: Connections that receive a <code>DeprecationWarning</code> will fail</strong></p>
+</li>
+<li>
+<p>Deprecated <code>Retry</code> options <code>Retry.DEFAULT_METHOD_WHITELIST</code>, <code>Retry.DEFAULT_REDIRECT_HEADERS_BLACKLIST</code>
+and <code>Retry(method_whitelist=...)</code> in favor of <code>Retry.DEFAULT_ALLOWED_METHODS</code>,
+<code>Retry.DEFAULT_REMOVE_HEADERS_ON_REDIRECT</code>, and <code>Retry(allowed_methods=...)</code>
+(Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2000"">#2000</a>) <strong>Starting in urllib3 v2.0: Deprecated options will be removed</strong></p>
+</li>
+</ul>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Changelog</summary>
+<p><em>Sourced from <a href=""https://github.com/urllib3/urllib3/blob/main/CHANGES.rst"">urllib3's changelog</a>.</em></p>
+<blockquote>
+<h1>1.26.5 (2021-05-26)</h1>
+<ul>
+<li>Fixed deprecation warnings emitted in Python 3.10.</li>
+<li>Updated vendored <code>six</code> library to 1.16.0.</li>
+<li>Improved performance of URL parser when splitting
+the authority component.</li>
+</ul>
+<h1>1.26.4 (2021-03-15)</h1>
+<ul>
+<li>Changed behavior of the default <code>SSLContext</code> when connecting to HTTPS proxy
+during HTTPS requests. The default <code>SSLContext</code> now sets <code>check_hostname=True</code>.</li>
+</ul>
+<h1>1.26.3 (2021-01-26)</h1>
+<ul>
+<li>
+<p>Fixed bytes and string comparison issue with headers (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2141"">#2141</a>)</p>
+</li>
+<li>
+<p>Changed <code>ProxySchemeUnknown</code> error message to be
+more actionable if the user supplies a proxy URL without
+a scheme. (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2107"">#2107</a>)</p>
+</li>
+</ul>
+<h1>1.26.2 (2020-11-12)</h1>
+<ul>
+<li>Fixed an issue where <code>wrap_socket</code> and <code>CERT_REQUIRED</code> wouldn't
+be imported properly on Python 2.7.8 and earlier (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2052"">#2052</a>)</li>
+</ul>
+<h1>1.26.1 (2020-11-11)</h1>
+<ul>
+<li>Fixed an issue where two <code>User-Agent</code> headers would be sent if a
+<code>User-Agent</code> header key is passed as <code>bytes</code> (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2047"">#2047</a>)</li>
+</ul>
+<h1>1.26.0 (2020-11-10)</h1>
+<ul>
+<li>
+<p><strong>NOTE: urllib3 v2.0 will drop support for Python 2</strong>.
+<code>Read more in the v2.0 Roadmap &lt;https://urllib3.readthedocs.io/en/latest/v2-roadmap.html&gt;</code>_.</p>
+</li>
+<li>
+<p>Added support for HTTPS proxies contacting HTTPS servers (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/1923"">#1923</a>, Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/1806"">#1806</a>)</p>
+</li>
+<li>
+<p>Deprecated negotiating TLSv1 and TLSv1.1 by default. Users that
+still wish to use TLS earlier than 1.2 without a deprecation warning</p>
+</li>
+</ul>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/urllib3/urllib3/commit/d1616473df94b94f0f5ad19d2a6608cfe93b7cdf""><code>d161647</code></a> Release 1.26.5</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/2d4a3fee6de2fa45eb82169361918f759269b4ec""><code>2d4a3fe</code></a> Improve performance of sub-authority splitting in URL</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/2698537d52f8ff1f0bbb1d45cf018b118e91f637""><code>2698537</code></a> Update vendored six to 1.16.0</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/07bed791e9c391d8bf12950f76537dc3c6f90550""><code>07bed79</code></a> Fix deprecation warnings for Python 3.10 ssl module</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/d725a9b56bb8baf87c9e6eee0e9edf010034b63b""><code>d725a9b</code></a> Add Python 3.10 to GitHub Actions</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/339ad34c677c98fd9ad008de1d8bbeb9dbf34381""><code>339ad34</code></a> Use pytest==6.2.4 on Python 3.10+</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/f271c9c3149e20d7feffb6429b135bbb6c09ddf4""><code>f271c9c</code></a> Apply latest Black formatting</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/1884878aac87ef0494b282e940c32c24ee917d52""><code>1884878</code></a> [1.26] Properly proxy EOF on the SSLTransport test suite</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/a8913042b676c510e94fc2b097f6b514ae11a537""><code>a891304</code></a> Release 1.26.4</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/8d65ea1ecf6e2cdc27d42124e587c1b83a3118b0""><code>8d65ea1</code></a> Merge pull request from GHSA-5phf-pp7p-vc2r</li>
+<li>Additional commits viewable in <a href=""https://github.com/urllib3/urllib3/compare/1.24.3...1.26.5"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=urllib3&package-manager=pip&previous-version=1.24.3&new-version=1.26.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","closed",,,"dependencies","","",", , 112","false"
+111,"Docs!","Updated docs like readme and add extra notes to some other files","AlbertUlysses","closed",,,"","","",", , 111","false"
+105,"debug","debugged some code that was entering incorrect addresses","AlbertUlysses","closed",,,"","","",", , 105","false"
+104,"docs/clean up","updated README and removed some old files.","AlbertUlysses","closed",,,"","","",", , 104","false"
+103,"feat: assessor script","Last script, passes tests refactored a bit","AlbertUlysses","closed",,,"","","",", , 103","false"
+102,"docs","Update Readme
+removed a lot of personal notes aimed for me during script writing","AlbertUlysses","closed",,,"","","",", , 102","false"
+101,"debug categorically inelligible","debug categorically inelligibl data","AlbertUlysses","closed",,,"","","",", , 101","false"
+100,"New scripts + debug","added some code that debugs the ofs and luxly datasets.
+Added a new script that handles warnings and citations.","AlbertUlysses","closed",,,"","","",", , 100","false"
+99,"bugfix","fixed bugs across 4 files that dealth with addresses that returned 0 for zipcode instead of a 5 number digit","AlbertUlysses","closed",,,"","","",", , 99","false"
+98,"feat: new script for warning","This script is for warning files that don't have only addresses and dates.","AlbertUlysses","closed",,,"","","",", , 98","false"
+97,"Two commits","First commit fixes the warning script file.
+The second commit adds an extra line describe what the script is for.
+","AlbertUlysses","closed",,,"","","",", , 97","false"
+96,"feat: new processesing script","script for airbnb reviews is complete.","AlbertUlysses","closed",,,"","","",", , 96","false"
+95,"feat: airbnb dataset script","airbnb script that uploads listings and host information ","AlbertUlysses","closed",,,"","","",", , 95","false"
+93,"debug one fine stay scripts","debug one fine stay scripts for address2 errors","AlbertUlysses","closed",,,"","","",", , 93","false"
+92,"debug","debugged the data from one fine stay.","AlbertUlysses","closed",,,"","","",", , 92","false"
+91,"debug","Did some debugging for luxly platform script","AlbertUlysses","closed",,,"","","",", , 91","false"
+90,"fixbug in hsodenials","hsodenials bugs are remved, hsodenials script is good to go.","AlbertUlysses","closed",,,"","","",", , 90","false"
+89,"debug","Debugged the hso_registrant enteries.","AlbertUlysses","closed",,,"","","",", , 89","false"
+88,"bugfix: fixed exempt script","fixed exempt table to match the rest of the database","AlbertUlysses","closed",,,"","","",", , 88","false"
+87,"fixbug: fixed bug in categorically inelligible","fixed categoically ineligible bug","AlbertUlysses","closed",,,"","","",", , 87","false"
+86,"bug fix: fixed bug for complaints data","fixed complaints data to not have nulls and to not allow any state that don't use two letter abbreviation. ","AlbertUlysses","closed",,,"","","",", , 86","false"
+85,"refactor/debug: debugging each script","Refactored tot script to make sure it is uploading to sqlite correctly.","AlbertUlysses","closed",,,"","","",", , 85","false"
+84,"re-refactor normalize address","normalize address wrapper returns none as default again because that's how the library handle it, shouldn't return two different options.","AlbertUlysses","closed",,,"","","",", , 84","false"
+83,"refactored","refactoring some transformation files to fix bug","AlbertUlysses","closed",,,"","","",", , 83","false"
+82,"feat: hso_registrant script","HSO_Registrant script is complete. 
+","AlbertUlysses","closed",,,"","","",", , 82","false"
+81,"refactor: no code change files moved","I moved some files around to better reflect where they belong. 
+For exapmle, assessor table file will be move to processingscripts folder because the code is unique to the assessor dataset.
+However, normalize_address_wrapper will stay in the transformations folder because multiple scripts use this.
+Asssesor file (and builds) will now have the custom code and later include the processing code as well.","AlbertUlysses","closed",,,"","","",", , 81","false"
+79,"refactor: add a new file to handle multiple files","Remove old code that does multiple files for a job and include a new module that handles that.","AlbertUlysses","closed",,,"","","",", , 79","false"
+78,"feat: new script","Script that enters one fine stay data into platform table but has a different column layout then the other one fine stay sheets.","AlbertUlysses","closed",,,"","","",", , 78","false"
+77,"refactor: include steps for entire folder","Added some new code that helps with multiple fies in a folder. This should be moved into it's own module in the future.","AlbertUlysses","closed",,,"","","",", , 77","false"
+76,"refactor: move scripts to new folder","move all scripting files to processingscript folder and leave helper functions in the transformations folder.","AlbertUlysses","closed",,,"","","",", , 76","false"
+75,"feat: platform one fine stay","Adding the custom script for uploading one fine stay data into platform database.","AlbertUlysses","closed",,,"","","",", , 75","false"
+74,"refactor: refactor platform luxly","refactor the platform luxly file to make it more readable and closer allign with wemake style guide.","AlbertUlysses","closed",,,"","","",", , 74","false"
+73,"docs: update license","updated the license to reflect Hack For LA's best practices. ","AlbertUlysses","closed",,,"","","",", , 73","false"
+72,"feat: platform table luxly files","Completed script for loading luxly files into the platform database.","AlbertUlysses","closed",,,"","","",", , 72","false"
+71,"feat: add hso revoked table","The script for inserting HSO Revoked data is complete.","AlbertUlysses","closed",,,"","","",", , 71","false"
+70,"feat: exempt processing script","The processing script for the ""exempt"" dataset is done.","AlbertUlysses","closed",,,"","","",", , 70","false"
+69,"feat: noncompliant script","Add script that inserts noncompliant data into database.","AlbertUlysses","closed",,,"","","",", , 69","false"
+68,"feat: categorically inelligible","added a new script for the categorically ineligible dataset.","AlbertUlysses","closed",,,"","","",", , 68","false"
+67,"feat: add complaints script","Added a new script that inputs Complaints data into the database.
+","AlbertUlysses","closed",,,"","","",", , 67","false"
+64,"feat: tot insert file","New insert script complete. 
+","AlbertUlysses","closed",,,"","","",", , 64","false"
+63,"feat: add new abstraction function","refactored some code and created a new abstraction function for inserting data. ","AlbertUlysses","closed",,,"","","",", , 63","false"
+62,"quick fix","removed absolute path : quick fix","AlbertUlysses","closed",,,"","","",", , 62","false"
+61,"feat: hso_denials insert function","Created a new file for hso_denial table, Added test for the custom functions. Added the code to insert the hso_denials data into the db.
+1st dataset that's completely done
+Need to go back to refactor the code because it's ugly","AlbertUlysses","closed",,,"","","",", , 61","false"
+60,"build(deps): bump jupyterlab from 2.1.5 to 2.2.10 in /311-data/mapillarywrapper","Bumps [jupyterlab](https://github.com/jupyterlab/jupyterlab) from 2.1.5 to 2.2.10.
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/87fff8735fea07d63719a0909d3c70fd2f5ef7e3""><code>87fff87</code></a> New version</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/8b88bd140a01aeac383a666489782bd9321019ee""><code>8b88bd1</code></a> update canvas version to allow build</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/d5e3649f0aa326773fc65a821ec90949ba624931""><code>d5e3649</code></a> Merge pull request from GHSA-4952-p58q-6crx</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/9a8dadf59424ed2a6ff2a3c84001d46e37104d75""><code>9a8dadf</code></a> Publish 2.2.9</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/51fe0db3c6b91322d21f3a7cd8621f9abc4515e2""><code>51fe0db</code></a> bump version</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/e8e144b71c844c3311fa3ee8ebb85972b4417966""><code>e8e144b</code></a> New version</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/a67a68ebfe8514b0c1e5cf6317cdcad2a62fb0e1""><code>a67a68e</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/jupyterlab/jupyterlab/issues/9211"">#9211</a> from meeseeksmachine/auto-backport-of-pr-9189-on-2.2.x</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/1c7d14e7d151918b9fa76c4d2fb3b0e5ebb5a3e3""><code>1c7d14e</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/jupyterlab/jupyterlab/issues/9173"">#9173</a> from datalayer-contrib/2-2-x/revert-perf</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/b8c520327b8798ff09d75bd21c4b06cd334cd8a3""><code>b8c5203</code></a> Backport PR <a href=""https://github-redirect.dependabot.com/jupyterlab/jupyterlab/issues/9189"">#9189</a>: Update session and kernel manager data only if there was a...</li>
+<li><a href=""https://github.com/jupyterlab/jupyterlab/commit/bbc2959fe0fed3e26bc27587268d94e441b84309""><code>bbc2959</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/jupyterlab/jupyterlab/issues/9168"">#9168</a> from karlaspuldaro/notebook-kernel-display-2.2.x</li>
+<li>Additional commits viewable in <a href=""https://github.com/jupyterlab/jupyterlab/compare/@jupyterlab/application-top@2.1.5...@jupyterlab/application-top@2.2.10"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=jupyterlab&package-manager=pip&previous-version=2.1.5&new-version=2.2.10)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","closed",,,"dependencies","","",", , 60","false"
+58,"docs: adding COPYING file","removed some old jupyter files and added a license file which is called COPYING per GNU's suggestion.","AlbertUlysses","closed",,,"","","",", , 58","false"
+57,"Feat: add Airbnb tables","added airbnb tables and updated SQL Alchemy relationships.","AlbertUlysses","closed",,,"","","",", , 57","false"
+56,"feat: add SQL Alchemy models/Database","added SQL Alchemy Models and the Database code. ","AlbertUlysses","closed",,,"","","",", , 56","false"
+55,"docs: rewrote some docstrings etc","updated some doc strings in files to better reflect the intent.","AlbertUlysses","closed",,,"","","",", , 55","false"
+54,"feat: new code for date entries","I added new code  and tests for formatting date columns. ","AlbertUlysses","closed",,,"","","",", , 54","false"
+53,"refactor: update assessor table","Did some refactoring that addressed these issues:
+
+- Rewrote the code to match the WeMake style guide.
+- The functions are faster, and the memory is more efficient by ten times on average.
+- The functions are pure now, with no added consequence to the DataFrames or Series passed into them.
+All tests are still passing.","AlbertUlysses","closed",,,"","","",", , 53","false"
+52,"docs: re-wrote some of the normalize_address information","Docs improvement for normailze_address","AlbertUlysses","closed",,,"","","",", , 52","false"
+51,"refactored transformation scripts","refactored a lot and added extra notes in read me ","AlbertUlysses","closed",,,"","","",", , 51","false"
+50,"tot update/completion","ToT table is done. Refactored it a bit - still passing test
+","AlbertUlysses","closed",,,"","","",", , 50","false"
+49,"work on tot table","WIP - started work on TOT table and tests I will finish in tomorrow and start on a new table.","AlbertUlysses","closed",,,"","","",", , 49","false"
+48,"Add expemtion table transformations","I added the transformation functions for exempt table with their tests, renamed the main folder.","AlbertUlysses","closed",,,"","","",", , 48","false"
+47,"updating folder layout and adding transformation scripts with tests","introduces the first of a few scripts to the project along with some tests. Needs refactoring but all tests are passing.
+
+","AlbertUlysses","closed",,,"","","",", , 47","false"
+43,"build(deps): bump urllib3 from 1.24.3 to 1.26.5 in /311-data/mapillarywrapper","Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.24.3 to 1.26.5.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/urllib3/urllib3/releases"">urllib3's releases</a>.</em></p>
+<blockquote>
+<h2>1.26.5</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>Fixed deprecation warnings emitted in Python 3.10.</li>
+<li>Updated vendored <code>six</code> library to 1.16.0.</li>
+<li>Improved performance of URL parser when splitting the authority component.</li>
+</ul>
+<p><strong>If you or your organization rely on urllib3 consider supporting us via <a href=""https://github.com/sponsors/urllib3"">GitHub Sponsors</a></strong></p>
+<h2>1.26.4</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>Changed behavior of the default <code>SSLContext</code> when connecting to HTTPS proxy during HTTPS requests. The default <code>SSLContext</code> now sets <code>check_hostname=True</code>.</li>
+</ul>
+<p><strong>If you or your organization rely on urllib3 consider supporting us via <a href=""https://github.com/sponsors/urllib3"">GitHub Sponsors</a></strong></p>
+<h2>1.26.3</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>
+<p>Fixed bytes and string comparison issue with headers (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2141"">#2141</a>)</p>
+</li>
+<li>
+<p>Changed <code>ProxySchemeUnknown</code> error message to be more actionable if the user supplies a proxy URL without a scheme (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2107"">#2107</a>)</p>
+</li>
+</ul>
+<p><strong>If you or your organization rely on urllib3 consider supporting us via <a href=""https://github.com/sponsors/urllib3"">GitHub Sponsors</a></strong></p>
+<h2>1.26.2</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>Fixed an issue where <code>wrap_socket</code> and <code>CERT_REQUIRED</code> wouldn't be imported properly on Python 2.7.8 and earlier (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2052"">#2052</a>)</li>
+</ul>
+<h2>1.26.1</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>Fixed an issue where two <code>User-Agent</code> headers would be sent if a <code>User-Agent</code> header key is passed as <code>bytes</code> (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2047"">#2047</a>)</li>
+</ul>
+<h2>1.26.0</h2>
+<p>:warning: <strong>IMPORTANT: urllib3 v2.0 will drop support for Python 2</strong>: <a href=""https://urllib3.readthedocs.io/en/latest/v2-roadmap.html"">Read more in the v2.0 Roadmap</a></p>
+<ul>
+<li>
+<p>Added support for HTTPS proxies contacting HTTPS servers (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/1923"">#1923</a>, Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/1806"">#1806</a>)</p>
+</li>
+<li>
+<p>Deprecated negotiating TLSv1 and TLSv1.1 by default. Users that
+still wish to use TLS earlier than 1.2 without a deprecation warning
+should opt-in explicitly by setting <code>ssl_version=ssl.PROTOCOL_TLSv1_1</code> (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2002"">#2002</a>)
+<strong>Starting in urllib3 v2.0: Connections that receive a <code>DeprecationWarning</code> will fail</strong></p>
+</li>
+<li>
+<p>Deprecated <code>Retry</code> options <code>Retry.DEFAULT_METHOD_WHITELIST</code>, <code>Retry.DEFAULT_REDIRECT_HEADERS_BLACKLIST</code>
+and <code>Retry(method_whitelist=...)</code> in favor of <code>Retry.DEFAULT_ALLOWED_METHODS</code>,
+<code>Retry.DEFAULT_REMOVE_HEADERS_ON_REDIRECT</code>, and <code>Retry(allowed_methods=...)</code>
+(Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2000"">#2000</a>) <strong>Starting in urllib3 v2.0: Deprecated options will be removed</strong></p>
+</li>
+</ul>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Changelog</summary>
+<p><em>Sourced from <a href=""https://github.com/urllib3/urllib3/blob/main/CHANGES.rst"">urllib3's changelog</a>.</em></p>
+<blockquote>
+<h2>1.26.5 (2021-05-26)</h2>
+<ul>
+<li>Fixed deprecation warnings emitted in Python 3.10.</li>
+<li>Updated vendored <code>six</code> library to 1.16.0.</li>
+<li>Improved performance of URL parser when splitting
+the authority component.</li>
+</ul>
+<h2>1.26.4 (2021-03-15)</h2>
+<ul>
+<li>Changed behavior of the default <code>SSLContext</code> when connecting to HTTPS proxy
+during HTTPS requests. The default <code>SSLContext</code> now sets <code>check_hostname=True</code>.</li>
+</ul>
+<h2>1.26.3 (2021-01-26)</h2>
+<ul>
+<li>
+<p>Fixed bytes and string comparison issue with headers (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2141"">#2141</a>)</p>
+</li>
+<li>
+<p>Changed <code>ProxySchemeUnknown</code> error message to be
+more actionable if the user supplies a proxy URL without
+a scheme. (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2107"">#2107</a>)</p>
+</li>
+</ul>
+<h2>1.26.2 (2020-11-12)</h2>
+<ul>
+<li>Fixed an issue where <code>wrap_socket</code> and <code>CERT_REQUIRED</code> wouldn't
+be imported properly on Python 2.7.8 and earlier (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2052"">#2052</a>)</li>
+</ul>
+<h2>1.26.1 (2020-11-11)</h2>
+<ul>
+<li>Fixed an issue where two <code>User-Agent</code> headers would be sent if a
+<code>User-Agent</code> header key is passed as <code>bytes</code> (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/2047"">#2047</a>)</li>
+</ul>
+<h2>1.26.0 (2020-11-10)</h2>
+<ul>
+<li>
+<p><strong>NOTE: urllib3 v2.0 will drop support for Python 2</strong>.
+<code>Read more in the v2.0 Roadmap &lt;https://urllib3.readthedocs.io/en/latest/v2-roadmap.html&gt;</code>_.</p>
+</li>
+<li>
+<p>Added support for HTTPS proxies contacting HTTPS servers (Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/1923"">#1923</a>, Pull <a href=""https://github-redirect.dependabot.com/urllib3/urllib3/issues/1806"">#1806</a>)</p>
+</li>
+<li>
+<p>Deprecated negotiating TLSv1 and TLSv1.1 by default. Users that
+still wish to use TLS earlier than 1.2 without a deprecation warning</p>
+</li>
+</ul>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/urllib3/urllib3/commit/d1616473df94b94f0f5ad19d2a6608cfe93b7cdf""><code>d161647</code></a> Release 1.26.5</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/2d4a3fee6de2fa45eb82169361918f759269b4ec""><code>2d4a3fe</code></a> Improve performance of sub-authority splitting in URL</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/2698537d52f8ff1f0bbb1d45cf018b118e91f637""><code>2698537</code></a> Update vendored six to 1.16.0</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/07bed791e9c391d8bf12950f76537dc3c6f90550""><code>07bed79</code></a> Fix deprecation warnings for Python 3.10 ssl module</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/d725a9b56bb8baf87c9e6eee0e9edf010034b63b""><code>d725a9b</code></a> Add Python 3.10 to GitHub Actions</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/339ad34c677c98fd9ad008de1d8bbeb9dbf34381""><code>339ad34</code></a> Use pytest==6.2.4 on Python 3.10+</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/f271c9c3149e20d7feffb6429b135bbb6c09ddf4""><code>f271c9c</code></a> Apply latest Black formatting</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/1884878aac87ef0494b282e940c32c24ee917d52""><code>1884878</code></a> [1.26] Properly proxy EOF on the SSLTransport test suite</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/a8913042b676c510e94fc2b097f6b514ae11a537""><code>a891304</code></a> Release 1.26.4</li>
+<li><a href=""https://github.com/urllib3/urllib3/commit/8d65ea1ecf6e2cdc27d42124e587c1b83a3118b0""><code>8d65ea1</code></a> Merge pull request from GHSA-5phf-pp7p-vc2r</li>
+<li>Additional commits viewable in <a href=""https://github.com/urllib3/urllib3/compare/1.24.3...1.26.5"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=urllib3&package-manager=pip&previous-version=1.24.3&new-version=1.26.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/hackforla/data-science/network/alerts).
+
+</details>","dependabot[bot]","closed",,,"dependencies","","",", , 43","false"
+42,"Update Pedestrian Data folder","Pedestrian Data folder including the relevant notebooks and visualizations.","dplem","closed",,,"","","",", , 42","false"
+41,"Push request redo preprocessing files","","KarinaLopez19","closed",,,"","","AlbertUlysses",", , 41","false"
+40,"Extend Mapillary API wrapper","These are new features for the python wrapper for Mapillary's API to allow it to:
+
+- Make requests of other layers of Mapillary data beyond traffic signs
+
+- Store photo image IDs associated with each item on map
+
+- Parse Mapillary's latitude/longitude string format
+
+- Give feedback while downloading data and timeout after 5 minutes, to prevent downloads from failing silently","henrykaplan","closed",,,"","henrykaplan","dplem,AlbertUlysses",", , 40","false"
+39,"add bbox function","Created bbox function to help create a boundary box for cleaning data. Added one test to  ensure any refactoring in the future still returns the correct  expected results. ","AlbertUlysses","closed",,,"","","",", , 39","false"
+38,"this is a test","","KarinaLopez19","closed",,,"","","",", , 38","false"
+37,"add new folder with new functions to help with clean up","Adding the folder for airbnb listing and first function for helper functions that will be used for cleaning the data
+","AlbertUlysses","closed",,,"","","",", , 37","false"
+35,"clean up jupyter notebook","cleaned up the jupyter notebook to make it more user friendly","AlbertUlysses","closed",,,"","","",", , 35","false"

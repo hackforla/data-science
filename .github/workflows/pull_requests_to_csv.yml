@@ -1,0 +1,244 @@
+name: List Pull Requests and Output as CSV
+
+on:
+  push:
+    branches:
+      - n2020h-issues-to-csv
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+
+jobs:
+  list-pull-requests:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout the repository to access any scripts or tools you might need
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Set up Node.js to use jq command
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
+
+    # Fetch pull requests data and save it to pulls.json
+    - name: Fetch pull requests data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        curl -H "Authorization: token $GITHUB_TOKEN" \
+             -H "Accept: application/vnd.github.v3+json" \
+             "https://api.github.com/repos/${{ github.repository }}/pulls?state=all&per_page=100" \
+             -o pulls.json
+
+    # Fetch linked issues for each PR
+    - name: Fetch linked issues for each PR
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        for pr_number in $(jq -r '.[].number' pulls.json); do \
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+               -H "Accept: application/vnd.github.v3+json" \
+               "https://api.github.com/repos/${{ github.repository }}/issues/$pr_number/timeline?per_page=100" \
+               -o "timeline_$pr_number.json"; \
+        done
+
+    # Debugging: Display timeline JSON for a PR
+    - name: Display timeline JSON content for a PR
+      run: cat timeline_*.json
+
+    
+    # # Generate pull requests CSV including linked issues
+    # - name: Generate pull requests CSV including linked issues
+    #   run: |
+    #     echo "PR Number,Title,Author,State,Labels,Assignees,Reviewers,Linked Issues" > pull_requests.csv
+        
+    #     for pr_number in $(jq -r '.[].number' pulls.json); do
+    #       timeline_file="timeline_$pr_number.json"
+          
+    #       # Ensure the timeline file is not empty before processing
+    #       if [ -s "$timeline_file" ]; then
+    #         linked_issues=$(jq -r '[.[] | select(.event == "cross-referenced" and .source.issue) | .source.issue.number | tostring] | join(", ")' "$timeline_file")
+    #       else
+    #         linked_issues=""
+    #       fi
+          
+    #       jq -r --arg linked_issues "$linked_issues" \
+    #         '.[] | select(.number == '$pr_number') | [
+    #           .number,
+    #           .title,
+    #           .user.login,
+    #           .state,
+    #           (.labels | map(.name) | join(",")),
+    #           (.assignees | map(.login) | join(",")),
+    #           (.requested_reviewers | map(.login) | join(",")),
+    #           $linked_issues
+    #         ] | @csv' pulls.json >> pull_requests.csv
+    #     done
+    -  name: Generate pull requests CSV including linked issues and has_issues
+       run: |
+          echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers,Linked Issues,Has Issues" > pull_requests.csv
+          
+          for pr_number in $(jq -r '.[].number' pulls.json); do
+            timeline_file="timeline_$pr_number.json"
+            
+            if [ -f "$timeline_file" ]; then
+              linked_issues_timeline=$(jq -r '[.[] | select(.event == "cross-referenced" and .source.issue) | .source.issue.url | capture("/(?<issue_number>\\d+)$").issue_number] | join(", ")' "$timeline_file")
+            else
+              linked_issues_timeline=""
+            fi
+            
+            linked_issues_body=$(jq -r '.[] | select(.number == '$pr_number') | .body | capture_all("#(?<number>\\d+)"; "g") | join(",")' pulls.json || echo "")
+            
+            linked_issues_reactions=$(jq -r '.[] | select(.number == '$pr_number') | .reactions.url | capture("/issues/(?<issue_number>\\d+)/reactions").issue_number' pulls.json || echo "")
+            
+            linked_issues_direct=$(jq -r '.[] | select(.number == '$pr_number') | .issue_url | capture("/issues/(?<issue_number>\\d+)$").issue_number' pulls.json || echo "")
+            
+            linked_issues=$(echo "$linked_issues_timeline, $linked_issues_body, $linked_issues_reactions, $linked_issues_direct" | sed 's/^, //; s/, $//; s/,,/,/g')
+            
+            has_issues=$(jq -r '.repository.has_issues' pulls.json || echo "false")
+            
+            jq -r --arg linked_issues "$linked_issues" --arg has_issues "$has_issues" \
+              '.[] | select(.number == '$pr_number') | [
+                .number,
+                .title,
+                .body,
+                .user.login,
+                .state,
+                .commits,
+                .changed_files,
+                (.labels | map(.name) | join(",")),
+                (.assignees | map(.login) | join(",")),
+                (.requested_reviewers | map(.login) | join(",")),
+                $linked_issues,
+                $has_issues
+              ] | @csv' pulls.json >> pull_requests.csv
+          done
+        
+    # Check the content of pull_requests.csv for debugging
+    - name: Display pull_requests.csv content
+      run: cat pull_requests.csv
+
+    # Commit and push the generated CSV to the repository
+    - name: Commit and push CSV
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -f pull_requests.csv
+        timestamp=$(date -u)
+        git commit -m "Latest pull requests data: ${timestamp}" || exit 0
+        git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+##------------------------------------------##
+# name: List Pull Requests and Output as CSV
+
+# on:
+#   push:
+#     branches:
+#       - n2020h-issues-to-csv
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 0 * * *' # Runs daily at midnight
+#   # pull_request:
+#   #   types: [opened, closed, reopened]
+#   #   branches: 
+#   #     - n2020h-issues-to-csv
+# jobs:
+#   list-pull-requests:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#     # Checkout the repository to access any scripts or tools you might need
+#     - name: Checkout repository
+#       uses: actions/checkout@v3
+      
+#     # Set up Node.js to use jq command
+#     - name: Set up Node.js
+#       uses: actions/setup-node@v3
+#       with:
+#         node-version: '20'
+#     # Fetch pull requests data and save it to pulls.json
+#     - name: Fetch pull requests data
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       run: |
+#         curl -H "Authorization: token $GITHUB_TOKEN" \
+#              -H "Accept: application/vnd.github.v3+json" \
+#              "https://api.github.com/repos/${{ github.repository }}/pulls?state=all&per_page=100" \
+#              -o pulls.json
+
+#     # Check the content of pulls.json for debugging
+#     - name: Display pulls.json content
+#       run: cat pulls.json
+
+#     # Generate pull requests CSV
+#     # (.body | capture_all("#(?<number>\\d+)"; "g") | join(","))
+#     - name: Generate pull requests CSV
+#       run: |
+#         echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers, Linked Issues" > pull_requests.csv
+#         jq -r '.[] | select(.user.login != "dependabot[bot]") | [
+#           .number,
+#           .title,
+#           .body,
+#           .user.login,
+#           .state,
+#           .commits,
+#           .changed_files,
+#           (.labels | map(.name) | join(",")),
+#           (.assignees | map(.login) | join(",")),
+#           (.requested_reviewers | map(.login) | join(",")),
+#           (if .body != null then .body | gsub("#";" ") | split(" ") | map(select(startswith("issue_number"))) | join(",") else "" end)
+#         ] | @csv' pulls.json >> pull_requests.csv
+
+#     # Check the content of pull_requests.csv for debugging
+#     - name: Display pull_requests.csv content
+#       run: cat pull_requests.csv
+
+#     # Commit and push the generated CSV to the repository
+#     - name: Commit and push CSV
+#       run: |
+#         git config user.name "Automated"
+#         git config user.email "actions@users.noreply.github.com"
+#         git add -f pull_requests.csv
+#         timestamp=$(date -u)
+#         git commit -m "Latest pull requests data: ${timestamp}" || exit 0
+#         git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+####-------------------------------------------------#######
+        
+    # # Generate pull requests CSV
+    # - name: Generate pull requests CSV
+    #   run: |
+    #     run: |
+    #     echo "PR Number,Title,Description,Author,State,Number of Commits,Number of Files Changed,Labels,Assignees,Reviewers" > hackforla_PRs.csv
+    #     jq -r '.[] | [
+    #       .number,
+    #       .title,
+    #       .body,
+    #       .user.login,
+    #       .state,
+    #       .commits,
+    #       .changed_files,
+    #       (.labels | map(.name) | join(",")),
+    #       (.assignees | map(.login) | join(",")),
+    #       (.requested_reviewers | map(.login) | join(","))
+    #     ] | @csv' pulls.json >> hackforla_PRs.csv
+
+    # # Commit and push the generated CSV to the repository
+    # - name: Commit and push CSV
+    #   run: |
+    #     git config user.name "Automated"
+    #     git config user.email "actions@users.noreply.github.com"
+    #     git add -f hackforla_PRs.csv
+    #     timestamp=$(date -u)
+    #     git commit -m "Latest data: ${timestamp}" || exit 0
+    #     git push --force origin HEAD:refs/heads/n2020h-issues-to-csv
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
