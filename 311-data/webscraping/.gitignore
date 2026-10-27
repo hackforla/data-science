@@ -1,0 +1,7 @@
+# Ignore outputs
+out/
+.venv/
+.env
+
+# local env
+.env
