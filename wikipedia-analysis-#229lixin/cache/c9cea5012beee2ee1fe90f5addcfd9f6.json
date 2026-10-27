@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:18.329872",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120101163322|122590",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23843,
+          "ns": 0,
+          "title": "ရေကြီးခြင်း",
+          "revisions": [
+            {
+              "timestamp": "2012-01-01T14:59:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

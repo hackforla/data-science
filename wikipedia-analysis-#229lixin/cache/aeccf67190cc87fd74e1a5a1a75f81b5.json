@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:26.525993",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031211202229|450502",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 87461,
+          "ns": 0,
+          "title": "Obdachlosigkeit",
+          "revisions": [
+            {
+              "timestamp": "2003-12-11T20:14:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

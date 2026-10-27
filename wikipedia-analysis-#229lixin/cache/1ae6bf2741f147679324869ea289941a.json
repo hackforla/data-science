@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:15.447110",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090831042651|473000",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 105388,
+          "ns": 0,
+          "title": "सूखा",
+          "revisions": [
+            {
+              "timestamp": "2009-08-17T06:24:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

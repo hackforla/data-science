@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:30.044731",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260109151804|107943336",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 45953,
+          "ns": 0,
+          "title": "結核",
+          "revisions": [
+            {
+              "timestamp": "2026-01-14T03:27:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

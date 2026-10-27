@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:22.022460",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030711072018|142538",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8174,
+          "ns": 0,
+          "title": "VIH/sida",
+          "revisions": [
+            {
+              "timestamp": "2003-07-11T06:01:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

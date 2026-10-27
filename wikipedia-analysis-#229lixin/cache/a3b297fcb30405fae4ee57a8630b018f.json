@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:06.820769",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260118190034|232545007",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14075219,
+          "ns": 0,
+          "title": "Élection présidentielle américaine de 2024",
+          "revisions": [
+            {
+              "timestamp": "2026-01-22T02:09:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

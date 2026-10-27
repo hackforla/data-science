@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:31.719170",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081124191344|6126511",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 608649,
+          "ns": 0,
+          "title": "הצבעה",
+          "revisions": [
+            {
+              "timestamp": "2008-11-24T19:11:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

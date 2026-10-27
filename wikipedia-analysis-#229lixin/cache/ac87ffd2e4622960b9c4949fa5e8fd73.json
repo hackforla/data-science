@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:20.716181",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250715183020|28260918",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 50439,
+          "ns": 0,
+          "title": "Szólásszabadság",
+          "revisions": [
+            {
+              "timestamp": "2025-12-30T21:25:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

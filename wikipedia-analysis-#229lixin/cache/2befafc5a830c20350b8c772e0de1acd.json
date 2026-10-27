@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:52.248876",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110321031307|6534324",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1028811,
+          "ns": 0,
+          "title": "تزوير الانتخابات",
+          "revisions": [
+            {
+              "timestamp": "2011-03-21T03:11:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

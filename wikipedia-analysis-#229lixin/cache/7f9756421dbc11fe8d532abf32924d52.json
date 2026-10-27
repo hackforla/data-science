@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:04.995700",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250110031417|69332977",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7514646,
+          "ns": 0,
+          "title": "Condições meteorológicas extremas",
+          "revisions": [
+            {
+              "timestamp": "2025-01-10T03:11:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

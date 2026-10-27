@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:45.074787",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260122074159|108104559",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 214734,
+          "ns": 0,
+          "title": "パンデミック",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T04:55:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

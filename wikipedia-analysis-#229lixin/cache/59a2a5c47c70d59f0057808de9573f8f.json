@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:58.503076",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260104105802|73054225",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10943,
+          "ns": 0,
+          "title": "ديمقراطية",
+          "revisions": [
+            {
+              "timestamp": "2026-01-04T11:19:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

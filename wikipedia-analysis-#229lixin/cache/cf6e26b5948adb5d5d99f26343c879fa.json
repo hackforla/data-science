@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:12.142259",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251106055550|28353364",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5771,
+          "ns": 0,
+          "title": "Hak asasi manusia",
+          "revisions": [
+            {
+              "timestamp": "2025-12-29T06:39:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

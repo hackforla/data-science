@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:18.367877",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080709174002|11424",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3002,
+          "ns": 0,
+          "title": "လူ့အခွင့်အရေး",
+          "revisions": [
+            {
+              "timestamp": "2008-07-09T11:35:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

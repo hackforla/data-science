@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:02.322453",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251025125405|74309802",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1503122,
+          "ns": 0,
+          "title": "Lao động trẻ em",
+          "revisions": [
+            {
+              "timestamp": "2025-12-01T03:31:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:04.799329",
+  "response": {
+    "continue": {
+      "rvcontinue": "20021010052707|836700",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 101942,
+          "ns": 0,
+          "title": "Child labour",
+          "revisions": [
+            {
+              "timestamp": "2002-10-10T03:12:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

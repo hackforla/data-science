@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:28.157103",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100831074126|43509",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9522,
+          "ns": 0,
+          "title": "လွတ်လပ်စွာ ဟောပြောခွင့်",
+          "revisions": [
+            {
+              "timestamp": "2010-08-31T07:40:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:33.781299",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040424125201|90037",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21801,
+          "ns": 0,
+          "title": "海啸",
+          "revisions": [
+            {
+              "timestamp": "2004-04-11T16:51:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

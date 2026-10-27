@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:27.450313",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260115085207|148928269",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2495541,
+          "ns": 0,
+          "title": "Censura",
+          "revisions": [
+            {
+              "timestamp": "2026-01-15T08:52:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

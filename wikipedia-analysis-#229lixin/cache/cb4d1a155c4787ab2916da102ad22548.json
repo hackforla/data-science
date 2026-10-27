@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:53.697979",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250210064740|1274754",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 111402,
+          "ns": 0,
+          "title": "युद्ध",
+          "revisions": [
+            {
+              "timestamp": "2025-02-10T06:49:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

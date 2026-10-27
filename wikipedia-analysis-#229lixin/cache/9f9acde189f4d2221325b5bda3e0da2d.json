@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:23.962464",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230925045742|1164222",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 27833,
+          "ns": 0,
+          "title": "जलवायु परिवर्तन",
+          "revisions": [
+            {
+              "timestamp": "2025-03-20T16:01:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

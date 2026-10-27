@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:18.030968",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250327143931|16896316",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 141831,
+          "ns": 0,
+          "title": "Uragan",
+          "revisions": [
+            {
+              "timestamp": "2025-03-27T20:31:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

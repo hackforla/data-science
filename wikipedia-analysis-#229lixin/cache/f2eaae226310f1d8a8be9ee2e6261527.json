@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:04.484616",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230823101516|10186212",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 195246,
+          "ns": 0,
+          "title": "Ξηρασία",
+          "revisions": [
+            {
+              "timestamp": "2025-08-31T07:50:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:05.249402",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251006155929|30452552",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 304960,
+          "ns": 0,
+          "title": "Пандемија",
+          "revisions": [
+            {
+              "timestamp": "2025-11-26T12:43:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

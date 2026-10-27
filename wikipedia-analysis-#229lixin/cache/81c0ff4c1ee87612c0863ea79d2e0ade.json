@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:59.044151",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260120203621|1333972227",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19333662,
+          "ns": 0,
+          "title": "Human trafficking",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T01:39:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

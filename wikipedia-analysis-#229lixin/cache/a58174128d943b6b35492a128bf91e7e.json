@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:08.981570",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240619054325|33295760",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3313502,
+          "ns": 0,
+          "title": "Ekstrem hava olayları",
+          "revisions": [
+            {
+              "timestamp": "2024-06-19T05:43:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

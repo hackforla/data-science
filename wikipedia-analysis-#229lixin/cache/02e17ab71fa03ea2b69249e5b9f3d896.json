@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:00.722294",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250802055119|70580154",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5327,
+          "ns": 0,
+          "title": "Guerra",
+          "revisions": [
+            {
+              "timestamp": "2025-10-21T14:54:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

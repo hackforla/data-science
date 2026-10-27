@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:50.453523",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180916180047|54497899",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4369196,
+          "ns": 0,
+          "title": "Ruch antyszczepionkowy",
+          "revisions": [
+            {
+              "timestamp": "2018-09-16T17:49:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

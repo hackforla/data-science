@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:56.485524",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260119145621|11454586",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 113046,
+          "ns": 0,
+          "title": "Ανθρώπινα δικαιώματα",
+          "revisions": [
+            {
+              "timestamp": "2026-01-20T09:41:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

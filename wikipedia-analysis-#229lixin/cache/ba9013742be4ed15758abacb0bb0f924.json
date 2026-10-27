@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:52.885458",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240720080751|6300687",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 37227,
+          "ns": 0,
+          "title": "آزادی اشاعت",
+          "revisions": [
+            {
+              "timestamp": "2024-08-03T21:03:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

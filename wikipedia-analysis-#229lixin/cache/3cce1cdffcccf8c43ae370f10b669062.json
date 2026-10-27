@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:11.503798",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070916033851|1592076",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 211521,
+          "ns": 0,
+          "title": "Børnearbejde",
+          "revisions": [
+            {
+              "timestamp": "2007-09-16T03:37:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

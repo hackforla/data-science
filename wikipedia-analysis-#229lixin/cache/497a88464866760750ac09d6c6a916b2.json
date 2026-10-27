@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:32.427908",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050711075807|37771",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8425,
+          "ns": 0,
+          "title": "Sóng thần",
+          "revisions": [
+            {
+              "timestamp": "2005-07-11T07:51:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:11.297285",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221219194823|37815917",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4748623,
+          "ns": 0,
+          "title": "Шукачі притулку",
+          "revisions": [
+            {
+              "timestamp": "2022-12-19T19:21:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

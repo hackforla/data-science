@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:00.949463",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170518145029|20744209",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1132062,
+          "ns": 0,
+          "title": "מבקש מקלט",
+          "revisions": [
+            {
+              "timestamp": "2013-09-03T04:52:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

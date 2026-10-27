@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:53.363705",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240803084106|692841",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 51767,
+          "ns": 0,
+          "title": "ඡන්ද විමසීම්",
+          "revisions": [
+            {
+              "timestamp": "2024-08-03T09:12:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

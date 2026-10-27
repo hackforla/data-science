@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:38.044379",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031206172805|103479",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23951,
+          "ns": 0,
+          "title": "Gruźlica człowieka",
+          "revisions": [
+            {
+              "timestamp": "2003-09-28T17:11:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

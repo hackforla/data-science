@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:59.894564",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250910215404|71985748",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1312853,
+          "ns": 0,
+          "title": "حرية الصحافة",
+          "revisions": [
+            {
+              "timestamp": "2025-09-10T22:02:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

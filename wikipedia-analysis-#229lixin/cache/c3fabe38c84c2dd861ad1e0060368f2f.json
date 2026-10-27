@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:51.724837",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221017154014|15171045",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 130241,
+          "ns": 0,
+          "title": "Malarie",
+          "revisions": [
+            {
+              "timestamp": "2023-03-18T02:32:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

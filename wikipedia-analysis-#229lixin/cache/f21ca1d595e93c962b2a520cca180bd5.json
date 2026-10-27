@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:19.045931",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220712141551|282400",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15197,
+          "ns": 0,
+          "title": "د روغتيا نړيوال سازمان",
+          "revisions": [
+            {
+              "timestamp": "2024-06-27T19:39:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:43.370653",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241028205138|68321466",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 987428,
+          "ns": 0,
+          "title": "فيضان",
+          "revisions": [
+            {
+              "timestamp": "2025-07-20T08:54:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

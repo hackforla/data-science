@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:04.348182",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060428092158|338627",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 75906,
+          "ns": 0,
+          "title": "Ölüm cezası",
+          "revisions": [
+            {
+              "timestamp": "2006-04-28T08:51:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

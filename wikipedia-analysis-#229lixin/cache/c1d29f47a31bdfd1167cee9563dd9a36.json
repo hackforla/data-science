@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:06.192256",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080428091952|116534",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 27871,
+          "ns": 0,
+          "title": "رائے دہندگی",
+          "revisions": [
+            {
+              "timestamp": "2008-04-28T09:18:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

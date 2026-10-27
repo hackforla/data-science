@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:41.123903",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020925173340|152",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 50,
+          "ns": 0,
+          "title": "Aids",
+          "revisions": [
+            {
+              "timestamp": "2002-06-28T15:04:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

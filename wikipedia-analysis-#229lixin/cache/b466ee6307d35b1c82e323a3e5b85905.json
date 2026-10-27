@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:08.696760",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031209025420|3725",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 378,
+          "ns": 0,
+          "title": "Ilmaston lämpeneminen",
+          "revisions": [
+            {
+              "timestamp": "2003-05-19T17:55:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

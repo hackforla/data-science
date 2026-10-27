@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:18.315471",
+  "response": {
+    "continue": {
+      "rvcontinue": "20201204192811|80734550",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4260524,
+          "ns": 0,
+          "title": "2024年アメリカ合衆国大統領選挙",
+          "revisions": [
+            {
+              "timestamp": "2020-12-04T19:10:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

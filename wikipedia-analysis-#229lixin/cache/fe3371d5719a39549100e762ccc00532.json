@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:48.361060",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250119113711|56693709",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 916387,
+          "ns": 0,
+          "title": "Jämställdhet",
+          "revisions": [
+            {
+              "timestamp": "2025-01-19T11:41:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

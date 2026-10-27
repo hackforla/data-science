@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:47.136440",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080408104713|1617250",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 323508,
+          "ns": 0,
+          "title": "تغير المناخ",
+          "revisions": [
+            {
+              "timestamp": "2008-04-08T10:39:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:10.661068",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050812082251|75740",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 26198,
+          "ns": 0,
+          "title": "Kebakaran hutan dan lahan",
+          "revisions": [
+            {
+              "timestamp": "2005-08-11T14:51:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

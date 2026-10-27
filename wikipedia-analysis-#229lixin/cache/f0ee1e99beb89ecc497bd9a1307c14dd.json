@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:17.354552",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090826071921|2218426",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 406805,
+          "ns": 0,
+          "title": "Đại dịch",
+          "revisions": [
+            {
+              "timestamp": "2009-08-26T07:18:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:38.835265",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100917225900|44464",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9660,
+          "ns": 0,
+          "title": "ရွေးကောက်ပွဲ",
+          "revisions": [
+            {
+              "timestamp": "2010-09-10T09:24:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

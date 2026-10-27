@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:11.433790",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070827101157|108112",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 26300,
+          "ns": 0,
+          "title": "भूमंडलीय ऊष्मीकरण",
+          "revisions": [
+            {
+              "timestamp": "2007-08-27T10:05:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

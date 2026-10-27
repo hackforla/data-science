@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:33.952957",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250717030657|257962229",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 31096,
+          "ns": 0,
+          "title": "Impfstoff",
+          "revisions": [
+            {
+              "timestamp": "2026-01-03T17:07:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

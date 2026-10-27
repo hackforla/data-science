@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:03:24.236715",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200123165900|7994477",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 660861,
+          "ns": 0,
+          "title": "Πανδημία COVID-19",
+          "revisions": [
+            {
+              "timestamp": "2020-01-23T16:57:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

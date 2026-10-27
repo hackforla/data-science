@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:09.905793",
+  "response": {
+    "continue": {
+      "rvcontinue": "20181027093902|24171192",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1643645,
+          "ns": 0,
+          "title": "הונאת בחירות",
+          "revisions": [
+            {
+              "timestamp": "2018-10-27T09:34:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

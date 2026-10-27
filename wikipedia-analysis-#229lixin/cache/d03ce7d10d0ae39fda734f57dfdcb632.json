@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:40.553943",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251125080332|40913059",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 199710,
+          "ns": 0,
+          "title": "차별",
+          "revisions": [
+            {
+              "timestamp": "2025-12-20T06:39:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

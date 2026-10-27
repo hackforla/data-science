@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:03.564932",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070214092937|108039587",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 789786,
+          "ns": 0,
+          "title": "Statelessness",
+          "revisions": [
+            {
+              "timestamp": "2004-07-06T21:52:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

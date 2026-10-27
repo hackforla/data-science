@@ -1,0 +1,50 @@
+# Target Language List for Wikipedia Language Equity Analysis
+# 30 major languages + 10 low-resource languages = 40 languages total
+
+# ==================== 30 MAJOR LANGUAGES ====================
+# Based on Wikipedia article count and global internet usage
+
+en    # English (baseline - always analyzed)
+zh    # Chinese
+es    # Spanish
+fr    # French
+de    # German
+ja    # Japanese
+ru    # Russian
+pt    # Portuguese
+it    # Italian
+ar    # Arabic
+pl    # Polish
+nl    # Dutch
+tr    # Turkish
+sv    # Swedish
+uk    # Ukrainian
+fa    # Persian
+ko    # Korean
+vi    # Vietnamese
+cs    # Czech
+he    # Hebrew
+id    # Indonesian
+fi    # Finnish
+th    # Thai
+no    # Norwegian
+ro    # Romanian
+hu    # Hungarian
+da    # Danish
+el    # Greek
+bg    # Bulgarian
+sr    # Serbian
+
+# ==================== 10 LOW-RESOURCE LANGUAGES ====================
+# Underrepresented communities - focus of equity research
+
+sw    # Swahili (East Africa - 200M+ speakers)
+hi    # Hindi (South Asia - 600M+ speakers)
+bn    # Bengali (South Asia - 265M+ speakers)
+ha    # Hausa (West Africa - 80M+ speakers)
+am    # Amharic (Ethiopia - 57M+ speakers)
+my    # Burmese (Myanmar - 33M+ speakers)
+ne    # Nepali (Nepal - 16M+ speakers)
+si    # Sinhala (Sri Lanka - 17M+ speakers)
+ur    # Urdu (Pakistan/India - 230M+ speakers)
+ps    # Pashto (Afghanistan/Pakistan - 60M+ speakers)

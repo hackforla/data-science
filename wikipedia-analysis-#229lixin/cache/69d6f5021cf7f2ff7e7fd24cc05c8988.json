@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:59.253151",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220321073706|10004517",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1236067,
+          "ns": 0,
+          "title": "การเลือกปฏิบัติ",
+          "revisions": [
+            {
+              "timestamp": "2022-03-21T07:35:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

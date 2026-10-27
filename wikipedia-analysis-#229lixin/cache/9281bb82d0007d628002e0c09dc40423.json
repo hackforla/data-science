@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:22.302057",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051128165651|98840",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 22169,
+          "ns": 0,
+          "title": "Vắc-xin",
+          "revisions": [
+            {
+              "timestamp": "2005-11-28T15:28:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

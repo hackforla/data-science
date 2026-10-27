@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:01.758875",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061215035737|325191",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 62699,
+          "ns": 0,
+          "title": "มาลาเรีย",
+          "revisions": [
+            {
+              "timestamp": "2006-12-15T03:43:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

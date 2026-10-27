@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:46.142280",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040422160930|51823",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8492,
+          "ns": 0,
+          "title": "רצח עם",
+          "revisions": [
+            {
+              "timestamp": "2004-02-17T22:18:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

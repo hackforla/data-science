@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:31.355480",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221208021326|769357",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 235539,
+          "ns": 0,
+          "title": "စာနယ်ဇင်းလွတ်လပ်ခွင့်",
+          "revisions": [
+            {
+              "timestamp": "2022-12-04T14:25:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:53.638333",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080210213703|1289908",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 259792,
+          "ns": 0,
+          "title": "Тортури",
+          "revisions": [
+            {
+              "timestamp": "2008-02-10T14:33:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

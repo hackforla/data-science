@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:20.562417",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061014183107|30730",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8259,
+          "ns": 0,
+          "title": "लोकतंत्र",
+          "revisions": [
+            {
+              "timestamp": "2006-10-14T18:29:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

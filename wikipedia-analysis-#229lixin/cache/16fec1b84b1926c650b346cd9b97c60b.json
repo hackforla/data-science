@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:39.605148",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200415074318|27788363",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1819435,
+          "ns": 0,
+          "title": "משבר הומניטרי",
+          "revisions": [
+            {
+              "timestamp": "2020-04-15T07:39:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

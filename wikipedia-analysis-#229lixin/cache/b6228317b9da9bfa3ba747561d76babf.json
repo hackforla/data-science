@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:18.779509",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230913125746|806317",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3002,
+          "ns": 0,
+          "title": "လူ့အခွင့်အရေး",
+          "revisions": [
+            {
+              "timestamp": "2023-09-13T14:46:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

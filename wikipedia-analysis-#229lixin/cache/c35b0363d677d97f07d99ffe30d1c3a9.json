@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:04.421822",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260106075316|42491461",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1273,
+          "ns": 0,
+          "title": "טרור",
+          "revisions": [
+            {
+              "timestamp": "2026-01-06T07:53:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

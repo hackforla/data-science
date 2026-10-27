@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:41.676707",
+  "response": {
+    "continue": {
+      "rvcontinue": "20211212123223|20721319",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1725499,
+          "ns": 0,
+          "title": "Extrémy počasí",
+          "revisions": [
+            {
+              "timestamp": "2021-12-10T14:52:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:23.402468",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230906143359|66549622",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1722679,
+          "ns": 0,
+          "title": "Fraude eleitoral",
+          "revisions": [
+            {
+              "timestamp": "2025-04-17T17:52:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

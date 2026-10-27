@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:43.691804",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250808093020|35781601",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 135759,
+          "ns": 0,
+          "title": "İklim değişikliği",
+          "revisions": [
+            {
+              "timestamp": "2025-11-01T18:50:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:55.484538",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250223194344|69620389",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6156616,
+          "ns": 0,
+          "title": "Movimento antivacina",
+          "revisions": [
+            {
+              "timestamp": "2025-06-24T06:23:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

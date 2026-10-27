@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:56.028257",
+  "response": {
+    "continue": {
+      "rvcontinue": "20171112132632|33994791",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9456134,
+          "ns": 0,
+          "title": "Không quốc tịch",
+          "revisions": [
+            {
+              "timestamp": "2017-11-12T13:08:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

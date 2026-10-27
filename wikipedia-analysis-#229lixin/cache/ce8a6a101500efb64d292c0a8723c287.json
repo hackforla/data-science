@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:55.463453",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240610160243|42760372",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1636534,
+          "ns": 0,
+          "title": "Статева рівність",
+          "revisions": [
+            {
+              "timestamp": "2025-05-15T19:03:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

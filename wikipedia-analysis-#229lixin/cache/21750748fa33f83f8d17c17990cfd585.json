@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:58.275445",
+  "response": {
+    "continue": {
+      "rvcontinue": "20010405042157|1039400529",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17253537,
+          "ns": 0,
+          "title": "Censorship",
+          "revisions": [
+            {
+              "timestamp": "2001-04-05T04:13:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

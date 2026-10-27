@@ -1,0 +1,340 @@
+{
+  "cached_at": "2026-01-26T00:31:01.773608",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 47702,
+          "ns": 0,
+          "title": "Torture",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Marteling"
+            },
+            {
+              "lang": "ar",
+              "title": "تعذيب"
+            },
+            {
+              "lang": "arz",
+              "title": "تعذيب"
+            },
+            {
+              "lang": "ast",
+              "title": "Tortura"
+            },
+            {
+              "lang": "az",
+              "title": "İşgəncə"
+            },
+            {
+              "lang": "be",
+              "title": "Катаванні"
+            },
+            {
+              "lang": "bg",
+              "title": "Изтезание"
+            },
+            {
+              "lang": "br",
+              "title": "Boureverezh"
+            },
+            {
+              "lang": "ca",
+              "title": "Tortura"
+            },
+            {
+              "lang": "ckb",
+              "title": "ئەشکەنجە"
+            },
+            {
+              "lang": "cs",
+              "title": "Mučení"
+            },
+            {
+              "lang": "cy",
+              "title": "Artaith"
+            },
+            {
+              "lang": "da",
+              "title": "Tortur"
+            },
+            {
+              "lang": "de",
+              "title": "Folter"
+            },
+            {
+              "lang": "el",
+              "title": "Βασανιστήριο"
+            },
+            {
+              "lang": "eo",
+              "title": "Torturo"
+            },
+            {
+              "lang": "es",
+              "title": "Tortura"
+            },
+            {
+              "lang": "et",
+              "title": "Piinamine"
+            },
+            {
+              "lang": "eu",
+              "title": "Tortura"
+            },
+            {
+              "lang": "fa",
+              "title": "شکنجه"
+            },
+            {
+              "lang": "fi",
+              "title": "Kidutus"
+            },
+            {
+              "lang": "fr",
+              "title": "Torture"
+            },
+            {
+              "lang": "fy",
+              "title": "Marteling"
+            },
+            {
+              "lang": "ga",
+              "title": "Céasadh"
+            },
+            {
+              "lang": "gd",
+              "title": "Cur fo chràdh"
+            },
+            {
+              "lang": "gl",
+              "title": "Tortura"
+            },
+            {
+              "lang": "ha",
+              "title": "Gallazawa"
+            },
+            {
+              "lang": "he",
+              "title": "עינויים"
+            },
+            {
+              "lang": "hi",
+              "title": "यातना"
+            },
+            {
+              "lang": "hr",
+              "title": "Mučenje"
+            },
+            {
+              "lang": "hu",
+              "title": "Kínzás"
+            },
+            {
+              "lang": "ia",
+              "title": "Tortura"
+            },
+            {
+              "lang": "id",
+              "title": "Penyiksaan"
+            },
+            {
+              "lang": "is",
+              "title": "Pyntingar"
+            },
+            {
+              "lang": "it",
+              "title": "Tortura"
+            },
+            {
+              "lang": "ja",
+              "title": "拷問"
+            },
+            {
+              "lang": "ka",
+              "title": "წამება"
+            },
+            {
+              "lang": "kk",
+              "title": "Азаптау"
+            },
+            {
+              "lang": "kn",
+              "title": "ಚಿತ್ರಹಿಂಸೆ"
+            },
+            {
+              "lang": "ko",
+              "title": "고문"
+            },
+            {
+              "lang": "ku",
+              "title": "Îşkence"
+            },
+            {
+              "lang": "la",
+              "title": "Cruciatus"
+            },
+            {
+              "lang": "lt",
+              "title": "Kankinimas"
+            },
+            {
+              "lang": "lv",
+              "title": "Spīdzināšana"
+            },
+            {
+              "lang": "mk",
+              "title": "Мачење"
+            },
+            {
+              "lang": "ms",
+              "title": "Penyeksaan"
+            },
+            {
+              "lang": "my",
+              "title": "ညှဉ်းပန်းနှိပ်စက်ခြင်း"
+            },
+            {
+              "lang": "mzn",
+              "title": "شکنجه"
+            },
+            {
+              "lang": "nl",
+              "title": "Marteling"
+            },
+            {
+              "lang": "nn",
+              "title": "Tortur"
+            },
+            {
+              "lang": "nb",
+              "title": "Tortur"
+            },
+            {
+              "lang": "oc",
+              "title": "Tortura"
+            },
+            {
+              "lang": "pa",
+              "title": "ਤਸ਼ੱਦਦ"
+            },
+            {
+              "lang": "pl",
+              "title": "Tortura"
+            },
+            {
+              "lang": "pt",
+              "title": "Tortura"
+            },
+            {
+              "lang": "qu",
+              "title": "Hipachiy"
+            },
+            {
+              "lang": "ro",
+              "title": "Tortură"
+            },
+            {
+              "lang": "ru",
+              "title": "Пытка"
+            },
+            {
+              "lang": "sah",
+              "title": "Эрэйдээһин"
+            },
+            {
+              "lang": "sc",
+              "title": "Tortura"
+            },
+            {
+              "lang": "sco",
+              "title": "Tortur"
+            },
+            {
+              "lang": "sh",
+              "title": "Tortura"
+            },
+            {
+              "lang": "si",
+              "title": "වධ හිංසාව"
+            },
+            {
+              "lang": "simple",
+              "title": "Torture"
+            },
+            {
+              "lang": "sk",
+              "title": "Mučenie"
+            },
+            {
+              "lang": "sl",
+              "title": "Mučenje"
+            },
+            {
+              "lang": "so",
+              "title": "Silicdil"
+            },
+            {
+              "lang": "sq",
+              "title": "Tortura"
+            },
+            {
+              "lang": "sr",
+              "title": "Tortura"
+            },
+            {
+              "lang": "sv",
+              "title": "Tortyr"
+            },
+            {
+              "lang": "ta",
+              "title": "சித்திரவதை"
+            },
+            {
+              "lang": "th",
+              "title": "การทรมาน"
+            },
+            {
+              "lang": "tr",
+              "title": "İşkence"
+            },
+            {
+              "lang": "uk",
+              "title": "Тортури"
+            },
+            {
+              "lang": "ur",
+              "title": "ایذا رسانی"
+            },
+            {
+              "lang": "vi",
+              "title": "Tra tấn"
+            },
+            {
+              "lang": "wa",
+              "title": "Boureataedje"
+            },
+            {
+              "lang": "wuu",
+              "title": "酷刑"
+            },
+            {
+              "lang": "zh",
+              "title": "酷刑"
+            },
+            {
+              "lang": "yue",
+              "title": "酷刑"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

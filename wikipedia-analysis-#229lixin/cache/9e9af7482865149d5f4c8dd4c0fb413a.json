@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:18.412432",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241116083008|10833581",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48541,
+          "ns": 0,
+          "title": "Θανατική ποινή",
+          "revisions": [
+            {
+              "timestamp": "2024-11-16T08:30:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

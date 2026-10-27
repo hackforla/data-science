@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:38.457956",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190713115738|4249007",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 662369,
+          "ns": 0,
+          "title": "बेघर",
+          "revisions": [
+            {
+              "timestamp": "2023-01-06T08:53:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

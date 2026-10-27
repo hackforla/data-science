@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:47.017710",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220221194912|735296",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 224655,
+          "ns": 0,
+          "title": "ဆင်းရဲမွဲတေမှု",
+          "revisions": [
+            {
+              "timestamp": "2022-02-21T19:45:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

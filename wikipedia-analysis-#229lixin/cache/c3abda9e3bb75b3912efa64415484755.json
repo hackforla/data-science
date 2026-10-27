@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:53.208501",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241005045946|337783",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 58182,
+          "ns": 0,
+          "title": "د واکسينو په اړه دوه زړي توب",
+          "revisions": [
+            {
+              "timestamp": "2024-10-19T15:38:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

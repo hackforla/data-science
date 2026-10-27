@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:09.387028",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200324125518|10297339",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 391378,
+          "ns": 0,
+          "title": "Fredsbevarende styrke",
+          "revisions": [
+            {
+              "timestamp": "2021-11-03T18:10:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

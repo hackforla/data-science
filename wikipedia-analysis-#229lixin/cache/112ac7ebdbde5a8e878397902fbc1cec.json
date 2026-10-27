@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:36.303114",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050909211642|1026322",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 51859,
+          "ns": 0,
+          "title": "Översvämning",
+          "revisions": [
+            {
+              "timestamp": "2004-06-10T16:53:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

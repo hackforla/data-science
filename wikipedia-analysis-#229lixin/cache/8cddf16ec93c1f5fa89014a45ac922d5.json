@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:04.463637",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080912172823|17626",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4068,
+          "ns": 0,
+          "title": "ဆူနာမီ",
+          "revisions": [
+            {
+              "timestamp": "2008-09-12T17:27:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

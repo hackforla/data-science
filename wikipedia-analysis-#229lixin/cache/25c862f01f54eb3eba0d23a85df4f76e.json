@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:37.576611",
+  "response": {
+    "continue": {
+      "rvcontinue": "20171212123729|47343758",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5982854,
+          "ns": 0,
+          "title": "維持和平",
+          "revisions": [
+            {
+              "timestamp": "2017-12-12T12:27:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

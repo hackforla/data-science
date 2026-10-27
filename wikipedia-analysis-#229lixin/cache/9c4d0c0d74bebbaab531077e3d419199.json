@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:54.475950",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231227064015|6028353",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2167,
+          "ns": 0,
+          "title": "सूनामी",
+          "revisions": [
+            {
+              "timestamp": "2024-12-28T14:33:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

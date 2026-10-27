@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:08.091319",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241130133057|142394078",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1125837,
+          "ns": 0,
+          "title": "Rifugiato",
+          "revisions": [
+            {
+              "timestamp": "2025-04-27T15:41:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

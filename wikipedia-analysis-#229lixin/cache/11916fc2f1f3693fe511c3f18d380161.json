@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:25.992690",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260102101520|28668628",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 66631,
+          "ns": 0,
+          "title": "Gümőkór",
+          "revisions": [
+            {
+              "timestamp": "2026-01-06T02:17:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

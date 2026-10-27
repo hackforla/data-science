@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:11.019845",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250114182950|34642745",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 674424,
+          "ns": 0,
+          "title": "Yoksulluk",
+          "revisions": [
+            {
+              "timestamp": "2025-01-30T09:58:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

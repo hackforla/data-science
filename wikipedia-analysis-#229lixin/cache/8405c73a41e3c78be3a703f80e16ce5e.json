@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:24.729937",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251004160353|6482651",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1603098,
+          "ns": 0,
+          "title": "यातना",
+          "revisions": [
+            {
+              "timestamp": "2025-12-29T03:16:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

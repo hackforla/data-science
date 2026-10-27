@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:08.577284",
+  "response": {
+    "continue": {
+      "rvcontinue": "20160411200212|8512038",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 870481,
+          "ns": 0,
+          "title": "Grænsekontrol",
+          "revisions": [
+            {
+              "timestamp": "2022-09-15T15:57:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:46.955329",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240919075801|11767553",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1425712,
+          "ns": 0,
+          "title": "ภัยแล้ง",
+          "revisions": [
+            {
+              "timestamp": "2024-09-19T07:52:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

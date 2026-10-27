@@ -1,0 +1,20 @@
+{
+  "cached_at": "2026-01-26T00:12:48.681738",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 19891447,
+          "ns": 0,
+          "title": "Ấm lên toàn cầu",
+          "revisions": [
+            {
+              "timestamp": "2024-09-15T08:58:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

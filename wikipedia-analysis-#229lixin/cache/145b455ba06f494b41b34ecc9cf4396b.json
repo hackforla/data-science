@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:25.867708",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101224033743|3679300",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 579283,
+          "ns": 0,
+          "title": "Tội ác chiến tranh",
+          "revisions": [
+            {
+              "timestamp": "2010-12-24T03:34:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

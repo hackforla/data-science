@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:14.243371",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061014100417|310234",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 159414,
+          "ns": 0,
+          "title": "سانسور",
+          "revisions": [
+            {
+              "timestamp": "2006-10-13T22:49:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

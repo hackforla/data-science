@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:02.336207",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040330174318|244528",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1899604,
+          "ns": 0,
+          "title": "Asielzoeker",
+          "revisions": [
+            {
+              "timestamp": "2004-03-28T21:19:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

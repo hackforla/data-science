@@ -1,0 +1,272 @@
+{
+  "cached_at": "2026-01-26T00:24:04.100506",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 789786,
+          "ns": 0,
+          "title": "Statelessness",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "انعدام الجنسية"
+            },
+            {
+              "lang": "az",
+              "title": "Apatrid"
+            },
+            {
+              "lang": "azb",
+              "title": "وطنسیزلیک"
+            },
+            {
+              "lang": "be",
+              "title": "Апатрыды"
+            },
+            {
+              "lang": "bg",
+              "title": "Апатриди"
+            },
+            {
+              "lang": "bn",
+              "title": "রাষ্ট্রহীনতা"
+            },
+            {
+              "lang": "ca",
+              "title": "Apàtrida"
+            },
+            {
+              "lang": "ckb",
+              "title": "بێوڵاتی"
+            },
+            {
+              "lang": "cs",
+              "title": "Apatrida"
+            },
+            {
+              "lang": "da",
+              "title": "Statsløs"
+            },
+            {
+              "lang": "de",
+              "title": "Staatenloser"
+            },
+            {
+              "lang": "el",
+              "title": "Απατρία"
+            },
+            {
+              "lang": "eo",
+              "title": "Senŝtateco"
+            },
+            {
+              "lang": "es",
+              "title": "Apátrida"
+            },
+            {
+              "lang": "et",
+              "title": "Kodakondsuseta isik"
+            },
+            {
+              "lang": "eu",
+              "title": "Aberrigabe"
+            },
+            {
+              "lang": "fa",
+              "title": "بدون تابعیت"
+            },
+            {
+              "lang": "fi",
+              "title": "Valtioton henkilö"
+            },
+            {
+              "lang": "fr",
+              "title": "Apatride"
+            },
+            {
+              "lang": "gl",
+              "title": "Apátrida"
+            },
+            {
+              "lang": "he",
+              "title": "חוסר אזרחות"
+            },
+            {
+              "lang": "hu",
+              "title": "Hontalan személy"
+            },
+            {
+              "lang": "id",
+              "title": "Tak bernegara"
+            },
+            {
+              "lang": "io",
+              "title": "Sennacionano"
+            },
+            {
+              "lang": "it",
+              "title": "Apolidia"
+            },
+            {
+              "lang": "ja",
+              "title": "無国籍"
+            },
+            {
+              "lang": "kaa",
+              "title": "Puqarasızlıq"
+            },
+            {
+              "lang": "kk",
+              "title": "Апатрид"
+            },
+            {
+              "lang": "ko",
+              "title": "무국적"
+            },
+            {
+              "lang": "ky",
+              "title": "Жарандыгы жок адам"
+            },
+            {
+              "lang": "li",
+              "title": "Sjtaoteloze"
+            },
+            {
+              "lang": "lmo",
+              "title": "Apolidia"
+            },
+            {
+              "lang": "lt",
+              "title": "Asmuo be pilietybės"
+            },
+            {
+              "lang": "lv",
+              "title": "Bezvalstnieki"
+            },
+            {
+              "lang": "mg",
+              "title": "Olona tsy manana zom-pirenena"
+            },
+            {
+              "lang": "ms",
+              "title": "Ketiadanegaraan"
+            },
+            {
+              "lang": "nl",
+              "title": "Staatloosheid"
+            },
+            {
+              "lang": "nn",
+              "title": "Statslaus"
+            },
+            {
+              "lang": "nb",
+              "title": "Statsløshet"
+            },
+            {
+              "lang": "oc",
+              "title": "Apatrida"
+            },
+            {
+              "lang": "pl",
+              "title": "Apatryda"
+            },
+            {
+              "lang": "pnb",
+              "title": "بے وطنی"
+            },
+            {
+              "lang": "pt",
+              "title": "Apátrida"
+            },
+            {
+              "lang": "ro",
+              "title": "Apatrid"
+            },
+            {
+              "lang": "ru",
+              "title": "Апатрид"
+            },
+            {
+              "lang": "rue",
+              "title": "Апатрид"
+            },
+            {
+              "lang": "sc",
+              "title": "Apàtridu"
+            },
+            {
+              "lang": "simple",
+              "title": "Statelessness"
+            },
+            {
+              "lang": "sl",
+              "title": "Brezdomovinstvo"
+            },
+            {
+              "lang": "sq",
+              "title": "Pashtetësia"
+            },
+            {
+              "lang": "sr",
+              "title": "Особа без држављанства"
+            },
+            {
+              "lang": "sv",
+              "title": "Statslöshet"
+            },
+            {
+              "lang": "tg",
+              "title": "Бешаҳрвандӣ"
+            },
+            {
+              "lang": "th",
+              "title": "ความไร้สัญชาติ"
+            },
+            {
+              "lang": "tl",
+              "title": "Kawalan ng estado"
+            },
+            {
+              "lang": "tok",
+              "title": "ala pi ma lawa"
+            },
+            {
+              "lang": "tr",
+              "title": "Vatansızlık"
+            },
+            {
+              "lang": "uk",
+              "title": "Апатрид"
+            },
+            {
+              "lang": "ur",
+              "title": "بے وطنی"
+            },
+            {
+              "lang": "uz",
+              "title": "Fuqaroligi boʻlmagan shaxslar"
+            },
+            {
+              "lang": "vi",
+              "title": "Không quốc tịch"
+            },
+            {
+              "lang": "zh",
+              "title": "無國籍"
+            },
+            {
+              "lang": "yue",
+              "title": "無國籍"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

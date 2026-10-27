@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:00.488108",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180615013515|3492441",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 780850,
+          "ns": 0,
+          "title": "بے گھری",
+          "revisions": [
+            {
+              "timestamp": "2018-06-15T01:30:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

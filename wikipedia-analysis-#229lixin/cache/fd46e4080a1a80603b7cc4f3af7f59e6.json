@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:17.556280",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250801153820|685237",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 109372,
+          "ns": 0,
+          "title": "Hakkin samun 'yan jarida kyauta",
+          "revisions": [
+            {
+              "timestamp": "2025-08-01T15:38:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

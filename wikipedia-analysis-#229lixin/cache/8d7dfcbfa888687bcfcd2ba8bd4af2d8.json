@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:59.310450",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100219205834|3867319",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 413358,
+          "ns": 0,
+          "title": "Valgfusk",
+          "revisions": [
+            {
+              "timestamp": "2010-01-22T20:37:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

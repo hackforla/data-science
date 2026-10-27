@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:49.734573",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050902085532|236276",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 34554,
+          "ns": 0,
+          "title": "Népirtás",
+          "revisions": [
+            {
+              "timestamp": "2005-09-02T08:38:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

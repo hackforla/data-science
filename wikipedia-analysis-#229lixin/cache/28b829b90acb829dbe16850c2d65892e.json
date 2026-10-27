@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:45.880678",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240301161233|54486537",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47911,
+          "ns": 0,
+          "title": "Tryckfrihet",
+          "revisions": [
+            {
+              "timestamp": "2024-08-09T10:54:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

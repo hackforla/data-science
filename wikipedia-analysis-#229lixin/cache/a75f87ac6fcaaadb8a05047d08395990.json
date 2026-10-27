@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:46.030948",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120703085332|531090",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 74609,
+          "ns": 0,
+          "title": "عالمی حرارت",
+          "revisions": [
+            {
+              "timestamp": "2012-07-02T09:09:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

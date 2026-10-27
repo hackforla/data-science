@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:03.528857",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250525025903|70877077",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 56800,
+          "ns": 0,
+          "title": "تعذيب",
+          "revisions": [
+            {
+              "timestamp": "2025-07-03T19:16:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

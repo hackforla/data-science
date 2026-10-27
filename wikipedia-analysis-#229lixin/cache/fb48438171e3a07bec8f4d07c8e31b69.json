@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:39.435272",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060722115243|30432",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9119,
+          "ns": 0,
+          "title": "বিশ্ব স্বাস্থ্য সংস্থা",
+          "revisions": [
+            {
+              "timestamp": "2006-07-22T10:58:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:32.737747",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070504072814|943616",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 134947,
+          "ns": 0,
+          "title": "Военно престъпление",
+          "revisions": [
+            {
+              "timestamp": "2007-05-03T17:53:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:52.158462",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260125110749|1334740391",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 72956318,
+          "ns": 0,
+          "title": "2023 Turkey–Syria earthquakes",
+          "revisions": [
+            {
+              "timestamp": "2026-01-25T11:11:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

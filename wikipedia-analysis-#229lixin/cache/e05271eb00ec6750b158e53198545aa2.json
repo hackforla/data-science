@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:15.239606",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070123024941|538532",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 135942,
+          "ns": 0,
+          "title": "Pemanasan global",
+          "revisions": [
+            {
+              "timestamp": "2007-01-22T09:12:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:13.738764",
+  "response": {
+    "continue": {
+      "rvcontinue": "20201008035017|63918305",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19502792,
+          "ns": 0,
+          "title": "Người xin tị nạn",
+          "revisions": [
+            {
+              "timestamp": "2020-10-08T03:45:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

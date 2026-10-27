@@ -1,0 +1,428 @@
+{
+  "cached_at": "2026-01-26T00:48:06.818463",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 8900,
+          "ns": 0,
+          "title": "Discrimination",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Diskriminasie"
+            },
+            {
+              "lang": "gsw",
+              "title": "Diskriminierung"
+            },
+            {
+              "lang": "an",
+              "title": "Discriminación"
+            },
+            {
+              "lang": "ar",
+              "title": "تمييز"
+            },
+            {
+              "lang": "ast",
+              "title": "Discriminación"
+            },
+            {
+              "lang": "az",
+              "title": "Ayrı-seçkilik"
+            },
+            {
+              "lang": "azb",
+              "title": "آیریمجیلیق"
+            },
+            {
+              "lang": "bcl",
+              "title": "Diskriminasyon"
+            },
+            {
+              "lang": "be",
+              "title": "Дыскрымінацыя"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Дыскрымінацыя"
+            },
+            {
+              "lang": "bg",
+              "title": "Дискриминация"
+            },
+            {
+              "lang": "bh",
+              "title": "भेदभाव"
+            },
+            {
+              "lang": "bn",
+              "title": "বৈষম্য"
+            },
+            {
+              "lang": "br",
+              "title": "Droukziforc'h"
+            },
+            {
+              "lang": "bs",
+              "title": "Diskriminacija"
+            },
+            {
+              "lang": "bxr",
+              "title": "Илган газаашалга"
+            },
+            {
+              "lang": "ca",
+              "title": "Discriminació"
+            },
+            {
+              "lang": "ckb",
+              "title": "دووچاوەکی"
+            },
+            {
+              "lang": "cs",
+              "title": "Diskriminace"
+            },
+            {
+              "lang": "cy",
+              "title": "Gwahaniaethu"
+            },
+            {
+              "lang": "da",
+              "title": "Diskrimination"
+            },
+            {
+              "lang": "de",
+              "title": "Diskriminierung"
+            },
+            {
+              "lang": "diq",
+              "title": "Diskriminasyon"
+            },
+            {
+              "lang": "el",
+              "title": "Διάκριση"
+            },
+            {
+              "lang": "eo",
+              "title": "Diskriminacio"
+            },
+            {
+              "lang": "es",
+              "title": "Discriminación"
+            },
+            {
+              "lang": "et",
+              "title": "Diskrimineerimine"
+            },
+            {
+              "lang": "eu",
+              "title": "Diskriminazio"
+            },
+            {
+              "lang": "fa",
+              "title": "تبعیض"
+            },
+            {
+              "lang": "fi",
+              "title": "Syrjintä"
+            },
+            {
+              "lang": "fr",
+              "title": "Discrimination"
+            },
+            {
+              "lang": "fy",
+              "title": "Diskriminaasje"
+            },
+            {
+              "lang": "gcr",
+              "title": "Diskriminasyon"
+            },
+            {
+              "lang": "gl",
+              "title": "Discriminación"
+            },
+            {
+              "lang": "gn",
+              "title": "Ñemboyke"
+            },
+            {
+              "lang": "ha",
+              "title": "Wariya"
+            },
+            {
+              "lang": "he",
+              "title": "אפליה"
+            },
+            {
+              "lang": "hi",
+              "title": "भेदभाव"
+            },
+            {
+              "lang": "hif",
+              "title": "Bhedbhaao"
+            },
+            {
+              "lang": "hr",
+              "title": "Diskriminacija"
+            },
+            {
+              "lang": "hu",
+              "title": "Diszkrimináció"
+            },
+            {
+              "lang": "hy",
+              "title": "Խտրականություն"
+            },
+            {
+              "lang": "id",
+              "title": "Diskriminasi"
+            },
+            {
+              "lang": "io",
+              "title": "Diskriminaco"
+            },
+            {
+              "lang": "is",
+              "title": "Mismunun"
+            },
+            {
+              "lang": "it",
+              "title": "Discriminazione"
+            },
+            {
+              "lang": "ja",
+              "title": "差別"
+            },
+            {
+              "lang": "jam",
+              "title": "Diskriminieshan"
+            },
+            {
+              "lang": "ka",
+              "title": "დისკრიმინაცია"
+            },
+            {
+              "lang": "kk",
+              "title": "Дискриминация"
+            },
+            {
+              "lang": "kn",
+              "title": "ತಾರತಮ್ಯ"
+            },
+            {
+              "lang": "ko",
+              "title": "차별"
+            },
+            {
+              "lang": "ku",
+              "title": "Dîskrîmînasyon"
+            },
+            {
+              "lang": "ky",
+              "title": "Дискриминация"
+            },
+            {
+              "lang": "la",
+              "title": "Discriminatio"
+            },
+            {
+              "lang": "lt",
+              "title": "Diskriminacija"
+            },
+            {
+              "lang": "lv",
+              "title": "Diskriminācija"
+            },
+            {
+              "lang": "mg",
+              "title": "Fanavakavahana"
+            },
+            {
+              "lang": "mk",
+              "title": "Дискриминација"
+            },
+            {
+              "lang": "ml",
+              "title": "വിവേചനം"
+            },
+            {
+              "lang": "mn",
+              "title": "Ялгаварлан гадуурхалт"
+            },
+            {
+              "lang": "ms",
+              "title": "Diskriminasi"
+            },
+            {
+              "lang": "my",
+              "title": "ခွဲခြားဆက်ဆံခြင်း"
+            },
+            {
+              "lang": "nds",
+              "title": "Diskriminatschoon"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "Diskriminatie"
+            },
+            {
+              "lang": "new",
+              "title": "भेदभाव"
+            },
+            {
+              "lang": "nl",
+              "title": "Discriminatie"
+            },
+            {
+              "lang": "nb",
+              "title": "Forskjellsbehandling"
+            },
+            {
+              "lang": "oc",
+              "title": "Discriminacion"
+            },
+            {
+              "lang": "pa",
+              "title": "ਵਿਤਕਰਾ"
+            },
+            {
+              "lang": "pl",
+              "title": "Dyskryminacja (psychologia społeczna)"
+            },
+            {
+              "lang": "pms",
+              "title": "Discriminassion"
+            },
+            {
+              "lang": "ps",
+              "title": "تبعیض"
+            },
+            {
+              "lang": "pt",
+              "title": "Discriminação"
+            },
+            {
+              "lang": "rki",
+              "title": "ခွဲခြားဆက်ဆံခြင်း"
+            },
+            {
+              "lang": "rmy",
+              "title": "Diskriminaciya"
+            },
+            {
+              "lang": "ro",
+              "title": "Discriminare"
+            },
+            {
+              "lang": "ru",
+              "title": "Дискриминация"
+            },
+            {
+              "lang": "sh",
+              "title": "Diskriminacija"
+            },
+            {
+              "lang": "si",
+              "title": "වෙනස්කම් කිරීම"
+            },
+            {
+              "lang": "simple",
+              "title": "Discrimination"
+            },
+            {
+              "lang": "sk",
+              "title": "Diskriminácia (znevýhodňovanie)"
+            },
+            {
+              "lang": "sl",
+              "title": "Diskriminacija"
+            },
+            {
+              "lang": "sn",
+              "title": "Rusarura"
+            },
+            {
+              "lang": "sq",
+              "title": "Diskriminimi"
+            },
+            {
+              "lang": "sr",
+              "title": "Дискриминација"
+            },
+            {
+              "lang": "sv",
+              "title": "Diskriminering"
+            },
+            {
+              "lang": "ta",
+              "title": "பாகுபாடு"
+            },
+            {
+              "lang": "tg",
+              "title": "Табъиз"
+            },
+            {
+              "lang": "th",
+              "title": "การเลือกปฏิบัติ"
+            },
+            {
+              "lang": "tl",
+              "title": "Pagtatangi"
+            },
+            {
+              "lang": "tr",
+              "title": "Ayrımcılık"
+            },
+            {
+              "lang": "uk",
+              "title": "Дискримінація"
+            },
+            {
+              "lang": "uz",
+              "title": "Diskriminatsiya"
+            },
+            {
+              "lang": "vi",
+              "title": "Phân biệt đối xử"
+            },
+            {
+              "lang": "vls",
+              "title": "Discriminoatie"
+            },
+            {
+              "lang": "war",
+              "title": "Diskriminasyon"
+            },
+            {
+              "lang": "wuu",
+              "title": "歧视"
+            },
+            {
+              "lang": "xmf",
+              "title": "დისკრიმინაცია"
+            },
+            {
+              "lang": "yi",
+              "title": "דיסקרימינאציע"
+            },
+            {
+              "lang": "zh",
+              "title": "歧視"
+            },
+            {
+              "lang": "yue",
+              "title": "歧視"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

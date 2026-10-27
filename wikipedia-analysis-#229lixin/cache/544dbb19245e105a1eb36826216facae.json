@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:33.507438",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080326055022|24057",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5797,
+          "ns": 0,
+          "title": "මානව අයිතිවාසිකම්",
+          "revisions": [
+            {
+              "timestamp": "2008-03-26T05:40:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

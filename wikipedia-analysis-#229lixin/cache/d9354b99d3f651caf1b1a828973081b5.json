@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:12.267029",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060327221032|131198",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 32907,
+          "ns": 0,
+          "title": "สงคราม",
+          "revisions": [
+            {
+              "timestamp": "2006-03-27T10:23:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

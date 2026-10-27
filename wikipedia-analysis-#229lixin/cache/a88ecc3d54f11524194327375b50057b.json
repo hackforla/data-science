@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:47.690452",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260109113231|42508385",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1701148,
+          "ns": 0,
+          "title": "הרתעת מצביעים",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T20:14:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

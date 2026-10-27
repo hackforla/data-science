@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:06.352101",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050106055920|261059",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 65901,
+          "ns": 0,
+          "title": "歧視",
+          "revisions": [
+            {
+              "timestamp": "2005-01-06T04:21:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

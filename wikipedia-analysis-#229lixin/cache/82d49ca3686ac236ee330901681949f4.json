@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:14.331973",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241119144630|68611323",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 51068,
+          "ns": 0,
+          "title": "فقر",
+          "revisions": [
+            {
+              "timestamp": "2024-11-30T10:18:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

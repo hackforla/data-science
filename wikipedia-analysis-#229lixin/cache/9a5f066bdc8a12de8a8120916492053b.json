@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:25.284276",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060427170501|474124",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 84223,
+          "ns": 0,
+          "title": "Bezdomovectví",
+          "revisions": [
+            {
+              "timestamp": "2006-04-27T17:03:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

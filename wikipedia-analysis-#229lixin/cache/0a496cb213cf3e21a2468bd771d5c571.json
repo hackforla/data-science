@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:54.648226",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251230035842|25552791",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1836954,
+          "ns": 0,
+          "title": "Volby prezidenta USA 2024",
+          "revisions": [
+            {
+              "timestamp": "2026-01-17T08:34:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

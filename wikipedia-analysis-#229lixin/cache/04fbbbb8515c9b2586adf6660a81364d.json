@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:16.689213",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221219091343|11621019",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 25831,
+          "ns": 0,
+          "title": "Бедност",
+          "revisions": [
+            {
+              "timestamp": "2024-09-11T16:55:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

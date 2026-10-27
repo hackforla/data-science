@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:36.565170",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061109031532|591721",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 80548,
+          "ns": 0,
+          "title": "선거",
+          "revisions": [
+            {
+              "timestamp": "2006-09-18T16:50:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

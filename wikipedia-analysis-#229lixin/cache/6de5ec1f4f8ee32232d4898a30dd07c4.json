@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:56.784811",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060824051701|466056",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 76789,
+          "ns": 0,
+          "title": "집단학살",
+          "revisions": [
+            {
+              "timestamp": "2006-08-24T05:16:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

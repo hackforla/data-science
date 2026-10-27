@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:53.686502",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250805071703|690043",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 110749,
+          "ns": 0,
+          "title": "Matsanancin yanayi",
+          "revisions": [
+            {
+              "timestamp": "2025-08-05T07:18:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

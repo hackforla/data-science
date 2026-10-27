@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:16.909309",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230821132600|10183962",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 30003,
+          "ns": 0,
+          "title": "Εκλογές",
+          "revisions": [
+            {
+              "timestamp": "2023-08-21T13:26:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

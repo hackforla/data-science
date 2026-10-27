@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:42.712315",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060510100208|138200",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 26776,
+          "ns": 0,
+          "title": "Τσουνάμι",
+          "revisions": [
+            {
+              "timestamp": "2006-05-10T08:37:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

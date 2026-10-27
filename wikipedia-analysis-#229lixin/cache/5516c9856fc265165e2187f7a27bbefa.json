@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:20.003109",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251209181834|43161830",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 248844,
+          "ns": 0,
+          "title": "کودکان کار",
+          "revisions": [
+            {
+              "timestamp": "2025-12-09T18:24:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

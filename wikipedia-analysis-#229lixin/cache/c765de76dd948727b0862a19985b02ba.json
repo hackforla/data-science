@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:33.835516",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250129180927|6537415",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 55109,
+          "ns": 0,
+          "title": "پناہ گزین",
+          "revisions": [
+            {
+              "timestamp": "2025-05-06T01:12:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

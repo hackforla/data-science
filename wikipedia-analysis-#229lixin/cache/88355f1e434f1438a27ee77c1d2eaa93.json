@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:08.159498",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251112181842|12742405",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 111002,
+          "ns": 0,
+          "title": "Туберкулоза",
+          "revisions": [
+            {
+              "timestamp": "2025-11-12T18:37:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

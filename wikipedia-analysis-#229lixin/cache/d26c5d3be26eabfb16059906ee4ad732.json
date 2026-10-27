@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:12.966493",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060106103536|304926",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 56656,
+          "ns": 0,
+          "title": "Diskriminace",
+          "revisions": [
+            {
+              "timestamp": "2006-01-06T10:32:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

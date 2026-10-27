@@ -1,0 +1,20 @@
+{
+  "cached_at": "2026-01-26T00:14:30.035003",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 8681666,
+          "ns": 0,
+          "title": "Markbrand",
+          "revisions": [
+            {
+              "timestamp": "2022-08-20T20:20:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

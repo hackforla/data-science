@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:22.163123",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030111225156|22329",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6993,
+          "ns": 0,
+          "title": "Rechten van de mens",
+          "revisions": [
+            {
+              "timestamp": "2003-01-05T23:30:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

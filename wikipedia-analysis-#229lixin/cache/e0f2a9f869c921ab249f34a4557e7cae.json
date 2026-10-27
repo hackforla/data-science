@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:54.919815",
+  "response": {
+    "continue": {
+      "rvcontinue": "20181026191040|3629839",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 810444,
+          "ns": 0,
+          "title": "ایذا رسانی",
+          "revisions": [
+            {
+              "timestamp": "2018-10-26T19:09:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

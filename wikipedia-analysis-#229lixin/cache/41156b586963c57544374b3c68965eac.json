@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:58.896221",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251225204241|171173212",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35493,
+          "ns": 0,
+          "title": "Derechos humanos",
+          "revisions": [
+            {
+              "timestamp": "2026-01-22T17:05:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:53.372834",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050830063826|991105",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 192556,
+          "ns": 0,
+          "title": "Hemlöshet",
+          "revisions": [
+            {
+              "timestamp": "2005-08-29T18:00:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

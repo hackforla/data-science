@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:52.799947",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251026123924|36261851",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 112991,
+          "ns": 0,
+          "title": "İşkence",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T14:52:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "cached_at": "2026-01-26T00:09:27.640762",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 71394623,
+          "ns": 0,
+          "title": "Mpox outbreak",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "تفشي مرض جدري القرود"
+            },
+            {
+              "lang": "ko",
+              "title": "엠폭스 유행"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

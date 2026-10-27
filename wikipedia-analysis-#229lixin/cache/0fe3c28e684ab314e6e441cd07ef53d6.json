@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:07.076273",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251126172252|72588691",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 241484,
+          "ns": 0,
+          "title": "عمالة الأطفال",
+          "revisions": [
+            {
+              "timestamp": "2025-11-26T17:42:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

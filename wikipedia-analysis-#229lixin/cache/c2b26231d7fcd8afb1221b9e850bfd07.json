@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:15.054531",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260120124323|70564385",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 70242,
+          "ns": 0,
+          "title": "Vluchteling",
+          "revisions": [
+            {
+              "timestamp": "2026-01-22T08:29:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

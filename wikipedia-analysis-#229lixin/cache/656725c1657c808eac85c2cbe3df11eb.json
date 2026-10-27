@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:39.554728",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020426173522|67709",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 50482,
+          "ns": 0,
+          "title": "Flood",
+          "revisions": [
+            {
+              "timestamp": "2002-04-26T17:24:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

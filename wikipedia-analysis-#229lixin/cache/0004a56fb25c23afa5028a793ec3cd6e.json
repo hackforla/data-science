@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:39.679077",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260122084518|28730331",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19071,
+          "ns": 0,
+          "title": "Hajléktalanság",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T11:05:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

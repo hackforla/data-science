@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:08.860400",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250927174840|41913702",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 754666,
+          "ns": 0,
+          "title": "שינוי אקלים",
+          "revisions": [
+            {
+              "timestamp": "2026-01-13T18:12:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

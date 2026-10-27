@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:30.033912",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260121173843|1334120978",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48626,
+          "ns": 0,
+          "title": "War crime",
+          "revisions": [
+            {
+              "timestamp": "2026-01-25T06:45:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

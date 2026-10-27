@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:14.214650",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260111182448|263251393",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 104716,
+          "ns": 0,
+          "title": "Kinderarbeit",
+          "revisions": [
+            {
+              "timestamp": "2026-01-13T15:57:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

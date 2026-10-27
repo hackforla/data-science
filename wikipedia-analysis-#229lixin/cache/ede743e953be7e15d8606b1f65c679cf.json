@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:33.297696",
+  "response": {
+    "continue": {
+      "rvcontinue": "20071011060033|10329",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3335,
+          "ns": 0,
+          "title": "ගෝලීය තාපනය",
+          "revisions": [
+            {
+              "timestamp": "2007-10-11T05:21:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:27.770766",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250701112101|88021155",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21954,
+          "ns": 0,
+          "title": "种族灭绝",
+          "revisions": [
+            {
+              "timestamp": "2025-07-04T23:14:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

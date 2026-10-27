@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:00.733300",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210818110000|9003362",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 748312,
+          "ns": 0,
+          "title": "Αγροτοδασική πυρκαγιά",
+          "revisions": [
+            {
+              "timestamp": "2021-08-18T10:51:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

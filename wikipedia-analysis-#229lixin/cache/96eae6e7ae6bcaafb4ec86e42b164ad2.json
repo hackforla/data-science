@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:54.121817",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251212035458|150593567",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 68454,
+          "ns": 0,
+          "title": "Малярия",
+          "revisions": [
+            {
+              "timestamp": "2025-12-12T13:47:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

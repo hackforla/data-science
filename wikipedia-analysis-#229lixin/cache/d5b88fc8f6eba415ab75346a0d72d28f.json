@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:49.116639",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251112141951|74386503",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 36048,
+          "ns": 0,
+          "title": "Nhân quyền",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T23:49:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:01.692605",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230110050259|75452024",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8241130,
+          "ns": 0,
+          "title": "人道主義危機",
+          "revisions": [
+            {
+              "timestamp": "2025-06-04T07:46:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

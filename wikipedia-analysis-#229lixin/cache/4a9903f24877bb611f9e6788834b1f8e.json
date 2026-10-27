@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:36.688597",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240616073312|27215650",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1809535,
+          "ns": 0,
+          "title": "Szavazás",
+          "revisions": [
+            {
+              "timestamp": "2025-05-09T20:09:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

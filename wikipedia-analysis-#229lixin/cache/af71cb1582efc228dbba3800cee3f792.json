@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:36.497082",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230416154051|5823746",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18804,
+          "ns": 0,
+          "title": "नस्लवाद",
+          "revisions": [
+            {
+              "timestamp": "2024-08-15T15:06:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

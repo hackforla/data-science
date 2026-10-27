@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:04.175350",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051027100724|91490",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23174,
+          "ns": 0,
+          "title": "Sıtma",
+          "revisions": [
+            {
+              "timestamp": "2005-10-27T09:47:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

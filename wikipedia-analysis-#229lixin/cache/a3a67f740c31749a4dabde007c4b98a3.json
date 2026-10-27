@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:02.648232",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230927010657|592286",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5037,
+          "ns": 0,
+          "title": "දිළිඳුබව",
+          "revisions": [
+            {
+              "timestamp": "2024-07-24T09:27:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

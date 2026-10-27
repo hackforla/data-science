@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:34.548821",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030710181516|79174",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21423,
+          "ns": 0,
+          "title": "Guerre",
+          "revisions": [
+            {
+              "timestamp": "2003-07-05T22:13:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

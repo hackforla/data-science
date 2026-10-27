@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:39.833065",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090203132223|24208957",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1684317,
+          "ns": 0,
+          "title": "国内避難民",
+          "revisions": [
+            {
+              "timestamp": "2009-02-03T13:17:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

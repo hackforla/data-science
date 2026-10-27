@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:25.591224",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050908230722|645160",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 103057,
+          "ns": 0,
+          "title": "העסקת ילדים",
+          "revisions": [
+            {
+              "timestamp": "2005-09-08T23:04:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

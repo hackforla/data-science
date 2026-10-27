@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:14.423103",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040602155727|87835",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4594,
+          "ns": 0,
+          "title": "Dødsstraf",
+          "revisions": [
+            {
+              "timestamp": "2003-02-18T11:26:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

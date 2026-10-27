@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:44.388059",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110801144745|36542133",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3386182,
+          "ns": 0,
+          "title": "Равенство полов",
+          "revisions": [
+            {
+              "timestamp": "2011-08-01T14:22:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

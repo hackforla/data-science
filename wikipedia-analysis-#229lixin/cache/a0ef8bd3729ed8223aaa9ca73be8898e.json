@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:25.933300",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110930195236|105447",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 13638,
+          "ns": 0,
+          "title": "وگړنيز حقوق",
+          "revisions": [
+            {
+              "timestamp": "2011-09-30T19:50:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

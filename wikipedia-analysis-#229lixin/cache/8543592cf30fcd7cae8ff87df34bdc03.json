@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:58.810049",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100825104921|43200",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9461,
+          "ns": 0,
+          "title": "ငလျင်",
+          "revisions": [
+            {
+              "timestamp": "2010-08-25T10:48:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

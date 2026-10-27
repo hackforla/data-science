@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:27.744806",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050715110743|2506552",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 290262,
+          "ns": 0,
+          "title": "報道の自由",
+          "revisions": [
+            {
+              "timestamp": "2005-07-15T09:52:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

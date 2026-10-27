@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:03.968116",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020926194032|15251",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6154,
+          "ns": 0,
+          "title": "Trzęsienie ziemi",
+          "revisions": [
+            {
+              "timestamp": "2002-04-04T08:56:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

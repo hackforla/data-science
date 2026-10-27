@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:33.476417",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241020104250|27531727",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35681,
+          "ns": 0,
+          "title": "Diszkrimináció",
+          "revisions": [
+            {
+              "timestamp": "2025-12-29T23:11:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

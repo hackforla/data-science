@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:35.760670",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230527164839|1146768",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 80137,
+          "ns": 0,
+          "title": "क्षयरोग",
+          "revisions": [
+            {
+              "timestamp": "2025-10-14T18:19:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

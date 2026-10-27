@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:15.061771",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060425230717|342752",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 134730,
+          "ns": 0,
+          "title": "Ратни злочин",
+          "revisions": [
+            {
+              "timestamp": "2006-04-25T23:07:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

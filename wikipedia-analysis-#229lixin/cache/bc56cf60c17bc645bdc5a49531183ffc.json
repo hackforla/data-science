@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:11.422583",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230316210842|1273499",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15803,
+          "ns": 0,
+          "title": "Vita",
+          "revisions": [
+            {
+              "timestamp": "2025-02-09T10:46:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

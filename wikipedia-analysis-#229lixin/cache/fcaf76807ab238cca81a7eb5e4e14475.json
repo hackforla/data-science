@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:08.037757",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100901183250|332645",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 57375,
+          "ns": 0,
+          "title": "ملیریا",
+          "revisions": [
+            {
+              "timestamp": "2010-09-01T18:13:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

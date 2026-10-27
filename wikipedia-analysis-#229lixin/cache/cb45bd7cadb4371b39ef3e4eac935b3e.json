@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:02.047635",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251212141144|1327082706",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1271927,
+          "ns": 0,
+          "title": "Gender equality",
+          "revisions": [
+            {
+              "timestamp": "2025-12-18T07:03:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

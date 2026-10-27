@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:37.749275",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260117213644|28720292",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8606,
+          "ns": 0,
+          "title": "Rasszizmus",
+          "revisions": [
+            {
+              "timestamp": "2026-01-17T21:39:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

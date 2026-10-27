@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:57.555875",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250714102931|73682109",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 785400,
+          "ns": 0,
+          "title": "Tra tấn",
+          "revisions": [
+            {
+              "timestamp": "2025-11-23T10:10:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

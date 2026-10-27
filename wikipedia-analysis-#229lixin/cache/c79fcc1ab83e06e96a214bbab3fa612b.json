@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:23.616057",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051125220136|4240195",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 495056,
+          "ns": 0,
+          "title": "Apatride",
+          "revisions": [
+            {
+              "timestamp": "2005-11-25T21:58:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

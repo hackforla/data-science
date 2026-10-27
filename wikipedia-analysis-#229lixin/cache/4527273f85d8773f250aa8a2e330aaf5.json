@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:14.536662",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080915203239|1466808",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 256481,
+          "ns": 0,
+          "title": "قاچاق انسان",
+          "revisions": [
+            {
+              "timestamp": "2008-09-15T20:24:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

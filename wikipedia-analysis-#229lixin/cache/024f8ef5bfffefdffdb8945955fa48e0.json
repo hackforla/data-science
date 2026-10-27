@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:12.352548",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030616022307|30243",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1778095,
+          "ns": 0,
+          "title": "テロリズム",
+          "revisions": [
+            {
+              "timestamp": "2003-06-16T00:19:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

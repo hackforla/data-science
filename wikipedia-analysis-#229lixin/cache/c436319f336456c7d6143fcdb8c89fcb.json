@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:29.269204",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050421105253|285227",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 44314,
+          "ns": 0,
+          "title": "Köyhyys",
+          "revisions": [
+            {
+              "timestamp": "2005-04-21T08:05:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

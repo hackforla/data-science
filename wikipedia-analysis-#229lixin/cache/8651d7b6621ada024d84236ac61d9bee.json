@@ -1,0 +1,332 @@
+{
+  "cached_at": "2026-01-26T00:37:30.151753",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 48626,
+          "ns": 0,
+          "title": "War crime",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Oorlogmisdaad"
+            },
+            {
+              "lang": "gsw",
+              "title": "Kriegsverbrechen"
+            },
+            {
+              "lang": "ar",
+              "title": "جريمة حرب"
+            },
+            {
+              "lang": "arz",
+              "title": "جريمة حرب"
+            },
+            {
+              "lang": "ast",
+              "title": "Crime de guerra"
+            },
+            {
+              "lang": "az",
+              "title": "Müharibə cinayəti"
+            },
+            {
+              "lang": "azb",
+              "title": "ساواش جینایتی"
+            },
+            {
+              "lang": "be",
+              "title": "Ваеннае злачынства"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Ваеннае злачынства"
+            },
+            {
+              "lang": "bg",
+              "title": "Военно престъпление"
+            },
+            {
+              "lang": "bn",
+              "title": "যুদ্ধাপরাধ"
+            },
+            {
+              "lang": "bs",
+              "title": "Ratni zločin"
+            },
+            {
+              "lang": "ca",
+              "title": "Crim de guerra"
+            },
+            {
+              "lang": "ckb",
+              "title": "تاوانی جەنگی"
+            },
+            {
+              "lang": "cs",
+              "title": "Válečný zločin"
+            },
+            {
+              "lang": "cy",
+              "title": "Trosedd rhyfel"
+            },
+            {
+              "lang": "da",
+              "title": "Krigsforbrydelse"
+            },
+            {
+              "lang": "de",
+              "title": "Kriegsverbrechen"
+            },
+            {
+              "lang": "el",
+              "title": "Έγκλημα πολέμου"
+            },
+            {
+              "lang": "eo",
+              "title": "Militkrimo"
+            },
+            {
+              "lang": "es",
+              "title": "Crimen de guerra"
+            },
+            {
+              "lang": "et",
+              "title": "Sõjakuritegu"
+            },
+            {
+              "lang": "eu",
+              "title": "Gerra krimen"
+            },
+            {
+              "lang": "fa",
+              "title": "جنایت جنگی"
+            },
+            {
+              "lang": "fi",
+              "title": "Sotarikos"
+            },
+            {
+              "lang": "fr",
+              "title": "Crime de guerre"
+            },
+            {
+              "lang": "fy",
+              "title": "Oarlochsmisdie"
+            },
+            {
+              "lang": "ga",
+              "title": "Coir chogaidh"
+            },
+            {
+              "lang": "gl",
+              "title": "Crime de guerra"
+            },
+            {
+              "lang": "ha",
+              "title": "Laifin Yaƙi"
+            },
+            {
+              "lang": "he",
+              "title": "פשע מלחמה"
+            },
+            {
+              "lang": "hi",
+              "title": "युद्ध अपराध"
+            },
+            {
+              "lang": "hr",
+              "title": "Ratni zločin"
+            },
+            {
+              "lang": "hu",
+              "title": "Háborús bűncselekmény"
+            },
+            {
+              "lang": "hy",
+              "title": "Պատերազմական հանցագործություն"
+            },
+            {
+              "lang": "id",
+              "title": "Kejahatan perang"
+            },
+            {
+              "lang": "is",
+              "title": "Stríðsglæpir"
+            },
+            {
+              "lang": "it",
+              "title": "Crimine di guerra"
+            },
+            {
+              "lang": "ja",
+              "title": "戦争犯罪"
+            },
+            {
+              "lang": "ka",
+              "title": "სამხედრო დანაშაული"
+            },
+            {
+              "lang": "kk",
+              "title": "Әскери қылмыс"
+            },
+            {
+              "lang": "ko",
+              "title": "전쟁범죄"
+            },
+            {
+              "lang": "ky",
+              "title": "Согуш кылмышы"
+            },
+            {
+              "lang": "la",
+              "title": "Scelus bellicum"
+            },
+            {
+              "lang": "lmo",
+              "title": "Crimen de guerra"
+            },
+            {
+              "lang": "lt",
+              "title": "Karo nusikaltimai"
+            },
+            {
+              "lang": "lv",
+              "title": "Kara noziegumi"
+            },
+            {
+              "lang": "mk",
+              "title": "Воено злосторство"
+            },
+            {
+              "lang": "ml",
+              "title": "യുദ്ധക്കുറ്റം"
+            },
+            {
+              "lang": "ms",
+              "title": "Jenayah perang"
+            },
+            {
+              "lang": "my",
+              "title": "စစ်ရာဇဝတ်မှု"
+            },
+            {
+              "lang": "nl",
+              "title": "Oorlogsmisdrijf"
+            },
+            {
+              "lang": "nn",
+              "title": "Krigsbrotsverk"
+            },
+            {
+              "lang": "nb",
+              "title": "Krigsforbrytelse"
+            },
+            {
+              "lang": "oc",
+              "title": "Crime de guèrra"
+            },
+            {
+              "lang": "pa",
+              "title": "ਯੁੱਧ ਅਪਰਾਧ"
+            },
+            {
+              "lang": "pl",
+              "title": "Zbrodnia wojenna"
+            },
+            {
+              "lang": "pt",
+              "title": "Crime de guerra"
+            },
+            {
+              "lang": "ro",
+              "title": "Crimă de război"
+            },
+            {
+              "lang": "ru",
+              "title": "Военное преступление"
+            },
+            {
+              "lang": "sc",
+              "title": "Crìmene de gherra"
+            },
+            {
+              "lang": "sh",
+              "title": "Ratni zločin"
+            },
+            {
+              "lang": "simple",
+              "title": "War crime"
+            },
+            {
+              "lang": "sk",
+              "title": "Vojnový zločin"
+            },
+            {
+              "lang": "sl",
+              "title": "Vojni zločin"
+            },
+            {
+              "lang": "sq",
+              "title": "Krimet e luftës"
+            },
+            {
+              "lang": "sr",
+              "title": "Ратни злочин"
+            },
+            {
+              "lang": "sv",
+              "title": "Brott mot krigets lagar"
+            },
+            {
+              "lang": "ta",
+              "title": "போர் குற்றம்"
+            },
+            {
+              "lang": "th",
+              "title": "อาชญากรรมสงคราม"
+            },
+            {
+              "lang": "tr",
+              "title": "Savaş suçu"
+            },
+            {
+              "lang": "uk",
+              "title": "Воєнний злочин"
+            },
+            {
+              "lang": "ur",
+              "title": "جنگی جرائم"
+            },
+            {
+              "lang": "uz",
+              "title": "Harbiy jinoyatlar"
+            },
+            {
+              "lang": "vi",
+              "title": "Tội ác chiến tranh"
+            },
+            {
+              "lang": "wuu",
+              "title": "战争罪"
+            },
+            {
+              "lang": "zh",
+              "title": "战争罪"
+            },
+            {
+              "lang": "yue",
+              "title": "戰爭罪"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

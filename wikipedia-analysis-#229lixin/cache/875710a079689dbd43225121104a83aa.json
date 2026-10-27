@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:01.575318",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081203153859|4519598",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 725651,
+          "ns": 0,
+          "title": "Ayrımcılık",
+          "revisions": [
+            {
+              "timestamp": "2008-12-03T15:37:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

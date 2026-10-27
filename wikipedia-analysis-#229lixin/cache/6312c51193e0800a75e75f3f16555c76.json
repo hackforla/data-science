@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:54.232424",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090717181849|2513007",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 324115,
+          "ns": 0,
+          "title": "Избори",
+          "revisions": [
+            {
+              "timestamp": "2009-07-17T18:02:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

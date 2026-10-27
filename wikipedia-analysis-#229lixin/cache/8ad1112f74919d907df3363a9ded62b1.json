@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:15.391710",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250718091342|42249241",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 44369,
+          "ns": 0,
+          "title": "شکنجه",
+          "revisions": [
+            {
+              "timestamp": "2025-08-23T15:24:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

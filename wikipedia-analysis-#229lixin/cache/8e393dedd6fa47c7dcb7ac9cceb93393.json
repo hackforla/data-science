@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:22.880090",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101012212202|46353",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 10306,
+          "ns": 0,
+          "title": "ကမ္ဘာကြီး ပူနွေးလာမှု",
+          "revisions": [
+            {
+              "timestamp": "2010-10-12T21:15:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:32.877982",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070804055226|14044326",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1104075,
+          "ns": 0,
+          "title": "無国籍",
+          "revisions": [
+            {
+              "timestamp": "2007-08-04T05:48:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

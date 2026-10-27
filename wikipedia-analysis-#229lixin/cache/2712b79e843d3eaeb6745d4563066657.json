@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:06.020302",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251123132251|148142704",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2709590,
+          "ns": 0,
+          "title": "Migrazione umana",
+          "revisions": [
+            {
+              "timestamp": "2025-11-30T11:23:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

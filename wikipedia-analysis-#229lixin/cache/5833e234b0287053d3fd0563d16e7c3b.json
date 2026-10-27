@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:56.451961",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250921044529|89222518",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 110134,
+          "ns": 0,
+          "title": "新闻自由",
+          "revisions": [
+            {
+              "timestamp": "2025-12-30T13:58:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

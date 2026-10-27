@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:39.617430",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080316163616|6483628",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 722794,
+          "ns": 0,
+          "title": "选举操控",
+          "revisions": [
+            {
+              "timestamp": "2008-03-13T22:12:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

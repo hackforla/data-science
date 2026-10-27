@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:16.538295",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251016085624|9144872",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 74445,
+          "ns": 0,
+          "title": "عالمگیر وبا",
+          "revisions": [
+            {
+              "timestamp": "2025-10-16T08:59:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

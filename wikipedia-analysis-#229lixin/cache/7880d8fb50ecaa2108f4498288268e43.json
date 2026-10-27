@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:14.566309",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040309015225|253064",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 52358,
+          "ns": 0,
+          "title": "洪水",
+          "revisions": [
+            {
+              "timestamp": "2004-02-08T08:41:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

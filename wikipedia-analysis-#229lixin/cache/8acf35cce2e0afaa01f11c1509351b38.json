@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:58.438589",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170720075122|32836",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6071,
+          "ns": 0,
+          "title": "Ƴan gudun hijira",
+          "revisions": [
+            {
+              "timestamp": "2017-06-24T12:23:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:51.858589",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100401212944|3088605",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 294874,
+          "ns": 0,
+          "title": "مهاجرت انسان",
+          "revisions": [
+            {
+              "timestamp": "2008-12-15T00:34:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

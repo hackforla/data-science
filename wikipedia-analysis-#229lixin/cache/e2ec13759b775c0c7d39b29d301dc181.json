@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:28.808521",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031220155800|36482",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9854,
+          "ns": 0,
+          "title": "地震",
+          "revisions": [
+            {
+              "timestamp": "2003-12-20T15:44:18Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

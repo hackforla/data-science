@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:07.021974",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080403153339|180101",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23576,
+          "ns": 0,
+          "title": "बाढ़",
+          "revisions": [
+            {
+              "timestamp": "2007-06-15T15:06:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

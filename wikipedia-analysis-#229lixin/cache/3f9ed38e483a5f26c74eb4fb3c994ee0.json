@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:42.268210",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260102223259|1330845212",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1125781,
+          "ns": 0,
+          "title": "Voter suppression",
+          "revisions": [
+            {
+              "timestamp": "2026-01-02T22:37:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

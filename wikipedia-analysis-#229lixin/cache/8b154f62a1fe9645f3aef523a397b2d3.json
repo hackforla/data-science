@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:37.597889",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241106153235|1361380",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 189966,
+          "ns": 0,
+          "title": "Uchaguzi wa Rais wa Marekani, 2024",
+          "revisions": [
+            {
+              "timestamp": "2024-11-06T15:30:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

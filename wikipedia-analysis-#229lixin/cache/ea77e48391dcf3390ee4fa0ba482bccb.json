@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:30.314457",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031129023736|105878",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 30370,
+          "ns": 0,
+          "title": "拷問",
+          "revisions": [
+            {
+              "timestamp": "2003-11-29T02:33:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

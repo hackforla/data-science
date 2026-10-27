@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:36.117008",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120813115840|547513",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 77140,
+          "ns": 0,
+          "title": "انتخابی دھاندلی",
+          "revisions": [
+            {
+              "timestamp": "2012-08-13T10:51:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:26.795705",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081116192206|1838664",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 109566,
+          "ns": 0,
+          "title": "Penyiksaan",
+          "revisions": [
+            {
+              "timestamp": "2006-10-28T05:58:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:57.321568",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250830115003|35953074",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1029198,
+          "ns": 0,
+          "title": "Evsizlik",
+          "revisions": [
+            {
+              "timestamp": "2025-10-27T19:53:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

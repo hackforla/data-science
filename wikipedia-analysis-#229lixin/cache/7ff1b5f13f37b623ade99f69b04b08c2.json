@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:28.130019",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040408172523|255185",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17429,
+          "ns": 0,
+          "title": "Droogte",
+          "revisions": [
+            {
+              "timestamp": "2003-07-26T08:10:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

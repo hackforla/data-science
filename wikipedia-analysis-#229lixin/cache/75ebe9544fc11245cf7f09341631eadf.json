@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:24.513886",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250920173255|69906344",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5531182,
+          "ns": 0,
+          "title": "Amerikaanse presidentsverkiezingen 2024",
+          "revisions": [
+            {
+              "timestamp": "2025-09-20T17:40:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

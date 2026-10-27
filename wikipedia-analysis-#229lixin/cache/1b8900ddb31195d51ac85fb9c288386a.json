@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:48.440497",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110220181540|922006",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 248698,
+          "ns": 0,
+          "title": "नरसंहार",
+          "revisions": [
+            {
+              "timestamp": "2011-02-20T17:10:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

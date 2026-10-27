@@ -1,0 +1,360 @@
+{
+  "cached_at": "2026-01-26T00:28:58.794091",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 17253537,
+          "ns": 0,
+          "title": "Censorship",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Sensuur"
+            },
+            {
+              "lang": "ar",
+              "title": "رقابة"
+            },
+            {
+              "lang": "arz",
+              "title": "الرقابه"
+            },
+            {
+              "lang": "ast",
+              "title": "Censura"
+            },
+            {
+              "lang": "az",
+              "title": "Senzura"
+            },
+            {
+              "lang": "ba",
+              "title": "Цензура"
+            },
+            {
+              "lang": "be",
+              "title": "Цэнзура"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Цэнзура"
+            },
+            {
+              "lang": "bg",
+              "title": "Цензура"
+            },
+            {
+              "lang": "bn",
+              "title": "বিবাচন"
+            },
+            {
+              "lang": "bs",
+              "title": "Cenzura"
+            },
+            {
+              "lang": "ca",
+              "title": "Censura"
+            },
+            {
+              "lang": "ckb",
+              "title": "سانسۆرکردن"
+            },
+            {
+              "lang": "cs",
+              "title": "Cenzura"
+            },
+            {
+              "lang": "cy",
+              "title": "Sensoriaeth"
+            },
+            {
+              "lang": "da",
+              "title": "Censur"
+            },
+            {
+              "lang": "de",
+              "title": "Zensur (Informationskontrolle)"
+            },
+            {
+              "lang": "diq",
+              "title": "Sansur"
+            },
+            {
+              "lang": "el",
+              "title": "Λογοκρισία"
+            },
+            {
+              "lang": "eo",
+              "title": "Cenzuro"
+            },
+            {
+              "lang": "es",
+              "title": "Censura"
+            },
+            {
+              "lang": "et",
+              "title": "Tsensuur"
+            },
+            {
+              "lang": "eu",
+              "title": "Zentsura"
+            },
+            {
+              "lang": "fa",
+              "title": "سانسور"
+            },
+            {
+              "lang": "fi",
+              "title": "Sensuuri"
+            },
+            {
+              "lang": "fr",
+              "title": "Censure"
+            },
+            {
+              "lang": "gl",
+              "title": "Censura"
+            },
+            {
+              "lang": "he",
+              "title": "צנזורה"
+            },
+            {
+              "lang": "hi",
+              "title": "अभिवेचन"
+            },
+            {
+              "lang": "hr",
+              "title": "Cenzura"
+            },
+            {
+              "lang": "hu",
+              "title": "Cenzúra"
+            },
+            {
+              "lang": "hy",
+              "title": "Գրաքննություն"
+            },
+            {
+              "lang": "ia",
+              "title": "Censura"
+            },
+            {
+              "lang": "id",
+              "title": "Penyensoran"
+            },
+            {
+              "lang": "io",
+              "title": "Censuro"
+            },
+            {
+              "lang": "is",
+              "title": "Ritskoðun"
+            },
+            {
+              "lang": "it",
+              "title": "Censura"
+            },
+            {
+              "lang": "ja",
+              "title": "検閲"
+            },
+            {
+              "lang": "ka",
+              "title": "ცენზურა"
+            },
+            {
+              "lang": "kk",
+              "title": "Цензура"
+            },
+            {
+              "lang": "ko",
+              "title": "검열"
+            },
+            {
+              "lang": "ku",
+              "title": "Sensûr"
+            },
+            {
+              "lang": "ky",
+              "title": "Цензура"
+            },
+            {
+              "lang": "la",
+              "title": "Censura"
+            },
+            {
+              "lang": "lb",
+              "title": "Zensur (Kontroll)"
+            },
+            {
+              "lang": "lt",
+              "title": "Cenzūra"
+            },
+            {
+              "lang": "lv",
+              "title": "Cenzūra"
+            },
+            {
+              "lang": "mdf",
+              "title": "Цензурась"
+            },
+            {
+              "lang": "mk",
+              "title": "Цензура"
+            },
+            {
+              "lang": "mn",
+              "title": "Цагдан хяналт"
+            },
+            {
+              "lang": "mr",
+              "title": "परिनिरीक्षण"
+            },
+            {
+              "lang": "ms",
+              "title": "Penapisan"
+            },
+            {
+              "lang": "my",
+              "title": "ဆင်ဆာပြုလုပ်ခြင်း"
+            },
+            {
+              "lang": "nl",
+              "title": "Censuur (informatie)"
+            },
+            {
+              "lang": "nn",
+              "title": "Sensur"
+            },
+            {
+              "lang": "nb",
+              "title": "Sensur"
+            },
+            {
+              "lang": "oc",
+              "title": "Censura"
+            },
+            {
+              "lang": "pa",
+              "title": "ਸੈਂਸਰਸ਼ਿਪ"
+            },
+            {
+              "lang": "pl",
+              "title": "Cenzura"
+            },
+            {
+              "lang": "ps",
+              "title": "سانسور"
+            },
+            {
+              "lang": "pt",
+              "title": "Censura"
+            },
+            {
+              "lang": "ro",
+              "title": "Cenzură"
+            },
+            {
+              "lang": "ru",
+              "title": "Цензура"
+            },
+            {
+              "lang": "rue",
+              "title": "Цензура"
+            },
+            {
+              "lang": "sc",
+              "title": "Tzensura"
+            },
+            {
+              "lang": "sd",
+              "title": "سينسرشپ"
+            },
+            {
+              "lang": "sh",
+              "title": "Cenzura"
+            },
+            {
+              "lang": "simple",
+              "title": "Censorship"
+            },
+            {
+              "lang": "sk",
+              "title": "Cenzúra (kontrola informácií)"
+            },
+            {
+              "lang": "sl",
+              "title": "Cenzura"
+            },
+            {
+              "lang": "sq",
+              "title": "Censurimi"
+            },
+            {
+              "lang": "sr",
+              "title": "Цензура"
+            },
+            {
+              "lang": "sv",
+              "title": "Censur"
+            },
+            {
+              "lang": "ta",
+              "title": "தணிக்கை"
+            },
+            {
+              "lang": "th",
+              "title": "การเซ็นเซอร์"
+            },
+            {
+              "lang": "tr",
+              "title": "Sansür"
+            },
+            {
+              "lang": "tyv",
+              "title": "Цензура"
+            },
+            {
+              "lang": "uk",
+              "title": "Цензура"
+            },
+            {
+              "lang": "ur",
+              "title": "سینسرشپ"
+            },
+            {
+              "lang": "uz",
+              "title": "Senzura"
+            },
+            {
+              "lang": "vi",
+              "title": "Kiểm duyệt"
+            },
+            {
+              "lang": "wuu",
+              "title": "审查制度"
+            },
+            {
+              "lang": "yi",
+              "title": "צענזור"
+            },
+            {
+              "lang": "zh",
+              "title": "审查制度"
+            },
+            {
+              "lang": "yue",
+              "title": "審查"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

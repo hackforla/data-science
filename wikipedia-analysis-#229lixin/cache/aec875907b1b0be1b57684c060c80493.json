@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:16.899069",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060221044014|279089",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48037,
+          "ns": 0,
+          "title": "인권",
+          "revisions": [
+            {
+              "timestamp": "2006-01-09T21:36:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:41.957914",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170203174155|22362848",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3432344,
+          "ns": 0,
+          "title": "طالب لجوء",
+          "revisions": [
+            {
+              "timestamp": "2017-02-03T17:05:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

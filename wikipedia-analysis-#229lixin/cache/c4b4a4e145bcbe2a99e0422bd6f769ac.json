@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:59.263176",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040608064101|442751",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 96712,
+          "ns": 0,
+          "title": "異常気象",
+          "revisions": [
+            {
+              "timestamp": "2004-06-08T06:11:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

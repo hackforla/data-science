@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:13.640299",
+  "response": {
+    "continue": {
+      "rvcontinue": "20011109165921|334909759",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 33158,
+          "ns": 0,
+          "title": "War",
+          "revisions": [
+            {
+              "timestamp": "2001-10-15T17:26:44Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

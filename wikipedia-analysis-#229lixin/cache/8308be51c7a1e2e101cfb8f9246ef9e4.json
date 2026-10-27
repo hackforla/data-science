@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:47.303424",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251103052639|12637611",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 177551,
+          "ns": 0,
+          "title": "เสรีภาพในการพูด",
+          "revisions": [
+            {
+              "timestamp": "2025-11-11T04:15:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

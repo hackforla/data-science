@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:46.618011",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220326174158|5497571",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 166711,
+          "ns": 0,
+          "title": "टीका (वैक्सीन)",
+          "revisions": [
+            {
+              "timestamp": "2023-01-05T16:12:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

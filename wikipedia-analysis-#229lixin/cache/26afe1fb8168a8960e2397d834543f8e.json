@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:42.263881",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251209001601|25493581",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16082,
+          "ns": 0,
+          "title": "Světová zdravotnická organizace",
+          "revisions": [
+            {
+              "timestamp": "2026-01-25T14:15:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

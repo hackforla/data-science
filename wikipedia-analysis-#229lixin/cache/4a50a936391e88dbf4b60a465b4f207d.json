@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:09.190109",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030726193736|218238",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 47333,
+          "ns": 0,
+          "title": "Folter",
+          "revisions": [
+            {
+              "timestamp": "2003-07-26T19:29:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

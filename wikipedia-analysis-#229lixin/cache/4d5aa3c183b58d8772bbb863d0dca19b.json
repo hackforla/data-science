@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:34.633082",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220916140434|514269",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21648,
+          "ns": 0,
+          "title": "‍දේශගුණික විපර්යාස",
+          "revisions": [
+            {
+              "timestamp": "2023-07-24T11:37:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

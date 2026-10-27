@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:19.991895",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190326111333|14942630",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2768285,
+          "ns": 0,
+          "title": "Pengendalian perbatasan",
+          "revisions": [
+            {
+              "timestamp": "2019-03-21T03:17:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

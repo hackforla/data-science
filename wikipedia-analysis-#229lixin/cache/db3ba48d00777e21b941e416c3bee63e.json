@@ -1,0 +1,18 @@
+{
+  "cached_at": "2026-01-26T00:33:03.660965",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 22991970,
+          "ns": 0,
+          "title": "LGBT rights"
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:43.029389",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051214190540|590051",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 119265,
+          "ns": 0,
+          "title": "Пытка",
+          "revisions": [
+            {
+              "timestamp": "2005-12-14T19:00:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

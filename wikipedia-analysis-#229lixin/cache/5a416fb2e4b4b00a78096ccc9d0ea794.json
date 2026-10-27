@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:54.998455",
+  "response": {
+    "continue": {
+      "rvcontinue": "20221027151113|28747020",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3466229,
+          "ns": 0,
+          "title": "Ülke içinde yerinden edilmiş kişi",
+          "revisions": [
+            {
+              "timestamp": "2022-10-27T14:47:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

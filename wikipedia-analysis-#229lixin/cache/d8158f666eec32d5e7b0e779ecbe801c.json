@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:39.094750",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250919103618|42735791",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 53145,
+          "ns": 0,
+          "title": "واکسن",
+          "revisions": [
+            {
+              "timestamp": "2025-09-19T10:40:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

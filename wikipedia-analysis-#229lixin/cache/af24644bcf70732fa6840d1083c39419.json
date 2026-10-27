@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:55.009016",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251019153313|36221641",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7733,
+          "ns": 0,
+          "title": "Demokrasi",
+          "revisions": [
+            {
+              "timestamp": "2025-11-01T18:00:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

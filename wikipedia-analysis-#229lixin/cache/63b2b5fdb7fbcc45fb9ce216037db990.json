@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:43.892000",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080609140112|9382528",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1253240,
+          "ns": 0,
+          "title": "Торговля людьми",
+          "revisions": [
+            {
+              "timestamp": "2008-06-09T13:54:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

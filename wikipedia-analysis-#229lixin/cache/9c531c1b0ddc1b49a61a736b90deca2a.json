@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:42.052922",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140302132027|50876239",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1555888,
+          "ns": 0,
+          "title": "人種主義",
+          "revisions": [
+            {
+              "timestamp": "2008-09-12T16:26:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

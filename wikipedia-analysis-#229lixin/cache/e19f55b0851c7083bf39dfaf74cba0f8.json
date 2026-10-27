@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:24.720070",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061229085548|3230135",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 465340,
+          "ns": 0,
+          "title": "疫苗",
+          "revisions": [
+            {
+              "timestamp": "2006-12-29T07:59:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

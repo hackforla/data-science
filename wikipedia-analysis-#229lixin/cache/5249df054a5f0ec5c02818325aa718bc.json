@@ -1,0 +1,696 @@
+{
+  "cached_at": "2026-01-26T00:05:04.518406",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 30653,
+          "ns": 0,
+          "title": "Tuberculosis",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Tuberkulose"
+            },
+            {
+              "lang": "gsw",
+              "title": "Tuberkulose"
+            },
+            {
+              "lang": "am",
+              "title": "የሳንባ ነቀርሳ"
+            },
+            {
+              "lang": "an",
+              "title": "Tuberculosi"
+            },
+            {
+              "lang": "anp",
+              "title": "क्षयरोग"
+            },
+            {
+              "lang": "ar",
+              "title": "سل"
+            },
+            {
+              "lang": "arz",
+              "title": "سل"
+            },
+            {
+              "lang": "as",
+              "title": "যক্ষ্মা"
+            },
+            {
+              "lang": "ast",
+              "title": "Tuberculosis"
+            },
+            {
+              "lang": "awa",
+              "title": "टीबी"
+            },
+            {
+              "lang": "ay",
+              "title": "Tisiku"
+            },
+            {
+              "lang": "az",
+              "title": "Vərəm"
+            },
+            {
+              "lang": "azb",
+              "title": "ورم/سل"
+            },
+            {
+              "lang": "ba",
+              "title": "Туберкулёз"
+            },
+            {
+              "lang": "sgs",
+              "title": "Džiuova"
+            },
+            {
+              "lang": "be",
+              "title": "Туберкулёз"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Сухоты"
+            },
+            {
+              "lang": "bg",
+              "title": "Туберкулоза"
+            },
+            {
+              "lang": "bjn",
+              "title": "Téréng"
+            },
+            {
+              "lang": "blk",
+              "title": "တီဘီရောႏဂါႏ"
+            },
+            {
+              "lang": "bm",
+              "title": "Sɔgɔsɔgɔnicɛ"
+            },
+            {
+              "lang": "bn",
+              "title": "যক্ষ্মা"
+            },
+            {
+              "lang": "bo",
+              "title": "གློ་གཅོང་གི་ནད།"
+            },
+            {
+              "lang": "br",
+              "title": "Torzhellegezh"
+            },
+            {
+              "lang": "bs",
+              "title": "Tuberkuloza"
+            },
+            {
+              "lang": "bxr",
+              "title": "Сүрьеэ үбшэн"
+            },
+            {
+              "lang": "ca",
+              "title": "Tuberculosi"
+            },
+            {
+              "lang": "ckb",
+              "title": "دەردەباریکە"
+            },
+            {
+              "lang": "cs",
+              "title": "Tuberkulóza"
+            },
+            {
+              "lang": "cv",
+              "title": "Туберкулёз"
+            },
+            {
+              "lang": "cy",
+              "title": "Diciâu"
+            },
+            {
+              "lang": "da",
+              "title": "Tuberkulose"
+            },
+            {
+              "lang": "dag",
+              "title": "Kɔhimpiɛligu"
+            },
+            {
+              "lang": "de",
+              "title": "Tuberkulose"
+            },
+            {
+              "lang": "din",
+              "title": "Nyaŋyiel"
+            },
+            {
+              "lang": "dty",
+              "title": "क्षयरोग"
+            },
+            {
+              "lang": "el",
+              "title": "Φυματίωση"
+            },
+            {
+              "lang": "eo",
+              "title": "Tuberkulozo"
+            },
+            {
+              "lang": "es",
+              "title": "Tuberculosis"
+            },
+            {
+              "lang": "et",
+              "title": "Tuberkuloos"
+            },
+            {
+              "lang": "eu",
+              "title": "Tuberkulosi"
+            },
+            {
+              "lang": "fa",
+              "title": "سل"
+            },
+            {
+              "lang": "fi",
+              "title": "Tuberkuloosi"
+            },
+            {
+              "lang": "vro",
+              "title": "Tiisikus"
+            },
+            {
+              "lang": "fo",
+              "title": "Tuberklar"
+            },
+            {
+              "lang": "fr",
+              "title": "Tuberculose"
+            },
+            {
+              "lang": "frr",
+              "title": "Teerin"
+            },
+            {
+              "lang": "fy",
+              "title": "Tuberkuloaze"
+            },
+            {
+              "lang": "ga",
+              "title": "An eitinn"
+            },
+            {
+              "lang": "gcr",
+              "title": "Tiberkiloz moun"
+            },
+            {
+              "lang": "gd",
+              "title": "A' Chaitheamh"
+            },
+            {
+              "lang": "gl",
+              "title": "Tuberculose"
+            },
+            {
+              "lang": "gn",
+              "title": "Mba'asy po'i"
+            },
+            {
+              "lang": "gpe",
+              "title": "Tuberculosis"
+            },
+            {
+              "lang": "gu",
+              "title": "ક્ષય રોગ"
+            },
+            {
+              "lang": "gv",
+              "title": "Gorley shymlee"
+            },
+            {
+              "lang": "ha",
+              "title": "Tarin fuka"
+            },
+            {
+              "lang": "hak",
+              "title": "Pot-thâm-fó"
+            },
+            {
+              "lang": "he",
+              "title": "שחפת"
+            },
+            {
+              "lang": "hi",
+              "title": "यक्ष्मा"
+            },
+            {
+              "lang": "hif",
+              "title": "TB"
+            },
+            {
+              "lang": "hr",
+              "title": "Tuberkuloza"
+            },
+            {
+              "lang": "ht",
+              "title": "Tibèkiloz"
+            },
+            {
+              "lang": "hu",
+              "title": "Gümőkór"
+            },
+            {
+              "lang": "hy",
+              "title": "Տուբերկուլոզ"
+            },
+            {
+              "lang": "hyw",
+              "title": "Թոքախտ"
+            },
+            {
+              "lang": "ia",
+              "title": "Tuberculosis"
+            },
+            {
+              "lang": "id",
+              "title": "Tuberkulosis"
+            },
+            {
+              "lang": "ilo",
+              "title": "Daig"
+            },
+            {
+              "lang": "io",
+              "title": "Tuberkuloso"
+            },
+            {
+              "lang": "is",
+              "title": "Berklar"
+            },
+            {
+              "lang": "it",
+              "title": "Tubercolosi"
+            },
+            {
+              "lang": "ja",
+              "title": "結核"
+            },
+            {
+              "lang": "jam",
+              "title": "Tyuubakuluosis"
+            },
+            {
+              "lang": "jv",
+              "title": "Tuberkulosis"
+            },
+            {
+              "lang": "ka",
+              "title": "ტუბერკულოზი"
+            },
+            {
+              "lang": "kbp",
+              "title": "Kpeziwɩlaɣ kʊdɔŋ"
+            },
+            {
+              "lang": "kk",
+              "title": "Туберкулез"
+            },
+            {
+              "lang": "kn",
+              "title": "ಕ್ಷಯ"
+            },
+            {
+              "lang": "ko",
+              "title": "결핵"
+            },
+            {
+              "lang": "ks",
+              "title": "سِلہٕ"
+            },
+            {
+              "lang": "ku",
+              "title": "Tuberkuloz"
+            },
+            {
+              "lang": "ky",
+              "title": "Кургак учук"
+            },
+            {
+              "lang": "la",
+              "title": "Phthisis"
+            },
+            {
+              "lang": "lb",
+              "title": "Tuberkulos"
+            },
+            {
+              "lang": "lez",
+              "title": "Верем"
+            },
+            {
+              "lang": "lfn",
+              "title": "Tuberculose"
+            },
+            {
+              "lang": "lg",
+              "title": "Akafuba bulwadde"
+            },
+            {
+              "lang": "li",
+              "title": "Taering"
+            },
+            {
+              "lang": "lmo",
+              "title": "Tisi"
+            },
+            {
+              "lang": "ln",
+              "title": "Tibélekilosi"
+            },
+            {
+              "lang": "lo",
+              "title": "ວັນນະໂລກ"
+            },
+            {
+              "lang": "lt",
+              "title": "Tuberkuliozė"
+            },
+            {
+              "lang": "lv",
+              "title": "Tuberkuloze"
+            },
+            {
+              "lang": "mg",
+              "title": "Raboka"
+            },
+            {
+              "lang": "mk",
+              "title": "Туберкулоза"
+            },
+            {
+              "lang": "ml",
+              "title": "ക്ഷയം"
+            },
+            {
+              "lang": "mn",
+              "title": "Сүрьеэ"
+            },
+            {
+              "lang": "mr",
+              "title": "क्षय रोग"
+            },
+            {
+              "lang": "ms",
+              "title": "Tuberkulosis"
+            },
+            {
+              "lang": "mt",
+              "title": "Tuberkulożi"
+            },
+            {
+              "lang": "my",
+              "title": "တီဘီရောဂါ"
+            },
+            {
+              "lang": "nah",
+              "title": "Tētzāuhcocoliztli"
+            },
+            {
+              "lang": "nds",
+              "title": "Tuberkulose"
+            },
+            {
+              "lang": "ne",
+              "title": "क्षयरोग"
+            },
+            {
+              "lang": "new",
+              "title": "गंल्वय्"
+            },
+            {
+              "lang": "nl",
+              "title": "Tuberculose"
+            },
+            {
+              "lang": "nn",
+              "title": "Tuberkulose"
+            },
+            {
+              "lang": "nb",
+              "title": "Tuberkulose"
+            },
+            {
+              "lang": "nv",
+              "title": "Jéíʼádįįh"
+            },
+            {
+              "lang": "ny",
+              "title": "Chifuwa Chachikulu"
+            },
+            {
+              "lang": "oc",
+              "title": "Tuberculòsi"
+            },
+            {
+              "lang": "or",
+              "title": "ଯକ୍ଷ୍ମା"
+            },
+            {
+              "lang": "pa",
+              "title": "ਟੀਬੀ"
+            },
+            {
+              "lang": "pl",
+              "title": "Gruźlica człowieka"
+            },
+            {
+              "lang": "pms",
+              "title": "Tubercolosi"
+            },
+            {
+              "lang": "pnb",
+              "title": "ٹی بی"
+            },
+            {
+              "lang": "ps",
+              "title": "نری رنځ"
+            },
+            {
+              "lang": "pt",
+              "title": "Tuberculose"
+            },
+            {
+              "lang": "qu",
+              "title": "Qhaqya unquy"
+            },
+            {
+              "lang": "ro",
+              "title": "Tuberculoză"
+            },
+            {
+              "lang": "ru",
+              "title": "Туберкулёз"
+            },
+            {
+              "lang": "rue",
+              "title": "Туберкулоза"
+            },
+            {
+              "lang": "sa",
+              "title": "क्षयरोगः"
+            },
+            {
+              "lang": "sah",
+              "title": "Сэллик"
+            },
+            {
+              "lang": "sat",
+              "title": "ᱥᱟᱦᱟᱸᱥ"
+            },
+            {
+              "lang": "sc",
+              "title": "Tisichèntzia"
+            },
+            {
+              "lang": "scn",
+              "title": "Tubbirculosi"
+            },
+            {
+              "lang": "sd",
+              "title": "سلهہ"
+            },
+            {
+              "lang": "sh",
+              "title": "Tuberkuloza"
+            },
+            {
+              "lang": "si",
+              "title": "ක්‍ෂය රෝගය"
+            },
+            {
+              "lang": "simple",
+              "title": "Tuberculosis"
+            },
+            {
+              "lang": "sk",
+              "title": "Tuberkulóza"
+            },
+            {
+              "lang": "sl",
+              "title": "Tuberkuloza"
+            },
+            {
+              "lang": "smn",
+              "title": "Tuberkulos"
+            },
+            {
+              "lang": "sn",
+              "title": "Rurindi"
+            },
+            {
+              "lang": "sq",
+              "title": "Tuberkulozi"
+            },
+            {
+              "lang": "sr",
+              "title": "Туберкулоза"
+            },
+            {
+              "lang": "ss",
+              "title": "Tuberculosis"
+            },
+            {
+              "lang": "st",
+              "title": "Lefuba"
+            },
+            {
+              "lang": "su",
+              "title": "Tuberkulosis"
+            },
+            {
+              "lang": "sv",
+              "title": "Tuberkulos"
+            },
+            {
+              "lang": "sw",
+              "title": "Kifua kikuu"
+            },
+            {
+              "lang": "szl",
+              "title": "Tubera"
+            },
+            {
+              "lang": "ta",
+              "title": "காச நோய்"
+            },
+            {
+              "lang": "te",
+              "title": "క్షయ"
+            },
+            {
+              "lang": "tg",
+              "title": "Бемории сил"
+            },
+            {
+              "lang": "th",
+              "title": "วัณโรค"
+            },
+            {
+              "lang": "tk",
+              "title": "Inçekesel"
+            },
+            {
+              "lang": "tl",
+              "title": "Tuberkulosis"
+            },
+            {
+              "lang": "tr",
+              "title": "Verem"
+            },
+            {
+              "lang": "trv",
+              "title": "Meru mnarux teerang"
+            },
+            {
+              "lang": "tt",
+              "title": "Туберкулёз"
+            },
+            {
+              "lang": "tw",
+              "title": "Nsamanwa"
+            },
+            {
+              "lang": "tyv",
+              "title": "Туберкулёз"
+            },
+            {
+              "lang": "uk",
+              "title": "Туберкульоз"
+            },
+            {
+              "lang": "ur",
+              "title": "سل"
+            },
+            {
+              "lang": "uz",
+              "title": "Sil"
+            },
+            {
+              "lang": "vi",
+              "title": "Lao"
+            },
+            {
+              "lang": "wa",
+              "title": "Pitizeye des djins"
+            },
+            {
+              "lang": "war",
+              "title": "Tuberculosis"
+            },
+            {
+              "lang": "wo",
+              "title": "Tuberculosis"
+            },
+            {
+              "lang": "wuu",
+              "title": "结核病"
+            },
+            {
+              "lang": "xh",
+              "title": "Isifo sephepha"
+            },
+            {
+              "lang": "yi",
+              "title": "טובערקולאז"
+            },
+            {
+              "lang": "za",
+              "title": "Lauzae"
+            },
+            {
+              "lang": "zh",
+              "title": "结核病"
+            },
+            {
+              "lang": "nan",
+              "title": "Hì-lô-pēⁿ"
+            },
+            {
+              "lang": "yue",
+              "title": "肺癆"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

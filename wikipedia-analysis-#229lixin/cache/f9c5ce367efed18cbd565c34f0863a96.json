@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:08.569048",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050318203329|153272",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35239,
+          "ns": 0,
+          "title": "Смъртно наказание",
+          "revisions": [
+            {
+              "timestamp": "2005-01-25T12:21:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

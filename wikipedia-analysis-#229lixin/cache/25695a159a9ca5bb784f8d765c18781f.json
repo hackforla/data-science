@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:56.499038",
+  "response": {
+    "continue": {
+      "rvcontinue": "20211013113543|26324297",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 558415,
+          "ns": 0,
+          "title": "Çocuk işçiler",
+          "revisions": [
+            {
+              "timestamp": "2023-10-30T13:27:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

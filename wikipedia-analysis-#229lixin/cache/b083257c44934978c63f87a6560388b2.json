@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:16.219680",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030531105202|82125",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18625,
+          "ns": 0,
+          "title": "Światowa Organizacja Zdrowia",
+          "revisions": [
+            {
+              "timestamp": "2003-05-31T09:11:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

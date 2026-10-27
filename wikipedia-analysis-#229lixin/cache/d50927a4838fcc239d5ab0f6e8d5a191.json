@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:28.598324",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240815025543|505515",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40413,
+          "ns": 0,
+          "title": "Wariya",
+          "revisions": [
+            {
+              "timestamp": "2024-08-15T02:56:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

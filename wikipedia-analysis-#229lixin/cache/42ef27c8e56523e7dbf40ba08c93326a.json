@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:20.789656",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170525185957|23347025",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3642663,
+          "ns": 0,
+          "title": "جدل اللقاحات",
+          "revisions": [
+            {
+              "timestamp": "2017-05-25T18:54:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

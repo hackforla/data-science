@@ -1,0 +1,332 @@
+{
+  "cached_at": "2026-01-26T00:29:59.163391",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 19333662,
+          "ns": 0,
+          "title": "Human trafficking",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "الاتجار بالبشر"
+            },
+            {
+              "lang": "ary",
+              "title": "طرافيك د بنادم"
+            },
+            {
+              "lang": "az",
+              "title": "İnsan alveri"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Гандаль людзьмі"
+            },
+            {
+              "lang": "bg",
+              "title": "Трафик на хора"
+            },
+            {
+              "lang": "blk",
+              "title": "ထာꩻစာအမ်ႏလိုꩻ"
+            },
+            {
+              "lang": "bn",
+              "title": "মানব পাচার"
+            },
+            {
+              "lang": "bs",
+              "title": "Trgovanje ljudima"
+            },
+            {
+              "lang": "ca",
+              "title": "Tràfic de persones"
+            },
+            {
+              "lang": "ckb",
+              "title": "بازرگانیی مرۆڤ"
+            },
+            {
+              "lang": "cs",
+              "title": "Obchod s lidmi"
+            },
+            {
+              "lang": "cy",
+              "title": "Masnachu pobl"
+            },
+            {
+              "lang": "da",
+              "title": "Menneskehandel"
+            },
+            {
+              "lang": "de",
+              "title": "Menschenhandel"
+            },
+            {
+              "lang": "el",
+              "title": "Εμπορία ανθρώπων"
+            },
+            {
+              "lang": "eo",
+              "title": "Homvendado"
+            },
+            {
+              "lang": "es",
+              "title": "Trata de personas"
+            },
+            {
+              "lang": "et",
+              "title": "Inimkaubandus"
+            },
+            {
+              "lang": "eu",
+              "title": "Gizakien salerosketa"
+            },
+            {
+              "lang": "fa",
+              "title": "قاچاق انسان"
+            },
+            {
+              "lang": "fi",
+              "title": "Ihmiskauppa"
+            },
+            {
+              "lang": "fr",
+              "title": "Traite des êtres humains"
+            },
+            {
+              "lang": "fy",
+              "title": "Minskehannel"
+            },
+            {
+              "lang": "ga",
+              "title": "Gáinneáil ar dhaoine"
+            },
+            {
+              "lang": "gl",
+              "title": "Tráfico de persoas"
+            },
+            {
+              "lang": "ha",
+              "title": "Safarar Mutane"
+            },
+            {
+              "lang": "he",
+              "title": "סחר בבני אדם"
+            },
+            {
+              "lang": "hi",
+              "title": "मानव तस्करी"
+            },
+            {
+              "lang": "hr",
+              "title": "Trgovanje ljudima"
+            },
+            {
+              "lang": "hu",
+              "title": "Emberkereskedelem"
+            },
+            {
+              "lang": "hy",
+              "title": "Թրաֆիքինգ"
+            },
+            {
+              "lang": "ia",
+              "title": "Tracta de personas"
+            },
+            {
+              "lang": "id",
+              "title": "Perdagangan manusia"
+            },
+            {
+              "lang": "is",
+              "title": "Mansal"
+            },
+            {
+              "lang": "it",
+              "title": "Tratta di esseri umani"
+            },
+            {
+              "lang": "ja",
+              "title": "人身売買"
+            },
+            {
+              "lang": "ka",
+              "title": "ტრეფიკინგი"
+            },
+            {
+              "lang": "ko",
+              "title": "인신매매"
+            },
+            {
+              "lang": "la",
+              "title": "Mercatus hominum"
+            },
+            {
+              "lang": "lb",
+              "title": "Mënschenhandel"
+            },
+            {
+              "lang": "lfn",
+              "title": "Trafica de persones"
+            },
+            {
+              "lang": "lo",
+              "title": "ການຄ້າມະນຸດ"
+            },
+            {
+              "lang": "lt",
+              "title": "Prekyba žmonėmis"
+            },
+            {
+              "lang": "lv",
+              "title": "Cilvēku tirdzniecība"
+            },
+            {
+              "lang": "mai",
+              "title": "मानव तस्करी"
+            },
+            {
+              "lang": "mk",
+              "title": "Трговија со луѓе"
+            },
+            {
+              "lang": "mn",
+              "title": "Хүний наймаа"
+            },
+            {
+              "lang": "ms",
+              "title": "Pemerdagangan manusia"
+            },
+            {
+              "lang": "my",
+              "title": "လူကုန်ကူးခြင်း"
+            },
+            {
+              "lang": "ne",
+              "title": "मानव तस्करी"
+            },
+            {
+              "lang": "nl",
+              "title": "Mensenhandel"
+            },
+            {
+              "lang": "nn",
+              "title": "Menneskehandel"
+            },
+            {
+              "lang": "nb",
+              "title": "Menneskehandel"
+            },
+            {
+              "lang": "pa",
+              "title": "ਮਨੁੱਖੀ ਤਸਕਰੀ"
+            },
+            {
+              "lang": "pap",
+              "title": "Traficacion di hende"
+            },
+            {
+              "lang": "pcm",
+              "title": "Human trafficking"
+            },
+            {
+              "lang": "pl",
+              "title": "Handel ludźmi"
+            },
+            {
+              "lang": "pt",
+              "title": "Tráfico de pessoas"
+            },
+            {
+              "lang": "ro",
+              "title": "Trafic de persoane"
+            },
+            {
+              "lang": "ru",
+              "title": "Торговля людьми"
+            },
+            {
+              "lang": "simple",
+              "title": "Human trafficking"
+            },
+            {
+              "lang": "sk",
+              "title": "Obchodovanie s ľuďmi"
+            },
+            {
+              "lang": "sl",
+              "title": "Trgovina z ljudmi"
+            },
+            {
+              "lang": "so",
+              "title": "Aafda tahriibka"
+            },
+            {
+              "lang": "sq",
+              "title": "Trafikimi i qenieve njerëzore"
+            },
+            {
+              "lang": "sr",
+              "title": "Трговина људима"
+            },
+            {
+              "lang": "sv",
+              "title": "Människohandel"
+            },
+            {
+              "lang": "ta",
+              "title": "மாந்தக் கடத்துகை"
+            },
+            {
+              "lang": "th",
+              "title": "การค้ามนุษย์"
+            },
+            {
+              "lang": "tl",
+              "title": "Pangangalakal ng tao"
+            },
+            {
+              "lang": "tr",
+              "title": "İnsan ticareti"
+            },
+            {
+              "lang": "uk",
+              "title": "Торгівля людьми"
+            },
+            {
+              "lang": "ur",
+              "title": "انسانی بازارکاری"
+            },
+            {
+              "lang": "vi",
+              "title": "Buôn người"
+            },
+            {
+              "lang": "wuu",
+              "title": "人口贩卖"
+            },
+            {
+              "lang": "yo",
+              "title": "Ènìyàn gbígbé káàkiri"
+            },
+            {
+              "lang": "zh",
+              "title": "人口贩卖"
+            },
+            {
+              "lang": "zu",
+              "title": "Ukushushumbiswa kwabantu"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

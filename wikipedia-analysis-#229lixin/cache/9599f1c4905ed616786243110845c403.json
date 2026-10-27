@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:57.611588",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260106063909|232181723",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 77155,
+          "ns": 0,
+          "title": "Réfugié",
+          "revisions": [
+            {
+              "timestamp": "2026-01-06T06:48:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

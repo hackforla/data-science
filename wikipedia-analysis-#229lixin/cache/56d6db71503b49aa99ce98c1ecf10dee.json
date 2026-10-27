@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:37.609430",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251115190605|1322347181",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 69902,
+          "ns": 0,
+          "title": "Extreme weather",
+          "revisions": [
+            {
+              "timestamp": "2025-12-06T16:36:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

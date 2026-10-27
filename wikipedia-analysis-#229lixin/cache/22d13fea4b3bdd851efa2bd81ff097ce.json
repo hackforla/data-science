@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:28.701562",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251229104517|148682259",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 715982,
+          "ns": 0,
+          "title": "Tubercolosi",
+          "revisions": [
+            {
+              "timestamp": "2026-01-14T13:50:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

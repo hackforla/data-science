@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:06:37.495644",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251106005923|107123888",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 54835,
+          "ns": 0,
+          "title": "マラリア",
+          "revisions": [
+            {
+              "timestamp": "2026-01-04T16:32:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

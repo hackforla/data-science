@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:56.738578",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101014053852|3441187",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 548188,
+          "ns": 0,
+          "title": "Buôn người",
+          "revisions": [
+            {
+              "timestamp": "2010-10-12T15:30:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

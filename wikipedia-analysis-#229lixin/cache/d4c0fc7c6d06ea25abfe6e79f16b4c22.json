@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:49.851292",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240804042213|16415435",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16995,
+          "ns": 0,
+          "title": "Alegere",
+          "revisions": [
+            {
+              "timestamp": "2025-11-25T07:39:52Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:33.048284",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040312001522|218861",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 46087,
+          "ns": 0,
+          "title": "Censuur (informatie)",
+          "revisions": [
+            {
+              "timestamp": "2004-03-12T00:14:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

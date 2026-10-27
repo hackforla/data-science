@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:47.437295",
+  "response": {
+    "continue": {
+      "rvcontinue": "20211109001818|33545130",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5854398,
+          "ns": 0,
+          "title": "هوای غیرعادی",
+          "revisions": [
+            {
+              "timestamp": "2021-11-09T00:15:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

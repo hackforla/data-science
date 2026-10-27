@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:19.984898",
+  "response": {
+    "continue": {
+      "rvcontinue": "20230208020443|35672557",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1350977,
+          "ns": 0,
+          "title": "שמירה על השלום",
+          "revisions": [
+            {
+              "timestamp": "2025-02-20T11:29:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

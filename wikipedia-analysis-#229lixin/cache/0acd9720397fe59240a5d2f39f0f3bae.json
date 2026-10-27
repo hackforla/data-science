@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:02.599467",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260123132556|28733629",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35917,
+          "ns": 0,
+          "title": "Egészségügyi Világszervezet",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T17:30:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

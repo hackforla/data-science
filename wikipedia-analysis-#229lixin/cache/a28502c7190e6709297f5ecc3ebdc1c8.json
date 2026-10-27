@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:20.194203",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251016003752|40747739",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 96003,
+          "ns": 0,
+          "title": "기후변화",
+          "revisions": [
+            {
+              "timestamp": "2025-11-09T00:47:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,780 @@
+{
+  "cached_at": "2026-01-26T00:04:10.608595",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 5069516,
+          "ns": 0,
+          "title": "HIV/AIDS",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Vigs"
+            },
+            {
+              "lang": "gsw",
+              "title": "AIDS"
+            },
+            {
+              "lang": "am",
+              "title": "ኤድስ"
+            },
+            {
+              "lang": "an",
+              "title": "Sida"
+            },
+            {
+              "lang": "anp",
+              "title": "एड्स"
+            },
+            {
+              "lang": "ar",
+              "title": "إيدز"
+            },
+            {
+              "lang": "ary",
+              "title": "سيدا"
+            },
+            {
+              "lang": "arz",
+              "title": "ايدز"
+            },
+            {
+              "lang": "as",
+              "title": "এইচ.আই.ভি/এইড্‌ছ"
+            },
+            {
+              "lang": "ast",
+              "title": "Sida"
+            },
+            {
+              "lang": "az",
+              "title": "QİÇS"
+            },
+            {
+              "lang": "azb",
+              "title": "ائیدز"
+            },
+            {
+              "lang": "ba",
+              "title": "ВИЧ-инфекция"
+            },
+            {
+              "lang": "sgs",
+              "title": "AIDS"
+            },
+            {
+              "lang": "bcl",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "be",
+              "title": "СНІД"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "СНІД"
+            },
+            {
+              "lang": "bg",
+              "title": "Синдром на придобитата имунна недостатъчност"
+            },
+            {
+              "lang": "bjn",
+              "title": "AIDS"
+            },
+            {
+              "lang": "blk",
+              "title": "AIDS"
+            },
+            {
+              "lang": "bm",
+              "title": "Tangalan dɛsɛ Bana"
+            },
+            {
+              "lang": "bn",
+              "title": "এইচআইভি/এইডস"
+            },
+            {
+              "lang": "bo",
+              "title": "ཨེ་ཛིའི་ནད་"
+            },
+            {
+              "lang": "br",
+              "title": "SIDA"
+            },
+            {
+              "lang": "bs",
+              "title": "Sindrom stečene imunodeficijencije"
+            },
+            {
+              "lang": "bxr",
+              "title": "Дархалалай олдомол хомсодол"
+            },
+            {
+              "lang": "ca",
+              "title": "Infecció pel VIH i sida"
+            },
+            {
+              "lang": "cdo",
+              "title": "Ái-cṳ̆-bâng"
+            },
+            {
+              "lang": "ce",
+              "title": "ТӀеэцначу иммунодефицитан цамгар"
+            },
+            {
+              "lang": "ckb",
+              "title": "ئایدز"
+            },
+            {
+              "lang": "cs",
+              "title": "AIDS"
+            },
+            {
+              "lang": "cv",
+              "title": "ЕИДП"
+            },
+            {
+              "lang": "cy",
+              "title": "AIDS"
+            },
+            {
+              "lang": "da",
+              "title": "AIDS"
+            },
+            {
+              "lang": "dag",
+              "title": "Ŋun su:Jahibia/HIV/AIDS"
+            },
+            {
+              "lang": "de",
+              "title": "AIDS"
+            },
+            {
+              "lang": "din",
+              "title": "Adarwal"
+            },
+            {
+              "lang": "diq",
+              "title": "AIDS"
+            },
+            {
+              "lang": "dty",
+              "title": "एड्स"
+            },
+            {
+              "lang": "dv",
+              "title": "އެއިޑްސް ބަލި"
+            },
+            {
+              "lang": "el",
+              "title": "AIDS"
+            },
+            {
+              "lang": "eo",
+              "title": "Aidoso"
+            },
+            {
+              "lang": "es",
+              "title": "VIH/sida"
+            },
+            {
+              "lang": "et",
+              "title": "AIDS"
+            },
+            {
+              "lang": "eu",
+              "title": "Hartutako Immunoeskasiaren Sindromea"
+            },
+            {
+              "lang": "ext",
+              "title": "SIDA"
+            },
+            {
+              "lang": "fa",
+              "title": "ایدز"
+            },
+            {
+              "lang": "fi",
+              "title": "AIDS"
+            },
+            {
+              "lang": "vro",
+              "title": "AIDS"
+            },
+            {
+              "lang": "fo",
+              "title": "Eyðkvæmi"
+            },
+            {
+              "lang": "fr",
+              "title": "Syndrome d'immunodéficience acquise"
+            },
+            {
+              "lang": "frr",
+              "title": "AIDS"
+            },
+            {
+              "lang": "fur",
+              "title": "AIDS"
+            },
+            {
+              "lang": "fy",
+              "title": "AIDS"
+            },
+            {
+              "lang": "ga",
+              "title": "SEIF"
+            },
+            {
+              "lang": "gan",
+              "title": "艾滋病"
+            },
+            {
+              "lang": "gcr",
+              "title": "Sendromm di iminodéfisyans akiz"
+            },
+            {
+              "lang": "gd",
+              "title": "AIDS"
+            },
+            {
+              "lang": "gl",
+              "title": "Sida"
+            },
+            {
+              "lang": "gn",
+              "title": "VIH/sida"
+            },
+            {
+              "lang": "gom",
+              "title": "एड्स"
+            },
+            {
+              "lang": "gor",
+              "title": "AIDS"
+            },
+            {
+              "lang": "gpe",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "gu",
+              "title": "એઇડ્સ"
+            },
+            {
+              "lang": "ha",
+              "title": "Kanjamau"
+            },
+            {
+              "lang": "hak",
+              "title": "AIDS"
+            },
+            {
+              "lang": "he",
+              "title": "איידס"
+            },
+            {
+              "lang": "hi",
+              "title": "एड्स"
+            },
+            {
+              "lang": "hif",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "hr",
+              "title": "Sindrom stečene imunodeficijencije"
+            },
+            {
+              "lang": "ht",
+              "title": "Sida"
+            },
+            {
+              "lang": "hu",
+              "title": "AIDS"
+            },
+            {
+              "lang": "hy",
+              "title": "ՄԻԱՎ/ՁԻԱՀ"
+            },
+            {
+              "lang": "ia",
+              "title": "SIDA"
+            },
+            {
+              "lang": "iba",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "id",
+              "title": "AIDS"
+            },
+            {
+              "lang": "ig",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "ilo",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "io",
+              "title": "Sindromo di Imuno-Defekteso Aquirita"
+            },
+            {
+              "lang": "is",
+              "title": "Alnæmi"
+            },
+            {
+              "lang": "it",
+              "title": "AIDS"
+            },
+            {
+              "lang": "ja",
+              "title": "後天性免疫不全症候群"
+            },
+            {
+              "lang": "jam",
+              "title": "AIDS"
+            },
+            {
+              "lang": "jv",
+              "title": "AIDS"
+            },
+            {
+              "lang": "ka",
+              "title": "შიდსი"
+            },
+            {
+              "lang": "kaa",
+              "title": "AIV/AIJS"
+            },
+            {
+              "lang": "kbp",
+              "title": "Sidaa"
+            },
+            {
+              "lang": "kg",
+              "title": "Sida"
+            },
+            {
+              "lang": "ki",
+              "title": "AIDS"
+            },
+            {
+              "lang": "kk",
+              "title": "АИВ/ЖИТС"
+            },
+            {
+              "lang": "km",
+              "title": "ជំងឺអេដស៍"
+            },
+            {
+              "lang": "kn",
+              "title": "ಏಡ್ಸ್ ರೋಗ"
+            },
+            {
+              "lang": "ko",
+              "title": "후천면역결핍증후군"
+            },
+            {
+              "lang": "ks",
+              "title": "ایڈٕس"
+            },
+            {
+              "lang": "ku",
+              "title": "AIDS"
+            },
+            {
+              "lang": "ky",
+              "title": "Кабылданган иммундук жетишсиздик синдрому"
+            },
+            {
+              "lang": "la",
+              "title": "Morbus deficientiae immunitatis acquisitae"
+            },
+            {
+              "lang": "lb",
+              "title": "Aids"
+            },
+            {
+              "lang": "lez",
+              "title": "КъИДС"
+            },
+            {
+              "lang": "lg",
+              "title": "Siriimu"
+            },
+            {
+              "lang": "li",
+              "title": "AIDS"
+            },
+            {
+              "lang": "lmo",
+              "title": "AIDS"
+            },
+            {
+              "lang": "ln",
+              "title": "Sidá"
+            },
+            {
+              "lang": "lo",
+              "title": "ເອດສ໌"
+            },
+            {
+              "lang": "lt",
+              "title": "AIDS"
+            },
+            {
+              "lang": "lv",
+              "title": "AIDS"
+            },
+            {
+              "lang": "mad",
+              "title": "AIDS"
+            },
+            {
+              "lang": "mai",
+              "title": "एड्स"
+            },
+            {
+              "lang": "mhr",
+              "title": "НИДС"
+            },
+            {
+              "lang": "min",
+              "title": "AIDS"
+            },
+            {
+              "lang": "mk",
+              "title": "Синдром на стекнат имунолошки дефицит"
+            },
+            {
+              "lang": "ml",
+              "title": "എയ്‌ഡ്‌സ്‌"
+            },
+            {
+              "lang": "mn",
+              "title": "Дархлалын олдмол хомсдол"
+            },
+            {
+              "lang": "mr",
+              "title": "अक्वायर्ड इम्यूनो डेफिशियन्सी सिंड्रोम"
+            },
+            {
+              "lang": "ms",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "mt",
+              "title": "AIDS"
+            },
+            {
+              "lang": "my",
+              "title": "ခုခံအားကျဆင်းမှု ကူးစက်ရောဂါ"
+            },
+            {
+              "lang": "nds",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "nds-nl",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "ne",
+              "title": "एड्स"
+            },
+            {
+              "lang": "new",
+              "title": "एड्स"
+            },
+            {
+              "lang": "nl",
+              "title": "Aids"
+            },
+            {
+              "lang": "nn",
+              "title": "Hiv/aids"
+            },
+            {
+              "lang": "nb",
+              "title": "Aids"
+            },
+            {
+              "lang": "nv",
+              "title": "Naałniih yichʼą́ą́h naabaahígíí bąąh dahooʼaahgo"
+            },
+            {
+              "lang": "oc",
+              "title": "SIDA"
+            },
+            {
+              "lang": "or",
+              "title": "ଏଚଆଇଭି/ଏଡସ"
+            },
+            {
+              "lang": "pa",
+              "title": "ਏਡਜ਼"
+            },
+            {
+              "lang": "pap",
+              "title": "Sida"
+            },
+            {
+              "lang": "pcm",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "pl",
+              "title": "Zespół nabytego niedoboru odporności"
+            },
+            {
+              "lang": "pms",
+              "title": "AIDS"
+            },
+            {
+              "lang": "pnb",
+              "title": "ایڈز"
+            },
+            {
+              "lang": "ps",
+              "title": "اېډز"
+            },
+            {
+              "lang": "pt",
+              "title": "Síndrome da imunodeficiência adquirida"
+            },
+            {
+              "lang": "qu",
+              "title": "Unquy hark'aypa chaskisqa waqlliynin"
+            },
+            {
+              "lang": "ro",
+              "title": "SIDA"
+            },
+            {
+              "lang": "ru",
+              "title": "Синдром приобретённого иммунного дефицита"
+            },
+            {
+              "lang": "rue",
+              "title": "АІДС"
+            },
+            {
+              "lang": "sa",
+              "title": "एइड्स्"
+            },
+            {
+              "lang": "sah",
+              "title": "СПИД"
+            },
+            {
+              "lang": "sc",
+              "title": "SIDA"
+            },
+            {
+              "lang": "scn",
+              "title": "AIDS"
+            },
+            {
+              "lang": "sco",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "sd",
+              "title": "ايڊز"
+            },
+            {
+              "lang": "sh",
+              "title": "SIDA"
+            },
+            {
+              "lang": "shi",
+              "title": "Tamaḍunt n SIDA"
+            },
+            {
+              "lang": "si",
+              "title": "ඒඩ්ස්"
+            },
+            {
+              "lang": "simple",
+              "title": "AIDS"
+            },
+            {
+              "lang": "sk",
+              "title": "Syndróm získanej imunitnej nedostatočnosti"
+            },
+            {
+              "lang": "sl",
+              "title": "Aids"
+            },
+            {
+              "lang": "sn",
+              "title": "Mukondombera weAIDS"
+            },
+            {
+              "lang": "so",
+              "title": "AIDS"
+            },
+            {
+              "lang": "sq",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "sr",
+              "title": "Сида"
+            },
+            {
+              "lang": "su",
+              "title": "AIDS"
+            },
+            {
+              "lang": "sv",
+              "title": "Aids"
+            },
+            {
+              "lang": "sw",
+              "title": "Ukimwi"
+            },
+            {
+              "lang": "ta",
+              "title": "எயிட்சு"
+            },
+            {
+              "lang": "te",
+              "title": "ఎయిడ్స్"
+            },
+            {
+              "lang": "tg",
+              "title": "БПНМ"
+            },
+            {
+              "lang": "th",
+              "title": "เอดส์"
+            },
+            {
+              "lang": "tk",
+              "title": "AIDS"
+            },
+            {
+              "lang": "tl",
+              "title": "AIDS"
+            },
+            {
+              "lang": "tly",
+              "title": "Pəjdo byə immun nyrəse sindrom"
+            },
+            {
+              "lang": "tok",
+              "title": "ike tawa li pakala e ilo awen pi sijelo jan"
+            },
+            {
+              "lang": "tr",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "ts",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "tt",
+              "title": "БИДС"
+            },
+            {
+              "lang": "tum",
+              "title": "Edesi (AIDS)"
+            },
+            {
+              "lang": "tw",
+              "title": "Babasoweremfoɔ"
+            },
+            {
+              "lang": "uk",
+              "title": "ВІЛ/СНІД"
+            },
+            {
+              "lang": "ur",
+              "title": "ایچ آئی وی/ایڈز"
+            },
+            {
+              "lang": "uz",
+              "title": "Orttirilgan immun tanqisligi sindromi"
+            },
+            {
+              "lang": "ve",
+              "title": "CIDA"
+            },
+            {
+              "lang": "vec",
+              "title": "AIDS"
+            },
+            {
+              "lang": "vi",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "wa",
+              "title": "Sida"
+            },
+            {
+              "lang": "war",
+              "title": "HIV/AIDS"
+            },
+            {
+              "lang": "wuu",
+              "title": "艾滋病"
+            },
+            {
+              "lang": "xmf",
+              "title": "შიდსი"
+            },
+            {
+              "lang": "yi",
+              "title": "עידס"
+            },
+            {
+              "lang": "yo",
+              "title": "AIDS"
+            },
+            {
+              "lang": "za",
+              "title": "Bingh'aiswhbing"
+            },
+            {
+              "lang": "zgh",
+              "title": "ⵙⵉⴷⴰ"
+            },
+            {
+              "lang": "zh",
+              "title": "艾滋病"
+            },
+            {
+              "lang": "lzh",
+              "title": "艾滋病"
+            },
+            {
+              "lang": "nan",
+              "title": "AIDS"
+            },
+            {
+              "lang": "yue",
+              "title": "愛滋病"
+            },
+            {
+              "lang": "zu",
+              "title": "I-HIV/AIDS"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:25.801570",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041014134022|290441",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 74709,
+          "ns": 0,
+          "title": "Pobreza",
+          "revisions": [
+            {
+              "timestamp": "2004-10-14T12:47:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:26.585471",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260116071847|263377514",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2889,
+          "ns": 0,
+          "title": "Krieg",
+          "revisions": [
+            {
+              "timestamp": "2026-01-24T01:52:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

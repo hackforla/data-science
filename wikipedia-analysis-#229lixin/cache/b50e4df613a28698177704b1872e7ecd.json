@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:25.778613",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050121215027|24916",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6562,
+          "ns": 0,
+          "title": "زلزال",
+          "revisions": [
+            {
+              "timestamp": "2005-01-20T19:03:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

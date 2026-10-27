@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:07.731898",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251119150357|72526184",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 116632,
+          "ns": 0,
+          "title": "عقوبة الإعدام",
+          "revisions": [
+            {
+              "timestamp": "2025-12-08T10:12:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

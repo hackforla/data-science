@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:08.409618",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020801055309|15865",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2211106,
+          "ns": 0,
+          "title": "Zensur (Informationskontrolle)",
+          "revisions": [
+            {
+              "timestamp": "2002-08-01T05:50:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

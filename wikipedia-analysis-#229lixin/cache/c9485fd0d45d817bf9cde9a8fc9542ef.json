@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:18.830090",
+  "response": {
+    "continue": {
+      "rvcontinue": "20211122212954|9152279",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 758545,
+          "ns": 0,
+          "title": "Διάκριση",
+          "revisions": [
+            {
+              "timestamp": "2021-11-22T21:29:03Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

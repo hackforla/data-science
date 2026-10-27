@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:39.789237",
+  "response": {
+    "continue": {
+      "rvcontinue": "20021224224348|96147",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15479,
+          "ns": 0,
+          "title": "Kriegsverbrechen",
+          "revisions": [
+            {
+              "timestamp": "2002-12-24T22:42:48Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

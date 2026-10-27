@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:59.408945",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250715025755|88279657",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 479731,
+          "ns": 0,
+          "title": "人口贩卖",
+          "revisions": [
+            {
+              "timestamp": "2025-09-01T18:51:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

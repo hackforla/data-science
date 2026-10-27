@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:29:52.827413",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240716202758|6296576",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1158270,
+          "ns": 0,
+          "title": "سینسرشپ",
+          "revisions": [
+            {
+              "timestamp": "2024-07-16T16:15:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

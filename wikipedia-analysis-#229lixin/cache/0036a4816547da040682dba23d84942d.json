@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:49.929785",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200324025327|774938",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 111337,
+          "ns": 0,
+          "title": "विश्वव्यापी महामारी",
+          "revisions": [
+            {
+              "timestamp": "2020-03-24T02:49:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

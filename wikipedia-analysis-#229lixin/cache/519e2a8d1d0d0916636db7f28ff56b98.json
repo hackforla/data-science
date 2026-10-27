@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:04:59.306601",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240220165934|6080952",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4566,
+          "ns": 0,
+          "title": "ایچ آئی وی/ایڈز",
+          "revisions": [
+            {
+              "timestamp": "2025-02-02T06:03:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

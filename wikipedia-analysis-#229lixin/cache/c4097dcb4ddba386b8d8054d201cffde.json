@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:21.587556",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051027115908|54500",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14509,
+          "ns": 0,
+          "title": "اعدام",
+          "revisions": [
+            {
+              "timestamp": "2005-10-27T11:56:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

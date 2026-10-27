@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:38.498468",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081230130913|187493",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 19262,
+          "ns": 0,
+          "title": "Kupanda kwa halijoto duniani",
+          "revisions": [
+            {
+              "timestamp": "2008-12-30T13:08:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

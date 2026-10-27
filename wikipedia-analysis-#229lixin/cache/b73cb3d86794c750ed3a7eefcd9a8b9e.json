@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:32.222037",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200709164638|4855736",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 712352,
+          "ns": 0,
+          "title": "भेदभाव",
+          "revisions": [
+            {
+              "timestamp": "2020-07-09T17:16:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

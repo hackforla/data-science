@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:54.026900",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190423233332|45466324",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1238628,
+          "ns": 0,
+          "title": "Internflykting",
+          "revisions": [
+            {
+              "timestamp": "2023-06-20T22:45:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

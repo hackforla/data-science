@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:45.108268",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251217060244|46978390",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 61548,
+          "ns": 0,
+          "title": "Глобальне потепління",
+          "revisions": [
+            {
+              "timestamp": "2026-01-03T06:33:21Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

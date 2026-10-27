@@ -1,0 +1,612 @@
+{
+  "cached_at": "2026-01-26T00:07:14.750292",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 24255,
+          "ns": 0,
+          "title": "Pandemic",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "gsw",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "an",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "ang",
+              "title": "Myċelcoþu"
+            },
+            {
+              "lang": "ar",
+              "title": "جائحة"
+            },
+            {
+              "lang": "arz",
+              "title": "وباء عالمى"
+            },
+            {
+              "lang": "as",
+              "title": "বৈশ্বিক মহামাৰী"
+            },
+            {
+              "lang": "ast",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "az",
+              "title": "Pandemiya"
+            },
+            {
+              "lang": "azb",
+              "title": "پاندمی"
+            },
+            {
+              "lang": "ba",
+              "title": "Пандемия"
+            },
+            {
+              "lang": "ban",
+              "title": "Gering agung"
+            },
+            {
+              "lang": "sgs",
+              "title": "Pandemėjė"
+            },
+            {
+              "lang": "bcl",
+              "title": "Pandemya"
+            },
+            {
+              "lang": "be",
+              "title": "Пандэмія"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Пандэмія"
+            },
+            {
+              "lang": "bg",
+              "title": "Пандемия"
+            },
+            {
+              "lang": "bh",
+              "title": "महामारी"
+            },
+            {
+              "lang": "bn",
+              "title": "বৈশ্বিক মহামারি"
+            },
+            {
+              "lang": "bo",
+              "title": "ཡོངས་ཁྱབ་རིམས་ནད།"
+            },
+            {
+              "lang": "br",
+              "title": "Pandemiezh"
+            },
+            {
+              "lang": "bs",
+              "title": "Pandemija"
+            },
+            {
+              "lang": "ca",
+              "title": "Pandèmia"
+            },
+            {
+              "lang": "cdo",
+              "title": "Ŭng-ĭk"
+            },
+            {
+              "lang": "ce",
+              "title": "Пандеми"
+            },
+            {
+              "lang": "ckb",
+              "title": "پاندێمی"
+            },
+            {
+              "lang": "cs",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "cv",
+              "title": "Пандеми"
+            },
+            {
+              "lang": "cy",
+              "title": "Pandemig"
+            },
+            {
+              "lang": "da",
+              "title": "Pandemi"
+            },
+            {
+              "lang": "dag",
+              "title": "Alɔbo"
+            },
+            {
+              "lang": "de",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "el",
+              "title": "Πανδημία"
+            },
+            {
+              "lang": "eo",
+              "title": "Pandemio"
+            },
+            {
+              "lang": "es",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "et",
+              "title": "Pandeemia"
+            },
+            {
+              "lang": "eu",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "fa",
+              "title": "دنیاگیری"
+            },
+            {
+              "lang": "fi",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "fr",
+              "title": "Pandémie"
+            },
+            {
+              "lang": "frr",
+              "title": "Pandemii"
+            },
+            {
+              "lang": "fy",
+              "title": "Pandemy"
+            },
+            {
+              "lang": "ga",
+              "title": "Paindéim"
+            },
+            {
+              "lang": "gl",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "gn",
+              "title": "Mba'asypavẽ"
+            },
+            {
+              "lang": "hak",
+              "title": "Vûn-yi̍t"
+            },
+            {
+              "lang": "he",
+              "title": "פנדמיה"
+            },
+            {
+              "lang": "hi",
+              "title": "विश्वमारी"
+            },
+            {
+              "lang": "hif",
+              "title": "Mahamari"
+            },
+            {
+              "lang": "hr",
+              "title": "Pandemija"
+            },
+            {
+              "lang": "hu",
+              "title": "Pandémia"
+            },
+            {
+              "lang": "hy",
+              "title": "Համավարակ"
+            },
+            {
+              "lang": "ia",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "id",
+              "title": "Pandemi"
+            },
+            {
+              "lang": "ie",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "ilo",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "io",
+              "title": "Pandemio"
+            },
+            {
+              "lang": "is",
+              "title": "Heimsfaraldur"
+            },
+            {
+              "lang": "it",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "ja",
+              "title": "パンデミック"
+            },
+            {
+              "lang": "jv",
+              "title": "Pandhémi"
+            },
+            {
+              "lang": "ka",
+              "title": "პანდემია"
+            },
+            {
+              "lang": "kab",
+              "title": "Arwas"
+            },
+            {
+              "lang": "kk",
+              "title": "Індет"
+            },
+            {
+              "lang": "knc",
+              "title": "Pandemic"
+            },
+            {
+              "lang": "ko",
+              "title": "범유행"
+            },
+            {
+              "lang": "ku",
+              "title": "Pandemî"
+            },
+            {
+              "lang": "ky",
+              "title": "Пандемия"
+            },
+            {
+              "lang": "la",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "lb",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "li",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "lmo",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "ln",
+              "title": "Mowá"
+            },
+            {
+              "lang": "lt",
+              "title": "Pandemija"
+            },
+            {
+              "lang": "lv",
+              "title": "Pandēmija"
+            },
+            {
+              "lang": "min",
+              "title": "Pandemi"
+            },
+            {
+              "lang": "mk",
+              "title": "Пандемија"
+            },
+            {
+              "lang": "ml",
+              "title": "മഹാമാരി"
+            },
+            {
+              "lang": "mnw",
+              "title": "ကပ်"
+            },
+            {
+              "lang": "mr",
+              "title": "जागतिक साथ"
+            },
+            {
+              "lang": "ms",
+              "title": "Pandemik"
+            },
+            {
+              "lang": "mwl",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "my",
+              "title": "ကမ္ဘာကပ်ရောဂါ"
+            },
+            {
+              "lang": "nah",
+              "title": "Cocoliztli īpan mochīuh nepapan āltepētl"
+            },
+            {
+              "lang": "nds",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "ne",
+              "title": "विश्वव्यापी महामारी"
+            },
+            {
+              "lang": "nl",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "nn",
+              "title": "Pandemi"
+            },
+            {
+              "lang": "nb",
+              "title": "Pandemi"
+            },
+            {
+              "lang": "oc",
+              "title": "Pandèmia"
+            },
+            {
+              "lang": "os",
+              "title": "Пандеми"
+            },
+            {
+              "lang": "pa",
+              "title": "ਮਹਾਂਮਾਰੀ"
+            },
+            {
+              "lang": "pap",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "pl",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "pms",
+              "title": "Pandemìa"
+            },
+            {
+              "lang": "pnb",
+              "title": "عالمی وبا"
+            },
+            {
+              "lang": "ps",
+              "title": "وبا یا ټولنیونه"
+            },
+            {
+              "lang": "pt",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "ro",
+              "title": "Pandemie"
+            },
+            {
+              "lang": "ru",
+              "title": "Пандемия"
+            },
+            {
+              "lang": "rue",
+              "title": "Пандемія"
+            },
+            {
+              "lang": "sah",
+              "title": "Пандемия"
+            },
+            {
+              "lang": "sc",
+              "title": "Pandèmia"
+            },
+            {
+              "lang": "scn",
+              "title": "Pidimìa"
+            },
+            {
+              "lang": "sd",
+              "title": "عالمگير وبا"
+            },
+            {
+              "lang": "se",
+              "title": "Pandemiija"
+            },
+            {
+              "lang": "sh",
+              "title": "Pandemija"
+            },
+            {
+              "lang": "si",
+              "title": "ව්‍යාප්ත වසංගත"
+            },
+            {
+              "lang": "simple",
+              "title": "Pandemic"
+            },
+            {
+              "lang": "sk",
+              "title": "Pandémia"
+            },
+            {
+              "lang": "sl",
+              "title": "Pandemija"
+            },
+            {
+              "lang": "smn",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "sn",
+              "title": "Mukondombera"
+            },
+            {
+              "lang": "sq",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "sr",
+              "title": "Пандемија"
+            },
+            {
+              "lang": "st",
+              "title": "Sewa se seholo"
+            },
+            {
+              "lang": "sv",
+              "title": "Pandemi"
+            },
+            {
+              "lang": "sw",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "szl",
+              "title": "Pandymijŏ"
+            },
+            {
+              "lang": "szy",
+              "title": "libung"
+            },
+            {
+              "lang": "ta",
+              "title": "உலகம்பரவுநோய்"
+            },
+            {
+              "lang": "te",
+              "title": "ప్రపంచమారి"
+            },
+            {
+              "lang": "tg",
+              "title": "Пандемия"
+            },
+            {
+              "lang": "th",
+              "title": "โรคระบาดทั่ว"
+            },
+            {
+              "lang": "tl",
+              "title": "Pandemya"
+            },
+            {
+              "lang": "tr",
+              "title": "Pandemi"
+            },
+            {
+              "lang": "tt",
+              "title": "Пандемия"
+            },
+            {
+              "lang": "tw",
+              "title": "Pandemic"
+            },
+            {
+              "lang": "ug",
+              "title": "پەندەمىيە"
+            },
+            {
+              "lang": "uk",
+              "title": "Пандемія"
+            },
+            {
+              "lang": "ur",
+              "title": "عالمگیر وبا"
+            },
+            {
+              "lang": "uz",
+              "title": "Pandemiya"
+            },
+            {
+              "lang": "ve",
+              "title": "Tshiwo tsha lushaka"
+            },
+            {
+              "lang": "vec",
+              "title": "Pandemia"
+            },
+            {
+              "lang": "vep",
+              "title": "Pandemii"
+            },
+            {
+              "lang": "vi",
+              "title": "Đại dịch"
+            },
+            {
+              "lang": "wa",
+              "title": "Parminêye"
+            },
+            {
+              "lang": "war",
+              "title": "Pandemya"
+            },
+            {
+              "lang": "wuu",
+              "title": "瘟疫"
+            },
+            {
+              "lang": "xh",
+              "title": "Inqaku lesiseko eliphambili lephandemikhi"
+            },
+            {
+              "lang": "xmf",
+              "title": "პანდემია"
+            },
+            {
+              "lang": "yi",
+              "title": "פאנדעמיע"
+            },
+            {
+              "lang": "yo",
+              "title": "Àjàkáyé-àrùn"
+            },
+            {
+              "lang": "za",
+              "title": "Binghraq"
+            },
+            {
+              "lang": "zh",
+              "title": "瘟疫"
+            },
+            {
+              "lang": "nan",
+              "title": "Un-e̍k"
+            },
+            {
+              "lang": "yue",
+              "title": "瘟疫"
+            },
+            {
+              "lang": "zu",
+              "title": "Ubhubhane"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

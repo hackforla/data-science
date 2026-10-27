@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:45.027815",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250521155610|76841250",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 64096,
+          "ns": 0,
+          "title": "Wybory",
+          "revisions": [
+            {
+              "timestamp": "2025-09-18T11:27:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

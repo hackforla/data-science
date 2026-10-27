@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:17.546863",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251103114125|36338316",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 53590,
+          "ns": 0,
+          "title": "Aşı (tıp)",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T18:00:14Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

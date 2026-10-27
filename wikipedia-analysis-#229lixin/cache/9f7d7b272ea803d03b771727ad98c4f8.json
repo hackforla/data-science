@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:10.924136",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251125073213|261851901",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1043057,
+          "ns": 0,
+          "title": "Gleichstellung der Geschlechter",
+          "revisions": [
+            {
+              "timestamp": "2025-11-25T08:40:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

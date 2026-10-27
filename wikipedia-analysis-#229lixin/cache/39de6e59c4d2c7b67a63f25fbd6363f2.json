@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:40.944359",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030723212125|1186081",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 276005,
+          "ns": 0,
+          "title": "Asylum seeker",
+          "revisions": [
+            {
+              "timestamp": "2003-07-23T21:20:25Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

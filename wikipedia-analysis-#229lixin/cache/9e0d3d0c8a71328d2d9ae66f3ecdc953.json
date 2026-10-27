@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:47.845026",
+  "response": {
+    "continue": {
+      "rvcontinue": "20020801185306|4225",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1528,
+          "ns": 0,
+          "title": "Racisme",
+          "revisions": [
+            {
+              "timestamp": "2002-03-22T23:08:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

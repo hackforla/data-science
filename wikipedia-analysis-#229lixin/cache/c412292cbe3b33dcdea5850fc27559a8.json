@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:24.222366",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251015134755|147236417",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 309717,
+          "ns": 0,
+          "title": "Libertà di parola",
+          "revisions": [
+            {
+              "timestamp": "2025-11-24T00:22:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

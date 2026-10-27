@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:41.470478",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251214172132|28699584",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 25933,
+          "ns": 0,
+          "title": "Kemiskinan",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T07:43:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

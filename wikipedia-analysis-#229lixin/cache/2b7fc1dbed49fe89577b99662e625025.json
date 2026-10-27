@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:33.322030",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030219160819|13431",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 403621,
+          "ns": 0,
+          "title": "Jordskælv",
+          "revisions": [
+            {
+              "timestamp": "2003-02-19T15:07:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:01.834183",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251012155928|70007494",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 643,
+          "ns": 0,
+          "title": "Genocide",
+          "revisions": [
+            {
+              "timestamp": "2025-11-06T16:50:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

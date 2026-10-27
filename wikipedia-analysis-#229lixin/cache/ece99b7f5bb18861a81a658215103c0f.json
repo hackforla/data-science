@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:48.166185",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030908125837|277240",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 56830,
+          "ns": 0,
+          "title": "Asylbewerber",
+          "revisions": [
+            {
+              "timestamp": "2003-09-08T12:41:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

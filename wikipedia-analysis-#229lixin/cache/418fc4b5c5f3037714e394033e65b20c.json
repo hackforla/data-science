@@ -1,0 +1,692 @@
+{
+  "cached_at": "2026-01-26T00:03:14.915465",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 62750956,
+          "ns": 0,
+          "title": "COVID-19 pandemic",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Covid-19-pandemie"
+            },
+            {
+              "lang": "gsw",
+              "title": "COVID-19-Pandemie"
+            },
+            {
+              "lang": "am",
+              "title": "2019-20 ኮሮናቫይረስ ወረርሽኝ"
+            },
+            {
+              "lang": "ami",
+              "title": "Lifong no kemi"
+            },
+            {
+              "lang": "an",
+              "title": "Pandemia de COVID-19"
+            },
+            {
+              "lang": "ang",
+              "title": "COFID-19 myċelcoþu"
+            },
+            {
+              "lang": "ar",
+              "title": "جائحة فيروس كورونا"
+            },
+            {
+              "lang": "arz",
+              "title": "وباء كوڤيد-19"
+            },
+            {
+              "lang": "as",
+              "title": "ক'ভিড-১৯ বৈশ্বিক মহামাৰী"
+            },
+            {
+              "lang": "ast",
+              "title": "Pandemia de COVID-19"
+            },
+            {
+              "lang": "awa",
+              "title": "२०१९-२० कोरोना भाइरस महामारी"
+            },
+            {
+              "lang": "az",
+              "title": "COVID-19 pandemiyası"
+            },
+            {
+              "lang": "azb",
+              "title": "کووید-۱۹ پاندمی‌سی"
+            },
+            {
+              "lang": "ban",
+              "title": "Pandemi koronavirus 2019-2020"
+            },
+            {
+              "lang": "sgs",
+              "title": "Covid-19 pandemėjė"
+            },
+            {
+              "lang": "bcl",
+              "title": "Pandemya nin COVID-19"
+            },
+            {
+              "lang": "be",
+              "title": "Пандэмія COVID-19"
+            },
+            {
+              "lang": "be-tarask",
+              "title": "Пандэмія каранавіруснай інфэкцыі (2019)"
+            },
+            {
+              "lang": "bg",
+              "title": "Пандемия от COVID-19"
+            },
+            {
+              "lang": "bh",
+              "title": "कोविड-19 महामारी"
+            },
+            {
+              "lang": "bjn",
+              "title": "Pandemi COVID-19"
+            },
+            {
+              "lang": "bn",
+              "title": "কোভিড-১৯ এর বৈশ্বিক মহামারি"
+            },
+            {
+              "lang": "bo",
+              "title": "ཏོག་དབྱིབས་ཡོངས་ཁྱབ་རིམས་ནད།"
+            },
+            {
+              "lang": "br",
+              "title": "Bedreuziad COVID-19"
+            },
+            {
+              "lang": "bs",
+              "title": "Pandemija COVID-a 19"
+            },
+            {
+              "lang": "bug",
+              "title": "ᨌᨚᨓᨗᨉ-19 ᨄᨕᨊᨉᨙᨆᨗᨀ"
+            },
+            {
+              "lang": "bxr",
+              "title": "Коронавирус тахал"
+            },
+            {
+              "lang": "ca",
+              "title": "Pandèmia de COVID-19"
+            },
+            {
+              "lang": "cdo",
+              "title": "COVID-19 ĭk-cìng"
+            },
+            {
+              "lang": "ce",
+              "title": "COVID-19 уьнан пандеми"
+            },
+            {
+              "lang": "ceb",
+              "title": "Pandemya sa COVID-19"
+            },
+            {
+              "lang": "ckb",
+              "title": "گشتگیربوونی ڤایرۆسی کۆرۆنای ٢٠١٩–٢٠"
+            },
+            {
+              "lang": "cs",
+              "title": "Pandemie covidu-19"
+            },
+            {
+              "lang": "cv",
+              "title": "COVID-19 пандеми"
+            },
+            {
+              "lang": "cy",
+              "title": "Pandemig COVID-19"
+            },
+            {
+              "lang": "da",
+              "title": "Coronaviruspandemien"
+            },
+            {
+              "lang": "dag",
+              "title": "COVID-19"
+            },
+            {
+              "lang": "de",
+              "title": "COVID-19-Pandemie"
+            },
+            {
+              "lang": "diq",
+              "title": "Pandemiya COVID-19i"
+            },
+            {
+              "lang": "dsb",
+              "title": "Pandemija koronawirusa"
+            },
+            {
+              "lang": "dty",
+              "title": "२०१९-२० कोरोनाभाइरस महामारी"
+            },
+            {
+              "lang": "el",
+              "title": "Πανδημία COVID-19"
+            },
+            {
+              "lang": "eo",
+              "title": "Pandemio de KOVIM-19"
+            },
+            {
+              "lang": "es",
+              "title": "Pandemia de COVID-19"
+            },
+            {
+              "lang": "et",
+              "title": "Koroonapandeemia"
+            },
+            {
+              "lang": "eu",
+              "title": "COVID-19 pandemia"
+            },
+            {
+              "lang": "fa",
+              "title": "دنیاگیری کووید-۱۹"
+            },
+            {
+              "lang": "fi",
+              "title": "Koronaviruspandemia 2019–"
+            },
+            {
+              "lang": "fr",
+              "title": "Pandémie de Covid-19"
+            },
+            {
+              "lang": "frp",
+              "title": "Pandèmia de crèva de coronavirus de 2019-2020"
+            },
+            {
+              "lang": "fy",
+              "title": "Koroanafiruspandemy"
+            },
+            {
+              "lang": "ga",
+              "title": "Paindéim COVID-19"
+            },
+            {
+              "lang": "gan",
+              "title": "2019冠状病毒病疫情"
+            },
+            {
+              "lang": "gl",
+              "title": "Pandemia de COVID-19"
+            },
+            {
+              "lang": "gn",
+              "title": "COVID-19 ñemosarambi guasu"
+            },
+            {
+              "lang": "gv",
+              "title": "Pandemagh COVID-19"
+            },
+            {
+              "lang": "ha",
+              "title": "Murar Mashaƙo 2019"
+            },
+            {
+              "lang": "hak",
+              "title": "COVID-19 thai-liù-hàng"
+            },
+            {
+              "lang": "haw",
+              "title": "Maʻi laulā kolona"
+            },
+            {
+              "lang": "he",
+              "title": "מגפת הקורונה"
+            },
+            {
+              "lang": "hi",
+              "title": "कोविड-19 विश्वमारी"
+            },
+            {
+              "lang": "hif",
+              "title": "COVID-19 mahamari (Pandemic)"
+            },
+            {
+              "lang": "hr",
+              "title": "Pandemija COVID-19"
+            },
+            {
+              "lang": "hsb",
+              "title": "Pandemija koronawirusa"
+            },
+            {
+              "lang": "ht",
+              "title": "Pandemi Covid-19"
+            },
+            {
+              "lang": "hu",
+              "title": "Covid19-pandémia"
+            },
+            {
+              "lang": "hy",
+              "title": "COVID-19 համավարակ"
+            },
+            {
+              "lang": "ia",
+              "title": "Pandemia de Covid-19"
+            },
+            {
+              "lang": "id",
+              "title": "Pandemi COVID-19"
+            },
+            {
+              "lang": "is",
+              "title": "Covid-19 faraldurinn"
+            },
+            {
+              "lang": "it",
+              "title": "Pandemia di COVID-19"
+            },
+            {
+              "lang": "iu",
+              "title": "ᓄᕙᒡᔪᐊᕐᓇᖅ-19 ᖃᓄᐃᓐᓂᐅᔪᓄᑦ"
+            },
+            {
+              "lang": "ja",
+              "title": "新型コロナウイルス感染症の世界的流行 (2019年-)"
+            },
+            {
+              "lang": "jbo",
+              "title": "lo temci linji be la COVID-19 pandemiku"
+            },
+            {
+              "lang": "jv",
+              "title": "Pageblug Covid-19"
+            },
+            {
+              "lang": "ka",
+              "title": "COVID-19-ის პანდემია"
+            },
+            {
+              "lang": "kaa",
+              "title": "COVID-19 pandemiyası"
+            },
+            {
+              "lang": "kab",
+              "title": "Arwas n waṭṭan n Kuṛunavirus 2019-20"
+            },
+            {
+              "lang": "kk",
+              "title": "COVID-19 пандемиясы"
+            },
+            {
+              "lang": "km",
+              "title": "ជំងឺរាតត្បាតកូវីដ ១៩"
+            },
+            {
+              "lang": "ko",
+              "title": "코로나19 범유행"
+            },
+            {
+              "lang": "ku",
+              "title": "Pandemiya vîrusa Koronayê"
+            },
+            {
+              "lang": "kus",
+              "title": "COVID-19 ban’as"
+            },
+            {
+              "lang": "ky",
+              "title": "COVID-19 пандемиясы"
+            },
+            {
+              "lang": "la",
+              "title": "COVID-19 pandemia"
+            },
+            {
+              "lang": "lb",
+              "title": "COVID-19-Pandemie"
+            },
+            {
+              "lang": "lfn",
+              "title": "Pandemia de coronavirus de 2019-2020"
+            },
+            {
+              "lang": "lij",
+              "title": "Pandemîa de COVID-19"
+            },
+            {
+              "lang": "lmo",
+              "title": "Pandemia de COVID-19"
+            },
+            {
+              "lang": "lo",
+              "title": "ການແພ່ເຊື້ອພະຍາດທົ່ວຂອງໂຄວິດ-19"
+            },
+            {
+              "lang": "lt",
+              "title": "COVID-19 pandemija"
+            },
+            {
+              "lang": "lv",
+              "title": "COVID-19 pandēmija"
+            },
+            {
+              "lang": "min",
+              "title": "Pandemi Covid-19"
+            },
+            {
+              "lang": "mk",
+              "title": "Пандемија на КОВИД-19"
+            },
+            {
+              "lang": "ml",
+              "title": "കോവിഡ്-19 ആഗോള മഹാമാരി"
+            },
+            {
+              "lang": "mni",
+              "title": "ꯀꯣꯔꯣꯅꯥ ꯚꯥꯏꯔꯁ ꯂꯩꯅꯥ ꯲꯰꯱꯹ ꯂꯥꯏꯆꯠ"
+            },
+            {
+              "lang": "mr",
+              "title": "कोविड-१९ महामारी"
+            },
+            {
+              "lang": "ms",
+              "title": "Pandemik COVID-19"
+            },
+            {
+              "lang": "mt",
+              "title": "Pandemija tal-COVID-19"
+            },
+            {
+              "lang": "mwl",
+              "title": "Pandemie de coronabírus"
+            },
+            {
+              "lang": "my",
+              "title": "၂၀၁၉-၂၀ ကိုရိုနာဗိုင်းရပ်စ် ဖြစ်ပွားမှု"
+            },
+            {
+              "lang": "ne",
+              "title": "कोभिड-१९ को विश्वव्यापी महामारी"
+            },
+            {
+              "lang": "nl",
+              "title": "Coronapandemie"
+            },
+            {
+              "lang": "nn",
+              "title": "Koronapandemien"
+            },
+            {
+              "lang": "nb",
+              "title": "Koronapandemien"
+            },
+            {
+              "lang": "ny",
+              "title": "Mliri wa kachilombo ka corona 2019-20"
+            },
+            {
+              "lang": "oc",
+              "title": "Pandemia de Covid-19"
+            },
+            {
+              "lang": "pa",
+              "title": "2019–20 ਕੋਰੋਨਾਵਾਇਰਸ ਮਹਾਂਮਾਰੀ"
+            },
+            {
+              "lang": "pap",
+              "title": "Pandemia di COVID-19"
+            },
+            {
+              "lang": "pcm",
+              "title": "COVID-19 Pandemic"
+            },
+            {
+              "lang": "pl",
+              "title": "Pandemia COVID-19"
+            },
+            {
+              "lang": "pnb",
+              "title": "کورونا وائرس دی عالمی وبا، 2019ء - 2020ء"
+            },
+            {
+              "lang": "ps",
+              "title": "کوويډ-۱۹ وبا"
+            },
+            {
+              "lang": "pt",
+              "title": "Pandemia de COVID-19"
+            },
+            {
+              "lang": "qu",
+              "title": "Kurunawirus lliw unqurichiq"
+            },
+            {
+              "lang": "ro",
+              "title": "Pandemia de COVID-19"
+            },
+            {
+              "lang": "ru",
+              "title": "Пандемия COVID-19"
+            },
+            {
+              "lang": "rue",
+              "title": "Пандемія COVID-19"
+            },
+            {
+              "lang": "sah",
+              "title": "COVID-19 пандемията"
+            },
+            {
+              "lang": "sat",
+              "title": "᱒᱐᱑᱙-᱒᱐ ᱥᱮᱨᱢᱟ ᱨᱮ ᱠᱚᱨᱚᱱᱟ ᱵᱷᱟᱭᱨᱟᱥ ᱨᱮᱭᱟᱜ ᱡᱮᱜᱮᱫ ᱫᱳᱹᱨᱞᱚᱭ"
+            },
+            {
+              "lang": "sc",
+              "title": "Pandèmia de COVID-19"
+            },
+            {
+              "lang": "sco",
+              "title": "COVID-19 pandemic"
+            },
+            {
+              "lang": "sd",
+              "title": "2019–20 ڪوروناوائرس مها وبا"
+            },
+            {
+              "lang": "sh",
+              "title": "Pandemija COVID-a 19"
+            },
+            {
+              "lang": "shi",
+              "title": "Aṭṭan n kurunafirus 2019"
+            },
+            {
+              "lang": "shn",
+              "title": "လွင်ႈပဵၼ်တၢင်းပဵၼ် ဝၢႆးရႅတ်ႉၶူဝ်ႇရူဝ်ႇၼႃႇ 2019-20"
+            },
+            {
+              "lang": "si",
+              "title": "කොවිඩ්-19 ව්‍යාප්ත වසංගතය"
+            },
+            {
+              "lang": "simple",
+              "title": "COVID-19 pandemic"
+            },
+            {
+              "lang": "sk",
+              "title": "Pandémia ochorenia COVID-19"
+            },
+            {
+              "lang": "sl",
+              "title": "Pandemija covida-19"
+            },
+            {
+              "lang": "so",
+              "title": "Fayraska faafa ee Korona 2019–20"
+            },
+            {
+              "lang": "sq",
+              "title": "Pandemia e COVID-19"
+            },
+            {
+              "lang": "sr",
+              "title": "Пандемија ковида 19"
+            },
+            {
+              "lang": "st",
+              "title": "Lefu la Coronavirus"
+            },
+            {
+              "lang": "sv",
+              "title": "Covid-19-pandemin"
+            },
+            {
+              "lang": "sw",
+              "title": "Mlipuko wa virusi vya korona 2019-20"
+            },
+            {
+              "lang": "szl",
+              "title": "Pandymijo COVID-19"
+            },
+            {
+              "lang": "ta",
+              "title": "கோவிட்-19 பெருந்தொற்று"
+            },
+            {
+              "lang": "te",
+              "title": "2019–21 కరోనావైరస్ మహమ్మారి"
+            },
+            {
+              "lang": "tg",
+              "title": "Дунёгирии COVID-19"
+            },
+            {
+              "lang": "th",
+              "title": "การระบาดทั่วของโควิด-19"
+            },
+            {
+              "lang": "ti",
+              "title": "ለበዳ ኮቪድ-19"
+            },
+            {
+              "lang": "tk",
+              "title": "Korona wirusy (2019-2020)"
+            },
+            {
+              "lang": "tl",
+              "title": "Pandemya ng COVID-19"
+            },
+            {
+              "lang": "tn",
+              "title": "Bolwetse jwa Mogare wa Khorona 2019"
+            },
+            {
+              "lang": "tok",
+              "title": "tawa suli pi jaki Kolona"
+            },
+            {
+              "lang": "tpi",
+              "title": "COVID-19 pandemic"
+            },
+            {
+              "lang": "tr",
+              "title": "COVID-19 pandemisi"
+            },
+            {
+              "lang": "ts",
+              "title": "Ntungu wa Khorona ya 2019"
+            },
+            {
+              "lang": "tw",
+              "title": "Yareɛ a yɛ frɛ no Coronavirus"
+            },
+            {
+              "lang": "ug",
+              "title": "2019-2020 ۋۇخەن تاجىسىمان ۋىرۇسنىڭ شىددەتلىك تارقىلىشى ۋەقەسى"
+            },
+            {
+              "lang": "uk",
+              "title": "Пандемія коронавірусної хвороби 2019"
+            },
+            {
+              "lang": "ur",
+              "title": "کورونا وائرس کی عالمی وبا"
+            },
+            {
+              "lang": "uz",
+              "title": "COVID-19 pandemiyasi"
+            },
+            {
+              "lang": "ve",
+              "title": "Vhulwadze Ha Coronavirus 2019"
+            },
+            {
+              "lang": "vec",
+              "title": "Pandemia de COVID-19"
+            },
+            {
+              "lang": "vi",
+              "title": "Đại dịch COVID-19"
+            },
+            {
+              "lang": "war",
+              "title": "Pandemya nga COVID-19"
+            },
+            {
+              "lang": "wo",
+              "title": "Jàngoro Koronaawiris 2019"
+            },
+            {
+              "lang": "wuu",
+              "title": "2019新型冠状病毒肺炎事体"
+            },
+            {
+              "lang": "xh",
+              "title": "Isifo se-Coronavirus 2019"
+            },
+            {
+              "lang": "yi",
+              "title": "קאוויד-19 פאנדעמיק"
+            },
+            {
+              "lang": "yo",
+              "title": "Àjàkáyé-àrùn èrànkòrónà ọdún 2019-2020"
+            },
+            {
+              "lang": "zh",
+              "title": "2019冠状病毒病疫情"
+            },
+            {
+              "lang": "lzh",
+              "title": "己亥大疫"
+            },
+            {
+              "lang": "nan",
+              "title": "COVID-19 tōa-liû-hêng"
+            },
+            {
+              "lang": "yue",
+              "title": "武漢肺炎大爆發"
+            },
+            {
+              "lang": "zu",
+              "title": "Isifo seCoronavirus 2019"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

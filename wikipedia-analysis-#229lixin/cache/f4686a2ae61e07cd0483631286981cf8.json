@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:12.101344",
+  "response": {
+    "continue": {
+      "rvcontinue": "20120822172438|283514",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 50661,
+          "ns": 0,
+          "title": "बसाइँ सराई",
+          "revisions": [
+            {
+              "timestamp": "2012-07-27T15:41:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

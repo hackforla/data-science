@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:23.806722",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150520053341|1302596",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 334838,
+          "ns": 0,
+          "title": "نسل کشی",
+          "revisions": [
+            {
+              "timestamp": "2015-05-20T05:31:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

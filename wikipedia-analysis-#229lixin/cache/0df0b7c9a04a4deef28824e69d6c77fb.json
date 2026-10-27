@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:46.049134",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090414104950|3126089",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 318768,
+          "ns": 0,
+          "title": "범유행",
+          "revisions": [
+            {
+              "timestamp": "2009-04-14T10:39:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

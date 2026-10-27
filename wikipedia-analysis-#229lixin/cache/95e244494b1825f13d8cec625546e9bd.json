@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:33.613109",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080105010901|1406851",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 173006,
+          "ns": 0,
+          "title": "Хуманитарна криза",
+          "revisions": [
+            {
+              "timestamp": "2008-01-04T22:07:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

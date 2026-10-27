@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:36:55.543339",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030305083834|75676",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2300,
+          "ns": 0,
+          "title": "ジェノサイド",
+          "revisions": [
+            {
+              "timestamp": "2003-02-18T14:23:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

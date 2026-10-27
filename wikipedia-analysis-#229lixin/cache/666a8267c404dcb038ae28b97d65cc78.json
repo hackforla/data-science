@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:04.098913",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090606005229|2117622",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 343000,
+          "ns": 0,
+          "title": "تقلب انتخاباتی",
+          "revisions": [
+            {
+              "timestamp": "2009-06-06T00:48:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:31.603099",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031010183235|132004",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 30568,
+          "ns": 0,
+          "title": "Pauvreté",
+          "revisions": [
+            {
+              "timestamp": "2003-10-10T18:27:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

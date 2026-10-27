@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:45.199081",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150520011222|82562417",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6890877,
+          "ns": 0,
+          "title": "Fenómeno meteorológico extremo",
+          "revisions": [
+            {
+              "timestamp": "2015-05-20T01:10:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:12.927189",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241010055447|16556419",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 280146,
+          "ns": 0,
+          "title": "Crimă de război",
+          "revisions": [
+            {
+              "timestamp": "2024-10-10T05:58:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

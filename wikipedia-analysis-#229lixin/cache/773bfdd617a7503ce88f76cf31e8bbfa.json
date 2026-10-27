@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:05.100468",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030712135417|23546",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4382,
+          "ns": 0,
+          "title": "Demokrati",
+          "revisions": [
+            {
+              "timestamp": "2003-02-18T10:49:45Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

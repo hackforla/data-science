@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:15.624079",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180123003917|345329",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48853,
+          "ns": 0,
+          "title": "ጦርነት",
+          "revisions": [
+            {
+              "timestamp": "2018-01-23T00:36:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:45.604851",
+  "response": {
+    "continue": {
+      "rvcontinue": "20170616151325|1004526",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 90693,
+          "ns": 0,
+          "title": "Ukame",
+          "revisions": [
+            {
+              "timestamp": "2017-06-16T14:23:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

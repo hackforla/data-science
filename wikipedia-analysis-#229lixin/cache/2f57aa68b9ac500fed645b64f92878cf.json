@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:39.913467",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050220161736|23089",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3747,
+          "ns": 0,
+          "title": "زمین‌لرزه",
+          "revisions": [
+            {
+              "timestamp": "2004-12-31T14:51:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:39:35.110120",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041117222154|29409",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12849,
+          "ns": 0,
+          "title": "Миротворча діяльність",
+          "revisions": [
+            {
+              "timestamp": "2004-11-06T12:58:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

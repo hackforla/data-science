@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:07.609429",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260123130931|171671162",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2815559,
+          "ns": 0,
+          "title": "Calentamiento global",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T13:09:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

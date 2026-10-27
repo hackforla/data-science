@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:34.769231",
+  "response": {
+    "continue": {
+      "rvcontinue": "20091121074920|2416173",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 436018,
+          "ns": 0,
+          "title": "Cháy rừng",
+          "revisions": [
+            {
+              "timestamp": "2009-11-21T06:24:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

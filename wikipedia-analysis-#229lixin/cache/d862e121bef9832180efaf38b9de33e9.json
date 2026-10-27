@@ -1,0 +1,192 @@
+{
+  "cached_at": "2026-01-26T00:50:19.453411",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1742315,
+          "ns": 0,
+          "title": "Vaccine hesitancy",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Entstofhuiwering"
+            },
+            {
+              "lang": "ar",
+              "title": "جدل اللقاحات"
+            },
+            {
+              "lang": "be",
+              "title": "Антывакс"
+            },
+            {
+              "lang": "bn",
+              "title": "টিকা গ্রহণে অনীহা"
+            },
+            {
+              "lang": "bs",
+              "title": "Nepovjerenje prema vakcinama"
+            },
+            {
+              "lang": "ca",
+              "title": "Antivacunació"
+            },
+            {
+              "lang": "da",
+              "title": "Vaccineskepsis"
+            },
+            {
+              "lang": "de",
+              "title": "Impfgegnerschaft"
+            },
+            {
+              "lang": "el",
+              "title": "Αντιεμβολιασμός"
+            },
+            {
+              "lang": "eo",
+              "title": "Privakcinada polemiko"
+            },
+            {
+              "lang": "es",
+              "title": "Controversia de las vacunas"
+            },
+            {
+              "lang": "eu",
+              "title": "Txertoekiko aurkakotasuna"
+            },
+            {
+              "lang": "fa",
+              "title": "تردید در واکسیناسیون"
+            },
+            {
+              "lang": "fi",
+              "title": "Rokotuskriittisyys"
+            },
+            {
+              "lang": "fr",
+              "title": "Controverse sur la vaccination"
+            },
+            {
+              "lang": "he",
+              "title": "התנגדות לחיסונים"
+            },
+            {
+              "lang": "hi",
+              "title": "टीकाकरण से संकोच"
+            },
+            {
+              "lang": "hu",
+              "title": "Oltásellenesség"
+            },
+            {
+              "lang": "id",
+              "title": "Antivaksin"
+            },
+            {
+              "lang": "it",
+              "title": "Antivaccinismo"
+            },
+            {
+              "lang": "ja",
+              "title": "ワクチン忌避"
+            },
+            {
+              "lang": "ko",
+              "title": "백신 기피"
+            },
+            {
+              "lang": "ky",
+              "title": "Антивакцинация"
+            },
+            {
+              "lang": "lt",
+              "title": "Vakcinų kontroversijos"
+            },
+            {
+              "lang": "ms",
+              "title": "Antivaksin"
+            },
+            {
+              "lang": "nl",
+              "title": "Vaccinatieweigering"
+            },
+            {
+              "lang": "nb",
+              "title": "Vaksineskepsis"
+            },
+            {
+              "lang": "pl",
+              "title": "Ruch antyszczepionkowy"
+            },
+            {
+              "lang": "ps",
+              "title": "د واکسينو په اړه دوه زړي توب"
+            },
+            {
+              "lang": "pt",
+              "title": "Movimento antivacina"
+            },
+            {
+              "lang": "ro",
+              "title": "Controversa vaccinărilor"
+            },
+            {
+              "lang": "ru",
+              "title": "Антивакцинаторство"
+            },
+            {
+              "lang": "sh",
+              "title": "Nepovjerenje prema vakcinama"
+            },
+            {
+              "lang": "simple",
+              "title": "Vaccine hesitancy"
+            },
+            {
+              "lang": "sl",
+              "title": "Nasprotovanje cepljenju"
+            },
+            {
+              "lang": "sr",
+              "title": "Неповерење према вакцинама"
+            },
+            {
+              "lang": "sv",
+              "title": "Vaccinationsmotstånd"
+            },
+            {
+              "lang": "th",
+              "title": "ข้อถกเถียงเรื่องวัคซีน"
+            },
+            {
+              "lang": "tr",
+              "title": "Aşı karşıtlığı"
+            },
+            {
+              "lang": "uk",
+              "title": "Суперечки щодо вакцинації"
+            },
+            {
+              "lang": "vi",
+              "title": "Tranh cãi về vắc xin"
+            },
+            {
+              "lang": "zh",
+              "title": "疫苗猶豫"
+            },
+            {
+              "lang": "yue",
+              "title": "疫苗猶豫"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

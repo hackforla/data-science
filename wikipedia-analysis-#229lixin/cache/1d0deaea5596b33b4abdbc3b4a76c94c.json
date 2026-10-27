@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:00.848303",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070818205948|720657",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 149906,
+          "ns": 0,
+          "title": "تغییر اقلیم",
+          "revisions": [
+            {
+              "timestamp": "2007-08-18T20:57:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

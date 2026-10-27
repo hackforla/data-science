@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:29.129320",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251230051505|42447724",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 132198,
+          "ns": 0,
+          "title": "עונש מוות",
+          "revisions": [
+            {
+              "timestamp": "2025-12-30T14:39:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

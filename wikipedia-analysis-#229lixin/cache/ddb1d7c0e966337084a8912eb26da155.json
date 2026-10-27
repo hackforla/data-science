@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:23.921908",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251023175540|149324269",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 128169,
+          "ns": 0,
+          "title": "Миграция населения",
+          "revisions": [
+            {
+              "timestamp": "2026-01-25T15:57:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:19.709397",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110618120912|124527",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 14016,
+          "ns": 0,
+          "title": "बाढी",
+          "revisions": [
+            {
+              "timestamp": "2010-07-13T10:27:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

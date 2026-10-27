@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:32.849134",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251222035912|41036849",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 272103,
+          "ns": 0,
+          "title": "성평등",
+          "revisions": [
+            {
+              "timestamp": "2026-01-01T02:54:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

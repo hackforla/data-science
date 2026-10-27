@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:10.056948",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060201035911|2197884",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 284638,
+          "ns": 0,
+          "title": "Libertad de prensa",
+          "revisions": [
+            {
+              "timestamp": "2006-02-01T00:50:41Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

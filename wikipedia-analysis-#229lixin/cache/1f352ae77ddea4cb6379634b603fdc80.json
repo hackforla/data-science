@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:38.477531",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040719085734|6083",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3835,
+          "ns": 0,
+          "title": "Тероризм",
+          "revisions": [
+            {
+              "timestamp": "2004-04-25T12:51:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

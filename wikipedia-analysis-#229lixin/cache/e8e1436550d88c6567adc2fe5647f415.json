@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:29.962129",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260110163929|8720842",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3332,
+          "ns": 0,
+          "title": "ভূমিকম্প",
+          "revisions": [
+            {
+              "timestamp": "2026-01-10T16:49:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

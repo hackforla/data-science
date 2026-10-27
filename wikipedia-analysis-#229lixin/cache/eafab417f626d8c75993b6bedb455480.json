@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:22.434203",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070828064539|1296579",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 235150,
+          "ns": 0,
+          "title": "Organizația Mondială a Sănătății",
+          "revisions": [
+            {
+              "timestamp": "2007-08-28T06:45:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

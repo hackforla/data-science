@@ -1,0 +1,14 @@
+experiment_name: "t0_setup_template"
+dataset: "ag_news"
+test_size: 0.2
+random_state: 42
+tfidf:
+        max_features: 30000
+        ngram_range: [1,2]
+model:
+        type: "logreg"
+        C: 2.0
+        max_iter: 200
+metrics:
+        average: "macro"
+

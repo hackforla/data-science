@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:33.761079",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101113144454|5287600",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 851728,
+          "ns": 0,
+          "title": "Міграція населення",
+          "revisions": [
+            {
+              "timestamp": "2010-11-11T19:44:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

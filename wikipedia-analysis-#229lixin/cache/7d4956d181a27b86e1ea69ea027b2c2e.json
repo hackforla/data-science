@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:04.791638",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231009225243|11966531",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 731006,
+          "ns": 0,
+          "title": "Изтезание",
+          "revisions": [
+            {
+              "timestamp": "2025-12-29T15:29:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

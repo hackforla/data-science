@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:51.782888",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240919234540|335235",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17450,
+          "ns": 0,
+          "title": "توکمپالنه",
+          "revisions": [
+            {
+              "timestamp": "2025-09-17T22:51:05Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

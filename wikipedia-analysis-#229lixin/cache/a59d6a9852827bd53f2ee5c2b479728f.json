@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:36.231767",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060127002344|337492",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 54296,
+          "ns": 0,
+          "title": "Válečný zločin",
+          "revisions": [
+            {
+              "timestamp": "2005-12-29T12:14:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

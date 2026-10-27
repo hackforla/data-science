@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:34.679938",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090501010155|1934166",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 350267,
+          "ns": 0,
+          "title": "Tị nạn",
+          "revisions": [
+            {
+              "timestamp": "2009-05-01T00:40:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

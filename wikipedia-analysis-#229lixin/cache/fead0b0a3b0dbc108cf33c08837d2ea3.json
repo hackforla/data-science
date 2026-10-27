@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:46.201121",
+  "response": {
+    "continue": {
+      "rvcontinue": "20091030155136|525522",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 166711,
+          "ns": 0,
+          "title": "टीका (वैक्सीन)",
+          "revisions": [
+            {
+              "timestamp": "2009-10-30T15:50:55Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

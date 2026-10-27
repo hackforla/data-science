@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:27:13.572775",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260121200237|232634195",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 108790,
+          "ns": 0,
+          "title": "Liberté d'expression",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T20:03:02Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

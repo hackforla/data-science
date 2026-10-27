@@ -1,0 +1,13 @@
+pandas==2.2.2
+scikit-learn==1.5.2
+spacy==3.7.6
+matplotlib==3.9.2
+datasets==3.0.1
+transformers==4.44.2
+mlflow==2.16.2
+numpy==1.26.4
+pyyaml==6.0.2
+python-dotenv==1.0.1
+pydantic==2.9.2
+fastapi==0.115.0
+uvicorn==0.30.6

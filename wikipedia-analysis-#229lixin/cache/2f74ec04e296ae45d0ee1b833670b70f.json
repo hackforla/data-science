@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:40.616590",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061028180922|792511",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 155537,
+          "ns": 0,
+          "title": "Sel",
+          "revisions": [
+            {
+              "timestamp": "2006-10-28T17:52:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:54.454241",
+  "response": {
+    "continue": {
+      "rvcontinue": "20110328142427|4295803",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 767356,
+          "ns": 0,
+          "title": "Hạn hán",
+          "revisions": [
+            {
+              "timestamp": "2011-03-28T14:19:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

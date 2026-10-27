@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:06.978159",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210601201437|10782784",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48299,
+          "ns": 0,
+          "title": "Trykkefrihed",
+          "revisions": [
+            {
+              "timestamp": "2024-04-21T13:58:04Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

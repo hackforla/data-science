@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:48.543934",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220723125547|752115",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 229964,
+          "ns": 0,
+          "title": "ကမ္ဘာကပ်ရောဂါ",
+          "revisions": [
+            {
+              "timestamp": "2022-07-23T12:54:06Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:51.365167",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080206113039|1747538",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 314300,
+          "ns": 0,
+          "title": "Pedeapsa cu moartea",
+          "revisions": [
+            {
+              "timestamp": "2008-02-06T11:29:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

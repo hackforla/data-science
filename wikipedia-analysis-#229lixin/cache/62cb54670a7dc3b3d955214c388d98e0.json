@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:34.008411",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260105060211|107888277",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 349233,
+          "ns": 0,
+          "title": "児童労働",
+          "revisions": [
+            {
+              "timestamp": "2026-01-05T06:02:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

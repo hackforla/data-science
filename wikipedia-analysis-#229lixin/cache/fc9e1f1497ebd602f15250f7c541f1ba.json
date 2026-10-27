@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:32.515366",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100523152402|95995",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20118,
+          "ns": 0,
+          "title": "ජලගැල්ම",
+          "revisions": [
+            {
+              "timestamp": "2010-04-29T14:40:32Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

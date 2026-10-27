@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:32:15.729401",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251012191519|42852878",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 421871,
+          "ns": 0,
+          "title": "برابری جنسیتی",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T21:04:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

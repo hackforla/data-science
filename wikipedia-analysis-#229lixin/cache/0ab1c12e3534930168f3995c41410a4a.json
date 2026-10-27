@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:49.840617",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260102210013|171298729",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5703,
+          "ns": 0,
+          "title": "Organización Mundial de la Salud",
+          "revisions": [
+            {
+              "timestamp": "2026-01-22T23:00:38Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:38.865298",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231214042317|6020404",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1118454,
+          "ns": 0,
+          "title": "टीकाकरण से संकोच",
+          "revisions": [
+            {
+              "timestamp": "2024-12-03T12:53:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

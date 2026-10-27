@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:11.005794",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250216170830|253394829",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 918587,
+          "ns": 0,
+          "title": "Grenzkontrolle",
+          "revisions": [
+            {
+              "timestamp": "2025-04-07T16:28:15Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

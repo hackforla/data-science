@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:17.691156",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260114173135|23785633",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7974,
+          "ns": 0,
+          "title": "Kidutus",
+          "revisions": [
+            {
+              "timestamp": "2026-01-21T00:12:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

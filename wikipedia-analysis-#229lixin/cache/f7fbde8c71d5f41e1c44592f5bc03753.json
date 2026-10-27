@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:42:30.303303",
+  "response": {
+    "continue": {
+      "rvcontinue": "20190328125425|8194557",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1021166,
+          "ns": 0,
+          "title": "การโกงเลือกตั้ง",
+          "revisions": [
+            {
+              "timestamp": "2019-03-28T12:44:56Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

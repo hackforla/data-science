@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:05.512856",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251029012258|74323605",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 550958,
+          "ns": 0,
+          "title": "Phân biệt đối xử",
+          "revisions": [
+            {
+              "timestamp": "2025-11-14T06:16:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

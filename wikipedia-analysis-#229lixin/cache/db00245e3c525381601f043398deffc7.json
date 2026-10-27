@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:22.379145",
+  "response": {
+    "continue": {
+      "rvcontinue": "20231104163855|38193781",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4320318,
+          "ns": 0,
+          "title": "بحران پناهندگان",
+          "revisions": [
+            {
+              "timestamp": "2023-11-08T12:55:28Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

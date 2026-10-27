@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:27.751974",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251016100540|8532536",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7423,
+          "ns": 0,
+          "title": "টিকা",
+          "revisions": [
+            {
+              "timestamp": "2026-01-13T05:15:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

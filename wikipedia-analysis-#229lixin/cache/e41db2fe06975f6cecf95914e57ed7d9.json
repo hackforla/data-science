@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:54.667766",
+  "response": {
+    "continue": {
+      "rvcontinue": "20160102174740|1815060",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 437397,
+          "ns": 0,
+          "title": "بے وطنی",
+          "revisions": [
+            {
+              "timestamp": "2016-01-02T17:47:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

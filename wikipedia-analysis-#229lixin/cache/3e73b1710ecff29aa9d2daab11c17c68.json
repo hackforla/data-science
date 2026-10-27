@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:18.983146",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040507140614|238932",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 45467,
+          "ns": 0,
+          "title": "Orkanstyrka",
+          "revisions": [
+            {
+              "timestamp": "2004-05-07T07:32:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

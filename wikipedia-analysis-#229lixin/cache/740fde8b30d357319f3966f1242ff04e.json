@@ -1,0 +1,136 @@
+{
+  "cached_at": "2026-01-26T00:39:04.050553",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 84617,
+          "ns": 0,
+          "title": "Peacekeeping",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "حفظ السلام"
+            },
+            {
+              "lang": "ast",
+              "title": "Misión de paz"
+            },
+            {
+              "lang": "bn",
+              "title": "শান্তিরক্ষা"
+            },
+            {
+              "lang": "da",
+              "title": "Fredsbevarende styrke"
+            },
+            {
+              "lang": "de",
+              "title": "Friedenssicherung"
+            },
+            {
+              "lang": "el",
+              "title": "Διατήρηση της ειρήνης"
+            },
+            {
+              "lang": "eo",
+              "title": "Packonservado"
+            },
+            {
+              "lang": "es",
+              "title": "Misión de paz"
+            },
+            {
+              "lang": "et",
+              "title": "Rahuvalve"
+            },
+            {
+              "lang": "fa",
+              "title": "صلح‌بانی"
+            },
+            {
+              "lang": "fr",
+              "title": "Maintien de la paix"
+            },
+            {
+              "lang": "he",
+              "title": "שמירה על השלום"
+            },
+            {
+              "lang": "id",
+              "title": "Pemeliharaan perdamaian"
+            },
+            {
+              "lang": "it",
+              "title": "Mantenimento della pace"
+            },
+            {
+              "lang": "ko",
+              "title": "평화 유지 활동"
+            },
+            {
+              "lang": "mn",
+              "title": "Энхийг сахиулах"
+            },
+            {
+              "lang": "ms",
+              "title": "Pengaman"
+            },
+            {
+              "lang": "my",
+              "title": "ကုလသမဂ္ဂ ငြိမ်းချမ်းရေး ထိန်းသိမ်းမှုတပ်ဖွဲ့"
+            },
+            {
+              "lang": "pl",
+              "title": "Utrzymywanie pokoju"
+            },
+            {
+              "lang": "pt",
+              "title": "Manutenção da paz"
+            },
+            {
+              "lang": "ro",
+              "title": "Menținerea păcii"
+            },
+            {
+              "lang": "sd",
+              "title": "امن جي بحاليءَ واري فوج"
+            },
+            {
+              "lang": "sk",
+              "title": "Peacekeeping"
+            },
+            {
+              "lang": "sq",
+              "title": "Paqeruajtja"
+            },
+            {
+              "lang": "sv",
+              "title": "Fredsbevarande insatser"
+            },
+            {
+              "lang": "uk",
+              "title": "Миротворча діяльність"
+            },
+            {
+              "lang": "vi",
+              "title": "Gìn giữ hòa bình"
+            },
+            {
+              "lang": "zh",
+              "title": "維持和平"
+            },
+            {
+              "lang": "yue",
+              "title": "維持和平"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

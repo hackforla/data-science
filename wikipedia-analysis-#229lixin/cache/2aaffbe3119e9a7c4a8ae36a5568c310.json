@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:10.278222",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080930163405|3115983",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 358955,
+          "ns": 0,
+          "title": "Dětská práce",
+          "revisions": [
+            {
+              "timestamp": "2008-09-30T15:37:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

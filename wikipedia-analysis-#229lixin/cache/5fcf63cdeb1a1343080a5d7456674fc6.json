@@ -1,0 +1,408 @@
+{
+  "cached_at": "2026-01-26T00:26:53.978244",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 21401843,
+          "ns": 0,
+          "title": "Freedom of speech",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Vryheid van spraak"
+            },
+            {
+              "lang": "ar",
+              "title": "حرية التعبير"
+            },
+            {
+              "lang": "arz",
+              "title": "حرية التعبير"
+            },
+            {
+              "lang": "ast",
+              "title": "Llibertá d'espresión"
+            },
+            {
+              "lang": "az",
+              "title": "Söz azadlığı"
+            },
+            {
+              "lang": "azb",
+              "title": "سؤز اؤزگورلوگو"
+            },
+            {
+              "lang": "ba",
+              "title": "Һүҙ азатлығы"
+            },
+            {
+              "lang": "be",
+              "title": "Свабода слова"
+            },
+            {
+              "lang": "bg",
+              "title": "Свобода на словото"
+            },
+            {
+              "lang": "bm",
+              "title": "Kuma hɔrɔnya"
+            },
+            {
+              "lang": "bn",
+              "title": "বাকস্বাধীনতা"
+            },
+            {
+              "lang": "bs",
+              "title": "Sloboda govora"
+            },
+            {
+              "lang": "ca",
+              "title": "Llibertat d'expressió"
+            },
+            {
+              "lang": "ckb",
+              "title": "ئازادیی دەربڕین"
+            },
+            {
+              "lang": "cs",
+              "title": "Svoboda projevu"
+            },
+            {
+              "lang": "cv",
+              "title": "Сăмах ирĕклĕхĕ"
+            },
+            {
+              "lang": "da",
+              "title": "Ytringsfrihed"
+            },
+            {
+              "lang": "de",
+              "title": "Meinungsfreiheit"
+            },
+            {
+              "lang": "el",
+              "title": "Ελευθερία του λόγου"
+            },
+            {
+              "lang": "eo",
+              "title": "Parollibereco"
+            },
+            {
+              "lang": "es",
+              "title": "Libertad de expresión"
+            },
+            {
+              "lang": "et",
+              "title": "Sõnavabadus"
+            },
+            {
+              "lang": "eu",
+              "title": "Adierazpen-askatasun"
+            },
+            {
+              "lang": "fa",
+              "title": "آزادی بیان"
+            },
+            {
+              "lang": "fi",
+              "title": "Sananvapaus"
+            },
+            {
+              "lang": "fo",
+              "title": "Talufrælsi"
+            },
+            {
+              "lang": "fr",
+              "title": "Liberté d'expression"
+            },
+            {
+              "lang": "gl",
+              "title": "Liberdade de expresión"
+            },
+            {
+              "lang": "glk",
+              "title": "گۊتنرهایی"
+            },
+            {
+              "lang": "gn",
+              "title": "Ñeñanduka sãso"
+            },
+            {
+              "lang": "ha",
+              "title": "Ƴancin Faɗar Albarkacin Baki"
+            },
+            {
+              "lang": "hak",
+              "title": "Ngièn-lun Chhṳ-yù"
+            },
+            {
+              "lang": "he",
+              "title": "חופש הביטוי"
+            },
+            {
+              "lang": "hi",
+              "title": "अभिव्यक्ति की स्वतंत्रता"
+            },
+            {
+              "lang": "hr",
+              "title": "Sloboda govora"
+            },
+            {
+              "lang": "hu",
+              "title": "Szólásszabadság"
+            },
+            {
+              "lang": "hy",
+              "title": "Խոսքի ազատություն"
+            },
+            {
+              "lang": "id",
+              "title": "Kebebasan berbicara"
+            },
+            {
+              "lang": "is",
+              "title": "Málfrelsi"
+            },
+            {
+              "lang": "it",
+              "title": "Libertà di parola"
+            },
+            {
+              "lang": "ja",
+              "title": "表現の自由"
+            },
+            {
+              "lang": "ka",
+              "title": "სიტყვის თავისუფლება"
+            },
+            {
+              "lang": "kk",
+              "title": "Сөз бостандығы"
+            },
+            {
+              "lang": "ko",
+              "title": "표현의 자유"
+            },
+            {
+              "lang": "ku",
+              "title": "Azadiya derbirinê"
+            },
+            {
+              "lang": "la",
+              "title": "Libertas exprimendi"
+            },
+            {
+              "lang": "lb",
+              "title": "Meenungsfräiheet"
+            },
+            {
+              "lang": "lo",
+              "title": "ເສລີພາບໃນການເວົ້າ"
+            },
+            {
+              "lang": "lt",
+              "title": "Žodžio laisvė"
+            },
+            {
+              "lang": "lv",
+              "title": "Vārda brīvība"
+            },
+            {
+              "lang": "mk",
+              "title": "Слобода на говорот"
+            },
+            {
+              "lang": "ml",
+              "title": "അഭിപ്രായസ്വാതന്ത്ര്യം"
+            },
+            {
+              "lang": "mr",
+              "title": "अभिव्यक्तिस्वातंत्र्य"
+            },
+            {
+              "lang": "ms",
+              "title": "Kebebasan bersuara"
+            },
+            {
+              "lang": "mwl",
+              "title": "Lhibardade de spresson"
+            },
+            {
+              "lang": "my",
+              "title": "လွတ်လပ်စွာ ဟောပြောခွင့်"
+            },
+            {
+              "lang": "nl",
+              "title": "Vrijheid van meningsuiting"
+            },
+            {
+              "lang": "nn",
+              "title": "Ytringsfridom"
+            },
+            {
+              "lang": "nb",
+              "title": "Ytringsfrihet"
+            },
+            {
+              "lang": "oc",
+              "title": "Libertat d'expression"
+            },
+            {
+              "lang": "or",
+              "title": "ବାକ୍ ସ୍ୱାଧିନତା"
+            },
+            {
+              "lang": "pa",
+              "title": "ਬੋਲਣ ਦੀ ਆਜ਼ਾਦੀ"
+            },
+            {
+              "lang": "pl",
+              "title": "Wolność słowa"
+            },
+            {
+              "lang": "pnb",
+              "title": "آزادی گفتار"
+            },
+            {
+              "lang": "ps",
+              "title": "د وينا ازادي"
+            },
+            {
+              "lang": "pt",
+              "title": "Liberdade de expressão"
+            },
+            {
+              "lang": "ro",
+              "title": "Libertatea de exprimare"
+            },
+            {
+              "lang": "ru",
+              "title": "Свобода слова"
+            },
+            {
+              "lang": "sah",
+              "title": "Көҥүл тыл"
+            },
+            {
+              "lang": "sc",
+              "title": "Libertade de espressione"
+            },
+            {
+              "lang": "scn",
+              "title": "Libbirtati di parrata"
+            },
+            {
+              "lang": "sco",
+              "title": "Freedom o speech"
+            },
+            {
+              "lang": "sd",
+              "title": "اظهار جي آزادي"
+            },
+            {
+              "lang": "sh",
+              "title": "Sloboda govora"
+            },
+            {
+              "lang": "simple",
+              "title": "Freedom of speech"
+            },
+            {
+              "lang": "sk",
+              "title": "Sloboda slova"
+            },
+            {
+              "lang": "sl",
+              "title": "Svoboda govora"
+            },
+            {
+              "lang": "sq",
+              "title": "Liria e shprehjes"
+            },
+            {
+              "lang": "sr",
+              "title": "Слобода говора"
+            },
+            {
+              "lang": "sv",
+              "title": "Yttrandefrihet"
+            },
+            {
+              "lang": "sw",
+              "title": "Uhuru wa kujieleza"
+            },
+            {
+              "lang": "ta",
+              "title": "கருத்து வெளிப்பாட்டுச் சுதந்திரம்"
+            },
+            {
+              "lang": "tg",
+              "title": "Озодии баён"
+            },
+            {
+              "lang": "th",
+              "title": "เสรีภาพในการพูด"
+            },
+            {
+              "lang": "tl",
+              "title": "Kalayaan sa pananalita"
+            },
+            {
+              "lang": "tr",
+              "title": "İfade özgürlüğü"
+            },
+            {
+              "lang": "uk",
+              "title": "Свобода слова"
+            },
+            {
+              "lang": "ur",
+              "title": "آزادی گفتار"
+            },
+            {
+              "lang": "uz",
+              "title": "Soʻz erkinligi"
+            },
+            {
+              "lang": "vi",
+              "title": "Tự do ngôn luận"
+            },
+            {
+              "lang": "wuu",
+              "title": "言論自由"
+            },
+            {
+              "lang": "yi",
+              "title": "פרייהייט פון ווארט"
+            },
+            {
+              "lang": "zea",
+              "title": "Vrie'eid van meênigsuuting"
+            },
+            {
+              "lang": "zgh",
+              "title": "ⵜⵉⵍⴻⵍⵍⵉ ⵏ ⵜⵏⴼⴰⵍⵉⵜ"
+            },
+            {
+              "lang": "zh",
+              "title": "言論自由"
+            },
+            {
+              "lang": "nan",
+              "title": "Giân-lūn ê chū-iû"
+            },
+            {
+              "lang": "yue",
+              "title": "言論自由"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

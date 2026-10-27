@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:18:07.845720",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041102033208|160302",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23009,
+          "ns": 0,
+          "title": "Sismo",
+          "revisions": [
+            {
+              "timestamp": "2004-08-04T16:16:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

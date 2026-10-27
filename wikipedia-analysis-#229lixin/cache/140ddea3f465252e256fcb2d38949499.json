@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:17.238522",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260111122451|41183687",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 84251,
+          "ns": 0,
+          "title": "산불",
+          "revisions": [
+            {
+              "timestamp": "2026-01-11T12:30:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

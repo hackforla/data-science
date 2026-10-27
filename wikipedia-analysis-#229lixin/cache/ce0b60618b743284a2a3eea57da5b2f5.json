@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:26.411288",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100110144817|352535",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 32763,
+          "ns": 0,
+          "title": "Mkimbizi",
+          "revisions": [
+            {
+              "timestamp": "2009-12-04T15:37:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

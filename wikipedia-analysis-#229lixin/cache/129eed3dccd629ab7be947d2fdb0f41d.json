@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:05:51.449900",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250116154125|1386509",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 33719,
+          "ns": 0,
+          "title": "Kifua kikuu",
+          "revisions": [
+            {
+              "timestamp": "2025-06-21T12:14:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

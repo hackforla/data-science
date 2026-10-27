@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:38:25.019840",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250501152556|8531004",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8696,
+          "ns": 0,
+          "title": "جنگی جرائم",
+          "revisions": [
+            {
+              "timestamp": "2025-08-09T07:50:39Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

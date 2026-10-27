@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:46:46.193480",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250808231250|40429544",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 290799,
+          "ns": 0,
+          "title": "빈곤",
+          "revisions": [
+            {
+              "timestamp": "2025-11-27T23:24:54Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:15:56.492519",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200528104014|4270569",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 904478,
+          "ns": 0,
+          "title": "খরা",
+          "revisions": [
+            {
+              "timestamp": "2020-05-13T13:13:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

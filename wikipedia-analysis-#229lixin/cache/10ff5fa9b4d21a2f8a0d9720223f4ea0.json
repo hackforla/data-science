@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:04.800996",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060305104137|109833",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 21867,
+          "ns": 0,
+          "title": "Υπερθέρμανση του πλανήτη",
+          "revisions": [
+            {
+              "timestamp": "2006-03-05T09:44:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

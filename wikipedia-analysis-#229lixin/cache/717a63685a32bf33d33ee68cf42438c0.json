@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:42.418551",
+  "response": {
+    "continue": {
+      "rvcontinue": "20061109041833|591824",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 86964,
+          "ns": 0,
+          "title": "투표",
+          "revisions": [
+            {
+              "timestamp": "2006-11-09T03:26:51Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

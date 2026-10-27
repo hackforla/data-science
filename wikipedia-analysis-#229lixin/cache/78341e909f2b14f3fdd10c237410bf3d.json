@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:30.039878",
+  "response": {
+    "continue": {
+      "rvcontinue": "20030214111758|13579",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7193,
+          "ns": 0,
+          "title": "Världshälsoorganisationen",
+          "revisions": [
+            {
+              "timestamp": "2003-02-14T11:13:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

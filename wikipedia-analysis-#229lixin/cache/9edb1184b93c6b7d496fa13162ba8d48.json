@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:21:29.069984",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250908024009|12519268",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 452817,
+          "ns": 0,
+          "title": "ผู้ลี้ภัย",
+          "revisions": [
+            {
+              "timestamp": "2025-09-13T02:37:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

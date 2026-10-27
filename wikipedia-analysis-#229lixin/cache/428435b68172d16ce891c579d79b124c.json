@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:58.443237",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260108121840|263145462",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11519186,
+          "ns": 0,
+          "title": "Präsidentschaftswahl in den Vereinigten Staaten 2024",
+          "revisions": [
+            {
+              "timestamp": "2026-01-08T12:22:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

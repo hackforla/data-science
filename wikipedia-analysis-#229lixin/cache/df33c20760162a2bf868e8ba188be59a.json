@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:01.611367",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240108183840|80419802",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4720323,
+          "ns": 0,
+          "title": "国内流离失所者",
+          "revisions": [
+            {
+              "timestamp": "2025-05-30T06:01:40Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

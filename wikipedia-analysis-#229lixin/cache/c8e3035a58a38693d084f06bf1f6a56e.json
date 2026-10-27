@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:25:13.361012",
+  "response": {
+    "continue": {
+      "rvcontinue": "20220606080004|34850622",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 6034423,
+          "ns": 0,
+          "title": "کنترل مرزی",
+          "revisions": [
+            {
+              "timestamp": "2022-06-05T22:31:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:08:51.896125",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251117131323|147976031",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 690402,
+          "ns": 0,
+          "title": "Vaccino",
+          "revisions": [
+            {
+              "timestamp": "2026-01-12T09:52:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

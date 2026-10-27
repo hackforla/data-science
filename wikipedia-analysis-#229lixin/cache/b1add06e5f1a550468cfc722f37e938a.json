@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:43.273590",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040303194650|106386",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35422,
+          "ns": 0,
+          "title": "Crimen de guerra",
+          "revisions": [
+            {
+              "timestamp": "2004-03-03T19:41:27Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

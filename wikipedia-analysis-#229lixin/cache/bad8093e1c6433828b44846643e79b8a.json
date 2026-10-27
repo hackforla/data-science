@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:52.397878",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240623175821|33359908",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1243121,
+          "ns": 0,
+          "title": "İnsan ticareti",
+          "revisions": [
+            {
+              "timestamp": "2025-01-14T19:41:53Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

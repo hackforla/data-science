@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:35.043510",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251231235052|28763792",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17162,
+          "ns": 0,
+          "title": "Hukuman mati",
+          "revisions": [
+            {
+              "timestamp": "2026-01-23T16:29:19Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

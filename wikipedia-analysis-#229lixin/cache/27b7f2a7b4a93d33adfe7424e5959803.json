@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:17:07.724016",
+  "response": {
+    "continue": {
+      "rvcontinue": "20080529174428|30119850",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 3015509,
+          "ns": 0,
+          "title": "Ouragan",
+          "revisions": [
+            {
+              "timestamp": "2008-05-29T17:43:42Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

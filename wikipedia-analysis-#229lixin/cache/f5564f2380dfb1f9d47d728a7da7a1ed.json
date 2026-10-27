@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:05.467397",
+  "response": {
+    "continue": {
+      "rvcontinue": "20040630060239|179601",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 51797,
+          "ns": 0,
+          "title": "Sequía",
+          "revisions": [
+            {
+              "timestamp": "2004-06-30T06:02:20Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

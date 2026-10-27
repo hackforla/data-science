@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:08.310305",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240704093943|6151953",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18803,
+          "ns": 0,
+          "title": "मानवाधिकार",
+          "revisions": [
+            {
+              "timestamp": "2024-07-04T09:41:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

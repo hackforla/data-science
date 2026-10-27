@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:11:53.315914",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070214210248|552354",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 134784,
+          "ns": 0,
+          "title": "الاحتباس الحراري",
+          "revisions": [
+            {
+              "timestamp": "2007-02-14T21:00:47Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:47:14.118851",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070902100225|82860",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23607,
+          "ns": 0,
+          "title": "غربت",
+          "revisions": [
+            {
+              "timestamp": "2007-09-02T10:01:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:50:36.133410",
+  "response": {
+    "continue": {
+      "rvcontinue": "20180319082354|22654298",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1572380,
+          "ns": 0,
+          "title": "התנגדות לחיסונים",
+          "revisions": [
+            {
+              "timestamp": "2018-03-19T08:09:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

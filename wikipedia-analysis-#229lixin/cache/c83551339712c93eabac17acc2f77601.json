@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:35:27.503600",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050808101650|44731",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 11161,
+          "ns": 0,
+          "title": "Πόλεμος",
+          "revisions": [
+            {
+              "timestamp": "2005-08-07T21:45:30Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

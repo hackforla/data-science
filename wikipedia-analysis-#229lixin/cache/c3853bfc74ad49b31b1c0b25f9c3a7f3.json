@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:12:29.400138",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070307100543|857969",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 181072,
+          "ns": 0,
+          "title": "Încălzirea globală",
+          "revisions": [
+            {
+              "timestamp": "2007-03-07T09:47:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

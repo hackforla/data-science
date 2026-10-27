@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:16:22.037988",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250614050102|145440241",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 302900,
+          "ns": 0,
+          "title": "Siccità",
+          "revisions": [
+            {
+              "timestamp": "2025-06-14T05:01:07Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

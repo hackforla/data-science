@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:12.595595",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260114093935|43291741",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 93275,
+          "ns": 0,
+          "title": "دموکراسی",
+          "revisions": [
+            {
+              "timestamp": "2026-01-22T21:57:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

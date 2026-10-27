@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:51:02.532081",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250904162022|58001889",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8275137,
+          "ns": 0,
+          "title": "Vaccinationsmotstånd",
+          "revisions": [
+            {
+              "timestamp": "2025-09-04T16:23:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

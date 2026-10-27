@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:24:19.814834",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140812022433|13063218",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2602614,
+          "ns": 0,
+          "title": "بدون تابعیت",
+          "revisions": [
+            {
+              "timestamp": "2014-08-12T02:15:43Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

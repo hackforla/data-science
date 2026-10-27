@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:45:00.144287",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060325081152|130152",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 32592,
+          "ns": 0,
+          "title": "การเลือกตั้ง",
+          "revisions": [
+            {
+              "timestamp": "2006-03-25T02:40:33Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:49:13.170065",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251208020516|72685350",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5214,
+          "ns": 0,
+          "title": "عنصرية",
+          "revisions": [
+            {
+              "timestamp": "2025-12-26T13:08:35Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

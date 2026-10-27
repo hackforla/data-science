@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:03.220231",
+  "response": {
+    "continue": {
+      "rvcontinue": "20090215071812|2020481",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 354269,
+          "ns": 0,
+          "title": "Migrasi manusia",
+          "revisions": [
+            {
+              "timestamp": "2009-02-15T07:17:10Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

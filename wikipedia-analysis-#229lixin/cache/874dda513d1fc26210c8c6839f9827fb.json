@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:22.376393",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250719214319|69627079",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17789,
+          "ns": 0,
+          "title": "Natuurbrand",
+          "revisions": [
+            {
+              "timestamp": "2025-07-21T05:15:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

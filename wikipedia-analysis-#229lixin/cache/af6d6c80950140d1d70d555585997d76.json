@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:14:03.117901",
+  "response": {
+    "continue": {
+      "rvcontinue": "20140215121217|11961490",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2349186,
+          "ns": 0,
+          "title": "آتش‌سوزی جنگل",
+          "revisions": [
+            {
+              "timestamp": "2014-02-15T12:09:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

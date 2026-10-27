@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:42.035961",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060917191105|240445",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 39306,
+          "ns": 0,
+          "title": "Έγκλημα πολέμου",
+          "revisions": [
+            {
+              "timestamp": "2006-09-17T18:50:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

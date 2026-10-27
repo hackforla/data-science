@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:28.302558",
+  "response": {
+    "continue": {
+      "rvcontinue": "20081120100715|264834",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 26266,
+          "ns": 0,
+          "title": "चुनाव",
+          "revisions": [
+            {
+              "timestamp": "2007-08-26T06:48:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

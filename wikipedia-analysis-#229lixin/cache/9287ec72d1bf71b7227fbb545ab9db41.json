@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:23:42.666570",
+  "response": {
+    "continue": {
+      "rvcontinue": "20241217144803|38322388",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 899301,
+          "ns": 0,
+          "title": "국내실향민",
+          "revisions": [
+            {
+              "timestamp": "2025-04-16T17:42:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

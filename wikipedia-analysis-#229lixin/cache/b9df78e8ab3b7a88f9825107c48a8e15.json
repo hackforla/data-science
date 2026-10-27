@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:22:17.745158",
+  "response": {
+    "continue": {
+      "rvcontinue": "20240919225954|335075",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 59658,
+          "ns": 0,
+          "title": "انساني کډوالي",
+          "revisions": [
+            {
+              "timestamp": "2025-07-19T08:02:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

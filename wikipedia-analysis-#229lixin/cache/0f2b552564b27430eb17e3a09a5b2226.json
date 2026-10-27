@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:48:04.438972",
+  "response": {
+    "continue": {
+      "rvcontinue": "20251209174149|90614153",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 567121,
+          "ns": 0,
+          "title": "露宿者",
+          "revisions": [
+            {
+              "timestamp": "2026-01-26T02:05:57Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:28:42.349368",
+  "response": {
+    "continue": {
+      "rvcontinue": "20210724124205|486546",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 18480,
+          "ns": 0,
+          "title": "මාධ්‍ය නිදහස",
+          "revisions": [
+            {
+              "timestamp": "2022-10-11T07:40:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:27.821977",
+  "response": {
+    "continue": {
+      "rvcontinue": "20100207184247|83616",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 16850,
+          "ns": 0,
+          "title": "ත්‍රස්තවාදය",
+          "revisions": [
+            {
+              "timestamp": "2009-12-13T13:05:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

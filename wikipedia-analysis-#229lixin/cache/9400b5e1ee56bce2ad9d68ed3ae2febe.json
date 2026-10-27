@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:19:40.864784",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250226182854|8002499",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1423640,
+          "ns": 0,
+          "title": "চরম আবহাওয়া",
+          "revisions": [
+            {
+              "timestamp": "2025-07-01T16:17:50Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

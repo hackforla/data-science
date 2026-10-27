@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:31:40.776495",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060317134216|300249",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 75786,
+          "ns": 0,
+          "title": "Tortură",
+          "revisions": [
+            {
+              "timestamp": "2006-03-17T13:31:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

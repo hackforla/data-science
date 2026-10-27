@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:30:26.330663",
+  "response": {
+    "continue": {
+      "rvcontinue": "20070828054411|915535",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 212334,
+          "ns": 0,
+          "title": "Perdagangan manusia",
+          "revisions": [
+            {
+              "timestamp": "2007-08-28T03:35:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

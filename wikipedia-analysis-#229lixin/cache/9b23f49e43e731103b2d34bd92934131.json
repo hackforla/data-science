@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:12.275525",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250210195053|86048829",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 58782,
+          "ns": 0,
+          "title": "疟疾",
+          "revisions": [
+            {
+              "timestamp": "2025-10-21T18:30:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

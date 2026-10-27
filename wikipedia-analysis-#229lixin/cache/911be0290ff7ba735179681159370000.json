@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:43:28.952748",
+  "response": {
+    "continue": {
+      "rvcontinue": "20260119222952|108074126",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 9997,
+          "ns": 0,
+          "title": "民主主義",
+          "revisions": [
+            {
+              "timestamp": "2026-01-20T07:05:24Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

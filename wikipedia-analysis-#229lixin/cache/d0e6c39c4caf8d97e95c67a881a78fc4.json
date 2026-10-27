@@ -1,0 +1,324 @@
+{
+  "cached_at": "2026-01-26T00:32:02.153657",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1271927,
+          "ns": 0,
+          "title": "Gender equality",
+          "langlinks": [
+            {
+              "lang": "af",
+              "title": "Geslagsgelykheid"
+            },
+            {
+              "lang": "ar",
+              "title": "مساواة بين الجنسين"
+            },
+            {
+              "lang": "as",
+              "title": "লিংগ সমতা"
+            },
+            {
+              "lang": "az",
+              "title": "Gender bərabərliyi"
+            },
+            {
+              "lang": "bg",
+              "title": "Равенство между половете"
+            },
+            {
+              "lang": "bn",
+              "title": "লৈঙ্গিক সমতা"
+            },
+            {
+              "lang": "ca",
+              "title": "Igualtat de gènere"
+            },
+            {
+              "lang": "ckb",
+              "title": "یەکسانیی جێندەری"
+            },
+            {
+              "lang": "da",
+              "title": "Ligestilling"
+            },
+            {
+              "lang": "dag",
+              "title": "Gender"
+            },
+            {
+              "lang": "de",
+              "title": "Gleichstellung der Geschlechter"
+            },
+            {
+              "lang": "el",
+              "title": "Ισότητα των φύλων"
+            },
+            {
+              "lang": "eo",
+              "title": "Seksa egaleco"
+            },
+            {
+              "lang": "es",
+              "title": "Igualdad de género"
+            },
+            {
+              "lang": "et",
+              "title": "Sooline võrdõiguslikkus"
+            },
+            {
+              "lang": "eu",
+              "title": "Genero-berdintasun"
+            },
+            {
+              "lang": "fa",
+              "title": "برابری جنسیتی"
+            },
+            {
+              "lang": "fi",
+              "title": "Sukupuolten tasa-arvo"
+            },
+            {
+              "lang": "fr",
+              "title": "Égalité des sexes"
+            },
+            {
+              "lang": "ga",
+              "title": "Comhionannas inscne"
+            },
+            {
+              "lang": "gl",
+              "title": "Igualdade de xénero"
+            },
+            {
+              "lang": "ha",
+              "title": "Daidaiton jinsi"
+            },
+            {
+              "lang": "he",
+              "title": "שוויון מגדרי"
+            },
+            {
+              "lang": "hi",
+              "title": "स्त्री पुरुष समानता"
+            },
+            {
+              "lang": "ht",
+              "title": "Egalite sèks"
+            },
+            {
+              "lang": "hu",
+              "title": "Nemi esélyegyenlőség"
+            },
+            {
+              "lang": "hy",
+              "title": "Սեռական հավասարություն"
+            },
+            {
+              "lang": "id",
+              "title": "Kesetaraan gender"
+            },
+            {
+              "lang": "is",
+              "title": "Kynjajafnrétti"
+            },
+            {
+              "lang": "it",
+              "title": "Uguaglianza di genere"
+            },
+            {
+              "lang": "ja",
+              "title": "男女同権"
+            },
+            {
+              "lang": "ka",
+              "title": "გენდერული თანასწორობა"
+            },
+            {
+              "lang": "kab",
+              "title": "Tagadda n uzufen"
+            },
+            {
+              "lang": "ko",
+              "title": "성평등"
+            },
+            {
+              "lang": "ky",
+              "title": "Гендердик теңчилик"
+            },
+            {
+              "lang": "lo",
+              "title": "ຄວາມສະເໝີພາກທາງເພດ"
+            },
+            {
+              "lang": "lv",
+              "title": "Dzimumu līdztiesība"
+            },
+            {
+              "lang": "mad",
+              "title": "Kasataraan Gender"
+            },
+            {
+              "lang": "mk",
+              "title": "Родова еднаквост"
+            },
+            {
+              "lang": "ml",
+              "title": "ലിംഗസമത്വം"
+            },
+            {
+              "lang": "mn",
+              "title": "Хүйсийн эрх тэгш байдал"
+            },
+            {
+              "lang": "mr",
+              "title": "लैंगिक समानता"
+            },
+            {
+              "lang": "ms",
+              "title": "Kesamarataan gender"
+            },
+            {
+              "lang": "my",
+              "title": "ယောက်ျား၊ မိန်းမ တန်းတူညီမျှမှု"
+            },
+            {
+              "lang": "ne",
+              "title": "लैङ्गिक समानता"
+            },
+            {
+              "lang": "nl",
+              "title": "Gendergelijkheid"
+            },
+            {
+              "lang": "nb",
+              "title": "Likestilling"
+            },
+            {
+              "lang": "oc",
+              "title": "Egalitat de genre"
+            },
+            {
+              "lang": "pa",
+              "title": "ਲਿੰਗ ਸਮਾਨਤਾ"
+            },
+            {
+              "lang": "pap",
+              "title": "Igualdad di genero"
+            },
+            {
+              "lang": "pl",
+              "title": "Równość płci"
+            },
+            {
+              "lang": "pnb",
+              "title": "جنسی برابری"
+            },
+            {
+              "lang": "ps",
+              "title": "د جنسيت مساوات"
+            },
+            {
+              "lang": "pt",
+              "title": "Igualdade de género"
+            },
+            {
+              "lang": "ru",
+              "title": "Равенство полов"
+            },
+            {
+              "lang": "rw",
+              "title": "Uburinganire"
+            },
+            {
+              "lang": "sh",
+              "title": "Rodna ravnopravnost"
+            },
+            {
+              "lang": "simple",
+              "title": "Gender equality"
+            },
+            {
+              "lang": "sk",
+              "title": "Rodová rovnosť"
+            },
+            {
+              "lang": "skr",
+              "title": "صنفی مساوات"
+            },
+            {
+              "lang": "sl",
+              "title": "Enakost spolov"
+            },
+            {
+              "lang": "sq",
+              "title": "Barazia gjinore"
+            },
+            {
+              "lang": "sr",
+              "title": "Родна равноправност"
+            },
+            {
+              "lang": "ss",
+              "title": "Kulingana ngekwebulili"
+            },
+            {
+              "lang": "sv",
+              "title": "Jämställdhet"
+            },
+            {
+              "lang": "sw",
+              "title": "Usawa wa kijinsia"
+            },
+            {
+              "lang": "ta",
+              "title": "பாலினச் சமனிலை"
+            },
+            {
+              "lang": "tg",
+              "title": "Баробарии гендерӣ"
+            },
+            {
+              "lang": "th",
+              "title": "ความเท่าเทียมทางเพศ"
+            },
+            {
+              "lang": "tl",
+              "title": "Pagkakapantay-pantay ng mga kasarian"
+            },
+            {
+              "lang": "tr",
+              "title": "Toplumsal cinsiyet eşitliği"
+            },
+            {
+              "lang": "uk",
+              "title": "Статева рівність"
+            },
+            {
+              "lang": "ur",
+              "title": "صنفی مساوات"
+            },
+            {
+              "lang": "uz",
+              "title": "Gender tengligi"
+            },
+            {
+              "lang": "vi",
+              "title": "Bình đẳng giới"
+            },
+            {
+              "lang": "zh",
+              "title": "性別平等"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

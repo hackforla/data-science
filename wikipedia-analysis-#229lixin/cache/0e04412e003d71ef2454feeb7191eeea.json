@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:44:08.374615",
+  "response": {
+    "continue": {
+      "rvcontinue": "20101204200754|771293",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 138605,
+          "ns": 0,
+          "title": "নির্বাচন",
+          "revisions": [
+            {
+              "timestamp": "2010-12-01T08:31:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

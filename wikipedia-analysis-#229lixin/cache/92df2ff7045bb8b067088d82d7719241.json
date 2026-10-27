@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:05.064040",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060731081118|5493",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1846,
+          "ns": 0,
+          "title": "Haƙƙoƙin ɗan'adam",
+          "revisions": [
+            {
+              "timestamp": "2006-07-31T08:09:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

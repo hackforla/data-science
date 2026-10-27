@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:41:50.384610",
+  "response": {
+    "continue": {
+      "rvcontinue": "20031128201801|2482161",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 382165,
+          "ns": 0,
+          "title": "Electoral fraud",
+          "revisions": [
+            {
+              "timestamp": "2003-11-28T20:12:01Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

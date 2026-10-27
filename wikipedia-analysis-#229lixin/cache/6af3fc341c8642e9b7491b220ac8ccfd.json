@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:20:40.846627",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050318222242|164288",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 44268,
+          "ns": 0,
+          "title": "Бежанец",
+          "revisions": [
+            {
+              "timestamp": "2005-02-05T20:15:46Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

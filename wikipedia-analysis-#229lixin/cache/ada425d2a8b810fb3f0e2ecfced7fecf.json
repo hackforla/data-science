@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:26:44.870698",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041117211719|9734",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12841,
+          "ns": 0,
+          "title": "Права людини",
+          "revisions": [
+            {
+              "timestamp": "2004-11-06T12:50:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

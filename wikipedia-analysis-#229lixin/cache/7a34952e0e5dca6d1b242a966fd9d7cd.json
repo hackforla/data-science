@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:10:40.409871",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250504062455|8600107",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 55815,
+          "ns": 0,
+          "title": "عالمی ادارہ صحت",
+          "revisions": [
+            {
+              "timestamp": "2025-10-16T07:53:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

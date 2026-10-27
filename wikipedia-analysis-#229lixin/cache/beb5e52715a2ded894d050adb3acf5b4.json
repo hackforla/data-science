@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:09:58.360680",
+  "response": {
+    "continue": {
+      "rvcontinue": "20041223173227|187381",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 39377,
+          "ns": 0,
+          "title": "ארגון הבריאות העולמי",
+          "revisions": [
+            {
+              "timestamp": "2004-12-23T17:20:23Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

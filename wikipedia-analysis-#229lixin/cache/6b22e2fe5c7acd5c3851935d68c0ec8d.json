@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:33:45.845955",
+  "response": {
+    "continue": {
+      "rvcontinue": "20250213202626|16829191",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1949088,
+          "ns": 0,
+          "title": "Exploatarea copilului prin muncă",
+          "revisions": [
+            {
+              "timestamp": "2025-02-13T20:27:26Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:37:20.277821",
+  "response": {
+    "continue": {
+      "rvcontinue": "20051107191607|100611",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 25414,
+          "ns": 0,
+          "title": "Soykırım",
+          "revisions": [
+            {
+              "timestamp": "2005-11-07T19:06:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "cached_at": "2026-01-26T00:13:52.761672",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 56106,
+          "ns": 0,
+          "title": "Wildfire",
+          "langlinks": [
+            {
+              "lang": "ar",
+              "title": "حرائق الغابات"
+            },
+            {
+              "lang": "az",
+              "title": "Meşə yanğınları"
+            },
+            {
+              "lang": "bg",
+              "title": "Горски пожар"
+            },
+            {
+              "lang": "bn",
+              "title": "দাবানল"
+            },
+            {
+              "lang": "bo",
+              "title": "ནགས་ཚལ་མེ་སྐྱོན་ཐོན་ཉེན་གྱི་"
+            },
+            {
+              "lang": "ckb",
+              "title": "ئاگرکەوتنەوەی دارستان"
+            },
+            {
+              "lang": "cv",
+              "title": "Вăрман пушарĕ"
+            },
+            {
+              "lang": "de",
+              "title": "Lauffeuer"
+            },
+            {
+              "lang": "el",
+              "title": "Αγροτοδασική πυρκαγιά"
+            },
+            {
+              "lang": "et",
+              "title": "Maastikupõleng"
+            },
+            {
+              "lang": "fa",
+              "title": "آتش‌سوزی جنگل"
+            },
+            {
+              "lang": "fi",
+              "title": "Maastopalo"
+            },
+            {
+              "lang": "fy",
+              "title": "Natoerbrân"
+            },
+            {
+              "lang": "ga",
+              "title": "Falscaí"
+            },
+            {
+              "lang": "gd",
+              "title": "Falaisg"
+            },
+            {
+              "lang": "gur",
+              "title": "Wildfire"
+            },
+            {
+              "lang": "he",
+              "title": "שרפת יער"
+            },
+            {
+              "lang": "hi",
+              "title": "दावानल"
+            },
+            {
+              "lang": "id",
+              "title": "Kebakaran hutan dan lahan"
+            },
+            {
+              "lang": "is",
+              "title": "Villieldur"
+            },
+            {
+              "lang": "it",
+              "title": "Incendio boschivo"
+            },
+            {
+              "lang": "ja",
+              "title": "山火事"
+            },
+            {
+              "lang": "kaa",
+              "title": "Orman órti"
+            },
+            {
+              "lang": "kn",
+              "title": "ಕಾಳ್ಗಿಚ್ಚು"
+            },
+            {
+              "lang": "ko",
+              "title": "산불"
+            },
+            {
+              "lang": "ks",
+              "title": "جنگٕلؠ نار"
+            },
+            {
+              "lang": "lfn",
+              "title": "Focon savaje"
+            },
+            {
+              "lang": "lo",
+              "title": "ໄຟປ່າ"
+            },
+            {
+              "lang": "lv",
+              "title": "Meža ugunsgrēks"
+            },
+            {
+              "lang": "mg",
+              "title": "Doro tanety"
+            },
+            {
+              "lang": "mk",
+              "title": "Шумски пожар"
+            },
+            {
+              "lang": "ml",
+              "title": "കാട്ടുതീ"
+            },
+            {
+              "lang": "mr",
+              "title": "वणवा"
+            },
+            {
+              "lang": "ms",
+              "title": "Kebakaran liar"
+            },
+            {
+              "lang": "my",
+              "title": "တောမီး"
+            },
+            {
+              "lang": "ne",
+              "title": "डढेलो"
+            },
+            {
+              "lang": "nl",
+              "title": "Natuurbrand"
+            },
+            {
+              "lang": "pa",
+              "title": "ਜੰਗਲੀ ਅੱਗ"
+            },
+            {
+              "lang": "pnb",
+              "title": "جنگلی اگ"
+            },
+            {
+              "lang": "ps",
+              "title": "ځنګل سوځېدنه"
+            },
+            {
+              "lang": "pt",
+              "title": "Incêndio de vegetação"
+            },
+            {
+              "lang": "ro",
+              "title": "Incendiu de pădure"
+            },
+            {
+              "lang": "sah",
+              "title": "Тыа умайыыта"
+            },
+            {
+              "lang": "sco",
+              "title": "Wildfire"
+            },
+            {
+              "lang": "simple",
+              "title": "Wildfire"
+            },
+            {
+              "lang": "sl",
+              "title": "Požar v naravi"
+            },
+            {
+              "lang": "sq",
+              "title": "Zjarri i egër"
+            },
+            {
+              "lang": "sv",
+              "title": "Markbrand"
+            },
+            {
+              "lang": "ta",
+              "title": "காட்டுத்தீ"
+            },
+            {
+              "lang": "te",
+              "title": "దావానలం"
+            },
+            {
+              "lang": "th",
+              "title": "ไฟป่า"
+            },
+            {
+              "lang": "tl",
+              "title": "Napakalaking sunog"
+            },
+            {
+              "lang": "ur",
+              "title": "جنگل کی آگ"
+            },
+            {
+              "lang": "vi",
+              "title": "Cháy rừng"
+            },
+            {
+              "lang": "wuu",
+              "title": "山火"
+            },
+            {
+              "lang": "yi",
+              "title": "וואלד פייער"
+            },
+            {
+              "lang": "zh",
+              "title": "野火"
+            },
+            {
+              "lang": "nan",
+              "title": "Hóe-sio-soaⁿ"
+            },
+            {
+              "lang": "yue",
+              "title": "山火"
+            }
+          ]
+        }
+      ]
+    },
+    "limits": {
+      "langlinks": 500
+    }
+  }
+}

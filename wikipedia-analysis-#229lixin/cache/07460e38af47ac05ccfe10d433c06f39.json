@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:07:19.080953",
+  "response": {
+    "continue": {
+      "rvcontinue": "20200424225216|4186837",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 892412,
+          "ns": 0,
+          "title": "বৈশ্বিক মহামারি",
+          "revisions": [
+            {
+              "timestamp": "2020-04-24T22:51:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

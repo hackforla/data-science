@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:34:53.635351",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050728190831|324424",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 48224,
+          "ns": 0,
+          "title": "Смертная казнь",
+          "revisions": [
+            {
+              "timestamp": "2005-05-28T22:35:11Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

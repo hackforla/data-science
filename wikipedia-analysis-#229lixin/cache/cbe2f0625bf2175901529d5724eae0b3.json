@@ -1,0 +1,23 @@
+{
+  "cached_at": "2026-01-26T00:40:40.733672",
+  "response": {
+    "continue": {
+      "rvcontinue": "20060629152402|17604",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5559,
+          "ns": 0,
+          "title": "دہشت گردی",
+          "revisions": [
+            {
+              "timestamp": "2006-06-29T02:09:29Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
